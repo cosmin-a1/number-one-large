@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "only_pro_can_use_landline"
+msgstr "only_pro_can_use_landline"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "groupcal_business"
+msgstr "groupcal_business"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "free"
+msgstr "free"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "business"
+msgstr "business"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "business_plus"
+msgstr "business_plus"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_number_of_calendars"
+msgstr "pro_number_of_calendars"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_number_of_admins"
+msgstr "pro_number_of_admins"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_permission_managment"
+msgstr "pro_permission_managment"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_request_rsvp"
+msgstr "pro_request_rsvp"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_priority_support"
+msgstr "pro_priority_support"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_landline_number"
+msgstr "pro_landline_number"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_business_page"
+msgstr "pro_business_page"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_verified_calendar"
+msgstr "pro_verified_calendar"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "number_confirmation"
+msgstr "number_confirmation"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "is_your_phone_number_correct"
+msgstr "is_your_phone_number_correct"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "enter_your_phone_num"
+msgstr "enter_your_phone_num"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "enter_your_phone_num_landline"
+msgstr "enter_your_phone_num_landline"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "missed_call_verification"
+msgstr "missed_call_verification"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "phone_provided_are_not_valid"
+msgstr "phone_provided_are_not_valid"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro"
+msgstr "pro"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_tier_dialog_title_correct"
+msgstr "pro_tier_dialog_title_correct"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_tier_dialog_body_correct"
+msgstr "pro_tier_dialog_body_correct"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "upgrade"
+msgstr "upgrade"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "enter_the_code"
+msgstr "enter_the_code"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "get_groupcal_business"
+msgstr "get_groupcal_business"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "discount_groupcal"
+msgstr "discount_groupcal"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "unlimited"
+msgstr "unlimited"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "current_plan"
+msgstr "current_plan"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "try_for_free_groupcal"
+msgstr "try_for_free_groupcal"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "about_group"
+msgstr "about_group"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "enter_text_here"
+msgstr "enter_text_here"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "tier_activated"
+msgstr "tier_activated"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "all_the_features"
+msgstr "all_the_features"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "plan_issue"
+msgstr "plan_issue"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "signed_with_a_landline"
+msgstr "signed_with_a_landline"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "change_to_mob"
+msgstr "change_to_mob"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "features_not_supported"
+msgstr "features_not_supported"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "you_can_either"
+msgstr "you_can_either"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "downgrade_calendar"
+msgstr "downgrade_calendar"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "phone_already_in_use"
+msgstr "phone_already_in_use"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "show_tasks_on_calendar"
+msgstr "show_tasks_on_calendar"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "tap_to_connect"
+msgstr "tap_to_connect"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "what_do_you_plan"
+msgstr "what_do_you_plan"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "share_calendars_with"
+msgstr "share_calendars_with"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "share_calendars_with_your_customers"
+msgstr "share_calendars_with_your_customers"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "landline_number"
+msgstr "landline_number"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "mobile_number"
+msgstr "mobile_number"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "calendar_verification_badge"
+msgstr "calendar_verification_badge"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "send_verification_request"
+msgstr "send_verification_request"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "send_verification_addition"
+msgstr "send_verification_addition"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "send_request"
+msgstr "send_request"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "would_like_request"
+msgstr "would_like_request"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "required_plan"
+msgstr "required_plan"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "cannot_use_num"
+msgstr "cannot_use_num"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "calendar_blocked_for"
+msgstr "calendar_blocked_for"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "owner"
+msgstr "owner"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "subs_active"
+msgstr "subs_active"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "unlock_this_features"
+msgstr "unlock_this_features"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "your_active_plan"
+msgstr "your_active_plan"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "set_as_channel"
+msgstr "set_as_channel"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "channel_desc"
+msgstr "channel_desc"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "calendar_channels"
+msgstr "calendar_channels"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "individual"
+msgstr "individual"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "rsvp_blocked"
+msgstr "rsvp_blocked"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "verification_code_not_valid"
+msgstr "verification_code_not_valid"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "sms_desc"
+msgstr "sms_desc"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "landline_desc"
+msgstr "landline_desc"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "code_verify_desc"
+msgstr "code_verify_desc"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "landline"
+msgstr "landline"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_public_calendar"
+msgstr "pro_public_calendar"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "is_your_phone_number"
+msgstr "is_your_phone_number"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "call_me_with_code"
+msgstr "call_me_with_code"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_tier_dialog_title"
+msgstr "pro_tier_dialog_title"
+
+#: some text
+msgctxt "\"round4\".\"version5\""
+msgid "pro_tier_dialog_body"
+msgstr "pro_tier_dialog_body"
+
+#: some text
+msgctxt "\"round4\".\"version6\".\"weird context to see\""
+msgid "event_title multiple row\n"
+"text.\n"
+"\n"
+"Just for test."
+msgstr "event_title multiple row\n"
+"text.\n"
+"\n"
+"Just for test."
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "all_day"
+msgstr "all_day"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "save"
+msgstr "save"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "start_date"
+msgstr "start_date"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "end_date"
+msgstr "end_date"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "add_location"
+msgstr "add_location"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "delete"
+msgstr "delete"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "ok"
+msgstr "ok"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "cancel"
+msgstr "cancel"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "delete_event_alert"
+msgstr "delete_event_alert"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "exit_edit"
+msgstr "exit_edit"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "add_note"
+msgstr "add_note"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "select_color"
+msgstr "select_color"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "settings"
+msgstr "settings"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "add_a_reminder"
+msgstr "add_a_reminder"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "add_another_reminder"
+msgstr "add_another_reminder"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "minutes_before"
+msgstr "minutes_before"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "add_an_attendee"
+msgstr "add_an_attendee"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "add_another_attendee"
+msgstr "add_another_attendee"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "custom"
+msgstr "custom"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "custom_notification"
+msgstr "custom_notification"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "amount"
+msgstr "amount"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "enter_some_amount"
+msgstr "enter_some_amount"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "minutes"
+msgstr "minutes"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "hours"
+msgstr "hours"
+
+#: some text
+msgctxt "\"round4\".\"version6\""
+msgid "days"
+msgstr "days"
+
