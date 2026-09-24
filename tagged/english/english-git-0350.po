@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Rotate 90 CCW"
+msgstr "Rotate 90 CCW"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Go To Selected Clip End"
+msgstr "Go To Selected Clip End"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Go To Project End"
+msgstr "Go To Project End"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Adjust the Bezier curve"
+msgstr "Adjust the Bezier curve"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Add To Favourite"
+msgstr "Add To Favourite"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Split (edited state)"
+msgstr "Split (edited state)"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Reverse Preview"
+msgstr "Reverse Preview"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Lock/Unlock Guides"
+msgstr "Lock/Unlock Guides"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Trim Start to Playhead"
+msgstr "Trim Start to Playhead"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Nudge Up"
+msgstr "Nudge Up"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Trim End to Playhead"
+msgstr "Trim End to Playhead"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "UnGroup"
+msgstr "UnGroup"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Play/Pause"
+msgstr "Play/Pause"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Previous Keyframe"
+msgstr "Previous Keyframe"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Save Project As"
+msgstr "Save Project As"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Preferences"
+msgstr "Preferences"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Go To Previous Second"
+msgstr "Go To Previous Second"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Yellow Marker"
+msgstr "Yellow Marker"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Paste Effects"
+msgstr "Paste Effects"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Nudge Down"
+msgstr "Nudge Down"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Nudge Left"
+msgstr "Nudge Left"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Keyframing"
+msgstr "Keyframing"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Enable/Disable Clip"
+msgstr "Enable/Disable Clip"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Adobe Premiere Pro"
+msgstr "Adobe Premiere Pro"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Ripple Delete"
+msgstr "Ripple Delete"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Horizontal Scroll (Timeline)"
+msgstr "Horizontal Scroll (Timeline)"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Go To Previous Marker"
+msgstr "Go To Previous Marker"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Apple Final Cut Pro"
+msgstr "Apple Final Cut Pro"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Send Backward"
+msgstr "Send Backward"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Go To Selected Clip Start"
+msgstr "Go To Selected Clip Start"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Playing Preview"
+msgstr "Playing Preview"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Zoom To Fit Timeline"
+msgstr "Zoom To Fit Timeline"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Show/Hide Guides"
+msgstr "Show/Hide Guides"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Detach Audio"
+msgstr "Detach Audio"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Crop and Zoom"
+msgstr "Crop and Zoom"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Copy Effects"
+msgstr "Copy Effects"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Merge up (cursor at the beginning of the sentence)"
+msgstr "Merge up (cursor at the beginning of the sentence)"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Timeline Snap"
+msgstr "Timeline Snap"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Full Screen/Restore"
+msgstr "Full Screen/Restore"
+
+#: 
+msgctxt "FShortcutSettingDialog-version3"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+msgctxt "FSpeedAndDurationDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FSpeedAndDurationDlg-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FSpeedAndDurationDlg-version3"
+msgid "Custom Speed"
+msgstr "Custom Speed"
+
+#: 
+msgctxt "FStockMediaDownloadView-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FStockMediaDownloadView-version3"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FStockMediaDownloadView-version3"
+msgid "Choose a Size"
+msgstr "Choose a Size"
+
+#: 
+msgctxt "FTextPresetDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FTextPresetDlg-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FTextPresetDlg-version3"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FTextPresetDlg-version3"
+msgid "Custom Text"
+msgstr "Custom Text"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "Generated by AI"
+msgstr "Generated by AI"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "Quit AI Text Generation"
+msgstr "Quit AI Text Generation"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "AI is generating video copywriting. Are you sure you want to close?"
+msgstr "AI is generating video copywriting. Are you sure you want to close?"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+msgctxt "FTextToVideoDialog-version3"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Video Tracks"
+msgstr "Video Tracks"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Above Track_ja"
+msgstr "Above Track_ja"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Audio Tracks"
+msgstr "Audio Tracks"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "audio track(s)"
+msgstr "audio track(s)"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Below Track_ja"
+msgstr "Below Track_ja"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Above Track"
+msgstr "Above Track"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Placement"
+msgstr "Placement"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "video track(s)"
+msgstr "video track(s)"
+
+#: 
+msgctxt "FTrackManagerPanel-version3"
+msgid "Below Track"
+msgstr "Below Track"
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "Modified tag successfully"
+msgstr "Modified tag successfully"
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "Successfully deleted label"
+msgstr "Successfully deleted label"
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "Deleting tags does not affect specific files, but only removes the tags of the corresponding files."
+msgstr "Deleting tags does not affect specific files, but only removes the tags of the corresponding files."
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "Delete tag"
+msgstr "Delete tag"
+
+#: 
+msgctxt "FUserLabelHelper-version3"
+msgid "Created a new tag successfully"
+msgstr "Created a new tag successfully"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "4K ultra definition"
+msgstr "4K ultra definition"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "HD high definition"
+msgstr "HD high definition"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "Download high-resolution watermark-free footages"
+msgstr "Download high-resolution watermark-free footages"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "SD standard definition"
+msgstr "SD standard definition"
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "The download speed for 4K materials is relatively slow, please choose carefully."
+msgstr "The download speed for 4K materials is relatively slow, please choose carefully."
+
+#: 
+msgctxt "FVCGDownloadResolutionSelectDialog-version3"
+msgid "There are multiple resolutions of the current footage, please select the resolution of the footages you want to replace and download"
+msgstr "There are multiple resolutions of the current footage, please select the resolution of the footages you want to replace and download"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "There are many kinds of definition in the current image, please select the definition you need to download"
+msgstr "There are many kinds of definition in the current image, please select the definition you need to download"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "WEB Web definition"
+msgstr "WEB Web definition"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "Reading information ..."
+msgstr "Reading information ..."
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "There are many kinds of definition in the current image, please select the definition you need to use"
+msgstr "There are many kinds of definition in the current image, please select the definition you need to use"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "HD high definition"
+msgstr "HD high definition"
+

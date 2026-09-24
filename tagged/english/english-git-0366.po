@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "File"
+msgstr "File"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Help"
+msgstr "Help"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Tools"
+msgstr "Tools"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Record Media"
+msgstr "Record Media"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Open Recent"
+msgstr "Open Recent"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Effect&&Filter"
+msgstr "Effect&&Filter"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "For Designer"
+msgstr "For Designer"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Layout Mode"
+msgstr "Layout Mode"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Keyframe"
+msgstr "Keyframe"
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Import from other Apps"
+msgstr "Import from other Apps"
+
+#: 
+msgctxt "FilmoraLayout-version3"
+msgid "Dual"
+msgstr "Dual"
+
+#: 
+msgctxt "FilmoraLayout-version3"
+msgid "Short Video"
+msgstr "Short Video"
+
+#: 
+msgctxt "FilmoraLayout-version3"
+msgid "Organize"
+msgstr "Organize"
+
+#: 
+msgctxt "FilmoraLayout-version3"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "FilmoraLayout-version3"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FilmoraLayout-version3"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+
+#: 
+msgctxt "FFBeatSyncWidget-version3"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FFBeatSyncWidget-version3"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FFBeatSyncWidget-version3"
+msgid "Background Music"
+msgstr "Background Music"
+
+#: 
+msgctxt "FFBeatSyncWidget-version3"
+msgid "Beat Cut"
+msgstr "Beat Cut"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version3"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version3"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version3"
+msgid "Freeze Frame"
+msgstr "Freeze Frame"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version3"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version3"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version3"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version3"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version3"
+msgid "Custom Speed"
+msgstr "Custom Speed"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version3"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version3"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version3"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version3"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version3"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version3"
+msgid "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+msgstr "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version3"
+msgid "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+msgstr "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version3"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version3"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version3"
+msgid "Once you exit, the changes will not be saved."
+msgstr "Once you exit, the changes will not be saved."
+
+#: 
+msgctxt "FSilenceDetectionDialog-version3"
+msgid "Are you sure you want to exit the Silence Detection?"
+msgstr "Are you sure you want to exit the Silence Detection?"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version3"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Return to Startup window"
+msgstr "Return to Startup window"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "About..."
+msgstr "About..."
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Support center"
+msgstr "Support center"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Account Information"
+msgstr "Account Information"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "TemplateModeScene-version3"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Shape Border"
+msgstr "Shape Border"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Shape Fill"
+msgstr "Shape Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Add a shadow to this layer"
+msgstr "Add a shadow to this layer"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Video Fill"
+msgstr "Video Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Input Text"
+msgstr "Input Text"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version3"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FPropertyBasicTransformWidgetClass-version3"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+msgctxt "FRecordPreViewSetting-version3"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+msgctxt "FRecordPreViewSetting-version3"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FRecordPreViewSetting-version3"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FRecordPreViewSetting-version3"
+msgid "Switch to Circle"
+msgstr "Switch to Circle"
+
+#: 
+msgctxt "FRecordPreViewSetting-version3"
+msgid "Switch to Square"
+msgstr "Switch to Square"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Font"
+msgstr "Font"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Add your first \"Favorite\" font"
+msgstr "Add your first \"Favorite\" font"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Load more cloud fonts"
+msgstr "Load more cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Failed to load cloud fonts, please check your network connection and try again."
+msgstr "Failed to load cloud fonts, please check your network connection and try again."
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "No results found"
+msgstr "No results found"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "Local fonts"
+msgstr "Local fonts"
+
+#: 
+msgctxt "FFontDataModel-version3"
+msgid "No recent selected font."
+msgstr "No recent selected font."
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "It is enabled, and you can freely set the content that needs to be synchronized."
+msgstr "It is enabled, and you can freely set the content that needs to be synchronized."
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Customization: title , template , adjustment layers, etc."
+msgstr "Customization: title , template , adjustment layers, etc."
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FFSyncSettingWidget-version3"
+msgid "Favorites"
+msgstr "Favorites"
+

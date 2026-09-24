@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version3"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version3"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+msgctxt "FAccountInfoDlg-version3"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FAccountInfoDlg-version3"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "FAccountInfoDlg-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAccountInfoDlg-version3"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+msgctxt "FAccountInfoDlg-version3"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FAccountInfoDlg-version3"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version3"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+msgctxt "FEmptyFilmstockView-version3"
+msgid "Explore millions of media and resource on Wondershare Filmstock."
+msgstr "Explore millions of media and resource on Wondershare Filmstock."
+
+#: 
+msgctxt "FEmptyFilmstockView-version3"
+msgid "Go to Filmstock"
+msgstr "Go to Filmstock"
+
+#: 
+msgctxt "FVCGRemoveWatermarkHelper-version3"
+msgid "Material replacement completed"
+msgstr "Material replacement completed"
+
+#: 
+msgctxt "FVCGRemoveWatermarkHelper-version3"
+msgid "We have replaced %1 pieces of material."
+msgstr "We have replaced %1 pieces of material."
+
+#: 
+msgctxt "FFAudioRecordView-version3"
+msgid "Quit recorder"
+msgstr "Quit recorder"
+
+#: 
+msgctxt "FFAudioRecordView-version3"
+msgid "Record Audio"
+msgstr "Record Audio"
+
+#: 
+msgctxt "FFAudioRecordView-version3"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+msgctxt "FFAudioRecordView-version3"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version3"
+msgid "Renew now, every month: %1 , and every month thereafter: %2."
+msgstr "Renew now, every month: %1 , and every month thereafter: %2."
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version3"
+msgid "Renew now, every year: %1 , and every year thereafter: %2."
+msgstr "Renew now, every year: %1 , and every year thereafter: %2."
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version3"
+msgid "Terms of use"
+msgstr "Terms of use"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version3"
+msgid "Re-subscribe now"
+msgstr "Re-subscribe now"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version3"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version3"
+msgid "Give up"
+msgstr "Give up"
+
+#: 
+msgctxt "FMediaFolderEditWidget-version3"
+msgid "Add a new Folder (%1)"
+msgstr "Add a new Folder (%1)"
+
+#: 
+msgctxt "FMediaFolderEditWidget-version3"
+msgid "Delete Folder (%1)"
+msgstr "Delete Folder (%1)"
+
+#: 
+msgctxt "FFSpeechServicePanel-version3"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FFSpeechServicePanel-version3"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFSpeechServicePanel-version3"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Silent loading"
+msgstr "Silent loading"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Cancel loading tip"
+msgstr "Cancel loading tip"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Load File"
+msgstr "Load File"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Are you sure you want to cancel the load? If you cancel, you need to load the file again to open it."
+msgstr "Are you sure you want to cancel the load? If you cancel, you need to load the file again to open it."
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version3"
+msgid "Loading file. Please wait..."
+msgstr "Loading file. Please wait..."
+
+#: 
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version3"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version3"
+msgid "Analysing motion track..."
+msgstr "Analysing motion track..."
+
+#: 
+msgctxt "FilmoraTitleBar-version3"
+msgid "Processing complete."
+msgstr "Processing complete."
+
+#: 
+msgctxt "FilmoraTitleBar-version3"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraTitleBar-version3"
+msgid "Automatically save to local"
+msgstr "Automatically save to local"
+
+#: 
+msgctxt "FilmoraTitleBar-version3"
+msgid "Wondershare Filmora 13 Beta"
+msgstr "Wondershare Filmora 13 Beta"
+
+#: 
+msgctxt "FTimelinePlayheadWidget-version3"
+msgid "Click to split"
+msgstr "Click to split"
+
+#: 
+msgctxt "FTimelinePlayheadWidget-version3"
+msgid "Drag to Move playhead"
+msgstr "Drag to Move playhead"
+
+#: 
+msgctxt "FManageEffectPacksDialog-version3"
+msgid "Manage Effects"
+msgstr "Manage Effects"
+
+#: 
+msgctxt "FManageEffectPacksDialog-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FManageEffectPacksDialog-version3"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FPropertyProjectInfoWidget-version3"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidget-version3"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FPhotoInfoPage-version3"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FPhotoInfoPage-version3"
+msgid "Exposure Time:"
+msgstr "Exposure Time:"
+
+#: 
+msgctxt "FPhotoInfoPage-version3"
+msgid "Image Info"
+msgstr "Image Info"
+
+#: 
+msgctxt "FPhotoInfoPage-version3"
+msgid "Camera Maker:"
+msgstr "Camera Maker:"
+
+#: 
+msgctxt "FPhotoInfoPage-version3"
+msgid "Camera Model:"
+msgstr "Camera Model:"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Transfer Characteristics"
+msgstr "Transfer Characteristics"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Video Info"
+msgstr "Video Info"
+
+#: 
+msgctxt "FVideoInfoPage-version3"
+msgid "Transfer Characteristics:"
+msgstr "Transfer Characteristics:"
+
+#: 
+msgctxt "FCloudProjectLoadingPage-version3"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FCloudProjectLoadingPage-version3"
+msgid "Pulling the cloud disk information, please wait..."
+msgstr "Pulling the cloud disk information, please wait..."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version3"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version3"
+msgid "Failed to rename."
+msgstr "Failed to rename."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version3"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudProjectLoadErrorPage-version3"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version3"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version3"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+msgctxt "FPreviewErrorPromptWidget-version3"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FPreviewErrorPromptWidget-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version3"
+msgid "Cleaning up, please wait..."
+msgstr "Cleaning up, please wait..."
+
+#: 
+msgctxt "FSettingMediaCachePanel-version3"
+msgid "Automatically delete render file when closing a project file"
+msgstr "Automatically delete render file when closing a project file"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version3"
+msgid "Automatically delete temporary files earlier than"
+msgstr "Automatically delete temporary files earlier than"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version3"
+msgid "Automatically delete proxies when a project is closed."
+msgstr "Automatically delete proxies when a project is closed."
+
+#: 
+msgctxt "FSettingMediaCachePanel-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version3"
+msgid "Start cloning your voice"
+msgstr "Start cloning your voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FErrorPromptHelper-version3"
+msgid "Download limit exceeded"
+msgstr "Download limit exceeded"
+
+#: 
+msgctxt "FErrorPromptHelper-version3"
+msgid "Please modify the default file path under \"Preferences > Folder\""
+msgstr "Please modify the default file path under \"Preferences > Folder\""
+
+#: 
+msgctxt "FErrorPromptHelper-version3"
+msgid "Network Restricted"
+msgstr "Network Restricted"
+
+#: 
+msgctxt "FErrorPromptHelper-version3"
+msgid "Today's music downloads have reached the maximum number"
+msgstr "Today's music downloads have reached the maximum number"
+
+#: 
+msgctxt "FErrorPromptHelper-version3"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+msgctxt "FErrorPromptHelper-version3"
+msgid "Today's new studio downloads have reached the maximum number"
+msgstr "Today's new studio downloads have reached the maximum number"
+
+#: 
+msgctxt "FAIImageStartView-version3"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+

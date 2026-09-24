@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FIntroTemplateTextEditView-version3"
+msgid "Type your text here."
+msgstr "Type your text here."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version3"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version3"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version3"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "You need to pay before use this resource, Please go to pay."
+msgstr "You need to pay before use this resource, Please go to pay."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Only ask once in this project"
+msgstr "Only ask once in this project"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "I have already activated it"
+msgstr "I have already activated it"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Not now"
+msgstr "Not now"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "You are using a paid effect for Filmora, click \"Purchase\"or\"Back to Edit\" before exporting."
+msgstr "You are using a paid effect for Filmora, click \"Purchase\"or\"Back to Edit\" before exporting."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "We noticed that you have already purchased Boris FX effect plugin for Filmora, now you can go to Boris FX License Tool to activate it and remove the watermark."
+msgstr "We noticed that you have already purchased Boris FX effect plugin for Filmora, now you can go to Boris FX License Tool to activate it and remove the watermark."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Activate"
+msgstr "Activate"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version3"
+msgid "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+msgstr "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Your story needs at least one video clip! It can't be deleted."
+msgstr "Your story needs at least one video clip! It can't be deleted."
+
+#: 
+msgctxt "FStoryItemListView-version3"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Crop Clip"
+msgstr "Crop Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "This type of file does not support replacement."
+msgstr "This type of file does not support replacement."
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version3"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "Speech-to-Text Purchase Refresh"
+msgstr "Speech-to-Text Purchase Refresh"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "If you have already purchased more hours, you can now use Speech-to-Text."
+msgstr "If you have already purchased more hours, you can now use Speech-to-Text."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "click here to purchase more hours."
+msgstr "click here to purchase more hours."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "Text-to-Speech Purchase Refresh"
+msgstr "Text-to-Speech Purchase Refresh"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "If you have already purchased more characters, you can now use Text-to-Speech."
+msgstr "If you have already purchased more characters, you can now use Text-to-Speech."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "Not enough characters left."
+msgstr "Not enough characters left."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "click here to purchase more characters."
+msgstr "click here to purchase more characters."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version3"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version3"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version3"
+msgid "Click here to expand cloud space"
+msgstr "Click here to expand cloud space"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version3"
+msgid "Expansion Tips"
+msgstr "Expansion Tips"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version3"
+msgid "If you have already expanded cloud storage, you can now use cloud storage."
+msgstr "If you have already expanded cloud storage, you can now use cloud storage."
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version3"
+msgid "click here to buy Wondershare Filmora"
+msgstr "click here to buy Wondershare Filmora"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version3"
+msgid "If you have already purchased Filmora, you can now use cloud storage."
+msgstr "If you have already purchased Filmora, you can now use cloud storage."
+
+#: 
+msgctxt "FMediaItemDragLayer-version3"
+msgid "title"
+msgstr "title"
+
+#: 
+msgctxt "FMediaItemDragLayer-version3"
+msgid "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+msgstr "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+
+#: 
+msgctxt "FMediaItemDragLayer-version3"
+msgid "effect"
+msgstr "effect"
+
+#: 
+msgctxt "FMediaItemDragLayer-version3"
+msgid "Quantity exceeds the limit"
+msgstr "Quantity exceeds the limit"
+
+#: 
+msgctxt "FFolderInfoWgt-version3"
+msgid "Sync text presets"
+msgstr "Sync text presets"
+
+#: 
+msgctxt "FFolderInfoWgt-version3"
+msgid "Sync template presets"
+msgstr "Sync template presets"
+
+#: 
+msgctxt "FFolderInfoWgt-version3"
+msgid "Sync compound clips"
+msgstr "Sync compound clips"
+
+#: 
+msgctxt "FFolderInfoWgt-version3"
+msgid "Sync adjustment layers"
+msgstr "Sync adjustment layers"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Switching to another mask will remove the current mask. Continue anyway?"
+msgstr "Switching to another mask will remove the current mask. Continue anyway?"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Remove"
+msgstr "Remove"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Switch to other mask will remove current draw mask. Continue anyway?"
+msgstr "Switch to other mask will remove current draw mask. Continue anyway?"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Remove Mask"
+msgstr "Remove Mask"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version3"
+msgid "Remove Draw Mask"
+msgstr "Remove Draw Mask"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "10K+ Preset Templates"
+msgstr "10K+ Preset Templates"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "Speech-to-Text, Text-to-Speech"
+msgstr "Speech-to-Text, Text-to-Speech"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "50+ Selected Collections"
+msgstr "50+ Selected Collections"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "Advanced AI Effects"
+msgstr "Advanced AI Effects"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "100K High Quality Resources"
+msgstr "100K High Quality Resources"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "Boris FX and NewBlue FX"
+msgstr "Boris FX and NewBlue FX"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "VFX Text"
+msgstr "VFX Text"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "10M+ Creative Assets"
+msgstr "10M+ Creative Assets"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version3"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "lock aspect ratio"
+msgstr "lock aspect ratio"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "Color Space:"
+msgstr "Color Space:"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+msgstr "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "unlock aspect ratio"
+msgstr "unlock aspect ratio"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "Aspect Ratio "
+msgstr "Aspect Ratio "
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+msgstr "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+
+#: 
+msgctxt "FProjectSettingPanel-version3"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+msgctxt "FFTextToSpeechService-version3"
+msgid "The add-collection has been failed locally."
+msgstr "The add-collection has been failed locally."
+
+#: 
+msgctxt "FFTextToSpeechService-version3"
+msgid "The un-collection has been failed locally"
+msgstr "The un-collection has been failed locally"
+
+#: 
+msgctxt "FFTextToSpeechService-version3"
+msgid "The un-collection has been failed. please retry"
+msgstr "The un-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechService-version3"
+msgid "The add-collection has been failed. please retry"
+msgstr "The add-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechService-version3"
+msgid "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FFTextToSpeechService-version3"
+msgid "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Sorry, we couldn't find similar results for this item. Please try another one."
+msgstr "Sorry, we couldn't find similar results for this item. Please try another one."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+

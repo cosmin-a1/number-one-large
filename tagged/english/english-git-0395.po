@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyTextFillImageWidget-version3"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "When you click Confirm, you will be redirected to the third-party web page."
+msgstr "When you click Confirm, you will be redirected to the third-party web page."
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "After clicking OK, the asset will be migrated to Media-Global meidia"
+msgstr "After clicking OK, the asset will be migrated to Media-Global meidia"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "Migrating files"
+msgstr "Migrating files"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "External Website Redirect"
+msgstr "External Website Redirect"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "Notification of asset migration"
+msgstr "Notification of asset migration"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPreviewBottomPanel-version3"
+msgid "Use this Template"
+msgstr "Use this Template"
+
+#: 
+msgctxt "FFontComboBox-version3"
+msgid "Click here to quickly return to the recently used list."
+msgstr "Click here to quickly return to the recently used list."
+
+#: 
+msgctxt "FFontComboBox-version3"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontComboBox-version3"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontComboBox-version3"
+msgid "Click here to quickly return to the favorites list."
+msgstr "Click here to quickly return to the favorites list."
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidget-version3"
+msgid "Drag area to generate keyframes"
+msgstr "Drag area to generate keyframes"
+
+#: 
+msgctxt "FTracksManageToolbar-version3"
+msgid "Close Auto Ripple"
+msgstr "Close Auto Ripple"
+
+#: 
+msgctxt "FTracksManageToolbar-version3"
+msgid "Manage tracks"
+msgstr "Manage tracks"
+
+#: 
+msgctxt "FTracksManageToolbar-version3"
+msgid "Open Auto Ripple"
+msgstr "Open Auto Ripple"
+
+#: 
+msgctxt "FTracksManageToolbar-version3"
+msgid "Sort track"
+msgstr "Sort track"
+
+#: 
+msgctxt "FFilmoStcokToast-version3"
+msgid "Didn't find satifying ones? %1 Search more on!"
+msgstr "Didn't find satifying ones? %1 Search more on!"
+
+#: 
+msgctxt "FFilmoStcokToast-version3"
+msgid "Didn't find satifying ones? Search more on"
+msgstr "Didn't find satifying ones? Search more on"
+
+#: 
+msgctxt "FFilmoStcokToast-version3"
+msgid "Wondershare Filmstock"
+msgstr "Wondershare Filmstock"
+
+#: 
+msgctxt "FFileCountAndSizeLabel-version3"
+msgid "Total %1 files, %2 %3"
+msgstr "Total %1 files, %2 %3"
+
+#: 
+msgctxt "FTransitionModeBar-version3"
+msgid "Search downloaded transitions"
+msgstr "Search downloaded transitions"
+
+#: 
+msgctxt "FTransitionModeBar-version3"
+msgid "Search my favorite transitions"
+msgstr "Search my favorite transitions"
+
+#: 
+msgctxt "FTransitionModeBar-version3"
+msgid "Search transitions"
+msgstr "Search transitions"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version3"
+msgid "Version Update Notice"
+msgstr "Version Update Notice"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version3"
+msgid "Synchronizing data, please wait."
+msgstr "Synchronizing data, please wait."
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version3"
+msgid "Insufficient disk space. Please clean up the disk space and try again."
+msgstr "Insufficient disk space. Please clean up the disk space and try again."
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version3"
+msgid "You can fully enjoy the new version after restarting the program!"
+msgstr "You can fully enjoy the new version after restarting the program!"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version3"
+msgid "Data synchronization successfully!"
+msgstr "Data synchronization successfully!"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version3"
+msgid "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+msgstr "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+
+#: 
+msgctxt "FFErrorWebStateWidget-version3"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFErrorWebStateWidget-version3"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithGIF-version3"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFPromptsWithGIF-version3"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FFPromptsWithGIF-version3"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FFPromptsWithGIF-version3"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithGIF-version3"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+msgctxt "FFPromptsWithGIF-version3"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version3"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version3"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version3"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version3"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version3"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FEmptyProjectWidget-version3"
+msgid "Recent Project."
+msgstr "Recent Project."
+
+#: 
+msgctxt "FEmptyProjectWidget-version3"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+msgctxt "FCustomerServiceDialog-version3"
+msgid "Customer Service"
+msgstr "Customer Service"
+
+#: 
+msgctxt "FTimelineEnterTextShapeModelActionPresenter-version3"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+msgctxt "FRefreshDialog-version3"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FRefreshDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FRefreshDialog-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FRefreshDialog-version3"
+msgid "Already purchased? Try refreshing your account info."
+msgstr "Already purchased? Try refreshing your account info."
+
+#: 
+msgctxt "FTutorialPage-version3"
+msgid "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+msgstr "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+
+#: 
+msgctxt "FTutorialPage-version3"
+msgid "Wondershare Miaoying"
+msgstr "Wondershare Miaoying"
+
+#: 
+msgctxt "FTutorialPage-version3"
+msgid "Click 'Timeline' to take full control over your video."
+msgstr "Click 'Timeline' to take full control over your video."
+
+#: 
+msgctxt "FTutorialPage-version3"
+msgid "%1 is editing your clips and adding video effects."
+msgstr "%1 is editing your clips and adding video effects."
+
+#: 
+msgctxt "FTutorialPage-version3"
+msgid "Want to learn more about editing with %1?"
+msgstr "Want to learn more about editing with %1?"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version3"
+msgid "TransferCenter Uploading"
+msgstr "TransferCenter Uploading"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version3"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version3"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version3"
+msgid "TransferCenter Done"
+msgstr "TransferCenter Done"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version3"
+msgid "Confirm Close?"
+msgstr "Confirm Close?"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version3"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version3"
+msgid "Closing the pop-up will not save the entered content."
+msgstr "Closing the pop-up will not save the entered content."
+
+#: 
+msgctxt "FAIGCImageAspectRatioWidget-version3"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "3:4 (Business)"
+msgstr "3:4 (Business)"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "4:5 (Vertical)"
+msgstr "4:5 (Vertical)"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "4:3 (Standard)"
+msgstr "4:3 (Standard)"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (Widescreen)"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "21:9 (Cinema)"
+msgstr "21:9 (Cinema)"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+msgctxt "FProjectWidget-version3"
+msgid "9:16 (Portrait)"
+msgstr "9:16 (Portrait)"
+
+#: 
+msgctxt "LosslessMerger-version3"
+msgid "Total Duration:"
+msgstr "Total Duration:"
+
+#: 
+msgctxt "LosslessMerger-version3"
+msgid "Drag file to start merging"
+msgstr "Drag file to start merging"
+
+#: 
+msgctxt "LosslessMerger-version3"
+msgid "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+msgstr "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+
+#: 
+msgctxt "LosslessMerger-version3"
+msgid "Oops! Failed to merge video file."
+msgstr "Oops! Failed to merge video file."
+
+#: 
+msgctxt "FCreatorHubWidget-version3"
+msgid "Join the Latest Creative Campaigns"
+msgstr "Join the Latest Creative Campaigns"
+
+#: 
+msgctxt "FCreatorHubWidget-version3"
+msgid "Explore Fun and Useful Video Creation Guides"
+msgstr "Explore Fun and Useful Video Creation Guides"
+
+#: 
+msgctxt "FCreatorHubWidget-version3"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: 
+msgctxt "FCreatorHubWidget-version3"
+msgid "Beginner"
+msgstr "Beginner"
+
+#: 
+msgctxt "FCreatorHubWidget-version3"
+msgid "Learn from Other Creators"
+msgstr "Learn from Other Creators"
+
+#: 
+msgctxt "FCreatorHubWidget-version3"
+msgid "Tips & Tricks"
+msgstr "Tips & Tricks"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Start Recording"
+msgstr "Start Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Stop Recording"
+msgstr "Stop Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Quit recorder"
+msgstr "Quit recorder"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Show Camera Footage"
+msgstr "Show Camera Footage"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Resume Recording"
+msgstr "Resume Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Pause Recording"
+msgstr "Pause Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Hide Camera Footage"
+msgstr "Hide Camera Footage"
+
+#: 
+msgctxt "FFSysTrayIcon-version3"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+msgctxt "FPurchaseRefreshDialogPrivate-version3"
+msgid "No authorization information found"
+msgstr "No authorization information found"
+

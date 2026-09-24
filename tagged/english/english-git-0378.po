@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version3"
+msgid "SUBSCRIPTION BENEFITS"
+msgstr "SUBSCRIPTION BENEFITS"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version3"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version3"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version3"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "You can browse the generation records for the past 30 days."
+msgstr "You can browse the generation records for the past 30 days."
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Start generating your own stickers today!"
+msgstr "Start generating your own stickers today!"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Spark your creativity with just one click"
+msgstr "Spark your creativity with just one click"
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FAIGCWidget-version3"
+msgid "Generate AI Sticker"
+msgstr "Generate AI Sticker"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version3"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version3"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version3"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version3"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version3"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyTextAnimationControl-version3"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version3"
+msgid "Selected %1 bar"
+msgstr "Selected %1 bar"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version3"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version3"
+msgid "Select all"
+msgstr "Select all"
+
+#: 
+msgctxt "FStoryEditToolBar-version3"
+msgid "Timeline"
+msgstr "Timeline"
+
+#: 
+msgctxt "FStoryEditToolBar-version3"
+msgid "Effect Control"
+msgstr "Effect Control"
+
+#: 
+msgctxt "FStoryEditToolBar-version3"
+msgid "Global Setting"
+msgstr "Global Setting"
+
+#: 
+msgctxt "FStoryEditToolBar-version3"
+msgid "Music Setting"
+msgstr "Music Setting"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version3"
+msgid "Try it out!"
+msgstr "Try it out!"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version3"
+msgid "Filmora Cloud is here."
+msgstr "Filmora Cloud is here."
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version3"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version3"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version3"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version3"
+msgid "Drag or import a video here to start reframing"
+msgstr "Drag or import a video here to start reframing"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version3"
+msgid "Downloading filmora"
+msgstr "Downloading filmora"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version3"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version3"
+msgid "Upgrading..."
+msgstr "Upgrading..."
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version3"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version3"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version3"
+msgid "We opened a new browser tab, you can log in in the new tab"
+msgstr "We opened a new browser tab, you can log in in the new tab"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version3"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version3"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version3"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version3"
+msgid "Waiting..."
+msgstr "Waiting..."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version3"
+msgid "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+msgstr "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version3"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version3"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version3"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version3"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FImportFailDialog-version3"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FImportFailDialog-version3"
+msgid "Importing failed"
+msgstr "Importing failed"
+
+#: 
+msgctxt "FImportFailDialog-version3"
+msgid "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+msgstr "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+
+#: 
+msgctxt "FImportFailDialog-version3"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version3"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version3"
+msgid "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+msgstr "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+
+#: 
+msgctxt "FUnsupportedFileDialog-version3"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version3"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FAlertDialog-version3"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version3"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version3"
+msgid " has no permission."
+msgstr " has no permission."
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version3"
+msgid "The install directory "
+msgstr "The install directory "
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Align"
+msgstr "Align"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Go to"
+msgstr "Go to"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Unlock Guides"
+msgstr "Unlock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Compare Color Before/After"
+msgstr "Compare Color Before/After"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Hide Guides"
+msgstr "Hide Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Guides"
+msgstr "Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version3"
+msgid "Zoom Level"
+msgstr "Zoom Level"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version3"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version3"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version3"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version3"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version3"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version3"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version3"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version3"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version3"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version3"
+msgid "ZoomRate"
+msgstr "ZoomRate"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version3"
+msgid "CenterX"
+msgstr "CenterX"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version3"
+msgid "CenterY"
+msgstr "CenterY"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version3"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version3"
+msgid "Fit split screen duration on the main timeline"
+msgstr "Fit split screen duration on the main timeline"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version3"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+

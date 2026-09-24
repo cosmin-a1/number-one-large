@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Crisp the Highs"
+msgstr "Crisp the Highs"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Orange Horizon"
+msgstr "Orange Horizon"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Twist with Propagation"
+msgstr "Twist with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Obstacle Type"
+msgstr "Obstacle Type"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rate Mid Life"
+msgstr "Rate Mid Life"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dream Blur"
+msgstr "Dream Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dream Haze"
+msgstr "Dream Haze"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dream Glow"
+msgstr "Dream Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Electric Edges"
+msgstr "Electric Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Color 3 Blue"
+msgstr "Color 3 Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L058 Lavender"
+msgstr "L058 Lavender"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cam Spin"
+msgstr "Cam Spin"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Displace Light"
+msgstr "Displace Light"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue to Red"
+msgstr "Blue to Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Summer to Fall Red"
+msgstr "Summer to Fall Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spyglass"
+msgstr "Spyglass"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Opacity Evolution Options"
+msgstr "Opacity Evolution Options"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wide Angle Lens"
+msgstr "Wide Angle Lens"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clean Mids"
+msgstr "Clean Mids"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Swamp Alien Eye"
+msgstr "Swamp Alien Eye"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gradient Direction"
+msgstr "Gradient Direction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L022 Dark Amber"
+msgstr "L022 Dark Amber"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pan XY X"
+msgstr "Pan XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pan XY Y"
+msgstr "Pan XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Instant Tan"
+msgstr "Instant Tan"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Make Alpha From Inverse Matte"
+msgstr "Make Alpha From Inverse Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Limit Sampling"
+msgstr "Limit Sampling"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Use Improved Noise"
+msgstr "Use Improved Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pyramid"
+msgstr "Pyramid"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Arc Completeness"
+msgstr "Arc Completeness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Master Amount"
+msgstr "Master Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Size to Fit"
+msgstr "Size to Fit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Noise Character"
+msgstr "Noise Character"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Emitter Layer"
+msgstr "Emitter Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Turbulence Amount"
+msgstr "Turbulence Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Horizontal Streaks"
+msgstr "Horizontal Streaks"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Maximum Deviation"
+msgstr "Maximum Deviation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "FX CONTROL Map Combination Mode"
+msgstr "FX CONTROL Map Combination Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "All Odd Columns"
+msgstr "All Odd Columns"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Advanced Gradient Controls"
+msgstr "Advanced Gradient Controls"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fix Overscan"
+msgstr "Fix Overscan"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Emitter Shape"
+msgstr "Emitter Shape"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Twist Direction"
+msgstr "Twist Direction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frequency Variance"
+msgstr "Frequency Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Distant Top"
+msgstr "Distant Top"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Turbulence Mix"
+msgstr "Turbulence Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Call the Repairman"
+msgstr "Call the Repairman"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Apply PixelChooser"
+msgstr "Apply PixelChooser"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Swap Blue"
+msgstr "Swap Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wrap Mode"
+msgstr "Wrap Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Smooth Falloff"
+msgstr "Smooth Falloff"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Disperse : Twist : Noise : Shift"
+msgstr "Disperse : Twist : Noise : Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Block Intensity Randomness"
+msgstr "Block Intensity Randomness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scale (%)"
+msgstr "Scale (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L711 Cold Blue"
+msgstr "L711 Cold Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Balanced"
+msgstr "Balanced"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Intensity Threshold"
+msgstr "Intensity Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Saturated Colors"
+msgstr "Saturated Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Artist's Poster"
+msgstr "BCC Artist's Poster"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L124 Dark Green"
+msgstr "L124 Dark Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Interaction"
+msgstr "Interaction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rotation Order (Particles)"
+msgstr "Rotation Order (Particles)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "NTSC, no Setup"
+msgstr "NTSC, no Setup"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Freeze Source"
+msgstr "Freeze Source"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L052 Light Lavender"
+msgstr "L052 Light Lavender"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fall Off"
+msgstr "Fall Off"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grid Position"
+msgstr "Grid Position"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "2.20 Super Technirama"
+msgstr "2.20 Super Technirama"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shift Minimum Intensity"
+msgstr "Shift Minimum Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Min Freq (Hz)"
+msgstr "Min Freq (Hz)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L139 Primary Green"
+msgstr "L139 Primary Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frame Red"
+msgstr "Frame Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Amplitude Master"
+msgstr "Amplitude Master"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "View Interaction Layers"
+msgstr "View Interaction Layers"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Particle Rotate with Propagation"
+msgstr "Particle Rotate with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Distortion Amplitude"
+msgstr "Distortion Amplitude"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L1 Ambient"
+msgstr "L1 Ambient"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L3 Ambient"
+msgstr "L3 Ambient"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L2 Ambient"
+msgstr "L2 Ambient"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light Cone Width"
+msgstr "Light Cone Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Skin Preservation (Color Mask)"
+msgstr "Skin Preservation (Color Mask)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Trigger Center Scale"
+msgstr "Trigger Center Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Background Color Blue"
+msgstr "Background Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clear Spot"
+msgstr "Clear Spot"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red/Luma Noise"
+msgstr "Red/Luma Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Expand Key"
+msgstr "Expand Key"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "5 Minute Count Down"
+msgstr "5 Minute Count Down"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Star Rays"
+msgstr "Star Rays"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gaussian Higher"
+msgstr "Gaussian Higher"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Unused (Immediate)"
+msgstr "Unused (Immediate)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Inv Alpha"
+msgstr "Inv Alpha"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glare Ray Scale Seed"
+msgstr "Glare Ray Scale Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Egg Balance"
+msgstr "Egg Balance"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "V Count"
+msgstr "V Count"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fluorescence"
+msgstr "Fluorescence"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Surf Flick"
+msgstr "Surf Flick"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flourescence"
+msgstr "Flourescence"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random 1"
+msgstr "Random 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random 2"
+msgstr "Random 2"
+

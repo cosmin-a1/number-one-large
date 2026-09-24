@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Difference X 2"
+msgstr "Difference X 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Difference X 4"
+msgstr "Difference X 4"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Highlight Sharpen"
+msgstr "Highlight Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light from Beneath"
+msgstr "Light from Beneath"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gray Scale"
+msgstr "Gray Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC+Reflector"
+msgstr "BCC+Reflector"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Key White"
+msgstr "Key White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grey Smoke"
+msgstr "Grey Smoke"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fallthru Max"
+msgstr "Fallthru Max"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "YZ Luma Inverse"
+msgstr "YZ Luma Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "XZ Luma Inverse"
+msgstr "XZ Luma Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "XY Luma Inverse"
+msgstr "XY Luma Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Muted Reds"
+msgstr "Muted Reds"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Luma Inverse"
+msgstr "Luma Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Faded Ring"
+msgstr "Faded Ring"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cartoon On"
+msgstr "Cartoon On"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shadow & Grid"
+msgstr "Shadow & Grid"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Automatic"
+msgstr "Automatic"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Ball"
+msgstr "Red Ball"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Bias"
+msgstr "Red Bias"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Glow"
+msgstr "Red Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Delay (sec)"
+msgstr "Delay (sec)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Only"
+msgstr "Red Only"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tonsure"
+msgstr "Tonsure"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Doormat"
+msgstr "Doormat"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Randomized"
+msgstr "Randomized"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L223 Eighth C.T.O."
+msgstr "L223 Eighth C.T.O."
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shadow Red"
+msgstr "Shadow Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Distortion"
+msgstr "Distortion"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wipe Softness (Transform)"
+msgstr "Wipe Softness (Transform)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Horiz. Reference Level"
+msgstr "Horiz. Reference Level"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BG Brightness"
+msgstr "BG Brightness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dim Lighting"
+msgstr "Dim Lighting"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wide Sparkles"
+msgstr "Wide Sparkles"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spread (%)"
+msgstr "Spread (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Hue Diff"
+msgstr "Hue Diff"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Bias"
+msgstr "Blue Bias"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Effect Order of Operation"
+msgstr "Effect Order of Operation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Only"
+msgstr "Blue Only"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "80s Cop"
+msgstr "80s Cop"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Location Map"
+msgstr "Location Map"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Stick to Ground"
+msgstr "Stick to Ground"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Y Noise Reduction"
+msgstr "Y Noise Reduction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Vertical Middle to Edge"
+msgstr "Vertical Middle to Edge"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Auto-Spin Speed"
+msgstr "Auto-Spin Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L100 Spring Yellow"
+msgstr "L100 Spring Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Texture Morph Rate"
+msgstr "Texture Morph Rate"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Charcoal Sketch"
+msgstr "BCC Charcoal Sketch"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Freak Out"
+msgstr "Freak Out"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Threshold"
+msgstr "Blue Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Triangle Insert"
+msgstr "Triangle Insert"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Micro Tiles"
+msgstr "Random Micro Tiles"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dropout Start Frame"
+msgstr "Dropout Start Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Reference Boxes"
+msgstr "Reference Boxes"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Abstract 1"
+msgstr "Abstract 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Abstract 2"
+msgstr "Abstract 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Steampunk"
+msgstr "Steampunk"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rec. 601 (SD)"
+msgstr "Rec. 601 (SD)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Reference Frame"
+msgstr "Reference Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Straight"
+msgstr "Straight"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gaussian High"
+msgstr "Gaussian High"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rotate / Scale Center"
+msgstr "Rotate / Scale Center"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Custom End Color Red"
+msgstr "Custom End Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Ease In"
+msgstr "Ease In"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Streak 1"
+msgstr "Streak 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Streak 2"
+msgstr "Streak 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Streak 3"
+msgstr "Streak 3"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Temporal Smooth RGB"
+msgstr "Temporal Smooth RGB"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Temporal Smooth YCC"
+msgstr "Temporal Smooth YCC"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cubes 3D"
+msgstr "Cubes 3D"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Appearance"
+msgstr "Appearance"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L279 Eighth Minus Green"
+msgstr "L279 Eighth Minus Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blend BG Color"
+msgstr "Blend BG Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Lightning"
+msgstr "BCC Lightning"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Lower-Right X"
+msgstr "Lower-Right X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Lower-Right Y"
+msgstr "Lower-Right Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Driving"
+msgstr "Driving"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grid Color Red"
+msgstr "Grid Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frames to Preload"
+msgstr "Frames to Preload"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Yellow Scribbles"
+msgstr "Yellow Scribbles"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "B&W Flat"
+msgstr "B&W Flat"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Slight Expansion"
+msgstr "Slight Expansion"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Reference Level"
+msgstr "Reference Level"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Lens Correction"
+msgstr "BCC Lens Correction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Subtract"
+msgstr "Subtract"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cover the Table"
+msgstr "Cover the Table"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Precision"
+msgstr "Precision"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glow Threshold"
+msgstr "Glow Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L345 Fuchsia Pink"
+msgstr "L345 Fuchsia Pink"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Lock Scale to X"
+msgstr "Lock Scale to X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Horizontally with Producer"
+msgstr "Horizontally with Producer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fisheye Lens"
+msgstr "Fisheye Lens"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Medium Pass"
+msgstr "Medium Pass"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "8x8 grid"
+msgstr "8x8 grid"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shimmer Detail"
+msgstr "Shimmer Detail"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Matte Preview Color Red"
+msgstr "Matte Preview Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Apply Offset %"
+msgstr "Apply Offset %"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Highlight Range"
+msgstr "Highlight Range"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tight and Extend"
+msgstr "Tight and Extend"
+

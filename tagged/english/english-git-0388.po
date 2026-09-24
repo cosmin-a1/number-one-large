@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "on the Filmstock website."
+msgstr "on the Filmstock website."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "There is no item with current filter, please change the filter to show more resource."
+msgstr "There is no item with current filter, please change the filter to show more resource."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Click here to search for \"%1\""
+msgstr "Click here to search for \"%1\""
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "There is no download file. You can download videos, images, audios or subtitle files from your Filmora Cloud."
+msgstr "There is no download file. You can download videos, images, audios or subtitle files from your Filmora Cloud."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Click 'Favorite' while hovering over a resource to add an item to this folder."
+msgstr "Click 'Favorite' while hovering over a resource to add an item to this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "You don't have any Favorites."
+msgstr "You don't have any Favorites."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "please check other categories"
+msgstr "please check other categories"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "This category is empty, you can switch to another category for more templates."
+msgstr "This category is empty, you can switch to another category for more templates."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Save the adjustment layer as a preset, which will be added to this folder."
+msgstr "Save the adjustment layer as a preset, which will be added to this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "There is no custom title, you can save your title as custom in advanced editing page."
+msgstr "There is no custom title, you can save your title as custom in advanced editing page."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "No content"
+msgstr "No content"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "There are no results for %1,"
+msgstr "There are no results for %1,"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "You haven't downloaded any asset, click a resource to download it."
+msgstr "You haven't downloaded any asset, click a resource to download it."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "No untagged content"
+msgstr "No untagged content"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "No results for \"%1\" in your installed Filmstock content."
+msgstr "No results for \"%1\" in your installed Filmstock content."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Save the custom clip as a  preset, will be added in this folder."
+msgstr "Save the custom clip as a  preset, will be added in this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "Try AI Image!"
+msgstr "Try AI Image!"
+
+#: 
+msgctxt "FEmptyFilterView-version3"
+msgid "NO VCG download record"
+msgstr "NO VCG download record"
+
+#: 
+msgctxt "FCloudMediaEmptyView-version3"
+msgid "Drag and drop your media file here to upload to cloud for backup."
+msgstr "Drag and drop your media file here to upload to cloud for backup."
+
+#: 
+msgctxt "FCloudMediaEmptyView-version3"
+msgid "Upload Files."
+msgstr "Upload Files."
+
+#: 
+msgctxt "FCloudMediaEmptyView-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFilmStockAskDialog-version3"
+msgid "Opps! Looks like you can't use the effect. Please ensure you bought this effect via the current account."
+msgstr "Opps! Looks like you can't use the effect. Please ensure you bought this effect via the current account."
+
+#: 
+msgctxt "FFilmStockAskDialog-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFilmStockAskDialog-version3"
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: 
+msgctxt "FFilmStockAskDialog-version3"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFilmStockAskDialog-version3"
+msgid "Still have problems, please %1"
+msgstr "Still have problems, please %1"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "1TB Cloud Storage"
+msgstr "1TB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "20GB Cloud Storage"
+msgstr "20GB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "/ MONTH"
+msgstr "/ MONTH"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "Muti-terminal draft exchange"
+msgstr "Muti-terminal draft exchange"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "Unlimited credits validity"
+msgstr "Unlimited credits validity"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "100GB Cloud Storage"
+msgstr "100GB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "Extremely fast download"
+msgstr "Extremely fast download"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "10000 Credits Pack"
+msgstr "10000 Credits Pack"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "%1 per credit"
+msgstr "%1 per credit"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "5000 Credits Pack"
+msgstr "5000 Credits Pack"
+
+#: 
+msgctxt "FFPurchaseComponent-version3"
+msgid "1000 Credits Pack"
+msgstr "1000 Credits Pack"
+
+#: 
+msgctxt "SliderControlViewClass-version3"
+msgid "Disabled"
+msgstr "Disabled"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version3"
+msgid "Add Adjustment Point"
+msgstr "Add Adjustment Point"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version3"
+msgid "Delete Adjustment Point"
+msgstr "Delete Adjustment Point"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version3"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version3"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version3"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version3"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+msgctxt "FCoverRecommendationItem-version3"
+msgid "Please reload"
+msgstr "Please reload"
+
+#: 
+msgctxt "FCoverRecommendationItem-version3"
+msgid "Generating..."
+msgstr "Generating..."
+
+#: 
+msgctxt "FFreePurchaseDialog-version3"
+msgid "Enjoy Filmora Creative Assets for free"
+msgstr "Enjoy Filmora Creative Assets for free"
+
+#: 
+msgctxt "FFreePurchaseDialog-version3"
+msgid "Get a %1-Day Free Trial and unlock 10M+ creative assets, including titles, effects, copyrighted music, sound, LUTs, filters and templates."
+msgstr "Get a %1-Day Free Trial and unlock 10M+ creative assets, including titles, effects, copyrighted music, sound, LUTs, filters and templates."
+
+#: 
+msgctxt "FFreePurchaseDialog-version3"
+msgid "Activate your %1-Day Free Trial later through the Limited-time Offer in your Account Center."
+msgstr "Activate your %1-Day Free Trial later through the Limited-time Offer in your Account Center."
+
+#: 
+msgctxt "FFreePurchaseDialog-version3"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FFreePurchaseDialog-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FFreePurchaseDialog-version3"
+msgid "Back to Edit"
+msgstr "Back to Edit"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version3"
+msgid "Position X"
+msgstr "Position X"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version3"
+msgid "Position Y"
+msgstr "Position Y"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version3"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version3"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version3"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "FPropertySubtitleManager-version3"
+msgid "Unable to merge, already for the first subtitle"
+msgstr "Unable to merge, already for the first subtitle"
+
+#: 
+msgctxt "FPropertySubtitleManager-version3"
+msgid "Merge failed! Please select subtitles below 1000 bar to merge."
+msgstr "Merge failed! Please select subtitles below 1000 bar to merge."
+
+#: 
+msgctxt "FPropertySubtitleManager-version3"
+msgid "Unable to merge, already the last subtitle"
+msgstr "Unable to merge, already the last subtitle"
+
+#: 
+msgctxt "FPropertySubtitleManager-version3"
+msgid "Unable to split, please select a subtitle bar larger than one frame for splitting."
+msgstr "Unable to split, please select a subtitle bar larger than one frame for splitting."
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+msgstr "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "The definition of trial material is low"
+msgstr "The definition of trial material is low"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "Open vcg membership now"
+msgstr "Open vcg membership now"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "Try vcg Resource"
+msgstr "Try vcg Resource"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "Jump to rights"
+msgstr "Jump to rights"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version3"
+msgid "pictures and music materials of visual China, which can be downloaded 50 times a day. The legitimate version supports commercial use."
+msgstr "pictures and music materials of visual China, which can be downloaded 50 times a day. The legitimate version supports commercial use."
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version3"
+msgid "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+msgstr "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version3"
+msgid "The definition of trial material is low"
+msgstr "The definition of trial material is low"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version3"
+msgid "Open vcg membership now"
+msgstr "Open vcg membership now"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version3"
+msgid "Try vcg Resource"
+msgstr "Try vcg Resource"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version3"
+msgid "Jump to rights"
+msgstr "Jump to rights"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version3"
+msgid "pictures and music materials of visual China, which can be downloaded %1 times a day. The legitimate version supports commercial use."
+msgstr "pictures and music materials of visual China, which can be downloaded %1 times a day. The legitimate version supports commercial use."
+
+#: 
+msgctxt "FImportMediaView-version3"
+msgid "Click or Drop to import"
+msgstr "Click or Drop to import"
+
+#: 
+msgctxt "FImportMediaView-version3"
+msgid "Videos,audios,and images"
+msgstr "Videos,audios,and images"
+
+#: 
+msgctxt "FImportMediaView-version3"
+msgid "Drop your SRT here or click here to import SRT file."
+msgstr "Drop your SRT here or click here to import SRT file."
+
+#: 
+msgctxt "FImportMediaView-version3"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FImportMediaView-version3"
+msgid "Drop your audio here or click here to import audio."
+msgstr "Drop your audio here or click here to import audio."
+
+#: 
+msgctxt "FImportMediaView-version3"
+msgid "Import media here to use it in multiple projects"
+msgstr "Import media here to use it in multiple projects"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Add Effect Mask"
+msgstr "Add Effect Mask"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FPropertyGroupHeader-version3"
+msgid "Presets are saved here, click to add"
+msgstr "Presets are saved here, click to add"
+
+#: 
+msgctxt "FFBgmContrlBarWidget-version3"
+msgid "Set BGM Start Time:"
+msgstr "Set BGM Start Time:"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version3"
+msgid "Frame Sampling"
+msgstr "Frame Sampling"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version3"
+msgid "Optical Flow"
+msgstr "Optical Flow"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version3"
+msgid "Frame Blending"
+msgstr "Frame Blending"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version3"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version3"
+msgid "Faster but lower quality"
+msgstr "Faster but lower quality"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version3"
+msgid "Slower but higher quality"
+msgstr "Slower but higher quality"
+
+#: 
+msgctxt "FAIVoiceSeparationDialog-version3"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FAIVoiceSeparationDialog-version3"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FFPlayQualityWidget-version3"
+msgid "Switch Playback Quality can speed up playback performance"
+msgstr "Switch Playback Quality can speed up playback performance"
+

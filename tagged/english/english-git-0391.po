@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "DcPluginManager-version3"
+msgid "Insufficient disk space. Please free up some space and try again."
+msgstr "Insufficient disk space. Please free up some space and try again."
+
+#: 
+msgctxt "DcPluginManager-version3"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FAIPortraitItemManager-version3"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "FAudioVoiceChangerMediaManager-version3"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version3"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FFeedBackDialog-version3"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+msgctxt "FFeedBackDialog-version3"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Export Limitation"
+msgstr "Export Limitation"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Export with watermark"
+msgstr "Export with watermark"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+msgstr "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version3"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version3"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version3"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version3"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version3"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version3"
+msgid "Purchase Filmora X to export without a watermark."
+msgstr "Purchase Filmora X to export without a watermark."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version3"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version3"
+msgid "Delete cloud item"
+msgstr "Delete cloud item"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version3"
+msgid "Are you sure you want to move this item(s) to Recycle Bin?"
+msgstr "Are you sure you want to move this item(s) to Recycle Bin?"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version3"
+msgid "Tips: The storage will release after delete the item(s) from Recycle Bin."
+msgstr "Tips: The storage will release after delete the item(s) from Recycle Bin."
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version3"
+msgid "Move to Recycle Bin"
+msgstr "Move to Recycle Bin"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version3"
+msgid "Graniny Blur"
+msgstr "Graniny Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version3"
+msgid "Color Blur"
+msgstr "Color Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version3"
+msgid "Direction Blur"
+msgstr "Direction Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version3"
+msgid "Radial Blur"
+msgstr "Radial Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version3"
+msgid "Basic Blur"
+msgstr "Basic Blur"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Don't show this again."
+msgstr "Don't show this again."
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Add more media to get a better result"
+msgstr "Add more media to get a better result"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Delete the selected media?"
+msgstr "Delete the selected media?"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Import Folder"
+msgstr "Import Folder"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Add Again"
+msgstr "Add Again"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Add more than 5 media to unlock the Auto-Create"
+msgstr "Add more than 5 media to unlock the Auto-Create"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Import File"
+msgstr "Import File"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version3"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version3"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version3"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version3"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version3"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version3"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version3"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version3"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version3"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version3"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version3"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Duration setting"
+msgstr "Duration setting"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Add more media to customize the video duration"
+msgstr "Add more media to customize the video duration"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Max 30s"
+msgstr "Max 30s"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Max 60s"
+msgstr "Max 60s"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Text Color:"
+msgstr "Text Color:"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Max 2min"
+msgstr "Max 2min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Max 3min"
+msgstr "Max 3min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Max 5min"
+msgstr "Max 5min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Max 10min"
+msgstr "Max 10min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Video length:"
+msgstr "Video length:"
+
+#: 
+msgctxt "FGlobalSettingMenu-version3"
+msgid "Text type"
+msgstr "Text type"
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "Complete User Guide to Redeem"
+msgstr "Complete User Guide to Redeem"
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "Skip User Guide and Reward"
+msgstr "Skip User Guide and Reward"
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "Unlock Watermark-Free"
+msgstr "Unlock Watermark-Free"
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "Don't Miss Out on This Special Bonus"
+msgstr "Don't Miss Out on This Special Bonus"
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "You're just a few steps away from claiming your"
+msgstr "You're just a few steps away from claiming your"
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "Unlock Watermark-Free Exports reward."
+msgstr "Unlock Watermark-Free Exports reward."
+
+#: 
+msgctxt "FGuideRedeemPanel-version3"
+msgid "%1 Exports reward."
+msgstr "%1 Exports reward."
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version3"
+msgid "Original Path"
+msgstr "Original Path"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version3"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version3"
+msgid "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+msgstr "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version3"
+msgid "Relocate"
+msgstr "Relocate"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version3"
+msgid "Matched File"
+msgstr "Matched File"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version3"
+msgid "List of voice-text services"
+msgstr "List of voice-text services"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version3"
+msgid "Speech Service dialog"
+msgstr "Speech Service dialog"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version3"
+msgid "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+msgstr "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version3"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+msgctxt "FFSpeechServiceDialog-version3"
+msgid "Are you sure to quit?"
+msgstr "Are you sure to quit?"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version3"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FPropertySpeedControl-version3"
+msgid "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+msgstr "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+
+#: 
+msgctxt "FPropertySpeedControl-version3"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+msgctxt "FPropertySpeedControl-version3"
+msgid "Preview the result by Export or Render Preview"
+msgstr "Preview the result by Export or Render Preview"
+
+#: 
+msgctxt "FPropertySpeedControl-version3"
+msgid "When multi-selection editing, ripple editing is forced to be enabled."
+msgstr "When multi-selection editing, ripple editing is forced to be enabled."
+
+#: 
+msgctxt "FFMainPlayerWidget-version3"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+

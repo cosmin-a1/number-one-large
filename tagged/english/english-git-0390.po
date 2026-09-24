@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Default Storage Location:"
+msgstr "Default Storage Location:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Disk space remaining %1 GB,space required %2 GB."
+msgstr "Disk space remaining %1 GB,space required %2 GB."
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "SnapShot"
+msgstr "SnapShot"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Insufficient Disk Space"
+msgstr "Insufficient Disk Space"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "MANAGE"
+msgstr "MANAGE"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Uploaded files:"
+msgstr "Uploaded files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Downloaded files:"
+msgstr "Downloaded files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Folders:"
+msgstr "Folders:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "change"
+msgstr "change"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Download from other Apps:"
+msgstr "Download from other Apps:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "The new storage location you selected matches the original file storage location. Please select a new one. "
+msgstr "The new storage location you selected matches the original file storage location. Please select a new one. "
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Cloud Project files:"
+msgstr "Cloud Project files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Recorded"
+msgstr "Recorded"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Recorded files:"
+msgstr "Recorded files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Effect packs:"
+msgstr "Effect packs:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Cloud Project"
+msgstr "Cloud Project"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "This change will take effect after clicking 'Save' and restarting the program."
+msgstr "This change will take effect after clicking 'Save' and restarting the program."
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Snapshot files:"
+msgstr "Snapshot files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "Recorded Audio:"
+msgstr "Recorded Audio:"
+
+#: 
+msgctxt "FSettingFolderPanel-version3"
+msgid "VoiceOver"
+msgstr "VoiceOver"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version3"
+msgid "Start Editing"
+msgstr "Start Editing"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version3"
+msgid "I Want More Tutorials"
+msgstr "I Want More Tutorials"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version3"
+msgid "Go Back the Tutorial"
+msgstr "Go Back the Tutorial"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version3"
+msgid "We hope you enjoy your editing journey."
+msgstr "We hope you enjoy your editing journey."
+
+#: 
+msgctxt "FUserGuideFinishWidget-version3"
+msgid "Well Done!"
+msgstr "Well Done!"
+
+#: 
+msgctxt "FFAudioMixerDialog-version3"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTimelineAudioMixerActionPresenter-version3"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTTSLoadErrorComponent-version3"
+msgid "Voice acquisition failed, please check the network and %1 click retry %2"
+msgstr "Voice acquisition failed, please check the network and %1 click retry %2"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version3"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version3"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version3"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+msgctxt "FAIToolboxItemWidget-version3"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version3"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version3"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version3"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version3"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+msgctxt "FDcPluginStatusWidget-version3"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version3"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "Category name should not be empty!"
+msgstr "Category name should not be empty!"
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+msgstr "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "This name is in use, please choose another."
+msgstr "This name is in use, please choose another."
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+msgstr "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "view more"
+msgstr "view more"
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+msgstr "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "This item is not commercially available"
+msgstr "This item is not commercially available"
+
+#: 
+msgctxt "FMediaTreeView-version3"
+msgid "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+msgstr "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "No downloads in progress."
+msgstr "No downloads in progress."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "Upload videos, images, projects, and more to your personal cloud storage."
+msgstr "Upload videos, images, projects, and more to your personal cloud storage."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "There are no results for %1"
+msgstr "There are no results for %1"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "No completed tasks."
+msgstr "No completed tasks."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "TransferCenter Status"
+msgstr "TransferCenter Status"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "No uploads in progress."
+msgstr "No uploads in progress."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "Download videos, images, projects, and more from your personal cloud storage."
+msgstr "Download videos, images, projects, and more from your personal cloud storage."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "Uploaded and downloaded tasks will appear here."
+msgstr "Uploaded and downloaded tasks will appear here."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "TransferCenter Size"
+msgstr "TransferCenter Size"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version3"
+msgid "TransferCenter Name"
+msgstr "TransferCenter Name"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Please input your email"
+msgstr "Please input your email"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Please enter a valid first name"
+msgstr "Please enter a valid first name"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Email inconsistent, please check and confirm again."
+msgstr "Email inconsistent, please check and confirm again."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "The password you've entered is incorrect. Click forget password to reset your password."
+msgstr "The password you've entered is incorrect. Click forget password to reset your password."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "There was an error connecting to the server. Please check your network or proxy server settings."
+msgstr "There was an error connecting to the server. Please check your network or proxy server settings."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Login successfully"
+msgstr "Login successfully"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Connection timed out. Please wait for a while or check your network connection."
+msgstr "Connection timed out. Please wait for a while or check your network connection."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Enter a combination of at least six numbersletters & symbols."
+msgstr "Enter a combination of at least six numbersletters & symbols."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Vertification code is empty"
+msgstr "Vertification code is empty"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Create account Successfully"
+msgstr "Create account Successfully"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Please enter a password"
+msgstr "Please enter a password"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+msgstr "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Please enter a valid last name"
+msgstr "Please enter a valid last name"
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+msgstr "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+
+#: 
+msgctxt "FUserAccountBasePage-version3"
+msgid "Please enter a vaild email"
+msgstr "Please enter a vaild email"
+
+#: 
+msgctxt "FPropertyTitlesControl-version3"
+msgid "Video Layer"
+msgstr "Video Layer"
+
+#: 
+msgctxt "FPropertyTitlesControl-version3"
+msgid "Shape Layer"
+msgstr "Shape Layer"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "Failed to new folder. Insufficient cloud storage."
+msgstr "Failed to new folder. Insufficient cloud storage."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "Create"
+msgstr "Create"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "Failed to new folder."
+msgstr "Failed to new folder."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version3"
+msgid "Untitled Folder"
+msgstr "Untitled Folder"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+msgstr "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "The \"%1\" file has been loaded. Do you want to open the file now?"
+msgstr "The \"%1\" file has been loaded. Do you want to open the file now?"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Open now"
+msgstr "Open now"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Load complete tip"
+msgstr "Load complete tip"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version3"
+msgid "Use Now"
+msgstr "Use Now"
+
+#: 
+msgctxt "DcPluginManager-version3"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "DcPluginManager-version3"
+msgid "Installation failed. Please try again later."
+msgstr "Installation failed. Please try again later."
+

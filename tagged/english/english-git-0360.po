@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFCloudDiskShareWidget-version3"
+msgid "Support 4 letters or numbers"
+msgstr "Support 4 letters or numbers"
+
+#: 
+msgctxt "FFCloudDiskShareWidget-version3"
+msgid "Allow downloads"
+msgstr "Allow downloads"
+
+#: 
+msgctxt "FFCloudDiskShareWidget-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "day"
+msgstr "day"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "days"
+msgstr "days"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Unlock Speech-to-Text"
+msgstr "Unlock Speech-to-Text"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Export in 4K resolution is a premium feature. Purchase to export in 4K resolution."
+msgstr "Export in 4K resolution is a premium feature. Purchase to export in 4K resolution."
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Try it"
+msgstr "Try it"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Your trial period has expired. Buy Filmora now to unlock."
+msgstr "Your trial period has expired. Buy Filmora now to unlock."
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Trial Limitation"
+msgstr "Trial Limitation"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Unlock Speech-to-Text Service by upgrading your free Filmora license"
+msgstr "Unlock Speech-to-Text Service by upgrading your free Filmora license"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Try %1 for %2. Buy Filmora now to unlock."
+msgstr "Try %1 for %2. Buy Filmora now to unlock."
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Unlock Text-to-Speech"
+msgstr "Unlock Text-to-Speech"
+
+#: 
+msgctxt "FFeatureTryLimitDialog-version3"
+msgid "Unlock Text-to-Speech Service by upgrading your free license of Wondershare Filmora."
+msgstr "Unlock Text-to-Speech Service by upgrading your free license of Wondershare Filmora."
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "day"
+msgstr "day"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "days"
+msgstr "days"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Try it Free"
+msgstr "Try it Free"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Trial Limitation"
+msgstr "Trial Limitation"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Try out the premium features for %1 %2. At the end of your free trial period, you can buy a Filmora paid plan to unlock the premium features."
+msgstr "Try out the premium features for %1 %2. At the end of your free trial period, you can buy a Filmora paid plan to unlock the premium features."
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FTrialVerificationView-version3"
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Backup project"
+msgstr "Backup project"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Default Storage Location:"
+msgstr "Default Storage Location:"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "This change will take effect after clicking \"Apply\" and restarting the program."
+msgstr "This change will take effect after clicking \"Apply\" and restarting the program."
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Backup Settings:"
+msgstr "Backup Settings:"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "Proxy Files"
+msgstr "Proxy Files"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version3"
+msgid "FSettingFoldersPanel"
+msgstr "FSettingFoldersPanel"
+
+#: 
+msgctxt "FSettingSavePanel-version3"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "FSettingSavePanel-version3"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+msgctxt "FSettingSavePanel-version3"
+msgid "BROWSE"
+msgstr "BROWSE"
+
+#: 
+msgctxt "FSettingSavePanel-version3"
+msgid "Backup Project file to:"
+msgstr "Backup Project file to:"
+
+#: 
+msgctxt "FSettingSavePanel-version3"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingSavePanel-version3"
+msgid "Default Project location:"
+msgstr "Default Project location:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "GPU:"
+msgstr "GPU:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Start/Stop Hotkey:"
+msgstr "Start/Stop Hotkey:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "The computer screen and camera footage are merged into a single track."
+msgstr "The computer screen and camera footage are merged into a single track."
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Play Mouse Click Sound"
+msgstr "Play Mouse Click Sound"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Show Mouse Clicks in Recording"
+msgstr "Show Mouse Clicks in Recording"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "59.94 fps"
+msgstr "59.94 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "23.97 fps"
+msgstr "23.97 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "29.97 fps"
+msgstr "29.97 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Camera Screen Splitting"
+msgstr "Camera Screen Splitting"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Recording Mode:"
+msgstr "Recording Mode:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "12 fps"
+msgstr "12 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "15 fps"
+msgstr "15 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "20 fps"
+msgstr "20 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "24 fps"
+msgstr "24 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "25 fps"
+msgstr "25 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "30 fps"
+msgstr "30 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "50 fps"
+msgstr "50 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "60 fps"
+msgstr "60 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Mouse:"
+msgstr "Mouse:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Hide mouse gesture"
+msgstr "Hide mouse gesture"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Count Down:"
+msgstr "Count Down:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Frame rate:"
+msgstr "Frame rate:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Save To:"
+msgstr "Save To:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Enable GPU acceleration"
+msgstr "Enable GPU acceleration"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Stop Recording after"
+msgstr "Stop Recording after"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Camera Screen Merging"
+msgstr "Camera Screen Merging"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Pause/Resume Hotkey:"
+msgstr "Pause/Resume Hotkey:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Please make sure that your system audio is turned on."
+msgstr "Please make sure that your system audio is turned on."
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "The computer screen and camera footage are placed on separate tracks, allowing for separate editing."
+msgstr "The computer screen and camera footage are placed on separate tracks, allowing for separate editing."
+
+#: 
+msgctxt "FFRecorderSetting-version3"
+msgid "Record Timer:"
+msgstr "Record Timer:"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version3"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version3"
+msgid "Freeze Time"
+msgstr "Freeze Time"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Create Intro"
+msgstr "Create Intro"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Select"
+msgstr "Select"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Create Logo Reveal"
+msgstr "Create Logo Reveal"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "The Intro has been changed. Do you want to save your changes?"
+msgstr "The Intro has been changed. Do you want to save your changes?"
+
+#: 
+msgctxt "FIntroEditDialog-version3"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FGraphicsTimelineSceneTipHelper-version3"
+msgid "Press and hold down the \"Alt\" key while you drag the media file here to replace the Preset template clip quickly."
+msgstr "Press and hold down the \"Alt\" key while you drag the media file here to replace the Preset template clip quickly."
+
+#: 
+msgctxt "FPropertyImageControl-version3"
+msgid "Select Resolution"
+msgstr "Select Resolution"
+
+#: 
+msgctxt "FPropertyImageControl-version3"
+msgid "Select Profile"
+msgstr "Select Profile"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Perspective"
+msgstr "Perspective"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Effect on Parameter"
+msgstr "Effect on Parameter"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L152 Pale Gold"
+msgstr "L152 Pale Gold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frosted Snow Globe"
+msgstr "Frosted Snow Globe"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L154 Pale Rose"
+msgstr "L154 Pale Rose"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Luma Boost to White"
+msgstr "Luma Boost to White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Color Red"
+msgstr "Black Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Picture"
+msgstr "Picture"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "First 15 Random Frames"
+msgstr "First 15 Random Frames"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Highlight Color Blue"
+msgstr "Highlight Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Vignette"
+msgstr "Blue Vignette"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Squared Variety"
+msgstr "Squared Variety"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Custom Midpoint Color Green"
+msgstr "Custom Midpoint Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Slate Tiles"
+msgstr "Slate Tiles"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Diff Threshold"
+msgstr "Diff Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shifty Signals"
+msgstr "Shifty Signals"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frame Green"
+msgstr "Frame Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Distance FallOff"
+msgstr "Distance FallOff"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shape Width"
+msgstr "Shape Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scale Waves"
+msgstr "Scale Waves"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clone Color"
+msgstr "Clone Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L1 Color Green"
+msgstr "L1 Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pinning"
+msgstr "Pinning"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frame Count"
+msgstr "Frame Count"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "White Tweak"
+msgstr "White Tweak"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Image Plane"
+msgstr "Image Plane"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Noise Waves"
+msgstr "Noise Waves"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "on Pixabay"
+msgstr "on Pixabay"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pin Point 1"
+msgstr "Pin Point 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pin Point 2"
+msgstr "Pin Point 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glare Angle"
+msgstr "Glare Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Graph Bottom Right Corner"
+msgstr "Graph Bottom Right Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "White Point"
+msgstr "White Point"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Above Floor"
+msgstr "Above Floor"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Noise Scale"
+msgstr "Noise Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BG Color Red"
+msgstr "BG Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pivot X"
+msgstr "Pivot X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pivot Y"
+msgstr "Pivot Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pivot Z"
+msgstr "Pivot Z"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grit Sensitivity"
+msgstr "Grit Sensitivity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Smooth Medium Details"
+msgstr "Smooth Medium Details"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shine Color"
+msgstr "Shine Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clone Shape"
+msgstr "Clone Shape"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L193 Rosy Amber"
+msgstr "L193 Rosy Amber"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "End Point 1"
+msgstr "End Point 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "End Point 2"
+msgstr "End Point 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glint Scale Seed"
+msgstr "Glint Scale Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "White Color"
+msgstr "White Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "White Boost"
+msgstr "White Boost"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L203 Qtr C.T.B."
+msgstr "L203 Qtr C.T.B."
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Erase Spill"
+msgstr "Erase Spill"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glare Scale"
+msgstr "Glare Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Turbulence Z"
+msgstr "Turbulence Z"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glow in the Dark"
+msgstr "Glow in the Dark"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Choke Matte"
+msgstr "Choke Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Inspect Lower Region"
+msgstr "Inspect Lower Region"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wave Distortion"
+msgstr "Wave Distortion"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Inverse Alpha"
+msgstr "Inverse Alpha"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mid-Range (%)"
+msgstr "Mid-Range (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L181 Congo Blue"
+msgstr "L181 Congo Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shimmer and Strings"
+msgstr "Shimmer and Strings"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Matte Layer"
+msgstr "Matte Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "See Through Highlights"
+msgstr "See Through Highlights"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Purple Sky"
+msgstr "Purple Sky"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Image Layer"
+msgstr "Image Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sample Red"
+msgstr "Sample Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Color 6 Blue"
+msgstr "Color 6 Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Simple PiP"
+msgstr "Simple PiP"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L131 Marine Blue"
+msgstr "L131 Marine Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Texture Custom Layer"
+msgstr "Texture Custom Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Animate Interaction Layer"
+msgstr "Animate Interaction Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Complexity"
+msgstr "Complexity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Turbulence Rotation"
+msgstr "Turbulence Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L201 Full C.T.B."
+msgstr "L201 Full C.T.B."
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Life Random (%)"
+msgstr "Life Random (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tilt-Shift"
+msgstr "Tilt-Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Colors & Angles"
+msgstr "Colors & Angles"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "White Limit"
+msgstr "White Limit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "White Level"
+msgstr "White Level"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Replicate"
+msgstr "Replicate"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L238 C.S.I. (to Tungsten)"
+msgstr "L238 C.S.I. (to Tungsten)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Amplitude"
+msgstr "Amplitude"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Center Highlight"
+msgstr "Center Highlight"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L341 Plum"
+msgstr "L341 Plum"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cloud 02 White"
+msgstr "Cloud 02 White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Explosion"
+msgstr "Explosion"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Explosive"
+msgstr "Explosive"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Evolution (start to finsh)"
+msgstr "Evolution (start to finsh)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Polygon Sides"
+msgstr "Polygon Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Trigger Intensity"
+msgstr "Trigger Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Draw Trigger Center Area"
+msgstr "Draw Trigger Center Area"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Apply Mix"
+msgstr "Apply Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Ripple On Floor"
+msgstr "Ripple On Floor"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spread Mode"
+msgstr "Spread Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Lime Alive"
+msgstr "Lime Alive"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wave Angle"
+msgstr "Wave Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Angle"
+msgstr "Blue Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L212 L.C.T.Yellow"
+msgstr "L212 L.C.T.Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scan Horizontal Start"
+msgstr "Scan Horizontal Start"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Use Alpha"
+msgstr "Use Alpha"
+

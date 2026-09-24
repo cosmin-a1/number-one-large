@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOscillographWindow-version3"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+msgctxt "FFOscillographWindow-version3"
+msgid "Embed player"
+msgstr "Embed player"
+
+#: 
+msgctxt "FMediaPlayerModuleWidget-version3"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+msgctxt "FMediaPlayerModuleWidget-version3"
+msgid "Player"
+msgstr "Player"
+
+#: 
+msgctxt "FMediaPlayerModuleWidget-version3"
+msgid "Remove the watermark"
+msgstr "Remove the watermark"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Lifetime Plan"
+msgstr "Lifetime Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Extend Plan"
+msgstr "Extend Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "We are refreshing your account info now. It may take a few seconds."
+msgstr "We are refreshing your account info now. It may take a few seconds."
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Annual Plan"
+msgstr "Annual Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Expires: %1"
+msgstr "Expires: %1"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Expires: Unlimited"
+msgstr "Expires: Unlimited"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "Free Plan"
+msgstr "Free Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "to refresh your authorization."
+msgstr "to refresh your authorization."
+
+#: 
+msgctxt "FAccountInfoPanel-version3"
+msgid "If you have purchased a plan,"
+msgstr "If you have purchased a plan,"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "Insufficient space, please upgrade Filmora Cloud"
+msgstr "Insufficient space, please upgrade Filmora Cloud"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "Upload failed, please check the network and try again"
+msgstr "Upload failed, please check the network and try again"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "The space has expired, please renew Filmora Cloud"
+msgstr "The space has expired, please renew Filmora Cloud"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+msgctxt "FProductHomePagePrivate-version3"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FSchemePlanItemWidget-version3"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version3"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version3"
+msgid "Unpaid user"
+msgstr "Unpaid user"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version3"
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version3"
+msgid "Click to copy"
+msgstr "Click to copy"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version3"
+msgid "Copied"
+msgstr "Copied"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version3"
+msgid "Task is in progress,please wait."
+msgstr "Task is in progress,please wait."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "The transcription failed, please re-select the file for transcription."
+msgstr "The transcription failed, please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "The language in the video doesn't match the selected language. Please choose again."
+msgstr "The language in the video doesn't match the selected language. Please choose again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+msgstr "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version3"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FExportUploadDlg-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FExportUploadDlg-version3"
+msgid "Please wait for a few minutes, still processing."
+msgstr "Please wait for a few minutes, still processing."
+
+#: 
+msgctxt "FExportUploadDlg-version3"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FExportUploadDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportUploadDlg-version3"
+msgid "Please check your connection and try again."
+msgstr "Please check your connection and try again."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version3"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version3"
+msgid "TransferCenter Waiting..."
+msgstr "TransferCenter Waiting..."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version3"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version3"
+msgid "Stopped"
+msgstr "Stopped"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version3"
+msgid "TransferCenter Stop"
+msgstr "TransferCenter Stop"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version3"
+msgid "to re-download a new copy of the installer for a fresh installation."
+msgstr "to re-download a new copy of the installer for a fresh installation."
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version3"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version3"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version3"
+msgid "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+msgstr "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version3"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version3"
+msgid "Please wait, it may take a while to download and install the effect plugin."
+msgstr "Please wait, it may take a while to download and install the effect plugin."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version3"
+msgid "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+msgstr "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version3"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version3"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+msgctxt "FProgressTipsDialog-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FProgressTipsDialog-version3"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FProgressTipsDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProgressTipsDialog-version3"
+msgid "Please wait a few minutes, download and install the plug-in."
+msgstr "Please wait a few minutes, download and install the plug-in."
+
+#: 
+msgctxt "FProgressTipsDialog-version3"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version3"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FSmartEditExport-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSmartEditExport-version3"
+msgid "Converting the %1/%2 video."
+msgstr "Converting the %1/%2 video."
+
+#: 
+msgctxt "FSmartEditExport-version3"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FSmartEditExport-version3"
+msgid "Conversion of %1/%2 videos has been completed."
+msgstr "Conversion of %1/%2 videos has been completed."
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version3"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version3"
+msgid "Generate preview videos for mobile"
+msgstr "Generate preview videos for mobile"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version3"
+msgid "Explosive template"
+msgstr "Explosive template"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version3"
+msgid "Template Name:"
+msgstr "Template Name:"
+
+#: 
+msgctxt "FPropertyAdvancedMosaicEffectWidget-version3"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version3"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version3"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version3"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version3"
+msgid "Corner Radius"
+msgstr "Corner Radius"
+
+#: 
+msgctxt "FTextTransformWidget-version3"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FTextTransformWidget-version3"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FTextTransformWidget-version3"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FScenceDetectListWidget-version3"
+msgid "Scene"
+msgstr "Scene"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version3"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version3"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version3"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version3"
+msgid "Clear Record"
+msgstr "Clear Record"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version3"
+msgid "TransferCenter Reveal in Finder"
+msgstr "TransferCenter Reveal in Finder"
+

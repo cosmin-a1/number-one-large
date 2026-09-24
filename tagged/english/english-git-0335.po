@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Angle"
+msgstr "Black Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Same as Master"
+msgstr "Same as Master"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Vertical Eighth"
+msgstr "Vertical Eighth"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Partial Render"
+msgstr "Partial Render"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Host Channel"
+msgstr "Host Channel"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Keyframe Animation"
+msgstr "Keyframe Animation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Motion Randomness"
+msgstr "Motion Randomness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Custom End Color"
+msgstr "Custom End Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mask Cleanup"
+msgstr "Mask Cleanup"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Outside Pattern"
+msgstr "Outside Pattern"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Show Under Floor"
+msgstr "Show Under Floor"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BG Mosaic On"
+msgstr "BG Mosaic On"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Confetti Storm"
+msgstr "Confetti Storm"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sampler Corner 1 X"
+msgstr "Sampler Corner 1 X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sampler Corner 1 Y"
+msgstr "Sampler Corner 1 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sampler Corner 2 X"
+msgstr "Sampler Corner 2 X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sampler Corner 2 Y"
+msgstr "Sampler Corner 2 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Position XY - IP"
+msgstr "Position XY - IP"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Position XY - SP"
+msgstr "Position XY - SP"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Position XY - LT"
+msgstr "Position XY - LT"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Picture Grid"
+msgstr "Picture Grid"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Limit"
+msgstr "Black Limit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Level"
+msgstr "Black Level"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Z-Gamma"
+msgstr "Z-Gamma"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Seed 1"
+msgstr "Random Seed 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Seed 2"
+msgstr "Random Seed 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Seed 3"
+msgstr "Random Seed 3"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Frantic Scroll"
+msgstr "Frantic Scroll"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Color Blue"
+msgstr "Red Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Point"
+msgstr "Black Point"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Out of Focus"
+msgstr "Out of Focus"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Out Of Focus"
+msgstr "Out Of Focus"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "All Forward"
+msgstr "All Forward"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Video Tuneup Plus"
+msgstr "Video Tuneup Plus"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Sphere"
+msgstr "Random Sphere"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Source"
+msgstr "Random Source"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glare BackGround Map Layer"
+msgstr "Glare BackGround Map Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Orange Only"
+msgstr "Orange Only"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Scanline"
+msgstr "BCC Scanline"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Radial Offset"
+msgstr "Radial Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fade to White"
+msgstr "Fade to White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Region Scopes"
+msgstr "Region Scopes"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mix with Propagation"
+msgstr "Mix with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Distance to Effect Center"
+msgstr "Distance to Effect Center"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Bright Colors"
+msgstr "Bright Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Color 5 Green"
+msgstr "Color 5 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fractal Movement with Propagation"
+msgstr "Fractal Movement with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Smudge Down"
+msgstr "Smudge Down"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flicker"
+msgstr "Flicker"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Deflicker"
+msgstr "Deflicker"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Color Blue"
+msgstr "Blue Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Opacity Boost"
+msgstr "Opacity Boost"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Core Scale X"
+msgstr "Core Scale X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Core Scale Y"
+msgstr "Core Scale Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fade to Black"
+msgstr "Fade to Black"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Heavy Touch Up"
+msgstr "Heavy Touch Up"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Opacity Noise"
+msgstr "Opacity Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flat Shadows"
+msgstr "Flat Shadows"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Color  Red"
+msgstr "Blue Color  Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fill Shadows"
+msgstr "Fill Shadows"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Yellow - Blue"
+msgstr "Yellow - Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fine Sharpen"
+msgstr "Fine Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Core Wiggly Amount"
+msgstr "Core Wiggly Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BG Tint Amount"
+msgstr "BG Tint Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Midpoint Variance"
+msgstr "Midpoint Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sampling Top-Left X"
+msgstr "Sampling Top-Left X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sampling Top-Left Y"
+msgstr "Sampling Top-Left Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Turbulence Settings"
+msgstr "Turbulence Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Out of Place"
+msgstr "Out of Place"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Rectangle"
+msgstr "Black Rectangle"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Opaque->Transparent"
+msgstr "Opaque->Transparent"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Overdrive Soften"
+msgstr "Overdrive Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Influence"
+msgstr "Influence"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Floor Grid Resolution"
+msgstr "Floor Grid Resolution"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Chroma Fan On"
+msgstr "Chroma Fan On"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Particle Transfer Mode"
+msgstr "Particle Transfer Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dark Angel"
+msgstr "Dark Angel"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC+Key Light"
+msgstr "BCC+Key Light"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spotlight Intensity"
+msgstr "Spotlight Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Brightness On"
+msgstr "Brightness On"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Midpoint Color Source Layer"
+msgstr "Midpoint Color Source Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Accessing Image Layers"
+msgstr "Accessing Image Layers"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Yellow & Blue"
+msgstr "Yellow & Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sci Fi Future"
+msgstr "Sci Fi Future"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mask Gamma"
+msgstr "Mask Gamma"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rack Focus"
+msgstr "Rack Focus"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Jumping Trails (6fps)"
+msgstr "Jumping Trails (6fps)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Camera Position XY"
+msgstr "Camera Position XY"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Nearest Field Back"
+msgstr "Nearest Field Back"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L730 Liberty Green"
+msgstr "L730 Liberty Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Ink Green"
+msgstr "Ink Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Source Tracker"
+msgstr "Source Tracker"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dark Shadows"
+msgstr "Dark Shadows"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Matte Preview Color"
+msgstr "Matte Preview Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Distance to Pan Point"
+msgstr "Distance to Pan Point"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Dark Night"
+msgstr "Dark Night"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L249 Quarter Minus Green"
+msgstr "L249 Quarter Minus Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pink Neons"
+msgstr "Pink Neons"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Show Motion Path"
+msgstr "Show Motion Path"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Peak Point"
+msgstr "Peak Point"
+

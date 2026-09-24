@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudDiskProjectTemplateManager-version3"
+msgid "Once turned on, custom templates will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+msgstr "Once turned on, custom templates will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+
+#: 
+msgctxt "FCloudDiskProjectTemplateManager-version3"
+msgid "Click to quickly share files"
+msgstr "Click to quickly share files"
+
+#: 
+msgctxt "FLoginAccountBtn-version3"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "FLoginAccountBtn-version3"
+msgid "Account"
+msgstr "Account"
+
+#: 
+msgctxt "FNeedLoginPage-version3"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "FNeedLoginPage-version3"
+msgid "Login to sync all favorites"
+msgstr "Login to sync all favorites"
+
+#: 
+msgctxt "FNeedLoginPage-version3"
+msgid "Login to sync all VCG"
+msgstr "Login to sync all VCG"
+
+#: 
+msgctxt "FTTSCloneVoiceStateComponent-version3"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "FTTSCloneVoiceStateComponent-version3"
+msgid "%1 Sign in %2 to sync voices and clone your voices now %3"
+msgstr "%1 Sign in %2 to sync voices and clone your voices now %3"
+
+#: 
+msgctxt "FTTSCloneVoiceStateComponent-version3"
+msgid "Clone Voice"
+msgstr "Clone Voice"
+
+#: 
+msgctxt "FTTSCloneVoiceStateComponent-version3"
+msgid "Use %1 Voice Clone %2 to create your custom voice %3"
+msgstr "Use %1 Voice Clone %2 to create your custom voice %3"
+
+#: 
+msgctxt "FTTSCustomLoginComponent-version3"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "FTTSCustomLoginComponent-version3"
+msgid "Sign in to sync voices and clone your voices now"
+msgstr "Sign in to sync voices and clone your voices now"
+
+#: 
+msgctxt "FTTSFavoriteLoginComponent-version3"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "FTTSFavoriteLoginComponent-version3"
+msgid "Log in to sync all favorites"
+msgstr "Log in to sync all favorites"
+
+#: 
+msgctxt "FFColorMatchPlayerToolBar-version3"
+msgid "Match"
+msgstr "Match"
+
+#: 
+msgctxt "FFColorMatchPlayerToolBar-version3"
+msgid "Previous Clip"
+msgstr "Previous Clip"
+
+#: 
+msgctxt "FFColorMatchPlayerToolBar-version3"
+msgid "Next Clip"
+msgstr "Next Clip"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Template presets"
+msgstr "Template presets"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "1. Mobile, tablet and PC files can easily communicate with each other and editing is more convenient."
+msgstr "1. Mobile, tablet and PC files can easily communicate with each other and editing is more convenient."
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Color Preset"
+msgstr "Color Preset"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Title preset"
+msgstr "Title preset"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "2. Text, template and adjustment layer presets are automatically synchronized, which is easier and more efficient."
+msgstr "2. Text, template and adjustment layer presets are automatically synchronized, which is easier and more efficient."
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Multi-terminal collaboration, real-time creation"
+msgstr "Multi-terminal collaboration, real-time creation"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Finished Video"
+msgstr "Finished Video"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "There are currently no synced preset files"
+msgstr "There are currently no synced preset files"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Custom preset files support automatic synchronization and can be used across devices after synchronization."
+msgstr "Custom preset files support automatic synchronization and can be used across devices after synchronization."
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Project"
+msgstr "Project"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "No results found."
+msgstr "No results found."
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Adjustment layer"
+msgstr "Adjustment layer"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Go to sync"
+msgstr "Go to sync"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FCloudSpaceContent-version3"
+msgid "Switch to thumbnail mode"
+msgstr "Switch to thumbnail mode"
+
+#: 
+msgctxt "FCloudSpaceUploadMenu-version3"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FCloudSpaceUploadMenu-version3"
+msgid "Project"
+msgstr "Project"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version3"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version3"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version3"
+msgid "Folder \"%1\" is already in this location. Do you want to merge all files to it?"
+msgstr "Folder \"%1\" is already in this location. Do you want to merge all files to it?"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version3"
+msgid "Keep Both"
+msgstr "Keep Both"
+
+#: 
+msgctxt "FDynamicTextPopupMenu-version3"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FDynamicTextPopupMenu-version3"
+msgid "Emphasis"
+msgstr "Emphasis"
+
+#: 
+msgctxt "FFMasterVolumeDisplayButton-version3"
+msgid "Meter"
+msgstr "Meter"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Mode:"
+msgstr "Mode:"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Light Stream"
+msgstr "Light Stream"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Keep Audio pitch"
+msgstr "Keep Audio pitch"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Repeat"
+msgstr "Repeat"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Frame Blending"
+msgstr "Frame Blending"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version3"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+
+#: 
+msgctxt "FPropertyHumanSegmentationWidget-version3"
+msgid "Model"
+msgstr "Model"
+
+#: 
+msgctxt "FPropertyHumanSegmentationWidget-version3"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyHumanSegmentationWidget-version3"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Folder Name:"
+msgstr "Folder Name:"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version3"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Pond5"
+msgstr "Pond5"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Date Created:"
+msgstr "Date Created:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Media Created:"
+msgstr "Media Created:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Commercial Info"
+msgstr "Commercial Info"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "New Studio"
+msgstr "New Studio"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Material Source:"
+msgstr "Material Source:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Location:"
+msgstr "Location:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Keyword:"
+msgstr "Keyword:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Format:"
+msgstr "Format:"
+
+#: 
+msgctxt "FCommonInfoPage-version3"
+msgid "Date Imported:"
+msgstr "Date Imported:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version3"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+msgctxt "FAudioFilterBar-version3"
+msgid "Music"
+msgstr "Music"
+
+#: 
+msgctxt "FAudioFilterBar-version3"
+msgid "Sound Effect"
+msgstr "Sound Effect"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version3"
+msgid "New and trendy style"
+msgstr "New and trendy style"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version3"
+msgid "Great detail"
+msgstr "Great detail"
+

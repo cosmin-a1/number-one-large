@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "LosslessDialog-version3"
+msgid "Click here for turorials."
+msgstr "Click here for turorials."
+
+#: 
+msgctxt "LosslessDialog-version3"
+msgid "Filmora Instant Cutter"
+msgstr "Filmora Instant Cutter"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version3"
+msgid "FAdvanceTextCustomizeBackgroundWidget"
+msgstr "FAdvanceTextCustomizeBackgroundWidget"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version3"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version3"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version3"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyBasicDropShadowWidgetClass-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyTitleShapeContentWidget-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyTitleShapeContentWidget-version3"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version3"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version3"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version3"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "When there are multiple media present in different tracks at the same time, only the video or picture media in the top track are applied. Do you want to apply?"
+msgstr "When there are multiple media present in different tracks at the same time, only the video or picture media in the top track are applied. Do you want to apply?"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Blur style"
+msgstr "Blur style"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version3"
+msgid "Level of blur"
+msgstr "Level of blur"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version3"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version3"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version3"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "your operation is too frequent"
+msgstr "your operation is too frequent"
+
+#: 
+msgctxt "FAIMusicToast-version3"
+msgid "Downloaded music will be displayed in \"AI Music > Generated\""
+msgstr "Downloaded music will be displayed in \"AI Music > Generated\""
+
+#: 
+msgctxt "FAIToolLevelWidget-version3"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FAIToolLevelWidget-version3"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FAIToolLevelWidget-version3"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FAIToolLevelWidget-version3"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version3"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version3"
+msgid "Click to start analysis"
+msgstr "Click to start analysis"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version3"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version3"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version3"
+msgid "Click to start analysis again"
+msgstr "Click to start analysis again"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version3"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FPropertyAudioRippleWidget-version3"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: 
+msgctxt "FUseResourceGuideWidget-version3"
+msgid "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+msgstr "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+
+#: 
+msgctxt "FUseResourceGuideWidget-version3"
+msgid "Add Effects"
+msgstr "Add Effects"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "days"
+msgstr "days"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Proxy Files:"
+msgstr "Proxy Files:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Installed Effect:"
+msgstr "Installed Effect:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "AI Tools:"
+msgstr "AI Tools:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Preview Render files folder:"
+msgstr "Preview Render files folder:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "Cache Management:"
+msgstr "Cache Management:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version3"
+msgid "FSettingMediaCachePanel"
+msgstr "FSettingMediaCachePanel"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version3"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version3"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version3"
+msgid "Progress"
+msgstr "Progress"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version3"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "characters"
+msgstr "characters"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version3"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "TransCoding"
+msgstr "TransCoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Transcoding"
+msgstr "Transcoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version3"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "name"
+msgstr "name"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Success"
+msgstr "Success"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "frequency"
+msgstr "frequency"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version3"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FAIGenerateToast-version3"
+msgid "view"
+msgstr "view"
+
+#: 
+msgctxt "FAIGenerateToast-version3"
+msgid "Image downloaded to directory Stock Media - AI Image - Downloads"
+msgstr "Image downloaded to directory Stock Media - AI Image - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version3"
+msgid "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+msgstr "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version3"
+msgid "Music downloaded to directory Audio - AI Music - Downloads"
+msgstr "Music downloaded to directory Audio - AI Music - Downloads"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "year"
+msgstr "year"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "month"
+msgstr "month"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "Yearly Plan"
+msgstr "Yearly Plan"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "Premium Month"
+msgstr "Premium Month"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "Premium Yearly"
+msgstr "Premium Yearly"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version3"
+msgid "Everything in standard plan effects"
+msgstr "Everything in standard plan effects"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version3"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version3"
+msgid "Search file names, visuals, and dialogue"
+msgstr "Search file names, visuals, and dialogue"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version3"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version3"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Search custom adjustment layer"
+msgstr "Search custom adjustment layer"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Search adjustment layer"
+msgstr "Search adjustment layer"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Search downloaded media"
+msgstr "Search downloaded media"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+msgctxt "FMediaModeBar-version3"
+msgid "Search custom compound clip"
+msgstr "Search custom compound clip"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Giphy"
+msgstr "Giphy"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search images and videos"
+msgstr "Search images and videos"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search all the GIFs and Stickers"
+msgstr "Search all the GIFs and Stickers"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search Favorite Media"
+msgstr "Search Favorite Media"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search Downloaded Media"
+msgstr "Search Downloaded Media"
+
+#: 
+msgctxt "FStockMediaModeBar-version3"
+msgid "Search free high-resolution photos"
+msgstr "Search free high-resolution photos"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search music"
+msgstr "Search music"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search my music"
+msgstr "Search my music"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search sound effects"
+msgstr "Search sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search downloaded music"
+msgstr "Search downloaded music"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search my favorite sound effects"
+msgstr "Search my favorite sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search downloaded sound effects"
+msgstr "Search downloaded sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version3"
+msgid "Search my favorite music"
+msgstr "Search my favorite music"
+
+#: 
+msgctxt "FAudioInfoPage-version3"
+msgid "Audio Info"
+msgstr "Audio Info"
+
+#: 
+msgctxt "FAudioInfoPage-version3"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FAudioInfoPage-version3"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+msgctxt "FAudioInfoPage-version3"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FAudioInfoPage-version3"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+msgctxt "FFRemainingWidget-version3"
+msgid "Remaining available characters: %1 "
+msgstr "Remaining available characters: %1 "
+
+#: 
+msgctxt "FFRemainingWidget-version3"
+msgid "Time Remaining:"
+msgstr "Time Remaining:"
+
+#: 
+msgctxt "FFRemainingWidget-version3"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFRemainingWidget-version3"
+msgid "Purchase more characters"
+msgstr "Purchase more characters"
+
+#: 
+msgctxt "FFRemainingWidget-version3"
+msgid "Purchase more"
+msgstr "Purchase more"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "Add Smart Brush"
+msgstr "Add Smart Brush"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "The longest only supports tracking for 20s."
+msgstr "The longest only supports tracking for 20s."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version3"
+msgid "Add Mask"
+msgstr "Add Mask"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "(Estimated)"
+msgstr "(Estimated)"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "Size:"
+msgstr "Size:"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "EXPORT"
+msgstr "EXPORT"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+msgstr "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "When this setting is checked, each export will use the previous export settings by default"
+msgstr "When this setting is checked, each export will use the previous export settings by default"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "Use the most recent export settings"
+msgstr "Use the most recent export settings"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "Use last export settings for local"
+msgstr "Use last export settings for local"
+
+#: 
+msgctxt "FExportModuleWidget-version3"
+msgid "Use last export settings for device"
+msgstr "Use last export settings for device"
+
+#: 
+msgctxt "FFScoreDialog-version3"
+msgid "To help Filmora make better progress, please leave your feedback."
+msgstr "To help Filmora make better progress, please leave your feedback."
+
+#: 
+msgctxt "FFScoreDialog-version3"
+msgid "FFScoreDialoguggestionLb"
+msgstr "FFScoreDialoguggestionLb"
+
+#: 
+msgctxt "FFScoreDialog-version3"
+msgid "Are you satisfied with Filmora?"
+msgstr "Are you satisfied with Filmora?"
+
+#: 
+msgctxt "FFScoreDialog-version3"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FAIGCCreateButton-version3"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+msgctxt "FAIGCCreateButton-version3"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIGCCreateSecondaryButton-version3"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+msgctxt "FAIGCCreateSecondaryButton-version3"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIMusicDenoiseSliderWidget-version3"
+msgid "Music Duration"
+msgstr "Music Duration"
+

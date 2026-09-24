@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudMediaStatePages-version3"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+msgctxt "FCloudMediaStatePages-version3"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FCloudMediaStatePages-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "No files have been backed up yet, go to %1 to back them up"
+msgstr "No files have been backed up yet, go to %1 to back them up"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Log in your account to activate authorization and share your creation anytime, anywhere!"
+msgstr "Log in your account to activate authorization and share your creation anytime, anywhere!"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Authorize to access cloud storage and share your creation anytime, anywhere!"
+msgstr "Authorize to access cloud storage and share your creation anytime, anywhere!"
+
+#: 
+msgctxt "FCloudProjectStatePage-version3"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "The file uploaded is not supported"
+msgstr "The file uploaded is not supported"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Buy Wondershare Filmora membership to get cloud space benefits"
+msgstr "Buy Wondershare Filmora membership to get cloud space benefits"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Release to upload files to the cloud"
+msgstr "Release to upload files to the cloud"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Cloud space is not available."
+msgstr "Cloud space is not available."
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Drag and drop file upload"
+msgstr "Drag and drop file upload"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version3"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Lack of Storage"
+msgstr "Lack of Storage"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Are you sure you want to quit?"
+msgstr "Are you sure you want to quit?"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "You have task in progress"
+msgstr "You have task in progress"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Buy Storage"
+msgstr "Buy Storage"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDisk-version3"
+msgid "Insufficient cloud storage. Please buy more."
+msgstr "Insufficient cloud storage. Please buy more."
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Log in to your account to activate authorization"
+msgstr "Log in to your account to activate authorization"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "No file uploaded yet. Upload now!"
+msgstr "No file uploaded yet. Upload now!"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Sorry about the information pulling failure, please click to refresh!"
+msgstr "Sorry about the information pulling failure, please click to refresh!"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Storage:"
+msgstr "Storage:"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDiskView-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+msgstr "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Download failed: File does not exist"
+msgstr "Download failed: File does not exist"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+msgstr "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Network error. Please check network."
+msgstr "Network error. Please check network."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Sync failed"
+msgstr "Sync failed"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Download failed. Please check your network."
+msgstr "Download failed. Please check your network."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "%1 item(s) has been added to the Transfer Center."
+msgstr "%1 item(s) has been added to the Transfer Center."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Insufficient space. Please expand cloud storage."
+msgstr "Insufficient space. Please expand cloud storage."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Local directory \"%1\" is not write, please modify the local permission before downloading."
+msgstr "Local directory \"%1\" is not write, please modify the local permission before downloading."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version3"
+msgid "Insufficient Storage Available"
+msgstr "Insufficient Storage Available"
+
+#: 
+msgctxt "FFFAQWidget-version3"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Failed to upload to YouTube. For details, please check the FAQ."
+msgstr "Failed to upload to YouTube. For details, please check the FAQ."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid " Contact for help. "
+msgstr " Contact for help. "
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Failed to export %1. Do you want to continue exporting other files?"
+msgstr "Failed to export %1. Do you want to continue exporting other files?"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Uploading speed depends on the quality of your network."
+msgstr "Uploading speed depends on the quality of your network."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid " Please check the network settings or personal account permission settings and try to upload again."
+msgstr " Please check the network settings or personal account permission settings and try to upload again."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Thumbnail upload failed."
+msgstr "Thumbnail upload failed."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+msgstr "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Upload Failed"
+msgstr "Upload Failed"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Automatically delete video exported to local"
+msgstr "Automatically delete video exported to local"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version3"
+msgid "Authorization denied. Please sign in to your %1 account to proceed. "
+msgstr "Authorization denied. Please sign in to your %1 account to proceed. "
+

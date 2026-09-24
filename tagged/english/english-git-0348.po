@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FLoginFailedWebStateWidget-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FLoginFailedWebStateWidget-version3"
+msgid "Login Failed!"
+msgstr "Login Failed!"
+
+#: 
+msgctxt "FMarkerEditDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMarkerEditDialog-version3"
+msgid "DELETE"
+msgstr "DELETE"
+
+#: 
+msgctxt "FMarkerEditDialog-version3"
+msgid "Marker Editor"
+msgstr "Marker Editor"
+
+#: 
+msgctxt "FMaskRenameDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMaskRenameDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMaskRenameDlg-version3"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FMaskRenameDlg-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "If you need to change it, you can right-click the downloaded material and choose to download again."
+msgstr "If you need to change it, you can right-click the downloaded material and choose to download again."
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "Locate in the resource panel"
+msgstr "Locate in the resource panel"
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "In the process of locating..."
+msgstr "In the process of locating..."
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "Nothing Matched"
+msgstr "Nothing Matched"
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaLibraryView-version3"
+msgid "We will download the maximum resolution material for you by default."
+msgstr "We will download the maximum resolution material for you by default."
+
+#: 
+msgctxt "FMediaPretreatmentDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMediaPretreatmentDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaPropertyDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMediaPropertyDialog-version3"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FMediaPropertyDialog-version3"
+msgid "Adjust Frame Rate"
+msgstr "Adjust Frame Rate"
+
+#: 
+msgctxt "FMessageDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMessageDialog-version3"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FMessageDialog-version3"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "FMessageDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMessageDialog-version3"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+msgctxt "FMissingResourceListDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMissingResourceListDialog-version3"
+msgid "The following particles are not available at the resource level and need to be filled in:"
+msgstr "The following particles are not available at the resource level and need to be filled in:"
+
+#: 
+msgctxt "FMusicTrimDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMusicTrimDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Port number:"
+msgstr "Port number:"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "No Proxy"
+msgstr "No Proxy"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "User name:"
+msgstr "User name:"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "User proxy settings:"
+msgstr "User proxy settings:"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Proxy Settings"
+msgstr "Proxy Settings"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Use Windows default prxoy settings"
+msgstr "Use Windows default prxoy settings"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "SETTING"
+msgstr "SETTING"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Server:"
+msgstr "Server:"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Manual configrations"
+msgstr "Manual configrations"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Password:"
+msgstr "Password:"
+
+#: 
+msgctxt "FNetworkProxySetting-version3"
+msgid "Proxy Type:"
+msgstr "Proxy Type:"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "A tag with the same name already exists"
+msgstr "A tag with the same name already exists"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "Edit tag"
+msgstr "Edit tag"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "Enter a tag name"
+msgstr "Enter a tag name"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version3"
+msgid "Special characters are not allowed:"
+msgstr "Special characters are not allowed:"
+
+#: 
+msgctxt "FPathWritableCheckDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPathWritableCheckDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPathWritableCheckDlg-version3"
+msgid "The program does not have write permission to the following directories.\n"
+"Please select another directory to save:"
+msgstr "The program does not have write permission to the following directories.\n"
+"Please select another directory to save:"
+
+#: 
+msgctxt "FProjectSettingDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FProjectSettingDialog-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FProjectSettingDialog-version3"
+msgid "Save as default"
+msgstr "Save as default"
+
+#: 
+msgctxt "FProjectSettingDialog-version3"
+msgid "Project Settings"
+msgstr "Project Settings"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version3"
+msgid "Hold the \"Alt\" key, drag your clip from the media library, and drop it on top of template preset clip in the timeline to replace it."
+msgstr "Hold the \"Alt\" key, drag your clip from the media library, and drop it on top of template preset clip in the timeline to replace it."
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version3"
+msgid "Drag the template to the timeline"
+msgstr "Drag the template to the timeline"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version3"
+msgid "The Preset Templates can help you make video creation even quicker. You only need to replace the preset media clips with your own media files."
+msgstr "The Preset Templates can help you make video creation even quicker. You only need to replace the preset media clips with your own media files."
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version3"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version3"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+msgctxt "FPropertyRenameDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPropertyRenameDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyRenameDlg-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version3"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version3"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version3"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "Please enter valid content"
+msgstr "Please enter valid content"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "If auto split is off, only %1 characters can be processed at once."
+msgstr "If auto split is off, only %1 characters can be processed at once."
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "Quit AI Text Generation"
+msgstr "Quit AI Text Generation"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "AI is generating video copywriting. Are you sure you want to close?"
+msgstr "AI is generating video copywriting. Are you sure you want to close?"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "Login to use audio text transfer"
+msgstr "Login to use audio text transfer"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version3"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FRelocateMissingFilesDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FRelocateMissingFilesDialog-version3"
+msgid "Ignore"
+msgstr "Ignore"
+
+#: 
+msgctxt "FRelocateMissingFilesDialog-version3"
+msgid "LOCATE SELECTED"
+msgstr "LOCATE SELECTED"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FResourceDownloadFailTipDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FResourceDownloadFailTipDialog-version3"
+msgid "You can search and download them in the resources area"
+msgstr "You can search and download them in the resources area"
+
+#: 
+msgctxt "FResourceDownloadFailTipDialog-version3"
+msgid "Sorry, the following resources failed to download"
+msgstr "Sorry, the following resources failed to download"
+
+#: 
+msgctxt "FResourceDownloadFailTipDialog-version3"
+msgid "Sorry, the following font(s) are missing and will be replaced with the default font."
+msgstr "Sorry, the following font(s) are missing and will be replaced with the default font."
+
+#: 
+msgctxt "FResourceDownloadFailTipDialog-version3"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FSaveAsCustomDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FSaveAsCustomDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSaveAsCustomDlg-version3"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FSaveAsCustomDlg-version3"
+msgid "Name your custom mask and find it in the Custom category."
+msgstr "Name your custom mask and find it in the Custom category."
+
+#: 
+msgctxt "FSaveAsCustomDlg-version3"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FSaveAsPresetDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FSaveAsPresetDlg-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FSaveAsPresetDlg-version3"
+msgid "Name your custom color preset. It will be saved under the Custom category in Preset."
+msgstr "Name your custom color preset. It will be saved under the Custom category in Preset."
+
+#: 
+msgctxt "FSaveAsPresetDlg-version3"
+msgid "My Preset"
+msgstr "My Preset"
+

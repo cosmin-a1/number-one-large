@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "Remember my choice and no asking"
+msgstr "Remember my choice and no asking"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "loading download config"
+msgstr "loading download config"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "Downloading material(%1%)"
+msgstr "Downloading material(%1%)"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "4K 4K definition"
+msgstr "4K 4K definition"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "You can reset the pop-up window in preferences"
+msgstr "You can reset the pop-up window in preferences"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "Downloaded material(%1)"
+msgstr "Downloaded material(%1)"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "Connection timed out. Please wait for a while or check your network connection."
+msgstr "Connection timed out. Please wait for a while or check your network connection."
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "There are many kinds of definition in the current video, please select the definition you need to download"
+msgstr "There are many kinds of definition in the current video, please select the definition you need to download"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+msgstr "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "SD Standard definition"
+msgstr "SD Standard definition"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectPanel-version3"
+msgid "There are many kinds of definition in the current video, please select the definition you need to use"
+msgstr "There are many kinds of definition in the current video, please select the definition you need to use"
+
+#: 
+msgctxt "FWCCAskBindDiscDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FWCCAskBindDiscDlg-version3"
+msgid "Size : %1"
+msgstr "Size : %1"
+
+#: 
+msgctxt "FWCCAskBindDiscDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FWCCAskBindDiscDlg-version3"
+msgid "Upload to cloud disk"
+msgstr "Upload to cloud disk"
+
+#: 
+msgctxt "FWCCAskBindDiscDlg-version3"
+msgid "Cloud Address"
+msgstr "Cloud Address"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "Unlock Your Watermark-Free Export"
+msgstr "Unlock Your Watermark-Free Export"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "Successfully Redeemed"
+msgstr "Successfully Redeemed"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "Network Connection Error"
+msgstr "Network Connection Error"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "Your watermark-free export will be in your account in 0-5 minutes. Don't forget to share your first video with #FilmoraCenterStage on social to be the featured creator of the month!"
+msgstr "Your watermark-free export will be in your account in 0-5 minutes. Don't forget to share your first video with #FilmoraCenterStage on social to be the featured creator of the month!"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "Redeem Now"
+msgstr "Redeem Now"
+
+#: 
+msgctxt "FWaterMarkFreeRedeemDialog-version3"
+msgid "Tips: Here's your chance to export a video without watermarks! Click the button below to redeem your free export! This offer expires in 3 days."
+msgstr "Tips: Here's your chance to export a video without watermarks! Click the button below to redeem your free export! This offer expires in 3 days."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Translate files up to 1500 characters. Please reselect the file."
+msgstr "Translate files up to 1500 characters. Please reselect the file."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "You have no resource in project, please import media files first."
+msgstr "You have no resource in project, please import media files first."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "This computer does not meet the minimum specification for running AI machine learning related features like %1. These features require Intel 6th Gen or newer CPU."
+msgstr "This computer does not meet the minimum specification for running AI machine learning related features like %1. These features require Intel 6th Gen or newer CPU."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "This computer does not meet the minimum specification for running AI machine learning related features like Auto Reframe and AI Portrait. These features require Intel 6th Gen or newer CPU."
+msgstr "This computer does not meet the minimum specification for running AI machine learning related features like Auto Reframe and AI Portrait. These features require Intel 6th Gen or newer CPU."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "The interface jump failed, please close the current interface before proceeding."
+msgstr "The interface jump failed, please close the current interface before proceeding."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Incompatible File"
+msgstr "Incompatible File"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Only files within 30 minutes are supported for translation.Please select again."
+msgstr "Only files within 30 minutes are supported for translation.Please select again."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "No resources available"
+msgstr "No resources available"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Login to use audio transfer srt"
+msgstr "Login to use audio transfer srt"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Translate up to 10 tasks at a time. Please choose again."
+msgstr "Translate up to 10 tasks at a time. Please choose again."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "The media has been lost, please relocate it first."
+msgstr "The media has been lost, please relocate it first."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Only 1 hour file can be transcribed in a single task."
+msgstr "Only 1 hour file can be transcribed in a single task."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "System environment error. The application effect failed. Please contact us to solve."
+msgstr "System environment error. The application effect failed. Please contact us to solve."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Close this window and check the resources area on the main interface"
+msgstr "Close this window and check the resources area on the main interface"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Contact us"
+msgstr "Contact us"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "You can't quit Filmora directly right now, please close the popup window \"FX Editor\" first."
+msgstr "You can't quit Filmora directly right now, please close the popup window \"FX Editor\" first."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Unrecognized file content."
+msgstr "Unrecognized file content."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Login to use audio text transfer"
+msgstr "Login to use audio text transfer"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Thumbnail changed."
+msgstr "Thumbnail changed."
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "Application Effect Failed"
+msgstr "Application Effect Failed"
+
+#: 
+msgctxt "FilmoraMainForm-version3"
+msgid "No audio detected for the current file, please select the file again."
+msgstr "No audio detected for the current file, please select the file again."
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Oops!"
+msgstr "Oops!"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Drag file to start trimming"
+msgstr "Drag file to start trimming"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Importing a new video now will overwrite the existing file. Do you wish to continue?"
+msgstr "Importing a new video now will overwrite the existing file. Do you wish to continue?"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Notice"
+msgstr "Notice"
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "This file only has audio information, no video information, \n"
+"does not support exporting Instant Cutter."
+msgstr "This file only has audio information, no video information, \n"
+"does not support exporting Instant Cutter."
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid " Failed to cut video file."
+msgstr " Failed to cut video file."
+
+#: 
+msgctxt "LosslessCutter-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "When done:"
+msgstr "When done:"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Do Nothing"
+msgstr "Do Nothing"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "File Name:"
+msgstr "File Name:"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Open Output Folder"
+msgstr "Open Output Folder"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Send to Filmora"
+msgstr "Send to Filmora"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "LosslessOutputDialog-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "MessageWindow-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "MessageWindow-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Please Verify that all videos in the list have been analyzed successfully."
+msgstr "Please Verify that all videos in the list have been analyzed successfully."
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "%1 Videos"
+msgstr "%1 Videos"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "AutoReframe_Exit"
+msgstr "AutoReframe_Exit"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Are you sure you want to exit?"
+msgstr "Are you sure you want to exit?"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FAutoReframeDialog-version3"
+msgid "After switching scales, all videos will need to be analyzed again."
+msgstr "After switching scales, all videos will need to be analyzed again."
+
+#: 
+msgctxt "FCloudDiskMediaHelper-version3"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FCloudDiskMediaHelper-version3"
+msgid "Archive Tip"
+msgstr "Archive Tip"
+
+#: 
+msgctxt "FCloudDiskMediaHelper-version3"
+msgid "The cloud drive function is not avaliable in your current region."
+msgstr "The cloud drive function is not avaliable in your current region."
+

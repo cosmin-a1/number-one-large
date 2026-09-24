@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Denoise"
+msgstr "Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Key Words"
+msgstr "Key Words"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Adjustment"
+msgstr "Adjustment"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FPropertyGroup-version3"
+msgid "Vignette"
+msgstr "Vignette"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "3D Basic"
+msgstr "3D Basic"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "AI Tools"
+msgstr "AI Tools"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FPropertyHeader-version3"
+msgid "3D Animation"
+msgstr "3D Animation"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version3"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version3"
+msgid "Luminance"
+msgstr "Luminance"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version3"
+msgid "Saturation"
+msgstr "Saturation"
+
+#: 
+msgctxt "FThumbnailSelectItem-version3"
+msgid "NEW"
+msgstr "NEW"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+msgstr "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Low bit rate will reduce video quality."
+msgstr "Low bit rate will reduce video quality."
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "The most common compression method"
+msgstr "The most common compression method"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Encoder:"
+msgstr "Encoder:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Compression Quality:"
+msgstr "Compression Quality:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Medium"
+msgstr "Medium"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+msgstr "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Automatic"
+msgstr "Automatic"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Better compression quality keeps more details.And also takes more time to export."
+msgstr "Better compression quality keeps more details.And also takes more time to export."
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "High compression ratio and clear image"
+msgstr "High compression ratio and clear image"
+
+#: 
+msgctxt "FExportSettingDlg-version3"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Mid"
+msgstr "Mid"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Noise Volume"
+msgstr "Noise Volume"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Hum Removal"
+msgstr "Hum Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "DeReverb"
+msgstr "DeReverb"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "AI Speech Enhancement"
+msgstr "AI Speech Enhancement"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Normal Denoise"
+msgstr "Normal Denoise"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Hiss Removal"
+msgstr "Hiss Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Wind Removal"
+msgstr "Wind Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version3"
+msgid "Denoise Level"
+msgstr "Denoise Level"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version3"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version3"
+msgid "Fast"
+msgstr "Fast"
+

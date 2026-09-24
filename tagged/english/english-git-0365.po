@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Supports translating voices and texts in audio and video into multiple languages around the world"
+msgstr "Supports translating voices and texts in audio and video into multiple languages around the world"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+msgstr "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "AI Matting Tools"
+msgstr "AI Matting Tools"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Enable Timeline Snap"
+msgstr "Enable Timeline Snap"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Select a video with audio for automatic cutting based on its sound level."
+msgstr "Select a video with audio for automatic cutting based on its sound level."
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Show more features"
+msgstr "Show more features"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Trim the replaced clip"
+msgstr "Trim the replaced clip"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Quickly add text subtitles with one click"
+msgstr "Quickly add text subtitles with one click"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Keyframing"
+msgstr "Keyframing"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Automatically synchronize audio and video."
+msgstr "Automatically synchronize audio and video."
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Select a video with audio for automatic cutting based on its converted text."
+msgstr "Select a video with audio for automatic cutting based on its converted text."
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+msgstr "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+
+#: 
+msgctxt "FTimelineToolBarData-version3"
+msgid "Crop_timelineTitleBar"
+msgstr "Crop_timelineTitleBar"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Delete selected media on timeline"
+msgstr "Delete selected media on timeline"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Move the mouse inside the player to draw shapes, and press the 'Esc' shortcut key to end drawing mode when you're done."
+msgstr "Move the mouse inside the player to draw shapes, and press the 'Esc' shortcut key to end drawing mode when you're done."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Automatic conversion of video and audio files with audio to srt subtitle files."
+msgstr "Automatic conversion of video and audio files with audio to srt subtitle files."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Split"
+msgstr "Split"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Smart Cutout:"
+msgstr "Smart Cutout:"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Audio Meter"
+msgstr "Audio Meter"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Recognize text to automatically generate real voice, support male and female voices and other timbres"
+msgstr "Recognize text to automatically generate real voice, support male and female voices and other timbres"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Intelligently recognize speech and quickly generate corresponding text subtitles"
+msgstr "Intelligently recognize speech and quickly generate corresponding text subtitles"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "There is not enough free disk space to complete preview render, please free up some disk space and try again."
+msgstr "There is not enough free disk space to complete preview render, please free up some disk space and try again."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Automatically cut according to the text converted from the video."
+msgstr "Automatically cut according to the text converted from the video."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Remove everything with high accuracy,Remain portraits, merchandise, icons, items, etc."
+msgstr "Remove everything with high accuracy,Remain portraits, merchandise, icons, items, etc."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Extend or reduce the duration of your media."
+msgstr "Extend or reduce the duration of your media."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Chroma Key:"
+msgstr "Chroma Key:"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Adjust the speed of your media or play it backwards."
+msgstr "Adjust the speed of your media or play it backwards."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Automatic conversion of text to voice."
+msgstr "Automatic conversion of text to voice."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Alt+Left Click"
+msgstr "Alt+Left Click"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Choose a smaller section of your image to keep."
+msgstr "Choose a smaller section of your image to keep."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Draw Shapes"
+msgstr "Draw Shapes"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Match the selection's color to a reference frame."
+msgstr "Match the selection's color to a reference frame."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+msgstr "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Exit Audio Stretch"
+msgstr "Exit Audio Stretch"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+msgstr "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Disable Timeline Snap"
+msgstr "Disable Timeline Snap"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Click to exit Audio Stretch. You can trim the clip after exiting."
+msgstr "Click to exit Audio Stretch. You can trim the clip after exiting."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Find additional editing options like opacity, rotation, motion, and more."
+msgstr "Find additional editing options like opacity, rotation, motion, and more."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Supports translating voices and texts in audio and video into multiple languages around the world"
+msgstr "Supports translating voices and texts in audio and video into multiple languages around the world"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+msgstr "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "AI Matting Tools"
+msgstr "AI Matting Tools"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Enable Timeline Snap"
+msgstr "Enable Timeline Snap"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Select a video with audio for automatic cutting based on its sound level."
+msgstr "Select a video with audio for automatic cutting based on its sound level."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Change your background or create special effects."
+msgstr "Change your background or create special effects."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Show more features"
+msgstr "Show more features"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Automatically cut according to the sound level of the video."
+msgstr "Automatically cut according to the sound level of the video."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Trim the replaced clip"
+msgstr "Trim the replaced clip"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Quickly add text subtitles with one click"
+msgstr "Quickly add text subtitles with one click"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Keyframing"
+msgstr "Keyframing"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Automatically synchronize audio and video."
+msgstr "Automatically synchronize audio and video."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "AI Portrait:"
+msgstr "AI Portrait:"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Select a video with audio for automatic cutting based on its converted text."
+msgstr "Select a video with audio for automatic cutting based on its converted text."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+msgstr "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Crop_timelineTitleBar"
+msgstr "Crop_timelineTitleBar"
+
+#: 
+msgctxt "FTimelineToolbar-version3"
+msgid "Remove Background,Remain Human being."
+msgstr "Remove Background,Remain Human being."
+
+#: 
+msgctxt "FilmoraMenuBar-version3"
+msgid "Edit"
+msgstr "Edit"
+

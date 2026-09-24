@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version3"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version3"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version3"
+msgid "Our best and smartest model. Requires more processing time."
+msgstr "Our best and smartest model. Requires more processing time."
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version3"
+msgid "(Not compatible with this device)"
+msgstr "(Not compatible with this device)"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version3"
+msgid "Our first generation real-time processing model."
+msgstr "Our first generation real-time processing model."
+
+#: 
+msgctxt "FFSaveTextPresetPanel-version3"
+msgid "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+msgstr "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+
+#: 
+msgctxt "FFSaveTextPresetPanel-version3"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FFSpeechToTextParamDialog-version3"
+msgid "Speech-to-Text parameter setting"
+msgstr "Speech-to-Text parameter setting"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version3"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version3"
+msgid "Ignore Alpha"
+msgstr "Ignore Alpha"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version3"
+msgid "Premultiplied Alpha"
+msgstr "Premultiplied Alpha"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version3"
+msgid "Straight Alpha"
+msgstr "Straight Alpha"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version3"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version3"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version3"
+msgid "Select Color"
+msgstr "Select Color"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version3"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version3"
+msgid "Offset"
+msgstr "Offset"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version3"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FStoryboard-version3"
+msgid "It is not allowed to add material befor opener"
+msgstr "It is not allowed to add material befor opener"
+
+#: 
+msgctxt "FStoryboard-version3"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+msgctxt "FStoryboard-version3"
+msgid "It is not allowed to add material after credits"
+msgstr "It is not allowed to add material after credits"
+
+#: 
+msgctxt "FFResourceConvertDialog-version3"
+msgid "Color Preset"
+msgstr "Color Preset"
+
+#: 
+msgctxt "FFResourceConvertDialog-version3"
+msgid "Load Preset"
+msgstr "Load Preset"
+
+#: 
+msgctxt "FFResourceConvertDialog-version3"
+msgid "Share Media"
+msgstr "Share Media"
+
+#: 
+msgctxt "FFResourceConvertDialog-version3"
+msgid "My Music"
+msgstr "My Music"
+
+#: 
+msgctxt "FFResourceConvertDialog-version3"
+msgid "Custom Title"
+msgstr "Custom Title"
+
+#: 
+msgctxt "FFResourceConvertDialog-version3"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Purchase %1 for unlimited exports. Paid assets you have used:"
+msgstr "Purchase %1 for unlimited exports. Paid assets you have used:"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Purchase Filmora X and paid resources for unlimited exports"
+msgstr "Purchase Filmora X and paid resources for unlimited exports"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Login and Export"
+msgstr "Login and Export"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Paid Filmstock resources you have used:"
+msgstr "Paid Filmstock resources you have used:"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Re-edit"
+msgstr "Re-edit"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Remove and Export"
+msgstr "Remove and Export"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version3"
+msgid "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+msgstr "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+
+#: 
+msgctxt "FProjectFileConverDialog-version3"
+msgid "Converting Project..."
+msgstr "Converting Project..."
+
+#: 
+msgctxt "FProjectFileConverDialog-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FAIPortraitPresenter-version3"
+msgid "Applying AI Portrait Cutout will automatically cancel the AI Frame Interpolation task. Continue?"
+msgstr "Applying AI Portrait Cutout will automatically cancel the AI Frame Interpolation task. Continue?"
+
+#: 
+msgctxt "FAIPortraitPresenter-version3"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+msgctxt "FMediaPlayerPreviewGuideWidget-version3"
+msgid "Click here to preview your video"
+msgstr "Click here to preview your video"
+
+#: 
+msgctxt "FPropertyTitleActiveWordsWidget-version3"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FTimelineSharedClipPresenter-version3"
+msgid "Name this compound clip. You will be able to find it in your project folder"
+msgstr "Name this compound clip. You will be able to find it in your project folder"
+
+#: 
+msgctxt "FTimelineSharedClipPresenter-version3"
+msgid "Rename the name of this clip to help you quickly find it on the timeline"
+msgstr "Rename the name of this clip to help you quickly find it on the timeline"
+
+#: 
+msgctxt "FFissionActivityWidget-version3"
+msgid "Refer Friends and Get Rewarded"
+msgstr "Refer Friends and Get Rewarded"
+
+#: 
+msgctxt "FFissionActivityWidget-version3"
+msgid "Get Rewards"
+msgstr "Get Rewards"
+
+#: 
+msgctxt "FFissionActivityWidget-version3"
+msgid "If your friend successfully signs up for Filmora, you will both get a membership of Filmora."
+msgstr "If your friend successfully signs up for Filmora, you will both get a membership of Filmora."
+
+#: 
+msgctxt "FSubtitleToTitleProgressDialog-version3"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+msgctxt "FSubtitleToTitleProgressDialog-version3"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+msgctxt "FVobRepairService-version3"
+msgid "Convert to mpg"
+msgstr "Convert to mpg"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Setup Proxy"
+msgstr "Setup Proxy"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Don't have a Wondershare ID? "
+msgstr "Don't have a Wondershare ID? "
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Forget your password?"
+msgstr "Forget your password?"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Password"
+msgstr "Password"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Login to your Wondershare ID"
+msgstr "Login to your Wondershare ID"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Email address"
+msgstr "Email address"
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "This account doesn't exist. Enter a different account or create a new one."
+msgstr "This account doesn't exist. Enter a different account or create a new one."
+
+#: 
+msgctxt "FUserLoginPage-version3"
+msgid "Create account"
+msgstr "Create account"
+
+#: 
+msgctxt "FAIErasingDialog-version3"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FAccountNormalPage-version3"
+msgid "24*7 Customer Support"
+msgstr "24*7 Customer Support"
+
+#: 
+msgctxt "FAccountNormalPage-version3"
+msgid "LOGIN NOW TO ENJOY"
+msgstr "LOGIN NOW TO ENJOY"
+
+#: 
+msgctxt "FAccountNormalPage-version3"
+msgid "Easy Video Exporting"
+msgstr "Easy Video Exporting"
+
+#: 
+msgctxt "FAccountNormalPage-version3"
+msgid "Advanced AI Features"
+msgstr "Advanced AI Features"
+
+#: 
+msgctxt "FAccountNormalPage-version3"
+msgid "Extensive Tutorial Library"
+msgstr "Extensive Tutorial Library"
+
+#: 
+msgctxt "FAccountNormalPage-version3"
+msgid "Early Access to New Features"
+msgstr "Early Access to New Features"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "24*7 Customer Support"
+msgstr "24*7 Customer Support"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "Required for AIGC Features"
+msgstr "Required for AIGC Features"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "Extensive Tutorial Library"
+msgstr "Extensive Tutorial Library"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "Early Access to New Features"
+msgstr "Early Access to New Features"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "SIGN UP NOW TO EXPORT YOUR WATERMARK-FREE VIDEO"
+msgstr "SIGN UP NOW TO EXPORT YOUR WATERMARK-FREE VIDEO"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "In addition, you can enjoy:"
+msgstr "In addition, you can enjoy:"
+
+#: 
+msgctxt "FAccountWatermarkPage-version3"
+msgid "100 AI Credits for New AI Features"
+msgstr "100 AI Credits for New AI Features"
+
+#: 
+msgctxt "FTemplateEditTextWidget-version3"
+msgid "There is no text yet, you can go to the timeline and add more."
+msgstr "There is no text yet, you can go to the timeline and add more."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidgetClass-version3"
+msgid "Analysing stabilization..."
+msgstr "Analysing stabilization..."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidgetClass-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSubtitleToTitleProgressPanel-version3"
+msgid "Please wait, converting to SRT..."
+msgstr "Please wait, converting to SRT..."
+
+#: 
+msgctxt "FSubtitleToTitleProgressPanel-version3"
+msgid "Please wait, converting to Titles..."
+msgstr "Please wait, converting to Titles..."
+
+#: 
+msgctxt "FFCloudResourceReplyEventHandler-version3"
+msgid "Network error. Favorite wasn't saved."
+msgstr "Network error. Favorite wasn't saved."
+
+#: 
+msgctxt "FPropertyTextNoneWidget-version3"
+msgid "No editable items, please select at least one item to edit"
+msgstr "No editable items, please select at least one item to edit"
+
+#: 
+msgctxt "FPropertyTextNoneWidget-version3"
+msgid "Nothing to configure.\n"
+"Select a text box in the Previewer to continue."
+msgstr "Nothing to configure.\n"
+"Select a text box in the Previewer to continue."
+
+#: 
+msgctxt "FDurationSettingPanel-version3"
+msgid "HR:MIN:SEC:FR"
+msgstr "HR:MIN:SEC:FR"
+
+#: 
+msgctxt "FDurationSettingPanel-version3"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FDurationSettingPanel-version3"
+msgid "Adjustment failed: No extra space to apply duration. If you need to adjust, the ripple editor must be opened."
+msgstr "Adjustment failed: No extra space to apply duration. If you need to adjust, the ripple editor must be opened."
+
+#: 
+msgctxt "FDurationSettingPanel-version3"
+msgid "Input Duration:"
+msgstr "Input Duration:"
+
+#: 
+msgctxt "FQuickTutorialReward-version3"
+msgid "Thanks for Completing the Walkthrough with Us!"
+msgstr "Thanks for Completing the Walkthrough with Us!"
+
+#: 
+msgctxt "FQuickTutorialReward-version3"
+msgid "Now export your own video without watermark! Offer expires in three days."
+msgstr "Now export your own video without watermark! Offer expires in three days."
+
+#: 
+msgctxt "FQuickTutorialReward-version3"
+msgid "Click Here to Redeem"
+msgstr "Click Here to Redeem"
+
+#: 
+msgctxt "FProjectCoverPresenter-version3"
+msgid "Changing the template will clear the currently applied effect."
+msgstr "Changing the template will clear the currently applied effect."
+
+#: 
+msgctxt "FProjectCoverPresenter-version3"
+msgid "Change template"
+msgstr "Change template"
+
+#: 
+msgctxt "FProjectCoverPresenter-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectCoverPresenter-version3"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FProjectCoverPresenter-version3"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FProjectCoverPresenter-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Background Tasks"
+msgstr "Background Tasks"
+

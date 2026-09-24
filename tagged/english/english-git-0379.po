@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version3"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Append"
+msgstr "Append"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Random to Selected Clips"
+msgstr "Random to Selected Clips"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+msgctxt "FEffectContentMenu-version3"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+msgctxt "FEqualizerDlg-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FEqualizerDlg-version3"
+msgid "Customize Equalizer"
+msgstr "Customize Equalizer"
+
+#: 
+msgctxt "FEqualizerDlg-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFAudioMixerPanel-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FFAudioMixerPanel-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FFAudioMixerPanel-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FFAudioMixerPanel-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFCropAndZoomPanelPrivate-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FFCropAndZoomPanelPrivate-version3"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFCropAndZoomPanelPrivate-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFCropAndZoomPanelPrivate-version3"
+msgid "Switch"
+msgstr "Switch"
+
+#: 
+msgctxt "FPropertyAdvanceSSColorLutWidget-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyAdvanceSSColorLutWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyAdvanceSSColorLutWidget-version3"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyAdvanceSSColorLutWidget-version3"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+msgctxt "FPropertyAdvanceSSColorLutWidget-version3"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+msgctxt "FPropertyAnimationListView-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "Media Cache"
+msgstr "Media Cache"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "Performance"
+msgstr "Performance"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "Editing"
+msgstr "Editing"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "Preferences"
+msgstr "Preferences"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "Folders"
+msgstr "Folders"
+
+#: 
+msgctxt "FSettingDialogPrivate-version3"
+msgid "General"
+msgstr "General"
+
+#: 
+msgctxt "FCloudMediaTableItemPainter-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FCloudMediaTableItemPainter-version3"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FCloudMediaTableItemPainter-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FCloudMediaTableItemPainter-version3"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+msgctxt "FCloudMediaTableItemPainter-version3"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FCloudMediaTableItemPainter-version3"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Reference attached"
+msgstr "Reference attached"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Upload failed, please retry"
+msgstr "Upload failed, please retry"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Tell us what you need"
+msgstr "Tell us what you need"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Upload failed, the selected file exceeds 1G."
+msgstr "Upload failed, the selected file exceeds 1G."
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "I need \"Glitch Effects\" to make my dance video, please refer to the related link for the effects https://xxx.xxx.xxx"
+msgstr "I need \"Glitch Effects\" to make my dance video, please refer to the related link for the effects https://xxx.xxx.xxx"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Contact you with"
+msgstr "Contact you with"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "What type of resources are you giving feedback about?*"
+msgstr "What type of resources are you giving feedback about?*"
+
+#: 
+msgctxt "FDemandCollectionDialog-version3"
+msgid "Describe the resources you need*"
+msgstr "Describe the resources you need*"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "other"
+msgstr "other"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "protocol errors"
+msgstr "protocol errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "content errors"
+msgstr "content errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "proxy errors"
+msgstr "proxy errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Request pack detail error"
+msgstr "Request pack detail error"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Server side errors"
+msgstr "Server side errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Disk space is not enough"
+msgstr "Disk space is not enough"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "s effects"
+msgstr "s effects"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Element"
+msgstr "Element"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "Unknown error"
+msgstr "Unknown error"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version3"
+msgid "network layer errors"
+msgstr "network layer errors"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version3"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version3"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version3"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version3"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version3"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version3"
+msgid "Filters"
+msgstr "Filters"
+

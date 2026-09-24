@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version3"
+msgid "Operations"
+msgstr "Operations"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version3"
+msgid "Folder is not writable."
+msgstr "Folder is not writable."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version3"
+msgid "There are no tasks currently in progress, select files to download!"
+msgstr "There are no tasks currently in progress, select files to download!"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version3"
+msgid "Unwritable Tip"
+msgstr "Unwritable Tip"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version3"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version3"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version3"
+msgid "Roundness"
+msgstr "Roundness"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version3"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version3"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version3"
+msgid "Exposure"
+msgstr "Exposure"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version3"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version3"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version3"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version3"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version3"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version3"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version3"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version3"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyVideoBorderWidget-version3"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyVideoBorderWidget-version3"
+msgid "Select Color"
+msgstr "Select Color"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version3"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version3"
+msgid "What kind of videos do you create? Your answer will help us decide what video effects to make next.(Max 3 choices)"
+msgstr "What kind of videos do you create? Your answer will help us decide what video effects to make next.(Max 3 choices)"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version3"
+msgid "SUBMIT"
+msgstr "SUBMIT"
+
+#: 
+msgctxt "FWaitStopAutoCreateDlg-version3"
+msgid "Stay"
+msgstr "Stay"
+
+#: 
+msgctxt "FWaitStopAutoCreateDlg-version3"
+msgid "Leave"
+msgstr "Leave"
+
+#: 
+msgctxt "FWaitStopAutoCreateDlg-version3"
+msgid "Your video's still being processed. Are you sure you want to leave?"
+msgstr "Your video's still being processed. Are you sure you want to leave?"
+
+#: 
+msgctxt "FFMiniRecordPanel-version3"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "FFMiniRecordPanel-version3"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FFMiniRecordPanel-version3"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFMiniRecordPanel-version3"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+msgctxt "FFMiniRecordPanel-version3"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FFTrackingProgressWidget-version3"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "FFTrackingProgressWidget-version3"
+msgid "Tracking processing"
+msgstr "Tracking processing"
+
+#: 
+msgctxt "FScenceDetectionPanel-version3"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "FScenceDetectionPanel-version3"
+msgid "Detect"
+msgstr "Detect"
+
+#: 
+msgctxt "FScenceDetectionPanel-version3"
+msgid "Finish and Replace"
+msgstr "Finish and Replace"
+
+#: 
+msgctxt "FScenceDetectionPanel-version3"
+msgid "Add To Timeline"
+msgstr "Add To Timeline"
+
+#: 
+msgctxt "FScenceDetectionPanel-version3"
+msgid "Import Resource"
+msgstr "Import Resource"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Test"
+msgstr "Test"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Notice"
+msgstr "Notice"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Campaign"
+msgstr "Campaign"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Function"
+msgstr "Function"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Research"
+msgstr "Research"
+
+#: 
+msgctxt "FCaddyItemView-version3"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Double click to expand timeline editing."
+msgstr "Double click to expand timeline editing."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Tips"
+msgstr "Tips"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Drag the asset to the timeline"
+msgstr "Drag the asset to the timeline"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Try switching layouts"
+msgstr "Try switching layouts"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Select Creatives"
+msgstr "Select Creatives"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "After selecting a picture for the thumbnail, click 'Edit' to jump to the cover editing interface and customize your video thumbnail"
+msgstr "After selecting a picture for the thumbnail, click 'Edit' to jump to the cover editing interface and customize your video thumbnail"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Smart Search"
+msgstr "Smart Search"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Edit Clip"
+msgstr "Edit Clip"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Click here to import media."
+msgstr "Click here to import media."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "You can change the default path to unify the paths of screenshot files, backup files, recording files, rendering files, etc.by changing the default path."
+msgstr "You can change the default path to unify the paths of screenshot files, backup files, recording files, rendering files, etc.by changing the default path."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Template Edit"
+msgstr "Template Edit"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Switch Compound Clips"
+msgstr "Switch Compound Clips"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Support multiple audio and video for fast synchronization! Come and experience it!"
+msgstr "Support multiple audio and video for fast synchronization! Come and experience it!"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Draw masks of any shapes in the player"
+msgstr "Draw masks of any shapes in the player"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Quickly insert clip into the timeline"
+msgstr "Quickly insert clip into the timeline"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Upgrade template experience, support one-click material replacement.Experience super fast large screen to watch the template video"
+msgstr "Upgrade template experience, support one-click material replacement.Experience super fast large screen to watch the template video"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Click to import images"
+msgstr "Click to import images"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Right click on the keyframe and check \"Continuous Curve\""
+msgstr "Right click on the keyframe and check \"Continuous Curve\""
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Click here to modify the clip."
+msgstr "Click here to modify the clip."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Now you can composite multiple clips into one clip."
+msgstr "Now you can composite multiple clips into one clip."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Double-click a keyframe to enter a value."
+msgstr "Double-click a keyframe to enter a value."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Check \"Display full clip\" to display the full clip"
+msgstr "Check \"Display full clip\" to display the full clip"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Track Object"
+msgstr "Track Object"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Double-click to replace material in the last shift."
+msgstr "Double-click to replace material in the last shift."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Switch to \"Default layout\" for easier editing."
+msgstr "Switch to \"Default layout\" for easier editing."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Play at double speed"
+msgstr "Play at double speed"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Adjustment layers can make uniform adjustments to the colors of a range of clips."
+msgstr "Adjustment layers can make uniform adjustments to the colors of a range of clips."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Selecting multiple vertices lets you delete and move vertices in batches"
+msgstr "Selecting multiple vertices lets you delete and move vertices in batches"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "New zooming window feature for you to see more projects!"
+msgstr "New zooming window feature for you to see more projects!"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Start cloning your voice"
+msgstr "Start cloning your voice"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "You can copy/paste/delete text and the corresponding screen here."
+msgstr "You can copy/paste/delete text and the corresponding screen here."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Drag the mouse over the blank area to make the window independent."
+msgstr "Drag the mouse over the blank area to make the window independent."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Click to download all assets of this page"
+msgstr "Click to download all assets of this page"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Press and hold the J and L keys + K key: slow video playback."
+msgstr "Press and hold the J and L keys + K key: slow video playback."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "For marketing, we provide creative services such as Intros, Outros, Covers, Logo Reveal, Creative Text, etc."
+msgstr "For marketing, we provide creative services such as Intros, Outros, Covers, Logo Reveal, Creative Text, etc."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Add Video or Picture"
+msgstr "Add Video or Picture"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "I know"
+msgstr "I know"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Select unwanted objects in the video clip to remove them. Track dynamic objects and fill in the blanks created by the removal with AI."
+msgstr "Select unwanted objects in the video clip to remove them. Track dynamic objects and fill in the blanks created by the removal with AI."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Influence Kit"
+msgstr "Influence Kit"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Create a new title here"
+msgstr "Create a new title here"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Got It"
+msgstr "Got It"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Old versions of tones are all under this category."
+msgstr "Old versions of tones are all under this category."
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Click to add Curve"
+msgstr "Click to add Curve"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "New way to add keyframes"
+msgstr "New way to add keyframes"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "Check \"Display Audio Waveform\" to turn on the waveform"
+msgstr "Check \"Display Audio Waveform\" to turn on the waveform"
+
+#: 
+msgctxt "FFFunctionTips-version3"
+msgid "You can double-click on these types of media in the project media section to get the scene detection file"
+msgstr "You can double-click on these types of media in the project media section to get the scene detection file"
+

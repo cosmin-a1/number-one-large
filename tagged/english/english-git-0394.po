@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Toolbox"
+msgstr "Toolbox"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Layout Mode"
+msgstr "Layout Mode"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version3"
+msgid "Shortcut"
+msgstr "Shortcut"
+
+#: 
+msgctxt "FFSmartKeyingSettingWidget-version3"
+msgid "Simple Mode"
+msgstr "Simple Mode"
+
+#: 
+msgctxt "FFSmartKeyingSettingWidget-version3"
+msgid "Advanced Mode"
+msgstr "Advanced Mode"
+
+#: 
+msgctxt "FCreatePrjGuideWidget_Normal-version3"
+msgid "Click here to start your first video"
+msgstr "Click here to start your first video"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "100,000 Resources"
+msgstr "100,000 Resources"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version3"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FTimelineSpeedActionPresenter-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FTimelineSpeedActionPresenter-version3"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "FAIMusicStartView-version3"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+msgctxt "FAIMusicStartView-version3"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+msgctxt "FPropertyBaseWidget-version3"
+msgid "Corrupted file, function not available"
+msgstr "Corrupted file, function not available"
+
+#: 
+msgctxt "FTimelineClipVisibleActionPresenter-version3"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+msgctxt "FTimelineClipVisibleActionPresenter-version3"
+msgid "Disable Clip"
+msgstr "Disable Clip"
+
+#: 
+msgctxt "FAccountCenterUserInfoWidget-version3"
+msgid "Please Login"
+msgstr "Please Login"
+
+#: 
+msgctxt "FAccountCenterUserInfoWidget-version3"
+msgid "Refresh Authorization"
+msgstr "Refresh Authorization"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Only translate text"
+msgstr "Only translate text"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Translate voice and text"
+msgstr "Translate voice and text"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Select Language"
+msgstr "Select Language"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Target Language:"
+msgstr "Target Language:"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Translation Type:"
+msgstr "Translation Type:"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version3"
+msgid "Source Language:"
+msgstr "Source Language:"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version3"
+msgid "Adjust Level"
+msgstr "Adjust Level"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version3"
+msgid "Device Model"
+msgstr "Device Model"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version3"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "FilmoraCN Download Center"
+msgstr "FilmoraCN Download Center"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Effect Store"
+msgstr "Effect Store"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+msgstr "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid " resource special effects package? Local resources are not deleted."
+msgstr " resource special effects package? Local resources are not deleted."
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Do you want to delete the task of the resource special effects package of "
+msgstr "Do you want to delete the task of the resource special effects package of "
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Do you want to delete the download record of "
+msgstr "Do you want to delete the download record of "
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid "Minimize windows"
+msgstr "Minimize windows"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version3"
+msgid " ? After deletion, you need to download it from the resource store again."
+msgstr " ? After deletion, you need to download it from the resource store again."
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version3"
+msgid "Track Setting"
+msgstr "Track Setting"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version3"
+msgid "Click to start Motion Track"
+msgstr "Click to start Motion Track"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version3"
+msgid "Link Element"
+msgstr "Link Element"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version3"
+msgid "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+msgstr "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version3"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version3"
+msgid "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+msgstr "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version3"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version3"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version3"
+msgid "Conversion Rules"
+msgstr "Conversion Rules"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version3"
+msgid "Layer panel:"
+msgstr "Layer panel:"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version3"
+msgid "I know"
+msgstr "I know"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version3"
+msgid "customize text and effect \n"
+"in a scene"
+msgstr "customize text and effect \n"
+"in a scene"
+
+#: 
+msgctxt "FEnterAdvancedEditRefreshDialog-version3"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FTryLimitRefreshDialog-version3"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FTryLimitRefreshDialog-version3"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version3"
+msgid "Filename too long"
+msgstr "Filename too long"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version3"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version3"
+msgid "Set as the default address"
+msgstr "Set as the default address"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version3"
+msgid "The file name is too long may cause the file cannot be opened after downloading"
+msgstr "The file name is too long may cause the file cannot be opened after downloading"
+
+#: 
+msgctxt "FFTimelinePresenter-version3"
+msgid "Please select the clip with audio in the timeline."
+msgstr "Please select the clip with audio in the timeline."
+
+#: 
+msgctxt "FFTimelinePresenter-version3"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+msgctxt "FFTimelinePresenter-version3"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+msgctxt "FFTimelinePresenter-version3"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+
+#: 
+msgctxt "FFTimelinePresenter-version3"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+msgctxt "FVoiceCloneMainWidget-version3"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+msgctxt "FVoiceCloneMainWidget-version3"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FElementModeBar-version3"
+msgid "Search stickers"
+msgstr "Search stickers"
+
+#: 
+msgctxt "FElementModeBar-version3"
+msgid "Search my favorite stickers"
+msgstr "Search my favorite stickers"
+
+#: 
+msgctxt "FElementModeBar-version3"
+msgid "Search your generated AI Sticker."
+msgstr "Search your generated AI Sticker."
+
+#: 
+msgctxt "FElementModeBar-version3"
+msgid "Search downloaded stickers"
+msgstr "Search downloaded stickers"
+
+#: 
+msgctxt "MainWindow-version3"
+msgid "Wondershare Filmora Uninstaller"
+msgstr "Wondershare Filmora Uninstaller"
+
+#: 
+msgctxt "MainWindow-version3"
+msgid "Install failed."
+msgstr "Install failed."
+
+#: 
+msgctxt "MainWindow-version3"
+msgid "You are already the latest version!"
+msgstr "You are already the latest version!"
+
+#: 
+msgctxt "MainWindow-version3"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "MainWindow-version3"
+msgid "Failed to check update!"
+msgstr "Failed to check update!"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version3"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version3"
+msgid "File Path"
+msgstr "File Path"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version3"
+msgid "Rename files"
+msgstr "Rename files"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version3"
+msgid "The file name exceeds the length limit, will be renamed to:"
+msgstr "The file name exceeds the length limit, will be renamed to:"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version3"
+msgid "New Name"
+msgstr "New Name"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version3"
+msgid "Replace it"
+msgstr "Replace it"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version3"
+msgid "Replace watermarked footages"
+msgstr "Replace watermarked footages"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version3"
+msgid "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+msgstr "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+
+#: 
+msgctxt "FFTextModifiedTimelineEffectWidget-version3"
+msgid "Select a image file"
+msgstr "Select a image file"
+

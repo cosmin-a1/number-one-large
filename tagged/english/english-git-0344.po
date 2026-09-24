@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version3"
+msgid "Vectorscope"
+msgstr "Vectorscope"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version3"
+msgid "Waveform"
+msgstr "Waveform"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version3"
+msgid "Histogram"
+msgstr "Histogram"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version3"
+msgid "Channels"
+msgstr "Channels"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "s"
+msgstr "s"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "All_2"
+msgstr "All_2"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "min_2"
+msgstr "min_2"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "No limit"
+msgstr "No limit"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "ptftPortrait"
+msgstr "ptftPortrait"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "ptftLandscape"
+msgstr "ptftLandscape"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version3"
+msgid "ptftSquare"
+msgstr "ptftSquare"
+
+#: 
+msgctxt "FFStandardProgressDialog-version3"
+msgid "0%"
+msgstr "0%"
+
+#: 
+msgctxt "FFStandardProgressDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version3"
+msgid "1x"
+msgstr "1x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version3"
+msgid "5x"
+msgstr "5x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version3"
+msgid "10x"
+msgstr "10x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version3"
+msgid "0.1x"
+msgstr "0.1x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version3"
+msgid "0.5x"
+msgstr "0.5x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FImportMediaItem-version3"
+msgid "AI"
+msgstr "AI"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "D5"
+msgstr "D5"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "D9"
+msgstr "D9"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "CBR"
+msgstr "CBR"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "PAL"
+msgstr "PAL"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "VBR"
+msgstr "VBR"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "NTSC"
+msgstr "NTSC"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Convert DVD ISO image!"
+msgstr "Convert DVD ISO image!"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Folder Path:"
+msgstr "Folder Path:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "High Video Quality"
+msgstr "High Video Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Failed to create DVD directory."
+msgstr "Failed to create DVD directory."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Converting file %1"
+msgstr "Converting file %1"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Export failed."
+msgstr "Export failed."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Output Type:"
+msgstr "Output Type:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Step: create DVD directory"
+msgstr "Step: create DVD directory"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "TV Standard:"
+msgstr "TV Standard:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Burn to Disc..."
+msgstr "Burn to Disc..."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Mid Video Quality"
+msgstr "Mid Video Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Low Video Quality"
+msgstr "Low Video Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Label:"
+msgstr "Label:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "My DVD"
+msgstr "My DVD"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Disc Type:"
+msgstr "Disc Type:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Create DVD path %1"
+msgstr "Create DVD path %1"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Ratio:"
+msgstr "Ratio:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Please choose a folder before you convert."
+msgstr "Please choose a folder before you convert."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Capacity:"
+msgstr "Capacity:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Create image file"
+msgstr "Create image file"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Erase Disc..."
+msgstr "Erase Disc..."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Output Settings"
+msgstr "Output Settings"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Burn to DVD"
+msgstr "Burn to DVD"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Convert DVD iso image failed."
+msgstr "Convert DVD iso image failed."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Prepare file data"
+msgstr "Prepare file data"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "No Device."
+msgstr "No Device."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "DVD burn failed."
+msgstr "DVD burn failed."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Not enough disk space."
+msgstr "Not enough disk space."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Buffering..."
+msgstr "Buffering..."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Closing Disc..."
+msgstr "Closing Disc..."
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "Conversion complete!"
+msgstr "Conversion complete!"
+
+#: 
+msgctxt "FExportDVDPanel-version3"
+msgid "DVD description"
+msgstr "DVD description"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version3"
+msgid "GO"
+msgstr "GO"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version3"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version3"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version3"
+msgid "Your project has been saved as a template successfully. You can find it in the \"Mine-Custom\" category under \"Templates\"."
+msgstr "Your project has been saved as a template successfully. You can find it in the \"Mine-Custom\" category under \"Templates\"."
+
+#: 
+msgctxt "FPropertyAnimationPresetWidget-version3"
+msgid "In"
+msgstr "In"
+
+#: 
+msgctxt "FPropertyAnimationPresetWidget-version3"
+msgid "Out"
+msgstr "Out"
+
+#: 
+msgctxt "FPropertyAnimationPresetWidget-version3"
+msgid "Loop"
+msgstr "Loop"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "AI Image (Beta)"
+msgstr "AI Image (Beta)"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "Close AI Image"
+msgstr "Close AI Image"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "Image downloaded to Stock Media-AI Image-Generated"
+msgstr "Image downloaded to Stock Media-AI Image-Generated"
+
+#: 
+msgctxt "FAIDrawingDialog-version3"
+msgid "When you close AI image，your generated image records will be cleared but your downloaded image will not be affected."
+msgstr "When you close AI image，your generated image records will be cleared but your downloaded image will not be affected."
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Tag Combination"
+msgstr "Tag Combination"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version3"
+msgid "RetryCompound"
+msgstr "RetryCompound"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "Video language to be transcribed:"
+msgstr "Video language to be transcribed:"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "Text-based editing"
+msgstr "Text-based editing"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "You can delete the clips you want to remove based on the sound level of the video."
+msgstr "You can delete the clips you want to remove based on the sound level of the video."
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "Sound-based editing"
+msgstr "Sound-based editing"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "You can delete the clips you want to remove based on the text converted from the video."
+msgstr "You can delete the clips you want to remove based on the text converted from the video."
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version3"
+msgid "Please choose the editing method:"
+msgstr "Please choose the editing method:"
+

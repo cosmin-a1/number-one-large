@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Link:"
+msgstr "Link:"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Click \"Copy\" to quickly copy the link and share it with others!"
+msgstr "Click \"Copy\" to quickly copy the link and share it with others!"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Shared link and password have been copied"
+msgstr "Shared link and password have been copied"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Password:"
+msgstr "Password:"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version3"
+msgid "Extraction code"
+msgstr "Extraction code"
+
+#: 
+msgctxt "FFFile-version3"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFFile-version3"
+msgid "Allow"
+msgstr "Allow"
+
+#: 
+msgctxt "FFFile-version3"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FCropClipPresenter-version3"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+msgctxt "FCropClipPresenter-version3"
+msgid "Choose a smaller section of your image to keep."
+msgstr "Choose a smaller section of your image to keep."
+
+#: 
+msgctxt "FFCropTopBar-version3"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+msgctxt "FFCropTopBar-version3"
+msgid "Pan && Zoom"
+msgstr "Pan && Zoom"
+
+#: 
+msgctxt "FTemplateStoryboardView-version3"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+msgctxt "FTemplateStoryboardView-version3"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+msgctxt "FTemplateStoryboardView-version3"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FTemplateStoryboardView-version3"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FTemplateStoryboardView-version3"
+msgid "Automatically repeat replacement for identical media"
+msgstr "Automatically repeat replacement for identical media"
+
+#: 
+msgctxt "FTrimView-version3"
+msgid "Done"
+msgstr "Done"
+
+#: 
+msgctxt "FTrimView-version3"
+msgid "Mute Import Media"
+msgstr "Mute Import Media"
+
+#: 
+msgctxt "FTrimView-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTrimView-version3"
+msgid "Unmute Import Media"
+msgstr "Unmute Import Media"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Done"
+msgstr "Done"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Uninstall Failed"
+msgstr "Uninstall Failed"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Subscribe to get the latest updates"
+msgstr "Subscribe to get the latest updates"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "More Apps You Might Like"
+msgstr "More Apps You Might Like"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Email address"
+msgstr "Email address"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Time remaining: About %1 seconds"
+msgstr "Time remaining: About %1 seconds"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Time remaining: About 15 seconds"
+msgstr "Time remaining: About 15 seconds"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "More Products"
+msgstr "More Products"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Your uninstallation encountered errors. Please try uninstalling again."
+msgstr "Your uninstallation encountered errors. Please try uninstalling again."
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Successfully uninstalled"
+msgstr "Successfully uninstalled"
+
+#: 
+msgctxt "UninstallPage-version3"
+msgid "Thanks for your feedback! Uninstalling..."
+msgstr "Thanks for your feedback! Uninstalling..."
+
+#: 
+msgctxt "FMaskWindow-version3"
+msgid "Earn"
+msgstr "Earn"
+
+#: 
+msgctxt "FMaskWindow-version3"
+msgid "Test"
+msgstr "Test"
+
+#: 
+msgctxt "FMaskWindow-version3"
+msgid "export after finishing the walkthrough"
+msgstr "export after finishing the walkthrough"
+
+#: 
+msgctxt "FMaskWindow-version3"
+msgid "Click to start"
+msgstr "Click to start"
+
+#: 
+msgctxt "FMaskWindow-version3"
+msgid "Earn three days of watermark-free export after finishing the walkthrough"
+msgstr "Earn three days of watermark-free export after finishing the walkthrough"
+
+#: 
+msgctxt "FMaskWindow-version3"
+msgid "three days of watermark-free"
+msgstr "three days of watermark-free"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Drop"
+msgstr "Drop"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Appearing Verbatim"
+msgstr "Appearing Verbatim"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "To the Left 1"
+msgstr "To the Left 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "To the Left 2"
+msgstr "To the Left 2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Boom!"
+msgstr "Boom!"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Fade2"
+msgstr "Fade2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to bottom"
+msgstr "Move to bottom"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to left"
+msgstr "Move to left"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Wham!"
+msgstr "Wham!"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Photo Spin 3"
+msgstr "Photo Spin 3"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Photo Spin 4"
+msgstr "Photo Spin 4"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in to the top"
+msgstr "Zoom in to the top"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to lower right"
+msgstr "Move to lower right"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to upper right"
+msgstr "Move to upper right"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Flip Down1"
+msgstr "Flip Down1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Flip Down2"
+msgstr "Flip Down2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Bounce to zoom out 1"
+msgstr "Bounce to zoom out 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Flip Up1"
+msgstr "Flip Up1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Flip Up2"
+msgstr "Flip Up2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Blinking"
+msgstr "Blinking"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in and out"
+msgstr "Zoom in and out"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Stretch to left"
+msgstr "Stretch to left"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Up Down 1"
+msgstr "Up Down 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Up Down 2"
+msgstr "Up Down 2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Fly to zoom in"
+msgstr "Fly to zoom in"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to right"
+msgstr "Move to right"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom out to the right"
+msgstr "Zoom out to the right"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "No Motion"
+msgstr "No Motion"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Counter clockwise rotate"
+msgstr "Counter clockwise rotate"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in to the right"
+msgstr "Zoom in to the right"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Fade Zoom In"
+msgstr "Fade Zoom In"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Spin 1"
+msgstr "Spin 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Spin 2"
+msgstr "Spin 2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Spin 3"
+msgstr "Spin 3"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Spin 4"
+msgstr "Spin 4"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Tiny zoom"
+msgstr "Tiny zoom"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Grow Shrink"
+msgstr "Grow Shrink"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in 1"
+msgstr "Zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in 2"
+msgstr "Zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in 3"
+msgstr "Zoom in 3"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Center Gradually Disappears"
+msgstr "Center Gradually Disappears"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Zoom in to the bottom"
+msgstr "Zoom in to the bottom"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Expansion"
+msgstr "Expansion"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Fade out"
+msgstr "Fade out"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to top"
+msgstr "Move to top"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Move to upper right and zoom in"
+msgstr "Move to upper right and zoom in"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "To the Right 1"
+msgstr "To the Right 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "To the Right 2"
+msgstr "To the Right 2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Clockwise rotate to zoom in 1"
+msgstr "Clockwise rotate to zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Clockwise rotate to zoom in 2"
+msgstr "Clockwise rotate to zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Fly in and Fly out"
+msgstr "Fly in and Fly out"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Vortex In"
+msgstr "Vortex In"
+
+#: 
+msgctxt "FAnimationModel-version3"
+msgid "Stretch in and zoom in 1"
+msgstr "Stretch in and zoom in 1"
+

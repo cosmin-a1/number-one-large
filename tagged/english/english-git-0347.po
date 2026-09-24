@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFSilenceDetectionQuickTourPanel-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSilenceDetectionQuickTourPanel-version3"
+msgid "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+msgstr "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "Remember my choice"
+msgstr "Remember my choice"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version3"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "The add-collection has been failed locally."
+msgstr "The add-collection has been failed locally."
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "The un-collection has been failed locally"
+msgstr "The un-collection has been failed locally"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "The un-collection has been failed. please retry"
+msgstr "The un-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "The add-collection has been failed. please retry"
+msgstr "The add-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Voice Name: "
+msgstr "Voice Name: "
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Pitch:"
+msgstr "Pitch:"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Speed:"
+msgstr "Speed:"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Please label polyphonic characters according to the specifications"
+msgstr "Please label polyphonic characters according to the specifications"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "Parameter Settings:"
+msgstr "Parameter Settings:"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "What language is this title in?"
+msgstr "What language is this title in?"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version3"
+msgid "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FFTextToVideoFailedDlg-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFTextToVideoFailedDlg-version3"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FFTextToVideoFailedDlg-version3"
+msgid "Failed to generate video. Please try again later."
+msgstr "Failed to generate video. Please try again later."
+
+#: 
+msgctxt "FFTextToVideoFailedDlg-version3"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "FFTextToVideoFailedDlg-version3"
+msgid "Failed to generate. Please try again later."
+msgstr "Failed to generate. Please try again later."
+
+#: 
+msgctxt "FFTextToVideoFailedDlg-version3"
+msgid "This language is not supported."
+msgstr "This language is not supported."
+
+#: 
+msgctxt "FFTipWidget-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFTipWidget-version3"
+msgid "Click for more help."
+msgstr "Click for more help."
+
+#: 
+msgctxt "FFTipWidget-version3"
+msgid "Got It"
+msgstr "Got It"
+
+#: 
+msgctxt "FFTipWidget-version3"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFTipWidget-version3"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FFTipWidget-version3"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FFUnsupportedImgFileDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFUnsupportedImgFileDialog-version3"
+msgid "Information"
+msgstr "Information"
+
+#: 
+msgctxt "FFUnsupportedImgFileDialog-version3"
+msgid "Import failed, please compress the image so that its size is less than 12k x 12k in order to import successfully"
+msgstr "Import failed, please compress the image so that its size is less than 12k x 12k in order to import successfully"
+
+#: 
+msgctxt "FFUnsupportedImgFileDialog-version3"
+msgid "Please contact support."
+msgstr "Please contact support."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "The Camera %1 is lost."
+msgstr "The Camera %1 is lost."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Record Time:"
+msgstr "Record Time:"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Audio:"
+msgstr "Audio:"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Webcam is being used by another application, please close other application and try again."
+msgstr "Webcam is being used by another application, please close other application and try again."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Live Record"
+msgstr "Live Record"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Count Down:"
+msgstr "Count Down:"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Video Device:"
+msgstr "Video Device:"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Start (Space)"
+msgstr "Start (Space)"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Stop (Space)"
+msgstr "Stop (Space)"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Please check whether you have permission to write or read on the path, or choose other path to create."
+msgstr "Please check whether you have permission to write or read on the path, or choose other path to create."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Start (%1)"
+msgstr "Start (%1)"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Recording"
+msgstr "Recording"
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "Audio device %1 connection lost."
+msgstr "Audio device %1 connection lost."
+
+#: 
+msgctxt "FFWebcamRecordPanel-version3"
+msgid "There is only %1MB space in the specified output directory, Would you choose another directory?"
+msgstr "There is only %1MB space in the specified output directory, Would you choose another directory?"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Copying Media files for a quick preview..."
+msgstr "Copying Media files for a quick preview..."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "The file:\"%1\" dose not exit."
+msgstr "The file:\"%1\" dose not exit."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "The file:\"%1\" is incomplete."
+msgstr "The file:\"%1\" is incomplete."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Import from:"
+msgstr "Import from:"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Files selected:  %1 file(s), %2"
+msgstr "Files selected:  %1 file(s), %2"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Please check write or read permission, or choose another path to continue."
+msgstr "Please check write or read permission, or choose another path to continue."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Click to select a device"
+msgstr "Click to select a device"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Save File to:"
+msgstr "Save File to:"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Device lost"
+msgstr "Device lost"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "No Media files found on this device."
+msgstr "No Media files found on this device."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Check All"
+msgstr "Check All"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Please select files to import."
+msgstr "Please select files to import."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Scanning Device"
+msgstr "Scanning Device"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "Importing Media files"
+msgstr "Importing Media files"
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "There is not enough space in the specified output directory, please choose another one. \n"
+"Disc Space needed : %1 MB, remaining : %2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one. \n"
+"Disc Space needed : %1 MB, remaining : %2 MB."
+
+#: 
+msgctxt "FImportDeviceView-version3"
+msgid "File dose not exist or file is incomplete, unable to preview."
+msgstr "File dose not exist or file is incomplete, unable to preview."
+
+#: 
+msgctxt "FImportVobDialog-version3"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FImportVobDialog-version3"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FImportVobDialog-version3"
+msgid "Convert to mpg"
+msgstr "Convert to mpg"
+
+#: 
+msgctxt "FImportVobDialog-version3"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FImportVobDialog-version3"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FImportVobDialog-version3"
+msgid "file(s) needs to be converted to .mpg before editing, please select a folder to store the converted file:"
+msgstr "file(s) needs to be converted to .mpg before editing, please select a folder to store the converted file:"
+

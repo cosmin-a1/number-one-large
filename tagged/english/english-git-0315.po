@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L194 Surprise Pink"
+msgstr "L194 Surprise Pink"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Texture/Orbs On Lens On"
+msgstr "Texture/Orbs On Lens On"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Edge Frame"
+msgstr "Edge Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Time Resolution"
+msgstr "Time Resolution"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Edge Flare"
+msgstr "Edge Flare"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Edge Floor"
+msgstr "Edge Floor"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Angled Inset Left"
+msgstr "Angled Inset Left"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "One Color"
+msgstr "One Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Subtle Algorithm"
+msgstr "Subtle Algorithm"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Line Color"
+msgstr "Line Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Time Clock"
+msgstr "Time Clock"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Edge Bloom"
+msgstr "Edge Bloom"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Color"
+msgstr "Blue Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Edge Color"
+msgstr "Edge Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Noise"
+msgstr "Blue Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light Target 1"
+msgstr "Light Target 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light Target 2"
+msgstr "Light Target 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light Target 3"
+msgstr "Light Target 3"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Size Noise"
+msgstr "Size Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Start Width 1"
+msgstr "Start Width 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Start Width 2"
+msgstr "Start Width 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Start Width 3"
+msgstr "Start Width 3"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Burnt Peephole"
+msgstr "Burnt Peephole"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light Intensity"
+msgstr "Light Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Angle Tracks Center"
+msgstr "Angle Tracks Center"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Use Matte"
+msgstr "Use Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Disable Animation"
+msgstr "Disable Animation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Broadcast Safe"
+msgstr "BCC Broadcast Safe"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Rain"
+msgstr "BCC Rain"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Snow"
+msgstr "BCC Snow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fire Light"
+msgstr "Fire Light"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Edge Layer"
+msgstr "Edge Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Line Matte"
+msgstr "Line Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Time Limit"
+msgstr "Time Limit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wipe Progress (Size)"
+msgstr "Wipe Progress (Size)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wave Width"
+msgstr "Wave Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tile Width"
+msgstr "Tile Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Line Width"
+msgstr "Line Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wipe Progress"
+msgstr "Wipe Progress"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cone Width"
+msgstr "Cone Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "15 Sides"
+msgstr "15 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "5 Sides"
+msgstr "5 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spot Light 1"
+msgstr "Spot Light 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spot Light 2"
+msgstr "Spot Light 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spot Light 3"
+msgstr "Spot Light 3"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Ambient Follow"
+msgstr "Ambient Follow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Time Scale"
+msgstr "Time Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "EndPoint 1"
+msgstr "EndPoint 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "EndPoint 2"
+msgstr "EndPoint 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blue Range"
+msgstr "Blue Range"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Core Scale"
+msgstr "Core Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fade Start"
+msgstr "Fade Start"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Line Style"
+msgstr "Line Style"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC+Glow"
+msgstr "BCC+Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point X"
+msgstr "Point X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point Y"
+msgstr "Point Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 1"
+msgstr "Point 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 2"
+msgstr "Point 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 3"
+msgstr "Point 3"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 4"
+msgstr "Point 4"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 5"
+msgstr "Point 5"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 6"
+msgstr "Point 6"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 7"
+msgstr "Point 7"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 8"
+msgstr "Point 8"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Point 9"
+msgstr "Point 9"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Enhanced Blue Sky"
+msgstr "Enhanced Blue Sky"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC+Rays"
+msgstr "BCC+Rays"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Sharpen"
+msgstr "Green Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Polygon"
+msgstr "Polygon"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Bad Smog"
+msgstr "Bad Smog"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Diagonal Ripples"
+msgstr "Diagonal Ripples"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Halovision Plus"
+msgstr "Halovision Plus"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shape - Oval"
+msgstr "Shape - Oval"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scale - Gang"
+msgstr "Scale - Gang"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Transform - Pins"
+msgstr "Transform - Pins"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cropped In"
+msgstr "Cropped In"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "FG Brightness"
+msgstr "FG Brightness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Emitter Offset X"
+msgstr "Emitter Offset X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Emitter Offset Y"
+msgstr "Emitter Offset Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glitter Offset X"
+msgstr "Glitter Offset X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glitter Offset Y"
+msgstr "Glitter Offset Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Outside Glow Color 3 Green"
+msgstr "Outside Glow Color 3 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Apply To"
+msgstr "Apply To"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shape - Egg"
+msgstr "Shape - Egg"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Broadcast Standard"
+msgstr "Broadcast Standard"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Lock to Core Scale"
+msgstr "Lock to Core Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Broadcast Standards"
+msgstr "Broadcast Standards"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Line Apply Mix"
+msgstr "Line Apply Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glowing Edges"
+msgstr "Glowing Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Hue Threshold"
+msgstr "Hue Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Crisp the Lows"
+msgstr "Crisp the Lows"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Choke 1"
+msgstr "Green Choke 1"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Choke 2"
+msgstr "Green Choke 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glare Ray Color Green"
+msgstr "Glare Ray Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flicker Minimum Intensity"
+msgstr "Flicker Minimum Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Velocity Limit"
+msgstr "Velocity Limit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "PreBlur"
+msgstr "PreBlur"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L113 Magenta"
+msgstr "L113 Magenta"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Presets"
+msgstr "Presets"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Preview"
+msgstr "Preview"
+
