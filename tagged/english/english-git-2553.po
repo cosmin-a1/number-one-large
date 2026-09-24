@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "note_content"
+msgstr "note_content"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "change_event_type"
+msgstr "change_event_type"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "change"
+msgstr "change"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "you_lost_note"
+msgstr "you_lost_note"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "add_content_to_your_note"
+msgstr "add_content_to_your_note"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "no_active_groups"
+msgstr "no_active_groups"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "note_title"
+msgstr "note_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "book_a_hotel"
+msgstr "book_a_hotel"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "help_with_tasks"
+msgstr "help_with_tasks"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "enable_procrastination"
+msgstr "enable_procrastination"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "you_have_late_tasks"
+msgstr "you_have_late_tasks"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "looks_like_open_slot"
+msgstr "looks_like_open_slot"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "guest"
+msgstr "guest"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "tap_to_sign_in"
+msgstr "tap_to_sign_in"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "sample_group"
+msgstr "sample_group"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "loading"
+msgstr "loading"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "get_rid_of"
+msgstr "get_rid_of"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "default_reminder_for"
+msgstr "default_reminder_for"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "temperature_units"
+msgstr "temperature_units"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "creating_tasks_from_emails"
+msgstr "creating_tasks_from_emails"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "forward_emails_create_task"
+msgstr "forward_emails_create_task"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "account"
+msgstr "account"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "password_lock"
+msgstr "password_lock"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "sound_effects"
+msgstr "sound_effects"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "default_reminder_hint"
+msgstr "default_reminder_hint"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "work_calendar"
+msgstr "work_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "family_calendar"
+msgstr "family_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "vacation_schedule"
+msgstr "vacation_schedule"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "passcode_enabled"
+msgstr "passcode_enabled"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "passcode_enabled_desc"
+msgstr "passcode_enabled_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "default_reminder_time_allday"
+msgstr "default_reminder_time_allday"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "next"
+msgstr "next"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "priority_support"
+msgstr "priority_support"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "app_icon_notification"
+msgstr "app_icon_notification"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "no_badge"
+msgstr "no_badge"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "tasks_for_today"
+msgstr "tasks_for_today"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "todays_date"
+msgstr "todays_date"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "number_of_notifs"
+msgstr "number_of_notifs"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "unread_updates"
+msgstr "unread_updates"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "new_shared_calendar"
+msgstr "new_shared_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "enter_calendar_name"
+msgstr "enter_calendar_name"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "add_group_desc"
+msgstr "add_group_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "participants_of"
+msgstr "participants_of"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "duplicate"
+msgstr "duplicate"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "on_time_midnight"
+msgstr "on_time_midnight"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "you_duplicated_item"
+msgstr "you_duplicated_item"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "once_duplicated_you_can"
+msgstr "once_duplicated_you_can"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "reminder_sounds"
+msgstr "reminder_sounds"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "reminder_when"
+msgstr "reminder_when"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "nag"
+msgstr "nag"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "everyNumber"
+msgstr "everyNumber"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "nag_every"
+msgstr "nag_every"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "try_premium"
+msgstr "try_premium"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "then_billed"
+msgstr "then_billed"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "try_for_free"
+msgstr "try_for_free"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "customized_label_colors"
+msgstr "customized_label_colors"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "nag_alerts"
+msgstr "nag_alerts"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "font_customization"
+msgstr "font_customization"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "time_zone_support"
+msgstr "time_zone_support"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "notification_sounds_package"
+msgstr "notification_sounds_package"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "duplicate_calendar_events"
+msgstr "duplicate_calendar_events"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "start_trial"
+msgstr "start_trial"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "payment_will_be_charged"
+msgstr "payment_will_be_charged"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "custom_reminder"
+msgstr "custom_reminder"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "reminder_me"
+msgstr "reminder_me"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "unlock_this_feature"
+msgstr "unlock_this_feature"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "get_pro"
+msgstr "get_pro"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "get_premium"
+msgstr "get_premium"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "special_offer"
+msgstr "special_offer"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "save_fifty"
+msgstr "save_fifty"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "purchase_monthly"
+msgstr "purchase_monthly"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "purchase_yearly"
+msgstr "purchase_yearly"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "purchase_forever"
+msgstr "purchase_forever"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "then_per_month"
+msgstr "then_per_month"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "day_trial"
+msgstr "day_trial"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "week_trial"
+msgstr "week_trial"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "title_continue"
+msgstr "title_continue"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "permissions"
+msgstr "permissions"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "became_active"
+msgstr "became_active"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "yearly_price"
+msgstr "yearly_price"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "product_activated"
+msgstr "product_activated"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "groupcal_event_explain_calendar"
+msgstr "groupcal_event_explain_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "archived"
+msgstr "archived"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "this_event_desc"
+msgstr "this_event_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "this_and_following_desc"
+msgstr "this_and_following_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "you_declined_event"
+msgstr "you_declined_event"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "you_have_agenda_items"
+msgstr "you_have_agenda_items"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "general_agenda_message"
+msgstr "general_agenda_message"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "general_agenda_message_with_tasks"
+msgstr "general_agenda_message_with_tasks"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_home_screen_title"
+msgstr "showcase_home_screen_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_shared_calendar_title"
+msgstr "showcase_shared_calendar_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_shared_calendar_screen_title"
+msgstr "showcase_shared_calendar_screen_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_add_calendar_title"
+msgstr "showcase_add_calendar_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_all_calender_title"
+msgstr "showcase_all_calender_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_all_calendar_desc"
+msgstr "showcase_all_calendar_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_shared_calendar_info_title"
+msgstr "showcase_shared_calendar_info_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "showcase_shared_calendar_info_desc"
+msgstr "showcase_shared_calendar_info_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "you_added_to_group"
+msgstr "you_added_to_group"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "tasks_plurals"
+msgstr "tasks_plurals"
+
+#: some text
+msgctxt "ct-\"round4\".\"production2\".\"version7\""
+msgid "cannot_sign_in"
+msgstr "cannot_sign_in"
+
