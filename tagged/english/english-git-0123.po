@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FEmptyResourceRecordWidget-version1"
+msgid "resource mall"
+msgstr "resource mall"
+
+#: 
+msgctxt "FEmptyResourceRecordWidget-version1"
+msgid "There is no download record, you can go to the"
+msgstr "There is no download record, you can go to the"
+
+#: 
+msgctxt "FEmptyResourceRecordWidget-version1"
+msgid "to select the resource special effects package."
+msgstr "to select the resource special effects package."
+
+#: 
+msgctxt "FOpenFXDownloadPage-version1"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FOpenFXDownloadPage-version1"
+msgid "The effect plugin has been installed successfully! Please close and restart Filmora to load the new installed effects correctly."
+msgstr "The effect plugin has been installed successfully! Please close and restart Filmora to load the new installed effects correctly."
+
+#: 
+msgctxt "FOpenFXDownloadPage-version1"
+msgid "Test Close"
+msgstr "Test Close"
+
+#: 
+msgctxt "FOpenFXDownloadPage-version1"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FOpenFXDownloadPage-version1"
+msgid "This project file uses one or more effect plugins which are not currently available on your computer. Please download and install the plugin(s) to restore the effect(s)."
+msgstr "This project file uses one or more effect plugins which are not currently available on your computer. Please download and install the plugin(s) to restore the effect(s)."
+
+#: 
+msgctxt "FCloudMediaContentMenu-version1"
+msgid "Go to Filmora Cloud"
+msgstr "Go to Filmora Cloud"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version1"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version1"
+msgid "Share Link"
+msgstr "Share Link"
+
+#: 
+msgctxt "FMediaItemMenu-version1"
+msgid "Go to Filmora Cloud"
+msgstr "Go to Filmora Cloud"
+
+#: 
+msgctxt "FMediaItemMenu-version1"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+msgctxt "FMediaItemMenu-version1"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+msgctxt "FMediaItemMenu-version1"
+msgid "Replication failed"
+msgstr "Replication failed"
+
+#: 
+msgctxt "FMediaItemMenu-version1"
+msgid "Copy successfully"
+msgstr "Copy successfully"
+
+#: 
+msgctxt "FAIMusicItemMoreInfoWidget-version1"
+msgid "Music Downloads Catalog"
+msgstr "Music Downloads Catalog"
+
+#: 
+msgctxt "FAIMusicItemMoreInfoWidget-version1"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version1"
+msgid "(Not available for this asset)"
+msgstr "(Not available for this asset)"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version1"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version1"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version1"
+msgid "Our best and smartest model. Requires more processing time."
+msgstr "Our best and smartest model. Requires more processing time."
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version1"
+msgid "(Not compatible with this device)"
+msgstr "(Not compatible with this device)"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version1"
+msgid "Our first generation real-time processing model."
+msgstr "Our first generation real-time processing model."
+
+#: 
+msgctxt "FFSaveTextPresetPanel-version1"
+msgid "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+msgstr "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+
+#: 
+msgctxt "FFSaveTextPresetPanel-version1"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FFSpeechToTextParamDialog-version1"
+msgid "Speech-to-Text parameter setting"
+msgstr "Speech-to-Text parameter setting"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version1"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version1"
+msgid "Ignore Alpha"
+msgstr "Ignore Alpha"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version1"
+msgid "Premultiplied Alpha"
+msgstr "Premultiplied Alpha"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version1"
+msgid "Straight Alpha"
+msgstr "Straight Alpha"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version1"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version1"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version1"
+msgid "Select Color"
+msgstr "Select Color"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version1"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version1"
+msgid "Offset"
+msgstr "Offset"
+
+#: 
+msgctxt "FPropertyChromaKeyWidget-version1"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FStoryboard-version1"
+msgid "It is not allowed to add material befor opener"
+msgstr "It is not allowed to add material befor opener"
+
+#: 
+msgctxt "FStoryboard-version1"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+msgctxt "FStoryboard-version1"
+msgid "It is not allowed to add material after credits"
+msgstr "It is not allowed to add material after credits"
+
+#: 
+msgctxt "FFResourceConvertDialog-version1"
+msgid "Color Preset"
+msgstr "Color Preset"
+
+#: 
+msgctxt "FFResourceConvertDialog-version1"
+msgid "Load Preset"
+msgstr "Load Preset"
+
+#: 
+msgctxt "FFResourceConvertDialog-version1"
+msgid "Share Media"
+msgstr "Share Media"
+
+#: 
+msgctxt "FFResourceConvertDialog-version1"
+msgid "My Music"
+msgstr "My Music"
+
+#: 
+msgctxt "FFResourceConvertDialog-version1"
+msgid "Custom Title"
+msgstr "Custom Title"
+
+#: 
+msgctxt "FFResourceConvertDialog-version1"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Purchase %1 for unlimited exports. Paid assets you have used:"
+msgstr "Purchase %1 for unlimited exports. Paid assets you have used:"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Purchase Filmora X and paid resources for unlimited exports"
+msgstr "Purchase Filmora X and paid resources for unlimited exports"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Login and Export"
+msgstr "Login and Export"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Paid Filmstock resources you have used:"
+msgstr "Paid Filmstock resources you have used:"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Re-edit"
+msgstr "Re-edit"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Remove and Export"
+msgstr "Remove and Export"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FUnLicenseMediaItemDialog-version1"
+msgid "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+msgstr "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+
+#: 
+msgctxt "FProjectFileConverDialog-version1"
+msgid "Converting Project..."
+msgstr "Converting Project..."
+
+#: 
+msgctxt "FProjectFileConverDialog-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FAIPortraitPresenter-version1"
+msgid "Applying AI Portrait Cutout will automatically cancel the AI Frame Interpolation task. Continue?"
+msgstr "Applying AI Portrait Cutout will automatically cancel the AI Frame Interpolation task. Continue?"
+
+#: 
+msgctxt "FAIPortraitPresenter-version1"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+msgctxt "FMediaPlayerPreviewGuideWidget-version1"
+msgid "Click here to preview your video"
+msgstr "Click here to preview your video"
+
+#: 
+msgctxt "FPropertyTitleActiveWordsWidget-version1"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FTimelineSharedClipPresenter-version1"
+msgid "Name this compound clip. You will be able to find it in your project folder"
+msgstr "Name this compound clip. You will be able to find it in your project folder"
+
+#: 
+msgctxt "FTimelineSharedClipPresenter-version1"
+msgid "Rename the name of this clip to help you quickly find it on the timeline"
+msgstr "Rename the name of this clip to help you quickly find it on the timeline"
+
+#: 
+msgctxt "FFissionActivityWidget-version1"
+msgid "Refer Friends and Get Rewarded"
+msgstr "Refer Friends and Get Rewarded"
+
+#: 
+msgctxt "FFissionActivityWidget-version1"
+msgid "Get Rewards"
+msgstr "Get Rewards"
+
+#: 
+msgctxt "FFissionActivityWidget-version1"
+msgid "If your friend successfully signs up for Filmora, you will both get a membership of Filmora."
+msgstr "If your friend successfully signs up for Filmora, you will both get a membership of Filmora."
+
+#: 
+msgctxt "FSubtitleToTitleProgressDialog-version1"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+msgctxt "FSubtitleToTitleProgressDialog-version1"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+msgctxt "FVobRepairService-version1"
+msgid "Convert to mpg"
+msgstr "Convert to mpg"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Setup Proxy"
+msgstr "Setup Proxy"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Don't have a Wondershare ID? "
+msgstr "Don't have a Wondershare ID? "
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Forget your password?"
+msgstr "Forget your password?"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Password"
+msgstr "Password"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Login to your Wondershare ID"
+msgstr "Login to your Wondershare ID"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Email address"
+msgstr "Email address"
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "This account doesn't exist. Enter a different account or create a new one."
+msgstr "This account doesn't exist. Enter a different account or create a new one."
+
+#: 
+msgctxt "FUserLoginPage-version1"
+msgid "Create account"
+msgstr "Create account"
+
+#: 
+msgctxt "FAIErasingDialog-version1"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FAccountNormalPage-version1"
+msgid "24*7 Customer Support"
+msgstr "24*7 Customer Support"
+
+#: 
+msgctxt "FAccountNormalPage-version1"
+msgid "LOGIN NOW TO ENJOY"
+msgstr "LOGIN NOW TO ENJOY"
+
+#: 
+msgctxt "FAccountNormalPage-version1"
+msgid "Easy Video Exporting"
+msgstr "Easy Video Exporting"
+
+#: 
+msgctxt "FAccountNormalPage-version1"
+msgid "Advanced AI Features"
+msgstr "Advanced AI Features"
+
+#: 
+msgctxt "FAccountNormalPage-version1"
+msgid "Extensive Tutorial Library"
+msgstr "Extensive Tutorial Library"
+
+#: 
+msgctxt "FAccountNormalPage-version1"
+msgid "Early Access to New Features"
+msgstr "Early Access to New Features"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "24*7 Customer Support"
+msgstr "24*7 Customer Support"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "Required for AIGC Features"
+msgstr "Required for AIGC Features"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "Extensive Tutorial Library"
+msgstr "Extensive Tutorial Library"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "Early Access to New Features"
+msgstr "Early Access to New Features"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "SIGN UP NOW TO EXPORT YOUR WATERMARK-FREE VIDEO"
+msgstr "SIGN UP NOW TO EXPORT YOUR WATERMARK-FREE VIDEO"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "In addition, you can enjoy:"
+msgstr "In addition, you can enjoy:"
+
+#: 
+msgctxt "FAccountWatermarkPage-version1"
+msgid "100 AI Credits for New AI Features"
+msgstr "100 AI Credits for New AI Features"
+
+#: 
+msgctxt "FTemplateEditTextWidget-version1"
+msgid "There is no text yet, you can go to the timeline and add more."
+msgstr "There is no text yet, you can go to the timeline and add more."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidgetClass-version1"
+msgid "Analysing stabilization..."
+msgstr "Analysing stabilization..."
+

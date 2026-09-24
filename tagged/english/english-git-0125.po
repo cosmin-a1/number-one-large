@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFTimelinePresenter-version1"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+msgctxt "FVoiceCloneMainWidget-version1"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+msgctxt "FVoiceCloneMainWidget-version1"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FElementModeBar-version1"
+msgid "Search stickers"
+msgstr "Search stickers"
+
+#: 
+msgctxt "FElementModeBar-version1"
+msgid "Search my favorite stickers"
+msgstr "Search my favorite stickers"
+
+#: 
+msgctxt "FElementModeBar-version1"
+msgid "Search your generated AI Sticker."
+msgstr "Search your generated AI Sticker."
+
+#: 
+msgctxt "FElementModeBar-version1"
+msgid "Search downloaded stickers"
+msgstr "Search downloaded stickers"
+
+#: 
+msgctxt "MainWindow-version1"
+msgid "Wondershare Filmora Uninstaller"
+msgstr "Wondershare Filmora Uninstaller"
+
+#: 
+msgctxt "MainWindow-version1"
+msgid "Install failed."
+msgstr "Install failed."
+
+#: 
+msgctxt "MainWindow-version1"
+msgid "You are already the latest version!"
+msgstr "You are already the latest version!"
+
+#: 
+msgctxt "MainWindow-version1"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "MainWindow-version1"
+msgid "Failed to check update!"
+msgstr "Failed to check update!"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version1"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version1"
+msgid "File Path"
+msgstr "File Path"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version1"
+msgid "Rename files"
+msgstr "Rename files"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version1"
+msgid "The file name exceeds the length limit, will be renamed to:"
+msgstr "The file name exceeds the length limit, will be renamed to:"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version1"
+msgid "New Name"
+msgstr "New Name"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version1"
+msgid "Replace it"
+msgstr "Replace it"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version1"
+msgid "Replace watermarked footages"
+msgstr "Replace watermarked footages"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version1"
+msgid "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+msgstr "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+
+#: 
+msgctxt "FFTextModifiedTimelineEffectWidget-version1"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "FPropertyTextFillImageWidget-version1"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "When you click Confirm, you will be redirected to the third-party web page."
+msgstr "When you click Confirm, you will be redirected to the third-party web page."
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "After clicking OK, the asset will be migrated to Media-Global meidia"
+msgstr "After clicking OK, the asset will be migrated to Media-Global meidia"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "Migrating files"
+msgstr "Migrating files"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "External Website Redirect"
+msgstr "External Website Redirect"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "Notification of asset migration"
+msgstr "Notification of asset migration"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPreviewBottomPanel-version1"
+msgid "Use this Template"
+msgstr "Use this Template"
+
+#: 
+msgctxt "FFontComboBox-version1"
+msgid "Click here to quickly return to the recently used list."
+msgstr "Click here to quickly return to the recently used list."
+
+#: 
+msgctxt "FFontComboBox-version1"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontComboBox-version1"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontComboBox-version1"
+msgid "Click here to quickly return to the favorites list."
+msgstr "Click here to quickly return to the favorites list."
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidget-version1"
+msgid "Drag area to generate keyframes"
+msgstr "Drag area to generate keyframes"
+
+#: 
+msgctxt "FTracksManageToolbar-version1"
+msgid "Close Auto Ripple"
+msgstr "Close Auto Ripple"
+
+#: 
+msgctxt "FTracksManageToolbar-version1"
+msgid "Manage tracks"
+msgstr "Manage tracks"
+
+#: 
+msgctxt "FTracksManageToolbar-version1"
+msgid "Open Auto Ripple"
+msgstr "Open Auto Ripple"
+
+#: 
+msgctxt "FTracksManageToolbar-version1"
+msgid "Sort track"
+msgstr "Sort track"
+
+#: 
+msgctxt "FFilmoStcokToast-version1"
+msgid "Didn't find satifying ones? %1 Search more on!"
+msgstr "Didn't find satifying ones? %1 Search more on!"
+
+#: 
+msgctxt "FFilmoStcokToast-version1"
+msgid "Didn't find satifying ones? Search more on"
+msgstr "Didn't find satifying ones? Search more on"
+
+#: 
+msgctxt "FFilmoStcokToast-version1"
+msgid "Wondershare Filmstock"
+msgstr "Wondershare Filmstock"
+
+#: 
+msgctxt "FFileCountAndSizeLabel-version1"
+msgid "Total %1 files, %2 %3"
+msgstr "Total %1 files, %2 %3"
+
+#: 
+msgctxt "FTransitionModeBar-version1"
+msgid "Search downloaded transitions"
+msgstr "Search downloaded transitions"
+
+#: 
+msgctxt "FTransitionModeBar-version1"
+msgid "Search my favorite transitions"
+msgstr "Search my favorite transitions"
+
+#: 
+msgctxt "FTransitionModeBar-version1"
+msgid "Search transitions"
+msgstr "Search transitions"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version1"
+msgid "Version Update Notice"
+msgstr "Version Update Notice"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version1"
+msgid "Synchronizing data, please wait."
+msgstr "Synchronizing data, please wait."
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version1"
+msgid "Insufficient disk space. Please clean up the disk space and try again."
+msgstr "Insufficient disk space. Please clean up the disk space and try again."
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version1"
+msgid "You can fully enjoy the new version after restarting the program!"
+msgstr "You can fully enjoy the new version after restarting the program!"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version1"
+msgid "Data synchronization successfully!"
+msgstr "Data synchronization successfully!"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version1"
+msgid "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+msgstr "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+
+#: 
+msgctxt "FFErrorWebStateWidget-version1"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFErrorWebStateWidget-version1"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithGIF-version1"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFPromptsWithGIF-version1"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FFPromptsWithGIF-version1"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FFPromptsWithGIF-version1"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithGIF-version1"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+msgctxt "FFPromptsWithGIF-version1"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version1"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version1"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version1"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version1"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version1"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FEmptyProjectWidget-version1"
+msgid "Recent Project."
+msgstr "Recent Project."
+
+#: 
+msgctxt "FEmptyProjectWidget-version1"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+msgctxt "FCustomerServiceDialog-version1"
+msgid "Customer Service"
+msgstr "Customer Service"
+
+#: 
+msgctxt "FTimelineEnterTextShapeModelActionPresenter-version1"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+msgctxt "FRefreshDialog-version1"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FRefreshDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FRefreshDialog-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FRefreshDialog-version1"
+msgid "Already purchased? Try refreshing your account info."
+msgstr "Already purchased? Try refreshing your account info."
+
+#: 
+msgctxt "FTutorialPage-version1"
+msgid "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+msgstr "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+
+#: 
+msgctxt "FTutorialPage-version1"
+msgid "Wondershare Miaoying"
+msgstr "Wondershare Miaoying"
+
+#: 
+msgctxt "FTutorialPage-version1"
+msgid "Click 'Timeline' to take full control over your video."
+msgstr "Click 'Timeline' to take full control over your video."
+
+#: 
+msgctxt "FTutorialPage-version1"
+msgid "%1 is editing your clips and adding video effects."
+msgstr "%1 is editing your clips and adding video effects."
+
+#: 
+msgctxt "FTutorialPage-version1"
+msgid "Want to learn more about editing with %1?"
+msgstr "Want to learn more about editing with %1?"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version1"
+msgid "TransferCenter Uploading"
+msgstr "TransferCenter Uploading"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version1"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version1"
+msgid "TransferCenter Done"
+msgstr "TransferCenter Done"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version1"
+msgid "Confirm Close?"
+msgstr "Confirm Close?"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version1"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version1"
+msgid "Closing the pop-up will not save the entered content."
+msgstr "Closing the pop-up will not save the entered content."
+
+#: 
+msgctxt "FAIGCImageAspectRatioWidget-version1"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "3:4 (Business)"
+msgstr "3:4 (Business)"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "4:5 (Vertical)"
+msgstr "4:5 (Vertical)"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "4:3 (Standard)"
+msgstr "4:3 (Standard)"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (Widescreen)"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "21:9 (Cinema)"
+msgstr "21:9 (Cinema)"
+

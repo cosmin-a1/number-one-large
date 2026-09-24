@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version1"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version1"
+msgid "Freeze Time"
+msgstr "Freeze Time"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version1"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Create Intro"
+msgstr "Create Intro"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Select"
+msgstr "Select"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Create Logo Reveal"
+msgstr "Create Logo Reveal"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "The Intro has been changed. Do you want to save your changes?"
+msgstr "The Intro has been changed. Do you want to save your changes?"
+
+#: 
+msgctxt "FIntroEditDialog-version1"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FGraphicsTimelineSceneTipHelper-version1"
+msgid "Press and hold down the \"Alt\" key while you drag the media file here to replace the Preset template clip quickly."
+msgstr "Press and hold down the \"Alt\" key while you drag the media file here to replace the Preset template clip quickly."
+
+#: 
+msgctxt "FPropertyImageControl-version1"
+msgid "Select Resolution"
+msgstr "Select Resolution"
+
+#: 
+msgctxt "FPropertyImageControl-version1"
+msgid "Select Profile"
+msgstr "Select Profile"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Please enter the replacement content"
+msgstr "Please enter the replacement content"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Find next"
+msgstr "Find next"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Find last"
+msgstr "Find last"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Please enter the search content"
+msgstr "Please enter the search content"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Replace All"
+msgstr "Replace All"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FNothingMatchedView-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FNothingMatchedView-version1"
+msgid "Nothing Matched"
+msgstr "Nothing Matched"
+
+#: 
+msgctxt "FTemplatePropertyBaseView-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FTemplatePropertyBaseView-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Find next"
+msgstr "Find next"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Find last"
+msgstr "Find last"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Please enter the search content"
+msgstr "Please enter the search content"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Delete all silent clips"
+msgstr "Delete all silent clips"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Remove all spoken words"
+msgstr "Remove all spoken words"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version1"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FThemeInfoView-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FThemeInfoView-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FThemeInfoView-version1"
+msgid "Download effects pack"
+msgstr "Download effects pack"
+
+#: 
+msgctxt "FThemeInfoView-version1"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FThemeInfoView-version1"
+msgid "Click to preview in the player"
+msgstr "Click to preview in the player"
+
+#: 
+msgctxt "FThemeInfoView-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FThemeResourceView-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Downloading Project Template:"
+msgstr "Downloading Project Template:"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Don't show again"
+msgstr "Don't show again"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Export Failed"
+msgstr "Export Failed"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Please close the other window to continue downloading the project template."
+msgstr "Please close the other window to continue downloading the project template."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "No enough AI Credits. Get more credits by upgrading your free license of Wondershare Filmora."
+msgstr "No enough AI Credits. Get more credits by upgrading your free license of Wondershare Filmora."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Please keep at least one clip in the selected range."
+msgstr "Please keep at least one clip in the selected range."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "Please close current project and open another project again after back to homepage"
+msgstr "Please close current project and open another project again after back to homepage"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "No enough AI Credits. Pick an AI Credits pack to use continuously."
+msgstr "No enough AI Credits. Pick an AI Credits pack to use continuously."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "The computer memory is seriously insufficient, please free some memory before continuing."
+msgstr "The computer memory is seriously insufficient, please free some memory before continuing."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "No information was obtained, please try again!"
+msgstr "No information was obtained, please try again!"
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "The project template download has failed, please try again."
+msgstr "The project template download has failed, please try again."
+
+#: 
+msgctxt "FilmoraPageMgr-version1"
+msgid "This operation is not executable"
+msgstr "This operation is not executable"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Auto"
+msgstr "Auto"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Export Alpha Channel"
+msgstr "Export Alpha Channel"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Auto Highlight"
+msgstr "Auto Highlight"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Check the box to automatically generate one more highlight video."
+msgstr "Check the box to automatically generate one more highlight video."
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Used for sources that contain an Alpha channel. \n"
+"When enabled, export video with an Alpha channel."
+msgstr "Used for sources that contain an Alpha channel. \n"
+"When enabled, export video with an Alpha channel."
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Format"
+msgstr "Format"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Match to project settings"
+msgstr "Match to project settings"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Upload your video to Filmora Cloud. You can share this video to get feedback."
+msgstr "Upload your video to Filmora Cloud. You can share this video to get feedback."
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Backup to the Cloud"
+msgstr "Backup to the Cloud"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Save to"
+msgstr "Save to"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Watch video tutorials to master more skills"
+msgstr "Watch video tutorials to master more skills"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "15s(TikTok)"
+msgstr "15s(TikTok)"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Delete this preset?"
+msgstr "Delete this preset?"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "My Audio"
+msgstr "My Audio"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "My Image"
+msgstr "My Image"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "Add to Project Media"
+msgstr "Add to Project Media"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "60s(Youtube Shorts)"
+msgstr "60s(Youtube Shorts)"
+
+#: 
+msgctxt "FDefaultLocalWidget-version1"
+msgid "ExportDevice"
+msgstr "ExportDevice"
+

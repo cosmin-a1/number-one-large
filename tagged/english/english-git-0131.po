@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version1"
+msgid "Usage Rules"
+msgstr "Usage Rules"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version1"
+msgid "Filmora Cloud Drive"
+msgstr "Filmora Cloud Drive"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version1"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version1"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version1"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version1"
+msgid "Pick a plan to improve your efficiency"
+msgstr "Pick a plan to improve your efficiency"
+
+#: 
+msgctxt "FAIImageViewDelegate-version1"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIImageViewDelegate-version1"
+msgid "Describe the image you want to generate"
+msgstr "Describe the image you want to generate"
+
+#: 
+msgctxt "FAIImageViewDelegate-version1"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIImageViewDelegate-version1"
+msgid "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+msgstr "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+
+#: 
+msgctxt "FMediaBlankContentMenu-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaBlankContentMenu-version1"
+msgid "Remove unused media"
+msgstr "Remove unused media"
+
+#: 
+msgctxt "FMediaImportHelper-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaImportHelper-version1"
+msgid "%1 is importing now, %2 files left."
+msgstr "%1 is importing now, %2 files left."
+
+#: 
+msgctxt "FMediaImportHelper-version1"
+msgid "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+msgstr "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+
+#: 
+msgctxt "FFColorPickPartsCtrlPrivate-version1"
+msgid "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+msgstr "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+
+#: 
+msgctxt "FCommercialButtonWidget-version1"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FCommercialButtonWidget-version1"
+msgid "Non-Commercial Use"
+msgstr "Non-Commercial Use"
+
+#: 
+msgctxt "FHomePageFeatureIntroWidget-version1"
+msgid "No data"
+msgstr "No data"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version1"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version1"
+msgid "Account"
+msgstr "Account"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version1"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FTimelineAddMarkerActionPresenter-version1"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+msgctxt "FNewFollowUsWidget-version1"
+msgid "Follow us for more tutorials."
+msgstr "Follow us for more tutorials."
+
+#: 
+msgctxt "IFFScrollTipPainter-version1"
+msgid "Scroll to continue to the next category"
+msgstr "Scroll to continue to the next category"
+
+#: 
+msgctxt "IFFScrollTipPainter-version1"
+msgid "No more result"
+msgstr "No more result"
+
+#: 
+msgctxt "FFVoiceStackedWidget-version1"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+msgctxt "FFVoiceStackedWidget-version1"
+msgid "Sorry about the failure, please check the network and click Refresh to try again"
+msgstr "Sorry about the failure, please check the network and click Refresh to try again"
+
+#: 
+msgctxt "FTTSLoadingVoiceComponent-version1"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+msgctxt "FFilterNewModeBar-version1"
+msgid "Search my favorite filters"
+msgstr "Search my favorite filters"
+
+#: 
+msgctxt "FFilterNewModeBar-version1"
+msgid "Search downloaded filters"
+msgstr "Search downloaded filters"
+
+#: 
+msgctxt "FFilterNewModeBar-version1"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+msgctxt "FMigrationDialog-version1"
+msgid "File migration success"
+msgstr "File migration success"
+
+#: 
+msgctxt "FMigrationDialog-version1"
+msgid "Files are being transferred to a new storage location..."
+msgstr "Files are being transferred to a new storage location..."
+
+#: 
+msgctxt "FMigrationDialog-version1"
+msgid "Tips: Please do not close during the process"
+msgstr "Tips: Please do not close during the process"
+
+#: 
+msgctxt "FMigrationDialog-version1"
+msgid "New Location:"
+msgstr "New Location:"
+
+#: 
+msgctxt "FPropertyDirectionBlurEffectWidget-version1"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version1"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version1"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version1"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version1"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version1"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version1"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FPropertyCloudResListViewPrivate-version1"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFAITranslateParamDialog-version1"
+msgid "AI Translation——Translate voice and text"
+msgstr "AI Translation——Translate voice and text"
+
+#: 
+msgctxt "FFAITranslateParamDialog-version1"
+msgid "Effortlessly translate audio and text within videos into a variety of global languages!"
+msgstr "Effortlessly translate audio and text within videos into a variety of global languages!"
+
+#: 
+msgctxt "FStoryboardPanel-version1"
+msgid "Drag or add 5-50 media to the storyboard"
+msgstr "Drag or add 5-50 media to the storyboard"
+
+#: 
+msgctxt "FStoryboardPanel-version1"
+msgid "Add all media clips to the storyboard"
+msgstr "Add all media clips to the storyboard"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version1"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version1"
+msgid "Overlap"
+msgstr "Overlap"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version1"
+msgid "Include Trimed Fames"
+msgstr "Include Trimed Fames"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version1"
+msgid "Postfix"
+msgstr "Postfix"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version1"
+msgid "Transition Mode"
+msgstr "Transition Mode"
+
+#: 
+msgctxt "FPropertyCustomPresetControl-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyCustomPresetControl-version1"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+msgctxt "FPropertyListViewWidget-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyListViewWidget-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyProjectCoverPresetControl-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyProjectCoverPresetControl-version1"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+msgctxt "FPropertyTextPresetControl-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FSavePresetNamePanel-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FSavePresetNamePanel-version1"
+msgid "Preset Name"
+msgstr "Preset Name"
+
+#: 
+msgctxt "FGraphicsTrackPainter-version1"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+msgctxt "FTimelineEmptyWidget-version1"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+msgctxt "FPresetTextWidget-version1"
+msgid "Press the button, then clearly read out the following script"
+msgstr "Press the button, then clearly read out the following script"
+
+#: 
+msgctxt "FImportProjectDialog-version1"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FImportProjectDialog-version1"
+msgid "Please try again later."
+msgstr "Please try again later."
+
+#: 
+msgctxt "FCurvedSpeedPresetMenu-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FLabelEditor-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FTimelineClipRenameActionPresenter-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVoiceCloneMainDialog-version1"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FFUpgradeGuideDialog-version1"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FilmoraTitleBarPresenter-version1"
+msgid "Saved!"
+msgstr "Saved!"
+
+#: 
+msgctxt "FilmoraTitleBarPresenter-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version1"
+msgid "Scale:"
+msgstr "Scale:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version1"
+msgid "Opacity:"
+msgstr "Opacity:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version1"
+msgid "Rotate:"
+msgstr "Rotate:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version1"
+msgid "Position:"
+msgstr "Position:"
+
+#: 
+msgctxt "FMediaPageTitleBar-version1"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version1"
+msgid "Secure"
+msgstr "Secure"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version1"
+msgid "Money-Back Guarantee"
+msgstr "Money-Back Guarantee"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version1"
+msgid "Support Service"
+msgstr "Support Service"
+
+#: 
+msgctxt "FFMediaItemManagerPresenterPrivate-version1"
+msgid "Are you sure you want to delete the selected item?"
+msgstr "Are you sure you want to delete the selected item?"
+
+#: 
+msgctxt "FFMediaItemManagerPresenterPrivate-version1"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version1"
+msgid "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+msgstr "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version1"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version1"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version1"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+msgctxt "FFAudioMixerSoundCtrl-version1"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FFAudioMixerSoundCtrl-version1"
+msgid "Surround"
+msgstr "Surround"
+
+#: 
+msgctxt "FFeedbackDialog-version1"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FFeedbackDialog-version1"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedbackDialog-version1"
+msgid "Could you please specify which aspects of the feature you are not satisfied with?"
+msgstr "Could you please specify which aspects of the feature you are not satisfied with?"
+
+#: 
+msgctxt "FFeedbackDialog-version1"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FShortcutSwitchButton-version1"
+msgid "Switch"
+msgstr "Switch"
+
+#: 
+msgctxt "FFCloudDiskTask-version1"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraApp-version1"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraApp-version1"
+msgid "File Name:"
+msgstr "File Name:"
+

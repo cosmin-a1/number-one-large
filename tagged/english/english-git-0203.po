@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Particle End Color Blue"
+msgstr "Particle End Color Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Floor and Attractors: Render"
+msgstr "Floor and Attractors: Render"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ghostly"
+msgstr "Ghostly"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Lightness"
+msgstr "Lightness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Lightning"
+msgstr "Lightning"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Attractor 2 XY"
+msgstr "Attractor 2 XY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Attractor 1 XY"
+msgstr "Attractor 1 XY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Nightmare"
+msgstr "Nightmare"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Nightlife"
+msgstr "Nightlife"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dual Booster"
+msgstr "Dual Booster"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ignore Pillarbox Bars"
+msgstr "Ignore Pillarbox Bars"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Grow from Bottom"
+msgstr "Grow from Bottom"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Spawn Time"
+msgstr "Spawn Time"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Render Mode 1"
+msgstr "Render Mode 1"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Render Mode 2"
+msgstr "Render Mode 2"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Render Mode 3"
+msgstr "Render Mode 3"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Twirl Style"
+msgstr "Twirl Style"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "SW2 Strength"
+msgstr "SW2 Strength"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "On Ones (30fps)"
+msgstr "On Ones (30fps)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "SW1 Strength"
+msgstr "SW1 Strength"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "FG Scale Y Pre"
+msgstr "FG Scale Y Pre"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Twilight"
+msgstr "Twilight"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Soft Soother"
+msgstr "Soft Soother"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "FG Scale X Pre"
+msgstr "FG Scale X Pre"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Crossing Over"
+msgstr "Crossing Over"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Size FX Wipe"
+msgstr "Size FX Wipe"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Oval Rotated"
+msgstr "Oval Rotated"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Liquid Zoom Lens"
+msgstr "Liquid Zoom Lens"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Split Screen Left"
+msgstr "Split Screen Left"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Keep Center Oval"
+msgstr "Keep Center Oval"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Shift FX Layer Mode"
+msgstr "Shift FX Layer Mode"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Direction Spread"
+msgstr "Direction Spread"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Twist In"
+msgstr "Twist In"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Charcoal Blue"
+msgstr "Charcoal Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ordered Rows"
+msgstr "Ordered Rows"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "NTSC (640x486)"
+msgstr "NTSC (640x486)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "NTSC (640x480)"
+msgstr "NTSC (640x480)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flicker Group Intensity"
+msgstr "Flicker Group Intensity"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Mask Inside Pixels"
+msgstr "Mask Inside Pixels"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Polygons On"
+msgstr "Polygons On"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Rotation Center"
+msgstr "Rotation Center"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Strange Contrast"
+msgstr "Strange Contrast"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Texture Geometrics"
+msgstr "Texture Geometrics"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BCC+Glow Edges"
+msgstr "BCC+Glow Edges"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BCC+Glow Darks"
+msgstr "BCC+Glow Darks"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Two Tone"
+msgstr "Two Tone"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BG White Color"
+msgstr "BG White Color"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Synchronized Back and Forth Loops"
+msgstr "Synchronized Back and Forth Loops"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Material Specular Color Green"
+msgstr "Material Specular Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Source Adjust"
+msgstr "Source Adjust"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+msgstr "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Intensity Seed"
+msgstr "Intensity Seed"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Legacy PixelChooser"
+msgstr "Legacy PixelChooser"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Fine Details"
+msgstr "Fine Details"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L140 Summer Blue"
+msgstr "L140 Summer Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Focal Point"
+msgstr "Focal Point"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Spread Amount"
+msgstr "Spread Amount"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Twirl Angle"
+msgstr "Twirl Angle"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Layer Effect Offset"
+msgstr "Layer Effect Offset"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Legal Level"
+msgstr "Legal Level"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Gradient Start"
+msgstr "Gradient Start"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Mottled Haze"
+msgstr "Mottled Haze"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Detail Greens"
+msgstr "Detail Greens"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Clean Vertical"
+msgstr "Clean Vertical"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sharp Distance"
+msgstr "Sharp Distance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flickering Black Light"
+msgstr "Flickering Black Light"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Diamond with Soft Border"
+msgstr "Diamond with Soft Border"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "No Image beyond End"
+msgstr "No Image beyond End"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Glamour"
+msgstr "Glamour"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Wiggliness"
+msgstr "Wiggliness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Color B Green"
+msgstr "Color B Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Color 2 Green"
+msgstr "Color 2 Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Alpha From"
+msgstr "Alpha From"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sharpen Threshold"
+msgstr "Sharpen Threshold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Alpha Only"
+msgstr "Alpha Only"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BG Glow On"
+msgstr "BG Glow On"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Speed Variance"
+msgstr "Speed Variance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Antialiased Lines"
+msgstr "Antialiased Lines"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Glow On"
+msgstr "Glow On"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Use AE Host Mask"
+msgstr "Use AE Host Mask"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Spin Random %"
+msgstr "Spin Random %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Graph Top Left Corner X"
+msgstr "Graph Top Left Corner X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Graph Top Left Corner Y"
+msgstr "Graph Top Left Corner Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "On Ones (24fps)"
+msgstr "On Ones (24fps)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "2 to 1 Brights"
+msgstr "2 to 1 Brights"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bottom Left X"
+msgstr "Bottom Left X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bottom Left Y"
+msgstr "Bottom Left Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Define Clouds"
+msgstr "Define Clouds"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cyan Color Blue"
+msgstr "Cyan Color Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dark Theater"
+msgstr "Dark Theater"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "White to Black"
+msgstr "White to Black"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Opacity Random %"
+msgstr "Opacity Random %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tumble Random"
+msgstr "Tumble Random"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cyan Color  Red"
+msgstr "Cyan Color  Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bottom Right X"
+msgstr "Bottom Right X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bottom Right Y"
+msgstr "Bottom Right Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Target Luminance"
+msgstr "Target Luminance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Radiant Lemon"
+msgstr "Radiant Lemon"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Elliptical Caustic On"
+msgstr "Elliptical Caustic On"
+

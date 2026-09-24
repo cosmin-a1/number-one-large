@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCGAudio"
+msgstr "VCGAudio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export Subtitle File"
+msgstr "Export Subtitle File"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Next Key Frame"
+msgstr "Next Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Not enough time to insert subtitle."
+msgstr "Not enough time to insert subtitle."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCGImage"
+msgstr "VCGImage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Editing the composite timeline content will affect the added functional effects of the composite clip, including motion tracking, masks, keyframes, etc."
+msgstr "Editing the composite timeline content will affect the added functional effects of the composite clip, including motion tracking, masks, keyframes, etc."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCGVideo"
+msgstr "VCGVideo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Operation failure: continue adding will cause lag."
+msgstr "Operation failure: continue adding will cause lag."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom to Fit"
+msgstr "Zoom to Fit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinema style"
+msgstr "Cinema style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "ASCII Art"
+msgstr "ASCII Art"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Leap Downwards"
+msgstr "Leap Downwards"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beach house, beach, dolphins, high resolution, rich detail"
+msgstr "Beach house, beach, dolphins, high resolution, rich detail"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "NLog 709 Style"
+msgstr "NLog 709 Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "SLog 709 Style"
+msgstr "SLog 709 Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VLog 709 Style"
+msgstr "VLog 709 Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "DLog 709 Style"
+msgstr "DLog 709 Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "CLog 709 Style"
+msgstr "CLog 709 Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "GPLog 709 Style"
+msgstr "GPLog 709 Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Raindrop"
+msgstr "Raindrop"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Move to top"
+msgstr "Move to top"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Hairline"
+msgstr "Hairline"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to delete the custom project template item \"%1\"?"
+msgstr "Are you sure you want to delete the custom project template item \"%1\"?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Double-click to Apply"
+msgstr "Double-click to Apply"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The image is being generated."
+msgstr "The image is being generated."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Square Blur"
+msgstr "Square Blur"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The template has been modified. Do you want to save the changes? If not, your changes will be lost."
+msgstr "The template has been modified. Do you want to save the changes? If not, your changes will be lost."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Message Center"
+msgstr "Message Center"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "2 GB vRAM (4GB required for HD and 4K videos)."
+msgstr "2 GB vRAM (4GB required for HD and 4K videos)."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bengali (India)"
+msgstr "Bengali (India)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Re-analyze"
+msgstr "Re-analyze"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Far East"
+msgstr "Far East"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bring to Front"
+msgstr "Bring to Front"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "insufficient rights"
+msgstr "insufficient rights"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Random 2"
+msgstr "Random 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "more than 60min"
+msgstr "more than 60min"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sign Up to Get"
+msgstr "Sign Up to Get"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Move to upper right and zoom in"
+msgstr "Move to upper right and zoom in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+msgstr "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Edit advanced properties, AI Tools, Keyframe, and Speed Ramping. Start with Multi-Clip Editing as an example."
+msgstr "Edit advanced properties, AI Tools, Keyframe, and Speed Ramping. Start with Multi-Clip Editing as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Temporary files currently being used will not be deleted."
+msgstr "Temporary files currently being used will not be deleted."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beat Edit"
+msgstr "Beat Edit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Hard Rock"
+msgstr "Hard Rock"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enable Canvas Snapping"
+msgstr "Enable Canvas Snapping"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sandra Lomo"
+msgstr "Sandra Lomo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "barLabel"
+msgstr "barLabel"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "File size, over %1GB cannot be uploaded"
+msgstr "File size, over %1GB cannot be uploaded"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Evaporate"
+msgstr "Evaporate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Camera Name"
+msgstr "Camera Name"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Brand Transmission, Logo Reveal"
+msgstr "Brand Transmission, Logo Reveal"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Renew %1 months at %2 off"
+msgstr "Renew %1 months at %2 off"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Scanning code success !"
+msgstr "Scanning code success !"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Graphics"
+msgstr "Graphics"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Pixelated Edges"
+msgstr "Pixelated Edges"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add Text Box"
+msgstr "Add Text Box"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "SquareSize"
+msgstr "SquareSize"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Warm Max"
+msgstr "Warm Max"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Start Now"
+msgstr "Start Now"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ease out"
+msgstr "Ease out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "SmartEdit"
+msgstr "SmartEdit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Flash out"
+msgstr "Flash out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Heartbeat"
+msgstr "Heartbeat"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enlarge Eye"
+msgstr "Enlarge Eye"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete Thumbnail"
+msgstr "Delete Thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unlock Track"
+msgstr "Unlock Track"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "%1 is importing now, %2 files left."
+msgstr "%1 is importing now, %2 files left."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Return to Startup window"
+msgstr "Return to Startup window"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Finalize your video by clicking 'Export'."
+msgstr "Finalize your video by clicking 'Export'."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Filmora Twitter"
+msgstr "Filmora Twitter"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "download folder"
+msgstr "download folder"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Welcome! Follow the Tutorial to Start Editing with Filmora."
+msgstr "Welcome! Follow the Tutorial to Start Editing with Filmora."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "rotate_start_angle"
+msgstr "rotate_start_angle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The screen ratio is scaled"
+msgstr "The screen ratio is scaled"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delay Grab"
+msgstr "Delay Grab"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Only 1500 characters can be transcribed in a single task."
+msgstr "Only 1500 characters can be transcribed in a single task."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delay time"
+msgstr "Delay time"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette White"
+msgstr "Vignette White"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Direction"
+msgstr "Direction"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Process Bar Color"
+msgstr "Process Bar Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Reflect"
+msgstr "Reflect"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Nicaragua)"
+msgstr "Spanish (Nicaragua)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The size of the new storage location is being calculated. Please wait..."
+msgstr "The size of the new storage location is being calculated. Please wait..."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Log into Wondershare ID"
+msgstr "Log into Wondershare ID"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Single Character Gathers"
+msgstr "Single Character Gathers"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Restart Now"
+msgstr "Restart Now"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sorry, the Avatar Presentation plugin is currently in beta and does not support this language at this time."
+msgstr "Sorry, the Avatar Presentation plugin is currently in beta and does not support this language at this time."
+

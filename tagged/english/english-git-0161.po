@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Gradient Random"
+msgstr "Gradient Random"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Gentle Star"
+msgstr "Gentle Star"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Image Mapper"
+msgstr "Image Mapper"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Green Scramble"
+msgstr "Green Scramble"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Affect Alpha"
+msgstr "Affect Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Rad. Position Variance"
+msgstr "Rad. Position Variance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BCC RGB Edges"
+msgstr "BCC RGB Edges"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Outside Glow Color 1"
+msgstr "Outside Glow Color 1"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Outside Glow Color 2"
+msgstr "Outside Glow Color 2"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Outside Glow Color 3"
+msgstr "Outside Glow Color 3"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flare Intensity"
+msgstr "Flare Intensity"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Size FX Layer Mode"
+msgstr "Size FX Layer Mode"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Noise Blurs White"
+msgstr "Noise Blurs White"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Camera Orientation"
+msgstr "Camera Orientation"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Glint Color Green"
+msgstr "Glint Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Scale to Fit"
+msgstr "Scale to Fit"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Obscure Right Side"
+msgstr "Obscure Right Side"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Shift FX Wipe"
+msgstr "Shift FX Wipe"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Swap Green"
+msgstr "Swap Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L144 No Colour Blue"
+msgstr "L144 No Colour Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Wipe Progress (Disperse)"
+msgstr "Wipe Progress (Disperse)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tilting Color"
+msgstr "Tilting Color"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Circular Freq"
+msgstr "Circular Freq"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Near Corner X"
+msgstr "Near Corner X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Near Corner Y"
+msgstr "Near Corner Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Map Gamma"
+msgstr "Map Gamma"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Loop Count"
+msgstr "Loop Count"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Clip Black"
+msgstr "Clip Black"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Inside Color"
+msgstr "Inside Color"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Keep Edges"
+msgstr "Keep Edges"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Inertia from Emitter %"
+msgstr "Inertia from Emitter %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Grainy Texture"
+msgstr "Grainy Texture"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Green Key Omit Sides"
+msgstr "Green Key Omit Sides"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L172 Lagoon Blue"
+msgstr "L172 Lagoon Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Light Color Green"
+msgstr "Light Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pivot Point X"
+msgstr "Pivot Point X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pivot Point Y"
+msgstr "Pivot Point Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Render Legacy PixelChooser"
+msgstr "Render Legacy PixelChooser"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L332 Special Rose Pink"
+msgstr "L332 Special Rose Pink"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Upper Right Light"
+msgstr "Upper Right Light"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Black Color  Green"
+msgstr "Black Color  Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Medium Sharpen"
+msgstr "Medium Sharpen"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Top Right"
+msgstr "Top Right"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Clip White"
+msgstr "Clip White"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "10 Sides"
+msgstr "10 Sides"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Start Color Green"
+msgstr "Start Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Clip Right"
+msgstr "Clip Right"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Far Corner X"
+msgstr "Far Corner X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Far Corner Y"
+msgstr "Far Corner Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Drop Shape"
+msgstr "Drop Shape"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Only Background"
+msgstr "Only Background"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Crop Style"
+msgstr "Crop Style"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Midtone Sharpen"
+msgstr "Midtone Sharpen"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Before Cartoon"
+msgstr "Before Cartoon"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Short Color Green"
+msgstr "Short Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Smooth by Fields"
+msgstr "Smooth by Fields"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Chalk Drawing"
+msgstr "Chalk Drawing"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Outside Glow Color 1 Red"
+msgstr "Outside Glow Color 1 Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Transparent->Opaque"
+msgstr "Transparent->Opaque"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Particle Midpoint Color Green"
+msgstr "Particle Midpoint Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Old Film"
+msgstr "Old Film"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bold Blue"
+msgstr "Bold Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Outside Glow Color 2 Red"
+msgstr "Outside Glow Color 2 Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Destination X"
+msgstr "Destination X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Destination Y"
+msgstr "Destination Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Destination Z"
+msgstr "Destination Z"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Outside Glow Color 3 Red"
+msgstr "Outside Glow Color 3 Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "String Morph Rate"
+msgstr "String Morph Rate"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Little Specs"
+msgstr "Little Specs"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Paint Color Green"
+msgstr "Paint Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tile Gap Color"
+msgstr "Tile Gap Color"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "FG Scale Master Post"
+msgstr "FG Scale Master Post"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Highlight Color Red"
+msgstr "Highlight Color Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Scale Seed"
+msgstr "Scale Seed"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Min. Pixel Length"
+msgstr "Min. Pixel Length"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Strong Shadows"
+msgstr "Strong Shadows"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Scale Mask"
+msgstr "Scale Mask"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Auto-Rotate Random %"
+msgstr "Auto-Rotate Random %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Roll RGB Speed"
+msgstr "Roll RGB Speed"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Floor Follows"
+msgstr "Floor Follows"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tile Wall"
+msgstr "Tile Wall"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tile Size"
+msgstr "Tile Size"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L778 Millennium Gold"
+msgstr "L778 Millennium Gold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Completion Time"
+msgstr "Completion Time"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Radioactive Olive"
+msgstr "Radioactive Olive"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Blackout"
+msgstr "Blackout"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tile Gap Width"
+msgstr "Tile Gap Width"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Stretch/Direction"
+msgstr "Stretch/Direction"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BCC Tile Mosaic"
+msgstr "BCC Tile Mosaic"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Random Source 2"
+msgstr "Random Source 2"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Disperse Wipe"
+msgstr "Disperse Wipe"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flame 01"
+msgstr "Flame 01"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flame 02"
+msgstr "Flame 02"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Optical Flow"
+msgstr "Optical Flow"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Glow Opacity"
+msgstr "Glow Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Half Sine"
+msgstr "Half Sine"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Tequila Sunrise"
+msgstr "Tequila Sunrise"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flat Fan"
+msgstr "Flat Fan"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flare On"
+msgstr "Flare On"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cam Rotation Order"
+msgstr "Cam Rotation Order"
+

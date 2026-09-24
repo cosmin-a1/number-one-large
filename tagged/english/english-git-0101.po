@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "AntiPiracyHelper-version1"
+msgid "Your activation code could not be validated.\n"
+"It might be activated on the maximum number of devices permitted or have expired.\n"
+"Please contact our Customer Support with your purchase record."
+msgstr "Your activation code could not be validated.\n"
+"It might be activated on the maximum number of devices permitted or have expired.\n"
+"Please contact our Customer Support with your purchase record."
+
+#: 
+msgctxt "AntiPiracyHelper-version1"
+msgid "An error occurred when validating your Filmora account (Wondershare ID) or license.\n"
+"Please relaunch Filmora and try again later."
+msgstr "An error occurred when validating your Filmora account (Wondershare ID) or license.\n"
+"Please relaunch Filmora and try again later."
+
+#: 
+msgctxt "AntiPiracyHelper-version1"
+msgid "Your application appears to be damaged, please reinstall the application."
+msgstr "Your application appears to be damaged, please reinstall the application."
+
+#: 
+msgctxt "FAITextClipperMainDialog-version1"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version1"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+msgctxt "FAITextClipperMainDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version1"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version1"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version1"
+msgid "There are unsaved changes. Are you sure you want to quit?"
+msgstr "There are unsaved changes. Are you sure you want to quit?"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Are you sure to quit the automatic highlight video generation?"
+msgstr "Are you sure to quit the automatic highlight video generation?"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Analyzing and extracting highlight..."
+msgstr "Analyzing and extracting highlight..."
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Auto Highlight"
+msgstr "Auto Highlight"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Occur error, please try again!"
+msgstr "Occur error, please try again!"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Success! Highlight video created!"
+msgstr "Success! Highlight video created!"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Generating video..."
+msgstr "Generating video..."
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "You can enter it again on the Filmora export page."
+msgstr "You can enter it again on the Filmora export page."
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version1"
+msgid "highlight"
+msgstr "highlight"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "BiliBili"
+msgstr "BiliBili"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "XiGua"
+msgstr "XiGua"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "YouKu"
+msgstr "YouKu"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "iQiYi"
+msgstr "iQiYi"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Failed to export %1. Do you want to retry?"
+msgstr "Failed to export %1. Do you want to retry?"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Converted Successfully"
+msgstr "Converted Successfully"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "DouYin"
+msgstr "DouYin"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Share2"
+msgstr "Share2"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "AI title and description for social media"
+msgstr "AI title and description for social media"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Your export is incomplete. Do you want to abort?"
+msgstr "Your export is incomplete. Do you want to abort?"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Remaining pieces:"
+msgstr "Remaining pieces:"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Export Paused"
+msgstr "Export Paused"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Tencent"
+msgstr "Tencent"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+msgctxt "FExportProgressDialog-version1"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version1"
+msgid "Advanced Split Screen Edit"
+msgstr "Advanced Split Screen Edit"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version1"
+msgid "The split screen has been modified. Do you want to save the changes?"
+msgstr "The split screen has been modified. Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version1"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version1"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version1"
+msgid "Successfully applied to all subtitle bars"
+msgstr "Successfully applied to all subtitle bars"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version1"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+msgctxt "FDurationSettingDlg-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FDurationSettingDlg-version1"
+msgid "Duration Setting"
+msgstr "Duration Setting"
+
+#: 
+msgctxt "FDurationSettingDlg-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version1"
+msgid "Drag the items you want to use into the toolbar..."
+msgstr "Drag the items you want to use into the toolbar..."
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Export Succeed. "
+msgstr "Export Succeed. "
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Edit Thumbnail"
+msgstr "Edit Thumbnail"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "The thumbnail has been changed. Do you want to save your changes?"
+msgstr "The thumbnail has been changed. Do you want to save your changes?"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Export Failed."
+msgstr "Export Failed."
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Export to local"
+msgstr "Export to local"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Export Failed. Insufficient disk space. "
+msgstr "Export Failed. Insufficient disk space. "
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Applying template effects, please waiting..."
+msgstr "Applying template effects, please waiting..."
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FProjectCoverDialog-version1"
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+#: 
+msgctxt "FSavePreseNametDlg-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FSavePreseNametDlg-version1"
+msgid "This name is already in use. Do you want to overwrite the preset?"
+msgstr "This name is already in use. Do you want to overwrite the preset?"
+
+#: 
+msgctxt "FSavePreseNametDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSavePreseNametDlg-version1"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Send"
+msgstr "Send"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "We're Sorry!"
+msgstr "We're Sorry!"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+msgstr "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Please include a description of the issue under 'Feedback'."
+msgstr "Please include a description of the issue under 'Feedback'."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Please include a description of the issue or a Problem Log."
+msgstr "Please include a description of the issue or a Problem Log."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Please include you email and description."
+msgstr "Please include you email and description."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+msgstr "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "This is where we'll get back to you.Double check that it's right."
+msgstr "This is where we'll get back to you.Double check that it's right."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Sending"
+msgstr "Sending"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "E-mail format is incorret."
+msgstr "E-mail format is incorret."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "*Feedback"
+msgstr "*Feedback"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Network connection failed."
+msgstr "Network connection failed."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Thanks for contact us. Please submit your suggestions or requirements below."
+msgstr "Thanks for contact us. Please submit your suggestions or requirements below."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Please provide Email, description or log."
+msgstr "Please provide Email, description or log."
+

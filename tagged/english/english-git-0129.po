@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Same Series"
+msgstr "Same Series"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Your favourite assets will be stored in the \"Favorites\" folder in the media tab where they belong to."
+msgstr "Your favourite assets will be stored in the \"Favorites\" folder in the media tab where they belong to."
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Filmora does not have access to your Photos Library."
+msgstr "Filmora does not have access to your Photos Library."
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Sync from cloud"
+msgstr "Sync from cloud"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Some default effects used in this project file are missing,please download again."
+msgstr "Some default effects used in this project file are missing,please download again."
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+msgstr "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "The resources you downloaded will be stored in the \"Downloads\" folder in the media tab where they belong to."
+msgstr "The resources you downloaded will be stored in the \"Downloads\" folder in the media tab where they belong to."
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "View all"
+msgstr "View all"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Click the icon to find similar assets."
+msgstr "Click the icon to find similar assets."
+
+#: 
+msgctxt "FAudioRemixProgressPanel-version1"
+msgid "Audio Stretch in progress, please wait"
+msgstr "Audio Stretch in progress, please wait"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version1"
+msgid "Change default"
+msgstr "Change default"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version1"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version1"
+msgid "Are you sure you want to change default project settings? This action will affect current and new projects."
+msgstr "Are you sure you want to change default project settings? This action will affect current and new projects."
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version1"
+msgid "CONTINUE"
+msgstr "CONTINUE"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version1"
+msgid "Sorry the following file(s) has missing"
+msgstr "Sorry the following file(s) has missing"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version1"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version1"
+msgid "If you continue export, your project will be exprted without them."
+msgstr "If you continue export, your project will be exprted without them."
+
+#: 
+msgctxt "FPropertyMosaicEffectWidget-version1"
+msgid "Blur Amount"
+msgstr "Blur Amount"
+
+#: 
+msgctxt "FPropertyMosaicEffectWidget-version1"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version1"
+msgid "Active Device Limit"
+msgstr "Active Device Limit"
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version1"
+msgid "If you log in on this device using this account you will be logged out on the following device: %1 ."
+msgstr "If you log in on this device using this account you will be logged out on the following device: %1 ."
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version1"
+msgid "You are currently signed in as %1 on %2 other devices. Your device limit is %2 ."
+msgstr "You are currently signed in as %1 on %2 other devices. Your device limit is %2 ."
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version1"
+msgid "LOG IN ON THIS DEVICE"
+msgstr "LOG IN ON THIS DEVICE"
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version1"
+msgid "DO NOT LOG IN"
+msgstr "DO NOT LOG IN"
+
+#: 
+msgctxt "FFUpgradeBaseContentWidget-version1"
+msgid "Current version:"
+msgstr "Current version:"
+
+#: 
+msgctxt "FFUpgradeBaseContentWidget-version1"
+msgid "Latest version:"
+msgstr "Latest version:"
+
+#: 
+msgctxt "FPropertyComposeWidget-version1"
+msgid "Blend Mode"
+msgstr "Blend Mode"
+
+#: 
+msgctxt "FPropertyComposeWidget-version1"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FintroLogoRecommend-version1"
+msgid "Recommended"
+msgstr "Recommended"
+
+#: 
+msgctxt "FintroLogoRecommend-version1"
+msgid "Size: Less than 10 MB"
+msgstr "Size: Less than 10 MB"
+
+#: 
+msgctxt "FintroLogoRecommend-version1"
+msgid "Format:"
+msgstr "Format:"
+
+#: 
+msgctxt "FintroLogoRecommend-version1"
+msgid "Image size"
+msgstr "Image size"
+
+#: 
+msgctxt "FFPurchaseTopBar-version1"
+msgid "Monthly"
+msgstr "Monthly"
+
+#: 
+msgctxt "FFPurchaseTopBar-version1"
+msgid "Yearly"
+msgstr "Yearly"
+
+#: 
+msgctxt "FFColorSelecter-version1"
+msgid "More..."
+msgstr "More..."
+
+#: 
+msgctxt "FFColorSelecter-version1"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFMoreColorWidget-version1"
+msgid "More..."
+msgstr "More..."
+
+#: 
+msgctxt "FBannerWidget-version1"
+msgid "Get Creative Now"
+msgstr "Get Creative Now"
+
+#: 
+msgctxt "FBannerWidget-version1"
+msgid "See what's possible with Wondershare Filmora X!"
+msgstr "See what's possible with Wondershare Filmora X!"
+
+#: 
+msgctxt "FCheckingSchemePlanWebStateWidget-version1"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+msgctxt "FLowerRequirementDlg-version1"
+msgid "Update Graphics Driver"
+msgstr "Update Graphics Driver"
+
+#: 
+msgctxt "FLowerRequirementDlg-version1"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version1"
+msgid "Go to the subtitle editor after exporting"
+msgstr "Go to the subtitle editor after exporting"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version1"
+msgid "Export to timeline"
+msgstr "Export to timeline"
+
+#: 
+msgctxt "FFProgressPanel-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessProgressDialog-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessProgressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpaceLoadMoreButton-version1"
+msgid "Click to load more"
+msgstr "Click to load more"
+
+#: 
+msgctxt "FEmptyTaskWidget-version1"
+msgid "No tasks in progress."
+msgstr "No tasks in progress."
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version1"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version1"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version1"
+msgid "%1 videos are yet to be generated.Are you sure you want to cancel ?"
+msgstr "%1 videos are yet to be generated.Are you sure you want to cancel ?"
+
+#: 
+msgctxt "FExportPanel-version1"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FExportPanel-version1"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FExportPanel-version1"
+msgid "There is not enough space in the specified output directory, please choose another one."
+msgstr "There is not enough space in the specified output directory, please choose another one."
+
+#: 
+msgctxt "FExportPanel-version1"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FPropertyAutoEnhanceWidget-version1"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FFModuleInstallView-version1"
+msgid "is being upgraded,please wait..."
+msgstr "is being upgraded,please wait..."
+
+#: 
+msgctxt "FFModuleInstallView-version1"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FFModuleInstallView-version1"
+msgid "The AI model cannot adapt to your device and this function cannot be used."
+msgstr "The AI model cannot adapt to your device and this function cannot be used."
+
+#: 
+msgctxt "FFModuleInstallView-version1"
+msgid "Please check your internet connection and try again.These features upgrade failed:"
+msgstr "Please check your internet connection and try again.These features upgrade failed:"
+
+#: 
+msgctxt "FFModuleInstallView-version1"
+msgid "Download failed. Please free up some storage space and try again."
+msgstr "Download failed. Please free up some storage space and try again."
+
+#: 
+msgctxt "FFModuleInstallView-version1"
+msgid "Upgrading"
+msgstr "Upgrading"
+
+#: 
+msgctxt "FProjectStateButton-version1"
+msgid "Backup"
+msgstr "Backup"
+
+#: 
+msgctxt "FProjectStateButton-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FIntroFactory-version1"
+msgid "Add Video or Picture"
+msgstr "Add Video or Picture"
+
+#: 
+msgctxt "FPSHelper-version1"
+msgid "Time remaining:"
+msgstr "Time remaining:"
+
+#: 
+msgctxt "FAutoCreateProgressDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAutoCreateProgressDlg-version1"
+msgid "Your creation is being made! This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made! This might take a couple minutes - magic takes time!"
+
+#: 
+msgctxt "FClipTrimAdjustPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FClipTrimAdjustPanel-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FCloudSpaceItems-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpaceItems-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceItems-version1"
+msgid "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+msgstr "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+
+#: 
+msgctxt "FCustomMediaProgressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDoubleTipsDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDoubleTipsDialog-version1"
+msgid "Successfully installed!"
+msgstr "Successfully installed!"
+
+#: 
+msgctxt "FDoubleTipsDialog-version1"
+msgid " You can try the plug-in effect with a watermark, and you need to purchase an activation code to remove the watermark."
+msgstr " You can try the plug-in effect with a watermark, and you need to purchase an activation code to remove the watermark."
+
+#: 
+msgctxt "FDoubleTipsDialog-version1"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFAIErasingProressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version1"
+msgid "There is not enough media in the source clip to fill the range in the timeline"
+msgstr "There is not enough media in the source clip to fill the range in the timeline"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version1"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version1"
+msgid "Continued editing will shorten the overall length"
+msgstr "Continued editing will shorten the overall length"
+
+#: 
+msgctxt "FScanningDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FScanningDlg-version1"
+msgid "Scanning media files. Please wait."
+msgstr "Scanning media files. Please wait."
+
+#: 
+msgctxt "FScanningDlg-version1"
+msgid "Files found: %1"
+msgstr "Files found: %1"
+
+#: 
+msgctxt "FScanningDlg-version1"
+msgid "Scanning Device"
+msgstr "Scanning Device"
+
+#: 
+msgctxt "FTryLimitRenewDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTryLimitRenewDialog-version1"
+msgid "Already renewed? Try refreshing your account information."
+msgstr "Already renewed? Try refreshing your account information."
+
+#: 
+msgctxt "FTryLimitRenewDialog-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FTitleBarFreeTrialBtn-version1"
+msgid "Try Filmora Creative Assets for free!"
+msgstr "Try Filmora Creative Assets for free!"
+
+#: 
+msgctxt "FTemplateResourceItemIconView-version1"
+msgid "Change"
+msgstr "Change"
+

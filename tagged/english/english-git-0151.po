@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bokeh Paralax"
+msgstr "Bokeh Paralax"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uCount_start"
+msgstr "uCount_start"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Image Sequence"
+msgstr "Image Sequence"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You are free to export this asset within %1."
+msgstr "You are free to export this asset within %1."
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Y"
+msgstr "Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "3D"
+msgstr "3D"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BW"
+msgstr "BW"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cb"
+msgstr "Cb"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cr"
+msgstr "Cr"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "On"
+msgstr "On"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "To"
+msgstr "To"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Train Time"
+msgstr "Train Time"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Contract Rays"
+msgstr "Contract Rays"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Train Ride"
+msgstr "Train Ride"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "B&W"
+msgstr "B&W"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "B/W"
+msgstr "B/W"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "CMY"
+msgstr "CMY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "All"
+msgstr "All"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Box"
+msgstr "Box"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dim"
+msgstr "Dim"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "FPS"
+msgstr "FPS"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dot"
+msgstr "Dot"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "End"
+msgstr "End"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Fat"
+msgstr "Fat"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Fog"
+msgstr "Fog"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "HSI"
+msgstr "HSI"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "HSP"
+msgstr "HSP"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "HSV"
+msgstr "HSV"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Gel"
+msgstr "Gel"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Hot"
+msgstr "Hot"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ice"
+msgstr "Ice"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ink"
+msgstr "Ink"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "LCD"
+msgstr "LCD"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Key"
+msgstr "Key"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Low"
+msgstr "Low"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Map"
+msgstr "Map"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Max"
+msgstr "Max"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Min"
+msgstr "Min"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Mix"
+msgstr "Mix"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "PAL"
+msgstr "PAL"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Mud"
+msgstr "Mud"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Off"
+msgstr "Off"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Oil"
+msgstr "Oil"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pan"
+msgstr "Pan"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pin"
+msgstr "Pin"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Red"
+msgstr "Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Top"
+msgstr "Top"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "XYZ"
+msgstr "XYZ"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "XZY"
+msgstr "XZY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "YXZ"
+msgstr "YXZ"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "YZX"
+msgstr "YZX"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "ZXY"
+msgstr "ZXY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "ZYX"
+msgstr "ZYX"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bright Lighting"
+msgstr "Bright Lighting"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "PC Intensity"
+msgstr "PC Intensity"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L776 Nectarine"
+msgstr "L776 Nectarine"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Grain Size"
+msgstr "Grain Size"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Destination"
+msgstr "Destination"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Scale Screen"
+msgstr "Scale Screen"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "1 GB"
+msgstr "1 GB"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "2 GB"
+msgstr "2 GB"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "4 GB"
+msgstr "4 GB"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "32nd"
+msgstr "32nd"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "6 GB"
+msgstr "6 GB"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "64th"
+msgstr "64th"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "8 GB"
+msgstr "8 GB"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "TV In Space"
+msgstr "TV In Space"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Centered Square"
+msgstr "Centered Square"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "CMYK"
+msgstr "CMYK"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Aqua"
+msgstr "Aqua"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Auto"
+msgstr "Auto"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Boat"
+msgstr "Boat"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Both"
+msgstr "Both"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cafe"
+msgstr "Cafe"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cape"
+msgstr "Cape"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cave"
+msgstr "Cave"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Claw"
+msgstr "Claw"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Clay"
+msgstr "Clay"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cold"
+msgstr "Cold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cool"
+msgstr "Cool"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dark"
+msgstr "Dark"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dawn"
+msgstr "Dawn"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dest"
+msgstr "Dest"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cyan"
+msgstr "Cyan"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Disc"
+msgstr "Disc"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Draw"
+msgstr "Draw"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Edge"
+msgstr "Edge"
+

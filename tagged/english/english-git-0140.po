@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upload failed. Please try again."
+msgstr "Upload failed. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+msgstr "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Random Flashing Out"
+msgstr "Random Flashing Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Online Help"
+msgstr "Online Help"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+msgstr "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Expand Now."
+msgstr "Expand Now."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Indonesian (Indonesia)"
+msgstr "Indonesian (Indonesia)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Process Ring BG Color"
+msgstr "Process Ring BG Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Downloading AI Drawing image:"
+msgstr "Downloading AI Drawing image:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Random Flashing In"
+msgstr "Random Flashing In"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Welcome to try Filmora 13 Beta"
+msgstr "Welcome to try Filmora 13 Beta"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Proxy files currently being used will not be deleted."
+msgstr "Proxy files currently being used will not be deleted."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Don't remind me again"
+msgstr "Don't remind me again"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Black && White 1"
+msgstr "Black && White 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Black && White 2"
+msgstr "Black && White 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Black && White 3"
+msgstr "Black && White 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Black && White 4"
+msgstr "Black && White 4"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Black && White 5"
+msgstr "Black && White 5"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Remove Nasolabial Folds"
+msgstr "Remove Nasolabial Folds"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bar Color"
+msgstr "Bar Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Amount"
+msgstr "Blur Amount"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "User Guide"
+msgstr "User Guide"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Edges"
+msgstr "Blur Edges"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Display audio waveform"
+msgstr "Display audio waveform"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Deleting the file will affect the used project. You can retrieve it by downloading the record"
+msgstr "Deleting the file will affect the used project. You can retrieve it by downloading the record"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Peru)"
+msgstr "Spanish (Peru)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Paste keyframe"
+msgstr "Paste keyframe"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Width"
+msgstr "Blur Width"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Resource download failed. Please try to apply the resource in the %1."
+msgstr "Resource download failed. Please try to apply the resource in the %1."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Confirm conversion to SRT?"
+msgstr "Confirm conversion to SRT?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Eye Distance"
+msgstr "Eye Distance"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Montage"
+msgstr "Montage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete all material"
+msgstr "Delete all material"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Network error. Please retry later."
+msgstr "Network error. Please retry later."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Paraguay)"
+msgstr "Spanish (Paraguay)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure to quit AI Image Generation?"
+msgstr "Are you sure to quit AI Image Generation?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Import Failed"
+msgstr "Import Failed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Faux Film 7"
+msgstr "Faux Film 7"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Verbatim Reduction"
+msgstr "Verbatim Reduction"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "It is required to install an audio driver in order to record system audio."
+msgstr "It is required to install an audio driver in order to record system audio."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beauty"
+msgstr "Beauty"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shrink Face"
+msgstr "Shrink Face"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Marathi (India)"
+msgstr "Marathi (India)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Border"
+msgstr "Border"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bottom"
+msgstr "Bottom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Camera"
+msgstr "Camera"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bright"
+msgstr "Bright"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Process Bar BG Color"
+msgstr "Process Bar BG Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "lineCount"
+msgstr "lineCount"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enterprise Plan Right 1"
+msgstr "Enterprise Plan Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Round zoom out"
+msgstr "Round zoom out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Recording duration is too short. Please record again."
+msgstr "Recording duration is too short. Please record again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clear temporary files"
+msgstr "Clear temporary files"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Height"
+msgstr "Blur Height"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "3:4 (Business)"
+msgstr "3:4 (Business)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Filmora Walkthrough"
+msgstr "Filmora Walkthrough"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Darken"
+msgstr "Darken"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with Motion Tracking as an example."
+msgstr "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with Motion Tracking as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "My Custom"
+msgstr "My Custom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shadow Details"
+msgstr "Shadow Details"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Croatian (Croatia)"
+msgstr "Croatian (Croatia)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "My Mask"
+msgstr "My Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Up Down 1"
+msgstr "Up Down 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Up Down 2"
+msgstr "Up Down 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "DouYin"
+msgstr "DouYin"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "New Feature Request"
+msgstr "New Feature Request"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Emboss"
+msgstr "Emboss"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enable"
+msgstr "Enable"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "This name is already in use."
+msgstr "This name is already in use."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Free Assets"
+msgstr "Free Assets"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "NewBlue"
+msgstr "NewBlue"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "String Blur"
+msgstr "String Blur"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 2"
+msgstr "Vignette 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 3"
+msgstr "Vignette 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 4"
+msgstr "Vignette 4"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 5"
+msgstr "Vignette 5"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 6"
+msgstr "Vignette 6"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 7"
+msgstr "Vignette 7"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 8"
+msgstr "Vignette 8"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette 9"
+msgstr "Vignette 9"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Down Insert"
+msgstr "Down Insert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Click to listen to the song"
+msgstr "Click to listen to the song"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Human Segmentation"
+msgstr "Human Segmentation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Expand"
+msgstr "Expand"
+

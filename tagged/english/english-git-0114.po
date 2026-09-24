@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Unclear catalog classification"
+msgstr "Unclear catalog classification"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Unclear resource naming"
+msgstr "Unclear resource naming"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Search for hot terms popular"
+msgstr "Search for hot terms popular"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Good quality of search results"
+msgstr "Good quality of search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Search for hot terms liked"
+msgstr "Search for hot terms liked"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version1"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Automatic splitting"
+msgstr "Automatic splitting"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+msgstr "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Copy generation failed, please try again later."
+msgstr "Copy generation failed, please try again later."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Type or paste text here, or use AI to generate text."
+msgstr "Type or paste text here, or use AI to generate text."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "AI is generating results..."
+msgstr "AI is generating results..."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Product coverage"
+msgstr "Product coverage"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "Topic Type"
+msgstr "Topic Type"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version1"
+msgid "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+msgstr "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Did not include effect (text, filter,transition..) resources I like."
+msgstr "Did not include effect (text, filter,transition..) resources I like."
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Did not include the feature I need."
+msgstr "Did not include the feature I need."
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "The price is not appropriate."
+msgstr "The price is not appropriate."
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Hello there,\n"
+"\n"
+"I am Jony, an engineer at Wondershare Technology. We are committed to creating easy-to-use software. We will work hard to make it as suitable as possible for you.\n"
+"\n"
+"Thank you for your feedback.\n"
+"Hope to meet you again.\n"
+"\n"
+"Thank you!"
+msgstr "Hello there,\n"
+"\n"
+"I am Jony, an engineer at Wondershare Technology. We are committed to creating easy-to-use software. We will work hard to make it as suitable as possible for you.\n"
+"\n"
+"Thank you for your feedback.\n"
+"Hope to meet you again.\n"
+"\n"
+"Thank you!"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Could you tell us why you uninstalled Filmora?"
+msgstr "Could you tell us why you uninstalled Filmora?"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "We will continue to optimize our products and look forward to seeing you again."
+msgstr "We will continue to optimize our products and look forward to seeing you again."
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Can you tell me why you want to uninstall?"
+msgstr "Can you tell me why you want to uninstall?"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "It crashed or frozen on my computer."
+msgstr "It crashed or frozen on my computer."
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "I want to uninstall the old version of the software after \n"
+"upgrading."
+msgstr "I want to uninstall the old version of the software after \n"
+"upgrading."
+
+#: 
+msgctxt "OptionPage-version1"
+msgid "Please describe the problem you encountered."
+msgstr "Please describe the problem you encountered."
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Photo"
+msgstr "Photo"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "The file has been modified. Do you want to save it?"
+msgstr "The file has been modified. Do you want to save it?"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Get More Tutorials"
+msgstr "Get More Tutorials"
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Smart Cutout in progress,please wait... "
+msgstr "Smart Cutout in progress,please wait... "
+
+#: 
+msgctxt "FSmartKeyingDialog-version1"
+msgid "Watch video tutorials to master more skills"
+msgstr "Watch video tutorials to master more skills"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Sound Balance"
+msgstr "Sound Balance"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Auto Normalization"
+msgstr "Auto Normalization"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Audio Ducking"
+msgstr "Audio Ducking"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Audio Channels"
+msgstr "Audio Channels"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Fade Out"
+msgstr "Fade Out"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Setting"
+msgstr "Setting"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Equalizer"
+msgstr "Equalizer"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Fade In"
+msgstr "Fade In"
+
+#: 
+msgctxt "FPropertyAudioAdjusmentWidget-version1"
+msgid "Supports copying and swapping the left and right channels of audio to ensure consistent effects in both ears."
+msgstr "Supports copying and swapping the left and right channels of audio to ensure consistent effects in both ears."
+
+#: 
+msgctxt "FPropertyAnimationSettingWidget-version1"
+msgid "Single loop speed"
+msgstr "Single loop speed"
+
+#: 
+msgctxt "FPropertyAnimationSettingWidget-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Insert clip after cursor"
+msgstr "Insert clip after cursor"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Insert clip at the end"
+msgstr "Insert clip at the end"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Full Screen (%1)"
+msgstr "Full Screen (%1)"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Overwrite clip"
+msgstr "Overwrite clip"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Insert Clip"
+msgstr "Insert Clip"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Snapshot (%1)"
+msgstr "Snapshot (%1)"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Restore (%1)"
+msgstr "Restore (%1)"
+
+#: 
+msgctxt "FFMainPlayerToolBar-version1"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Out Point"
+msgstr "Out Point"
+

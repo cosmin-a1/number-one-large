@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Wavy Disappearance"
+msgstr "Wavy Disappearance"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Custom LUT"
+msgstr "Custom LUT"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Doorway"
+msgstr "Doorway"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No Animation"
+msgstr "No Animation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jump from Below"
+msgstr "Jump from Below"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Audio Effect-Echo"
+msgstr "Audio Effect-Echo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Speech Enhancement"
+msgstr "AI Speech Enhancement"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Urdu (Pakistan)"
+msgstr "Urdu (Pakistan)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select clip error, please select again"
+msgstr "Select clip error, please select again"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Wavy style"
+msgstr "Wavy style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "LinearWipe"
+msgstr "LinearWipe"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ease in"
+msgstr "Ease in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Trim Start To Playhead"
+msgstr "Trim Start To Playhead"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beautify"
+msgstr "Beautify"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uParticleSize_end"
+msgstr "uParticleSize_end"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "B&&W Film"
+msgstr "B&&W Film"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Characters Disappear"
+msgstr "Characters Disappear"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Window Shades"
+msgstr "Window Shades"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You have already activated the free trial, enjoy it, please ignore the message"
+msgstr "You have already activated the free trial, enjoy it, please ignore the message"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Right Dir Insert"
+msgstr "Right Dir Insert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VFX Text"
+msgstr "VFX Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Character Fluctuation Amplification"
+msgstr "Character Fluctuation Amplification"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Keyframe Panel"
+msgstr "Keyframe Panel"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Korean (Korea)"
+msgstr "Korean (Korea)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Domain Warping"
+msgstr "Domain Warping"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "the file is larger than an hour"
+msgstr "the file is larger than an hour"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Radial Circle Color"
+msgstr "Radial Circle Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Click to listen to the song online"
+msgstr "Click to listen to the song online"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Network Proxy Settings"
+msgstr "Network Proxy Settings"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Update Forever"
+msgstr "Update Forever"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete Preview Render Files"
+msgstr "Delete Preview Render Files"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Transition Color Pop-up"
+msgstr "Transition Color Pop-up"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Create a video"
+msgstr "Create a video"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "(Default)"
+msgstr "(Default)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette Radius"
+msgstr "Vignette Radius"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "NLog 709 Cinematic"
+msgstr "NLog 709 Cinematic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "distortion_intensity"
+msgstr "distortion_intensity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The template has been saved to the \"Custom\" directory."
+msgstr "The template has been saved to the \"Custom\" directory."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export Settings"
+msgstr "Export Settings"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Validating activation status, please wait for a while..."
+msgstr "Validating activation status, please wait for a while..."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Previous Edit"
+msgstr "Previous Edit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "rough cut"
+msgstr "rough cut"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Frosted Level"
+msgstr "Frosted Level"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Please name file"
+msgstr "Please name file"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select a clip to apply the motion."
+msgstr "Select a clip to apply the motion."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Project End"
+msgstr "Project End"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Product FAQ"
+msgstr "Product FAQ"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vertical Rotation Appears"
+msgstr "Vertical Rotation Appears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Get Availabel frequence Error"
+msgstr "Get Availabel frequence Error"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Social Media"
+msgstr "Social Media"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beauty Skin"
+msgstr "Beauty Skin"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Project Settings"
+msgstr "Project Settings"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shrink Cheekbone"
+msgstr "Shrink Cheekbone"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Video Wall"
+msgstr "Video Wall"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uShowCoreLine"
+msgstr "uShowCoreLine"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Move to upper left"
+msgstr "Move to upper left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Move to lower left"
+msgstr "Move to lower left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You are temporarily unable to continue downloading resources from POND5. Download permissions for these resources will be reset tomorrow."
+msgstr "You are temporarily unable to continue downloading resources from POND5. Download permissions for these resources will be reset tomorrow."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Argentina)"
+msgstr "Spanish (Argentina)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Open Canthus"
+msgstr "Open Canthus"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade in Shake"
+msgstr "Fade in Shake"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unrecognized file content."
+msgstr "Unrecognized file content."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Up Roll"
+msgstr "Up Roll"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Trim End To Playhead"
+msgstr "Trim End To Playhead"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Failed. Insufficient Cloud space."
+msgstr "Failed. Insufficient Cloud space."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Elegant"
+msgstr "Elegant"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bullet time"
+msgstr "Bullet time"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Split View-Top/Bottom"
+msgstr "Split View-Top/Bottom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Install Computer Audio Driver"
+msgstr "Install Computer Audio Driver"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Trembling"
+msgstr "Trembling"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Download failed. Network connection problems."
+msgstr "Download failed. Network connection problems."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Reminder"
+msgstr "Reminder"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lower Left"
+msgstr "Lower Left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upper Left"
+msgstr "Upper Left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AMD Radeon R5 or later."
+msgstr "AMD Radeon R5 or later."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Play/Pause"
+msgstr "Play/Pause"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rich Transition"
+msgstr "Rich Transition"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Round Eye"
+msgstr "Round Eye"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "vtEmotion"
+msgstr "vtEmotion"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Template"
+msgstr "Template"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unsupported Language"
+msgstr "Unsupported Language"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "English"
+msgstr "English"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uEnhance"
+msgstr "uEnhance"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudProjectLoadErrorPage-version1"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version1"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version1"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+msgctxt "FPreviewErrorPromptWidget-version1"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FPreviewErrorPromptWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version1"
+msgid "Cleaning up, please wait..."
+msgstr "Cleaning up, please wait..."
+
+#: 
+msgctxt "FSettingMediaCachePanel-version1"
+msgid "Automatically delete render file when closing a project file"
+msgstr "Automatically delete render file when closing a project file"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version1"
+msgid "Automatically delete temporary files earlier than"
+msgstr "Automatically delete temporary files earlier than"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version1"
+msgid "Automatically delete proxies when a project is closed."
+msgstr "Automatically delete proxies when a project is closed."
+
+#: 
+msgctxt "FSettingMediaCachePanel-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version1"
+msgid "Start cloning your voice"
+msgstr "Start cloning your voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FErrorPromptHelper-version1"
+msgid "Download limit exceeded"
+msgstr "Download limit exceeded"
+
+#: 
+msgctxt "FErrorPromptHelper-version1"
+msgid "Please modify the default file path under \"Preferences > Folder\""
+msgstr "Please modify the default file path under \"Preferences > Folder\""
+
+#: 
+msgctxt "FErrorPromptHelper-version1"
+msgid "Network Restricted"
+msgstr "Network Restricted"
+
+#: 
+msgctxt "FErrorPromptHelper-version1"
+msgid "Today's music downloads have reached the maximum number"
+msgstr "Today's music downloads have reached the maximum number"
+
+#: 
+msgctxt "FErrorPromptHelper-version1"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+msgctxt "FErrorPromptHelper-version1"
+msgid "Today's new studio downloads have reached the maximum number"
+msgstr "Today's new studio downloads have reached the maximum number"
+
+#: 
+msgctxt "FAIImageStartView-version1"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+msgctxt "FAIImageStartView-version1"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+msgctxt "UpgradePage-version1"
+msgid "Upgrade completed"
+msgstr "Upgrade completed"
+
+#: 
+msgctxt "UpgradePage-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "UpgradePage-version1"
+msgid "Launch"
+msgstr "Launch"
+
+#: 
+msgctxt "UpgradePage-version1"
+msgid "The new version is more stable and faster!"
+msgstr "The new version is more stable and faster!"
+
+#: 
+msgctxt "UpgradePage-version1"
+msgid "Upgrading, please wait..."
+msgstr "Upgrading, please wait..."
+
+#: 
+msgctxt "UpgradePage-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FLaunchTestDialog-version1"
+msgid "Environment testing"
+msgstr "Environment testing"
+
+#: 
+msgctxt "FLaunchTestDialog-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FCardLabel-version1"
+msgid "All content copied to clipboard."
+msgstr "All content copied to clipboard."
+
+#: 
+msgctxt "FCardLabel-version1"
+msgid "Selected content copied to clipboard."
+msgstr "Selected content copied to clipboard."
+
+#: 
+msgctxt "FPropertyCloudResListView-version1"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "FPropertyCloudResListView-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyCloudResListView-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FPropertyCloudResListView-version1"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FPropertyCloudResListView-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FSpeedPresetList-version1"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "FHighLightPresenter-version1"
+msgid "Only clips under 5 hours can be analyzed by this tool."
+msgstr "Only clips under 5 hours can be analyzed by this tool."
+
+#: 
+msgctxt "FHighLightPresenter-version1"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "Your computer dose not seem to meet the "
+msgstr "Your computer dose not seem to meet the "
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "Update your driver"
+msgstr "Update your driver"
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "minimum requirements "
+msgstr "minimum requirements "
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "to run Wondershare Filmora9."
+msgstr "to run Wondershare Filmora9."
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "Or, if you choose continue, you might experiece poor performance or instability."
+msgstr "Or, if you choose continue, you might experiece poor performance or instability."
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid "During previous startup Filmora crashed."
+msgstr "During previous startup Filmora crashed."
+
+#: 
+msgctxt "FSafeModeDlg-version1"
+msgid " Please quit application and update your graphic driver to the latest.  "
+msgstr " Please quit application and update your graphic driver to the latest.  "
+
+#: 
+msgctxt "FAudioPreviewWidget-version1"
+msgid "Record Again"
+msgstr "Record Again"
+
+#: 
+msgctxt "FEmptyMessageView-version1"
+msgid "No message"
+msgstr "No message"
+
+#: 
+msgctxt "FThirdPartyCloud-version1"
+msgid "When the existing cloud drive is closed, the task will be cleared."
+msgstr "When the existing cloud drive is closed, the task will be cleared."
+
+#: 
+msgctxt "FThirdPartyCloud-version1"
+msgid "There are currently tasks in progress, exiting Filmora will clear all tasks."
+msgstr "There are currently tasks in progress, exiting Filmora will clear all tasks."
+
+#: 
+msgctxt "FThirdPartyCloud-version1"
+msgid "Do you agree to close the existing cloud drive and open a new one?"
+msgstr "Do you agree to close the existing cloud drive and open a new one?"
+
+#: 
+msgctxt "FThirdPartyCloud-version1"
+msgid "Are you sure you want to exit Filmora?"
+msgstr "Are you sure you want to exit Filmora?"
+
+#: 
+msgctxt "FThirdPartyCloud-version1"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version1"
+msgid "Delete all keyframes"
+msgstr "Delete all keyframes"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version1"
+msgid "Select all Keyframes"
+msgstr "Select all Keyframes"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version1"
+msgid "Copy keyframe"
+msgstr "Copy keyframe"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version1"
+msgid "Edit KeyFrame"
+msgstr "Edit KeyFrame"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version1"
+msgid "Delete all audio keyframes"
+msgstr "Delete all audio keyframes"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version1"
+msgid "Delete KeyFrame"
+msgstr "Delete KeyFrame"
+
+#: 
+msgctxt "FAdvanceSSClipContextMenu-version1"
+msgid "Clear All KeyFrames"
+msgstr "Clear All KeyFrames"
+
+#: 
+msgctxt "FExportDevicePanel-version1"
+msgid "Export to Devices"
+msgstr "Export to Devices"
+
+#: 
+msgctxt "FExportDevicePanel-version1"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FAddTextPresenter-version1"
+msgid "Create Title"
+msgstr "Create Title"
+
+#: 
+msgctxt "FAddTextPresenter-version1"
+msgid "Quickly add titles with one click"
+msgstr "Quickly add titles with one click"
+
+#: 
+msgctxt "FSmartKeyingNodeContextMenu-version1"
+msgid "Delete Point"
+msgstr "Delete Point"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+msgstr "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Browse"
+msgstr "Browse"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Not enough disk space"
+msgstr "Not enough disk space"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "No Permission"
+msgstr "No Permission"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version1"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FSaveRemindWid-version1"
+msgid "Are you sure you want to discard the changes?"
+msgstr "Are you sure you want to discard the changes?"
+
+#: 
+msgctxt "FSaveRemindWid-version1"
+msgid "This action will reset any unsaved changes to the current keyboard preset. And this action cannot be undone."
+msgstr "This action will reset any unsaved changes to the current keyboard preset. And this action cannot be undone."
+
+#: 
+msgctxt "FSaveRemindWid-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSaveRemindWid-version1"
+msgid "Save And Toggle presets"
+msgstr "Save And Toggle presets"
+
+#: 
+msgctxt "FSaveRemindWid-version1"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FCurvedSpeedPresetNamePanel-version1"
+msgid "Please name your custom Speed Ramping settings."
+msgstr "Please name your custom Speed Ramping settings."
+
+#: 
+msgctxt "FGraphicsClipAudioRemixTrimLayer-version1"
+msgid "Please cancel the group before starting Audio Stretch."
+msgstr "Please cancel the group before starting Audio Stretch."
+
+#: 
+msgctxt "FGraphicsClipAudioRemixTrimLayer-version1"
+msgid "Audio Stretch is only supported for single 1x audio clips above 10s and below 10h."
+msgstr "Audio Stretch is only supported for single 1x audio clips above 10s and below 10h."
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version1"
+msgid "Authorization Refreshing..."
+msgstr "Authorization Refreshing..."
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version1"
+msgid "Authorize Google Drive"
+msgstr "Authorize Google Drive"
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version1"
+msgid "Sign in with Google"
+msgstr "Sign in with Google"
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudMediaTaskHelper-version1"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+msgctxt "FCloudMediaTaskHelper-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FMediaFolderViewPrivate-version1"
+msgid "Drop the effect above the audio in timeline please to do music visualization"
+msgstr "Drop the effect above the audio in timeline please to do music visualization"
+
+#: 
+msgctxt "FFTextToSpeechTableHeaderToolTipper-version1"
+msgid "(Less than 100 words are calculated as 100 words)"
+msgstr "(Less than 100 words are calculated as 100 words)"
+
+#: 
+msgctxt "FFTextToSpeechTableHeaderToolTipper-version1"
+msgid "1 sentence per 100 words"
+msgstr "1 sentence per 100 words"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Open Anyway"
+msgstr "Open Anyway"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Influence Kit"
+msgstr "Influence Kit"
+
+#: 
+msgctxt "FMediaItemStackedView-version1"
+msgid "Scence"
+msgstr "Scence"
+

@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "LosslessInformationDialog-version1"
+msgid "Please contact our customer service."
+msgstr "Please contact our customer service."
+
+#: 
+msgctxt "LosslessInformationDialog-version1"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+msgctxt "LosslessInformationDialog-version1"
+msgid "<a style='color: #3CA9F8;' href = http://support.wondershare.com>Please contact our customer service.</a>"
+msgstr "<a style='color: #3CA9F8;' href = http://support.wondershare.com>Please contact our customer service.</a>"
+
+#: 
+msgctxt "LosslessInformationDialog-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version1"
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version1"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version1"
+msgid "Create a new Guides"
+msgstr "Create a new Guides"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version1"
+msgid "Direction"
+msgstr "Direction"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version1"
+msgid "Vertical"
+msgstr "Vertical"
+
+#: 
+msgctxt "FPropertyVideoFillColorWidget-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Cover"
+msgstr "Cover"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Do you want to overwrite it?"
+msgstr "Do you want to overwrite it?"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "The file named \"%1\" already exists locally."
+msgstr "The file named \"%1\" already exists locally."
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Do you want to overwrite this cloud file?"
+msgstr "Do you want to overwrite this cloud file?"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "The file named \"%1\" already exists in the cloud."
+msgstr "The file named \"%1\" already exists in the cloud."
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Keep both"
+msgstr "Keep both"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version1"
+msgid "Do you want to overwrite this local file?"
+msgstr "Do you want to overwrite this local file?"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Cover"
+msgstr "Cover"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Do you want to overwrite it?"
+msgstr "Do you want to overwrite it?"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "The file named \"%1\" already exists locally."
+msgstr "The file named \"%1\" already exists locally."
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Do you want to overwrite this cloud file?"
+msgstr "Do you want to overwrite this cloud file?"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Upload Tips"
+msgstr "Upload Tips"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "The file named \"%1\" already exists in the cloud."
+msgstr "The file named \"%1\" already exists in the cloud."
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "The cloud drive function is not avaliable in your current region."
+msgstr "The cloud drive function is not avaliable in your current region."
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Keep both"
+msgstr "Keep both"
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "For better uploading experience and secure storage, the size of project files saved in versions prior to Filmora 11 may be slightly larger when uploaded to the cloud."
+msgstr "For better uploading experience and secure storage, the size of project files saved in versions prior to Filmora 11 may be slightly larger when uploaded to the cloud."
+
+#: 
+msgctxt "FProjectLibraryHelper-version1"
+msgid "Do you want to overwrite this local file?"
+msgstr "Do you want to overwrite this local file?"
+
+#: 
+msgctxt "FFOpenFileLineEdit-version1"
+msgid "Please check disk permissions, or choose another path to continue."
+msgstr "Please check disk permissions, or choose another path to continue."
+
+#: 
+msgctxt "FFOpenFileLineEdit-version1"
+msgid "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+msgstr "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+
+#: 
+msgctxt "FFOpenFileLineEdit-version1"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FFOpenFileLineEdit-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FRenderingProgressDlg-version1"
+msgid "Please check disk permissions, or choose another path to continue."
+msgstr "Please check disk permissions, or choose another path to continue."
+
+#: 
+msgctxt "FRenderingProgressDlg-version1"
+msgid "Creating preview render for smooth playback"
+msgstr "Creating preview render for smooth playback"
+
+#: 
+msgctxt "FRenderingProgressDlg-version1"
+msgid "Error! Low disk space"
+msgstr "Error! Low disk space"
+
+#: 
+msgctxt "FRenderingProgressDlg-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FRenderingProgressDlg-version1"
+msgid "Estimated Time Left: "
+msgstr "Estimated Time Left: "
+
+#: 
+msgctxt "FRenderingProgressDlg-version1"
+msgid "Rendering frame "
+msgstr "Rendering frame "
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "START"
+msgstr "START"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Enable Hardware Acceleration for video rendering and playback"
+msgstr "Enable Hardware Acceleration for video rendering and playback"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Editing Limits:"
+msgstr "Editing Limits:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Automatically create proxies when resolution is higher than:"
+msgstr "Automatically create proxies when resolution is higher than:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "seconds_after"
+msgstr "seconds_after"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Playback with latest rendering engine for better performance."
+msgstr "Playback with latest rendering engine for better performance."
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "GPU environment detection has been completed, please restart now to update related settings."
+msgstr "GPU environment detection has been completed, please restart now to update related settings."
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Enable Hardware Acceleration for video decoding"
+msgstr "Enable Hardware Acceleration for video decoding"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Preview Render:"
+msgstr "Preview Render:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Adjust the performance editing limits of the timeline to:"
+msgstr "Adjust the performance editing limits of the timeline to:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Proxy:"
+msgstr "Proxy:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Start after"
+msgstr "Start after"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "High-range phone models"
+msgstr "High-range phone models"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Low-range phone models"
+msgstr "Low-range phone models"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Mid-range phone models"
+msgstr "Mid-range phone models"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "GPU Check"
+msgstr "GPU Check"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "The rendering engine has been updated. The update will take effect the next time you open Wondershare Filmora X."
+msgstr "The rendering engine has been updated. The update will take effect the next time you open Wondershare Filmora X."
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Select the Graphics card in use:"
+msgstr "Select the Graphics card in use:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Render:"
+msgstr "Render:"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Background render"
+msgstr "Background render"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "GPU environment detection is in progress, please wait."
+msgstr "GPU environment detection is in progress, please wait."
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Your GPU rendering and hardware decoding settings have been updated and will take effect the next time you open Wondershare Filmora."
+msgstr "Your GPU rendering and hardware decoding settings have been updated and will take effect the next time you open Wondershare Filmora."
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "The new selected Graphics card will take effect after restart Filmora."
+msgstr "The new selected Graphics card will take effect after restart Filmora."
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "Restart Later"
+msgstr "Restart Later"
+
+#: 
+msgctxt "FSettingPerformancePanel-version1"
+msgid "GPU Acceleration:"
+msgstr "GPU Acceleration:"
+
+#: 
+msgctxt "FUseTransitionGuideWidget-version1"
+msgid "Add Transitions"
+msgstr "Add Transitions"
+
+#: 
+msgctxt "FUseTransitionGuideWidget-version1"
+msgid "Apply a video transition effect by dragging it from the Transition panel onto the edit point between two clips on the timeline below."
+msgstr "Apply a video transition effect by dragging it from the Transition panel onto the edit point between two clips on the timeline below."
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "Later"
+msgstr "Later"
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "We provide the onboarding gifts for you to start editing."
+msgstr "We provide the onboarding gifts for you to start editing."
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "Welcome Aboard!"
+msgstr "Welcome Aboard!"
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "15M+ Creative Assets"
+msgstr "15M+ Creative Assets"
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "Unlimited Filmora AI Credits (Available for AI Features)"
+msgstr "Unlimited Filmora AI Credits (Available for AI Features)"
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "1 GB of Filmora Cloud Storage"
+msgstr "1 GB of Filmora Cloud Storage"
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "Redeem Now"
+msgstr "Redeem Now"
+
+#: 
+msgctxt "FSignUpRedeemDialog-version1"
+msgid "%1-Day Free Trial(Access all features & No watermark)"
+msgstr "%1-Day Free Trial(Access all features & No watermark)"
+
+#: 
+msgctxt "FTrayMsgDialog-version1"
+msgid "Later"
+msgstr "Later"
+
+#: 
+msgctxt "FTrayMsgDialog-version1"
+msgid "The effect plugin has been installed successfully!"
+msgstr "The effect plugin has been installed successfully!"
+
+#: 
+msgctxt "FTrayMsgDialog-version1"
+msgid "Restart Now"
+msgstr "Restart Now"
+
+#: 
+msgctxt "FTrayMsgDialog-version1"
+msgid "Please close and restart Filmora to load the new installed effects correctly."
+msgstr "Please close and restart Filmora to load the new installed effects correctly."
+
+#: 
+msgctxt "FTemplatePropertyPanelView-version1"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+msgctxt "FTemplatePropertyPanelView-version1"
+msgid "Layer attributes"
+msgstr "Layer attributes"
+
+#: 
+msgctxt "FTemplatePropertyPanelView-version1"
+msgid "There is no effect applied \n"
+" to this clip"
+msgstr "There is no effect applied \n"
+" to this clip"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Pin Light"
+msgstr "Pin Light"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Linear Dodge"
+msgstr "Linear Dodge"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Linear Light"
+msgstr "Linear Light"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Lighten"
+msgstr "Lighten"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Color Dodge"
+msgstr "Color Dodge"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Darken"
+msgstr "Darken"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Screen"
+msgstr "Screen"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Vivid Light"
+msgstr "Vivid Light"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Color Burn"
+msgstr "Color Burn"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Hard Light"
+msgstr "Hard Light"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Soft Light"
+msgstr "Soft Light"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Overlay"
+msgstr "Overlay"
+
+#: 
+msgctxt "FPropertyBlendInfoListPresenter-version1"
+msgid "Linear Burn"
+msgstr "Linear Burn"
+

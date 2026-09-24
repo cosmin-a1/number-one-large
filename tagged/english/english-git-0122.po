@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "Skip User Guide and Reward"
+msgstr "Skip User Guide and Reward"
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "Unlock Watermark-Free"
+msgstr "Unlock Watermark-Free"
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "Don't Miss Out on This Special Bonus"
+msgstr "Don't Miss Out on This Special Bonus"
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "You're just a few steps away from claiming your"
+msgstr "You're just a few steps away from claiming your"
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "Unlock Watermark-Free Exports reward."
+msgstr "Unlock Watermark-Free Exports reward."
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "%1 Exports reward."
+msgstr "%1 Exports reward."
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version1"
+msgid "Original Path"
+msgstr "Original Path"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version1"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version1"
+msgid "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+msgstr "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version1"
+msgid "Relocate"
+msgstr "Relocate"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version1"
+msgid "Matched File"
+msgstr "Matched File"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version1"
+msgid "List of voice-text services"
+msgstr "List of voice-text services"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version1"
+msgid "Speech Service dialog"
+msgstr "Speech Service dialog"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version1"
+msgid "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+msgstr "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version1"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+msgctxt "FFSpeechServiceDialog-version1"
+msgid "Are you sure to quit?"
+msgstr "Are you sure to quit?"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version1"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FPropertySpeedControl-version1"
+msgid "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+msgstr "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+
+#: 
+msgctxt "FPropertySpeedControl-version1"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+msgctxt "FPropertySpeedControl-version1"
+msgid "Preview the result by Export or Render Preview"
+msgstr "Preview the result by Export or Render Preview"
+
+#: 
+msgctxt "FPropertySpeedControl-version1"
+msgid "When multi-selection editing, ripple editing is forced to be enabled."
+msgstr "When multi-selection editing, ripple editing is forced to be enabled."
+
+#: 
+msgctxt "FFMainPlayerWidget-version1"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+
+#: 
+msgctxt "FFMainPlayerWidget-version1"
+msgid "Command + mouse wheel to zoom the player"
+msgstr "Command + mouse wheel to zoom the player"
+
+#: 
+msgctxt "FFMainPlayerWidget-version1"
+msgid "Insufficient Disk Space"
+msgstr "Insufficient Disk Space"
+
+#: 
+msgctxt "FFMainPlayerWidget-version1"
+msgid "Ctrl + mouse wheel to zoom the player"
+msgstr "Ctrl + mouse wheel to zoom the player"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "The download center is running. Only after it is closed can the resources be migrated."
+msgstr "The download center is running. Only after it is closed can the resources be migrated."
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Disk space remaining %1 GB,space required %2 GB."
+msgstr "Disk space remaining %1 GB,space required %2 GB."
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "After closing the program, it will start to migrate the files from the original storage path to the new path. When finished, the program will automatically restart for you."
+msgstr "After closing the program, it will start to migrate the files from the original storage path to the new path. When finished, the program will automatically restart for you."
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "The default storage location includes render files, backup files, proxy files, downloaded files, recording files, etc. After changing the default file storage path, all the above files and any new files will be migrated to the new path."
+msgstr "The default storage location includes render files, backup files, proxy files, downloaded files, recording files, etc. After changing the default file storage path, all the above files and any new files will be migrated to the new path."
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "The new storage location you selected matches the original file storage location. Please select a new one."
+msgstr "The new storage location you selected matches the original file storage location. Please select a new one."
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Not enough disk space"
+msgstr "Not enough disk space"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "No Permission"
+msgstr "No Permission"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Restart the program now"
+msgstr "Restart the program now"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "No Migration"
+msgstr "No Migration"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FSettingFoldersPanel-version1"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version1"
+msgid "You're not connected to the internet"
+msgstr "You're not connected to the internet"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version1"
+msgid "Filmstock"
+msgstr "Filmstock"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version1"
+msgid "Poor network. Cloud resources couldn't load."
+msgstr "Poor network. Cloud resources couldn't load."
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version1"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version1"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version1"
+msgid "You need internet access to visit %1. Please check your connection and try again."
+msgstr "You need internet access to visit %1. Please check your connection and try again."
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "Open VIP,export high quality videos without watermark"
+msgstr "Open VIP,export high quality videos without watermark"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "you can enjoy 14 privileges if you open VIP immediately!"
+msgstr "you can enjoy 14 privileges if you open VIP immediately!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "Update VIP,export immediately"
+msgstr "Update VIP,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "ReEdit"
+msgstr "ReEdit"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "export videos with watermark"
+msgstr "export videos with watermark"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "Update VIP+VCG Member,export immediately"
+msgstr "Update VIP+VCG Member,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "You have used the following VIP resources!"
+msgstr "You have used the following VIP resources!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "You have used the following VIP tools!"
+msgstr "You have used the following VIP tools!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "You have used the following VIP and VCG resources!"
+msgstr "You have used the following VIP and VCG resources!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "Open VIP,unlock exclusive rights"
+msgstr "Open VIP,unlock exclusive rights"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "Open VIP+VCG Member,export immediately"
+msgstr "Open VIP+VCG Member,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "You have used the following VIP tools and resources!"
+msgstr "You have used the following VIP tools and resources!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "Open VCG Member,export immediately"
+msgstr "Open VCG Member,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version1"
+msgid "You have used the following VCG resources!"
+msgstr "You have used the following VCG resources!"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search downloaded effects"
+msgstr "Search downloaded effects"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search my favorite effects"
+msgstr "Search my favorite effects"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search NewBlue FX"
+msgstr "Search NewBlue FX"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search audio effects"
+msgstr "Search audio effects"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search effects & filters"
+msgstr "Search effects & filters"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search video effects"
+msgstr "Search video effects"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search overlay"
+msgstr "Search overlay"
+
+#: 
+msgctxt "FEffectModeBar-version1"
+msgid "Search Boris FX"
+msgstr "Search Boris FX"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "Customer Support"
+msgstr "Customer Support"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "To remove this limitation, you can buy an authorized copy of Filmora."
+msgstr "To remove this limitation, you can buy an authorized copy of Filmora."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "If you have previously bought Filmora, you are seeing this warning in error."
+msgstr "If you have previously bought Filmora, you are seeing this warning in error."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "You are using an illegal copy"
+msgstr "You are using an illegal copy"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "We have detected that you may be the victim of software counterfeiting."
+msgstr "We have detected that you may be the victim of software counterfeiting."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "Please contact our "
+msgstr "Please contact our "
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid " with your purchase record."
+msgstr " with your purchase record."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version1"
+msgid "All Filmora features will be disabled and the application will be closed later."
+msgstr "All Filmora features will be disabled and the application will be closed later."
+
+#: 
+msgctxt "FAIImageStylizerListView-version1"
+msgid "Reminding times:%1"
+msgstr "Reminding times:%1"
+
+#: 
+msgctxt "FAIImageStylizerListView-version1"
+msgid "You can generate 20 times each day."
+msgstr "You can generate 20 times each day."
+
+#: 
+msgctxt "FAIImageStylizerListView-version1"
+msgid "AI Image has generated."
+msgstr "AI Image has generated."
+
+#: 
+msgctxt "FAIImageStylizerListView-version1"
+msgid "You have reached the daily limit of 20 generations. Try again tomorrow."
+msgstr "You have reached the daily limit of 20 generations. Try again tomorrow."
+
+#: 
+msgctxt "FAIImageStylizerListView-version1"
+msgid "Remaining times: %1"
+msgstr "Remaining times: %1"
+
+#: 
+msgctxt "FEnterTimelineLicenseProxy-version1"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+msgctxt "FQuickEditWidget-version1"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+msgctxt "FQuickEditWidget-version1"
+msgid "Customize your highlight"
+msgstr "Customize your highlight"
+
+#: 
+msgctxt "FQuickEditWidget-version1"
+msgid "Media pannel:"
+msgstr "Media pannel:"
+
+#: 
+msgctxt "FQuickEditWidget-version1"
+msgid "Change template, music, text"
+msgstr "Change template, music, text"
+
+#: 
+msgctxt "FQuickEditWidget-version1"
+msgid "Storyboard:"
+msgstr "Storyboard:"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version1"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version1"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version1"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version1"
+msgid "Resource name"
+msgstr "Resource name"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version1"
+msgid "More than 1 video use"
+msgstr "More than 1 video use"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version1"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version1"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version1"
+msgid "Key Frame"
+msgstr "Key Frame"
+

@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "Location:"
+msgstr "Location:"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "Keyword:"
+msgstr "Keyword:"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "Format:"
+msgstr "Format:"
+
+#: 
+msgctxt "FCommonInfoPage-version1"
+msgid "Date Imported:"
+msgstr "Date Imported:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version1"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+msgctxt "FAudioFilterBar-version1"
+msgid "Music"
+msgstr "Music"
+
+#: 
+msgctxt "FAudioFilterBar-version1"
+msgid "Sound Effect"
+msgstr "Sound Effect"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "New and trendy style"
+msgstr "New and trendy style"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Great detail"
+msgstr "Great detail"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Clear edges"
+msgstr "Clear edges"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Style is not popular enough"
+msgstr "Style is not popular enough"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Unclear edges"
+msgstr "Unclear edges"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Subject looks good and natural"
+msgstr "Subject looks good and natural"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Insufficient detail"
+msgstr "Insufficient detail"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Blurry subject"
+msgstr "Blurry subject"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Thanks for your feedback"
+msgstr "Thanks for your feedback"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Ugly color"
+msgstr "Ugly color"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Does not match prompt"
+msgstr "Does not match prompt"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Be more specific?"
+msgstr "Be more specific?"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Great color combination"
+msgstr "Great color combination"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version1"
+msgid "Matches prompt"
+msgstr "Matches prompt"
+
+#: 
+msgctxt "FSchemePurchaseItemWidget-version1"
+msgid "Offer"
+msgstr "Offer"
+
+#: 
+msgctxt "FSchemePurchaseItemWidget-version1"
+msgid "Open vip"
+msgstr "Open vip"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Open file local location"
+msgstr "Open file local location"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version1"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version1"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version1"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version1"
+msgid "Creating:"
+msgstr "Creating:"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version1"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FPropertyViewClass-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Improvement program:"
+msgstr "Improvement program:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "User Interface:"
+msgstr "User Interface:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+msgstr "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+msgstr "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Launch:"
+msgstr "Launch:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Check for updates automatically:"
+msgstr "Check for updates automatically:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Message Center:"
+msgstr "Message Center:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Language:"
+msgstr "Language:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Help us to improve Wondershare Filmora"
+msgstr "Help us to improve Wondershare Filmora"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Reset all program warnings:"
+msgstr "Reset all program warnings:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Appearance:"
+msgstr "Appearance:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Miscellaneous:"
+msgstr "Miscellaneous:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Project Library Window at Startup:"
+msgstr "Project Library Window at Startup:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Every Week"
+msgstr "Every Week"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "System Default"
+msgstr "System Default"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Show this Startup window when Filmora launches"
+msgstr "Show this Startup window when Filmora launches"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Read Our Privacy Policy"
+msgstr "Read Our Privacy Policy"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Every Day"
+msgstr "Every Day"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Don't show messages automatically"
+msgstr "Don't show messages automatically"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "Light Mode"
+msgstr "Light Mode"
+
+#: 
+msgctxt "FSettingGeneralPanel-version1"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "What type of text are you going to do?"
+msgstr "What type of text are you going to do?"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "Product coverage"
+msgstr "Product coverage"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version1"
+msgid "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+msgstr "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Too much paid content"
+msgstr "Too much paid content"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Content not wanted"
+msgstr "Content not wanted"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version1"
+msgid "Poor quality of content"
+msgstr "Poor quality of content"
+

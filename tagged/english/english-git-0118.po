@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "VFX Text"
+msgstr "VFX Text"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "10M+ Creative Assets"
+msgstr "10M+ Creative Assets"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "lock aspect ratio"
+msgstr "lock aspect ratio"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "Color Space:"
+msgstr "Color Space:"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+msgstr "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "unlock aspect ratio"
+msgstr "unlock aspect ratio"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "Aspect Ratio "
+msgstr "Aspect Ratio "
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+msgstr "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+
+#: 
+msgctxt "FProjectSettingPanel-version1"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+msgctxt "FFTextToSpeechService-version1"
+msgid "The add-collection has been failed locally."
+msgstr "The add-collection has been failed locally."
+
+#: 
+msgctxt "FFTextToSpeechService-version1"
+msgid "The un-collection has been failed locally"
+msgstr "The un-collection has been failed locally"
+
+#: 
+msgctxt "FFTextToSpeechService-version1"
+msgid "The un-collection has been failed. please retry"
+msgstr "The un-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechService-version1"
+msgid "The add-collection has been failed. please retry"
+msgstr "The add-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechService-version1"
+msgid "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FFTextToSpeechService-version1"
+msgid "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Sorry, we couldn't find similar results for this item. Please try another one."
+msgstr "Sorry, we couldn't find similar results for this item. Please try another one."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "on the Filmstock website."
+msgstr "on the Filmstock website."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "There is no item with current filter, please change the filter to show more resource."
+msgstr "There is no item with current filter, please change the filter to show more resource."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Click here to search for \"%1\""
+msgstr "Click here to search for \"%1\""
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "There is no download file. You can download videos, images, audios or subtitle files from your Filmora Cloud."
+msgstr "There is no download file. You can download videos, images, audios or subtitle files from your Filmora Cloud."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Click 'Favorite' while hovering over a resource to add an item to this folder."
+msgstr "Click 'Favorite' while hovering over a resource to add an item to this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "You don't have any Favorites."
+msgstr "You don't have any Favorites."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "please check other categories"
+msgstr "please check other categories"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "This category is empty, you can switch to another category for more templates."
+msgstr "This category is empty, you can switch to another category for more templates."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Save the adjustment layer as a preset, which will be added to this folder."
+msgstr "Save the adjustment layer as a preset, which will be added to this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "There is no custom title, you can save your title as custom in advanced editing page."
+msgstr "There is no custom title, you can save your title as custom in advanced editing page."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "No content"
+msgstr "No content"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "There are no results for %1,"
+msgstr "There are no results for %1,"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "You haven't downloaded any asset, click a resource to download it."
+msgstr "You haven't downloaded any asset, click a resource to download it."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "No untagged content"
+msgstr "No untagged content"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "No results for \"%1\" in your installed Filmstock content."
+msgstr "No results for \"%1\" in your installed Filmstock content."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Save the custom clip as a  preset, will be added in this folder."
+msgstr "Save the custom clip as a  preset, will be added in this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "Try AI Image!"
+msgstr "Try AI Image!"
+
+#: 
+msgctxt "FEmptyFilterView-version1"
+msgid "NO VCG download record"
+msgstr "NO VCG download record"
+
+#: 
+msgctxt "FCloudMediaEmptyView-version1"
+msgid "Drag and drop your media file here to upload to cloud for backup."
+msgstr "Drag and drop your media file here to upload to cloud for backup."
+
+#: 
+msgctxt "FCloudMediaEmptyView-version1"
+msgid "Upload Files."
+msgstr "Upload Files."
+
+#: 
+msgctxt "FCloudMediaEmptyView-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFilmStockAskDialog-version1"
+msgid "Opps! Looks like you can't use the effect. Please ensure you bought this effect via the current account."
+msgstr "Opps! Looks like you can't use the effect. Please ensure you bought this effect via the current account."
+
+#: 
+msgctxt "FFilmStockAskDialog-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFilmStockAskDialog-version1"
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: 
+msgctxt "FFilmStockAskDialog-version1"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFilmStockAskDialog-version1"
+msgid "Still have problems, please %1"
+msgstr "Still have problems, please %1"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "1TB Cloud Storage"
+msgstr "1TB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "20GB Cloud Storage"
+msgstr "20GB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "/ MONTH"
+msgstr "/ MONTH"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "Muti-terminal draft exchange"
+msgstr "Muti-terminal draft exchange"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "Unlimited credits validity"
+msgstr "Unlimited credits validity"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "100GB Cloud Storage"
+msgstr "100GB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "Extremely fast download"
+msgstr "Extremely fast download"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "10000 Credits Pack"
+msgstr "10000 Credits Pack"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "%1 per credit"
+msgstr "%1 per credit"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "5000 Credits Pack"
+msgstr "5000 Credits Pack"
+
+#: 
+msgctxt "FFPurchaseComponent-version1"
+msgid "1000 Credits Pack"
+msgstr "1000 Credits Pack"
+
+#: 
+msgctxt "SliderControlViewClass-version1"
+msgid "Disabled"
+msgstr "Disabled"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version1"
+msgid "Add Adjustment Point"
+msgstr "Add Adjustment Point"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version1"
+msgid "Delete Adjustment Point"
+msgstr "Delete Adjustment Point"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version1"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version1"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version1"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version1"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+msgctxt "FCoverRecommendationItem-version1"
+msgid "Please reload"
+msgstr "Please reload"
+
+#: 
+msgctxt "FCoverRecommendationItem-version1"
+msgid "Generating..."
+msgstr "Generating..."
+
+#: 
+msgctxt "FFreePurchaseDialog-version1"
+msgid "Enjoy Filmora Creative Assets for free"
+msgstr "Enjoy Filmora Creative Assets for free"
+
+#: 
+msgctxt "FFreePurchaseDialog-version1"
+msgid "Get a %1-Day Free Trial and unlock 10M+ creative assets, including titles, effects, copyrighted music, sound, LUTs, filters and templates."
+msgstr "Get a %1-Day Free Trial and unlock 10M+ creative assets, including titles, effects, copyrighted music, sound, LUTs, filters and templates."
+
+#: 
+msgctxt "FFreePurchaseDialog-version1"
+msgid "Activate your %1-Day Free Trial later through the Limited-time Offer in your Account Center."
+msgstr "Activate your %1-Day Free Trial later through the Limited-time Offer in your Account Center."
+
+#: 
+msgctxt "FFreePurchaseDialog-version1"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FFreePurchaseDialog-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FFreePurchaseDialog-version1"
+msgid "Back to Edit"
+msgstr "Back to Edit"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version1"
+msgid "Position X"
+msgstr "Position X"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version1"
+msgid "Position Y"
+msgstr "Position Y"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version1"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version1"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version1"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "FPropertySubtitleManager-version1"
+msgid "Unable to merge, already for the first subtitle"
+msgstr "Unable to merge, already for the first subtitle"
+
+#: 
+msgctxt "FPropertySubtitleManager-version1"
+msgid "Merge failed! Please select subtitles below 1000 bar to merge."
+msgstr "Merge failed! Please select subtitles below 1000 bar to merge."
+
+#: 
+msgctxt "FPropertySubtitleManager-version1"
+msgid "Unable to merge, already the last subtitle"
+msgstr "Unable to merge, already the last subtitle"
+
+#: 
+msgctxt "FPropertySubtitleManager-version1"
+msgid "Unable to split, please select a subtitle bar larger than one frame for splitting."
+msgstr "Unable to split, please select a subtitle bar larger than one frame for splitting."
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+msgstr "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "The definition of trial material is low"
+msgstr "The definition of trial material is low"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "Open vcg membership now"
+msgstr "Open vcg membership now"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "Try vcg Resource"
+msgstr "Try vcg Resource"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "Jump to rights"
+msgstr "Jump to rights"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version1"
+msgid "pictures and music materials of visual China, which can be downloaded 50 times a day. The legitimate version supports commercial use."
+msgstr "pictures and music materials of visual China, which can be downloaded 50 times a day. The legitimate version supports commercial use."
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version1"
+msgid "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+msgstr "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version1"
+msgid "The definition of trial material is low"
+msgstr "The definition of trial material is low"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version1"
+msgid "Open vcg membership now"
+msgstr "Open vcg membership now"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version1"
+msgid "Try vcg Resource"
+msgstr "Try vcg Resource"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version1"
+msgid "Jump to rights"
+msgstr "Jump to rights"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version1"
+msgid "pictures and music materials of visual China, which can be downloaded %1 times a day. The legitimate version supports commercial use."
+msgstr "pictures and music materials of visual China, which can be downloaded %1 times a day. The legitimate version supports commercial use."
+
+#: 
+msgctxt "FImportMediaView-version1"
+msgid "Click or Drop to import"
+msgstr "Click or Drop to import"
+
+#: 
+msgctxt "FImportMediaView-version1"
+msgid "Videos,audios,and images"
+msgstr "Videos,audios,and images"
+
+#: 
+msgctxt "FImportMediaView-version1"
+msgid "Drop your SRT here or click here to import SRT file."
+msgstr "Drop your SRT here or click here to import SRT file."
+
+#: 
+msgctxt "FImportMediaView-version1"
+msgid "Import"
+msgstr "Import"
+

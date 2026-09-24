@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "isWindow"
+msgstr "isWindow"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Up Dir Insert"
+msgstr "Up Dir Insert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "3DL File"
+msgstr "3DL File"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Educational"
+msgstr "Educational"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Media Management"
+msgstr "Media Management"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Click to login in"
+msgstr "Click to login in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Previous Key Frame"
+msgstr "Previous Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Smart Edit Tool"
+msgstr "Smart Edit Tool"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Triangle"
+msgstr "Triangle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Brighten"
+msgstr "Brighten"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Please enter a valid name"
+msgstr "Please enter a valid name"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Always Ask"
+msgstr "Always Ask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Arrow Color"
+msgstr "Arrow Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "RGB Separate"
+msgstr "RGB Separate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Intel HD Graphics 5000 or later;"
+msgstr "Intel HD Graphics 5000 or later;"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "This action will clear the speed parameters and freeze frames that have been set."
+msgstr "This action will clear the speed parameters and freeze frames that have been set."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "the file is not VideoAudio or Audio"
+msgstr "the file is not VideoAudio or Audio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Hebrew (Israel)"
+msgstr "Hebrew (Israel)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Import Mask"
+msgstr "Import Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You are temporarily unable to continue downloading new songs. The download limit for songs will be reset tomorrow. For now, you can continue to listen or collect your favorite music."
+msgstr "You are temporarily unable to continue downloading new songs. The download limit for songs will be reset tomorrow. For now, you can continue to listen or collect your favorite music."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chinese (Mandarin)"
+msgstr "Chinese (Mandarin)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Start My Free Trial"
+msgstr "Start My Free Trial"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "BG Color"
+msgstr "BG Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Previous Second"
+msgstr "Previous Second"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Urdu (India)"
+msgstr "Urdu (India)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ring Color"
+msgstr "Ring Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Special Effects Text"
+msgstr "Special Effects Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "B&&W Noise"
+msgstr "B&&W Noise"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upload to YouTube"
+msgstr "Upload to YouTube"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCG Media"
+msgstr "VCG Media"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Complete Your Wondershare ID Now!"
+msgstr "Complete Your Wondershare ID Now!"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Show Track"
+msgstr "Show Track"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Microphone"
+msgstr "Microphone"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Music Generator"
+msgstr "AI Music Generator"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "About..."
+msgstr "About..."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quickly create popular intros"
+msgstr "Quickly create popular intros"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Failed to record. Ensure your recording matches the script, and record again."
+msgstr "Failed to record. Ensure your recording matches the script, and record again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Uruguay)"
+msgstr "Spanish (Uruguay)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Intensity"
+msgstr "Blur Intensity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "To the Right 1"
+msgstr "To the Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "To the Right 2"
+msgstr "To the Right 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clockwise rotate to zoom in 1"
+msgstr "Clockwise rotate to zoom in 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clockwise rotate to zoom in 2"
+msgstr "Clockwise rotate to zoom in 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Narration"
+msgstr "Narration"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fly in and Fly out"
+msgstr "Fly in and Fly out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add Animation"
+msgstr "Add Animation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upload failed. Network connection problems."
+msgstr "Upload failed. Network connection problems."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Left Dir Insert"
+msgstr "Left Dir Insert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clip is too short to add animation."
+msgstr "Clip is too short to add animation."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Network failed, please retry"
+msgstr "Network failed, please retry"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "ADVANCED"
+msgstr "ADVANCED"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "network error"
+msgstr "network error"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vortex In"
+msgstr "Vortex In"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Try Free"
+msgstr "Try Free"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quick Split Mode"
+msgstr "Quick Split Mode"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shrink and Pop Away"
+msgstr "Shrink and Pop Away"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stretch in and zoom in 1"
+msgstr "Stretch in and zoom in 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stretch in and zoom in 2"
+msgstr "Stretch in and zoom in 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upper-left Flip Appears"
+msgstr "Upper-left Flip Appears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Segment"
+msgstr "Segment"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "It is detected that importing large files may cause lag."
+msgstr "It is detected that importing large files may cause lag."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Turkish (Turkey)"
+msgstr "Turkish (Turkey)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Only 1 hour file can be transcribed in a single task."
+msgstr "Only 1 hour file can be transcribed in a single task."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+msgstr "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Only VIP can use this resource"
+msgstr "Only VIP can use this resource"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Block Size"
+msgstr "Block Size"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Previous Marker"
+msgstr "Previous Marker"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "glow_intensity"
+msgstr "glow_intensity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shine B"
+msgstr "Shine B"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chinese"
+msgstr "Chinese"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Download MobileMiaoYing"
+msgstr "Download MobileMiaoYing"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Selected Clip End"
+msgstr "Selected Clip End"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Open External Canthus"
+msgstr "Open External Canthus"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to delete the selected folder"
+msgstr "Are you sure you want to delete the selected folder"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lens Flare 1"
+msgstr "Lens Flare 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lens Flare 2"
+msgstr "Lens Flare 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lens Flare 3"
+msgstr "Lens Flare 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lens Flare 4"
+msgstr "Lens Flare 4"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lens Flare 5"
+msgstr "Lens Flare 5"
+

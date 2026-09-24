@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyCustomMaskManager-version1"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyCustomMaskManager-version1"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FTrimControl-version1"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+msgctxt "FTrimControl-version1"
+msgid "Current:"
+msgstr "Current:"
+
+#: 
+msgctxt "FAudioVolumeToolTip-version1"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FPropertySplitWidget-version1"
+msgid "Split Screen Animation"
+msgstr "Split Screen Animation"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version1"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version1"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version1"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version1"
+msgid "AI Text-to-Video"
+msgstr "AI Text-to-Video"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version1"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version1"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FRenewalInAdvanceBtn-version1"
+msgid "Renew your Filmora Plan"
+msgstr "Renew your Filmora Plan"
+
+#: 
+msgctxt "FThemeMediaRollWidget-version1"
+msgid "FThemeMediaRollWidget"
+msgstr "FThemeMediaRollWidget"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "Start Time:"
+msgstr "Start Time:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "End Time:"
+msgstr "End Time:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "Removing objects (Task %1)"
+msgstr "Removing objects (Task %1)"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "Audio Transitions"
+msgstr "Audio Transitions"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FGraphicsToolTipService-version1"
+msgid "Constant Gain"
+msgstr "Constant Gain"
+
+#: 
+msgctxt "FAIGCBasePresenter-version1"
+msgid "Download failed. Please try again."
+msgstr "Download failed. Please try again."
+
+#: 
+msgctxt "FAIGCBasePresenter-version1"
+msgid "The resource has expired."
+msgstr "The resource has expired."
+
+#: 
+msgctxt "FFMediaPlayerEditorPresenter-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FThirdPartyLoginWidget-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FThirdPartyLoginWidget-version1"
+msgid "or login with"
+msgstr "or login with"
+
+#: 
+msgctxt "FTrialAuthenticationDialog-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFontTable-version1"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+msgctxt "FFontTable-version1"
+msgid "Commercial use, click to view detailed commercial scope."
+msgstr "Commercial use, click to view detailed commercial scope."
+
+#: 
+msgctxt "FFontTable-version1"
+msgid "Please check your network connection and try again."
+msgstr "Please check your network connection and try again."
+
+#: 
+msgctxt "FUserLabelsPaneWidget-version1"
+msgid "Collapse"
+msgstr "Collapse"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidget-version1"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidget-version1"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyBackgroundTypePresenter-version1"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version1"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version1"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeWidget-version1"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeWidget-version1"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version1"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version1"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version1"
+msgid "Image Fill"
+msgstr "Image Fill"
+
+#: 
+msgctxt "FPropertyDynamicEffect-version1"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+msgctxt "FPropertyUniversalAudioDynamicEffectWidget-version1"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+msgctxt "FPropertyTextBaiscEditComponent-version1"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+msgctxt "FTextInputWidget-version1"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+msgctxt "FClipTaskWidget-version1"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+msgctxt "FClipTaskWidget-version1"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "FPropertyEffectSliderWidget-version1"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FRecentProjectDialog-version1"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+msgctxt "FRecentProjectDialog-version1"
+msgid "has been saved"
+msgstr "has been saved"
+
+#: 
+msgctxt "FRecentProjectDialog-version1"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+msgctxt "FSearchTagsWidget-version1"
+msgid "Search History"
+msgstr "Search History"
+
+#: 
+msgctxt "FSearchTagsWidget-version1"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+msgctxt "FSearchTagsWidget-version1"
+msgid "Trending"
+msgstr "Trending"
+
+#: 
+msgctxt "FConvertToSrtStatusDlg-version1"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FPropertyAnimationWidget-version1"
+msgid "Preset Motions (Legacy)"
+msgstr "Preset Motions (Legacy)"
+
+#: 
+msgctxt "FPropertyAnimationWidget-version1"
+msgid "Preset Animation"
+msgstr "Preset Animation"
+
+#: 
+msgctxt "FTimelineRenderPreviewActionPresenter-version1"
+msgid "Render Selected Range"
+msgstr "Render Selected Range"
+
+#: 
+msgctxt "FTimelineRenderPreviewActionPresenter-version1"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FThemeMediaItemWidget-version1"
+msgid "FThemeMediaItemWidget"
+msgstr "FThemeMediaItemWidget"
+
+#: 
+msgctxt "FFLineEdit-version1"
+msgid "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+msgstr "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+
+#: 
+msgctxt "FMediaCategoryView-version1"
+msgid "iTunes"
+msgstr "iTunes"
+
+#: 
+msgctxt "FMediaCategoryView-version1"
+msgid "Photos Library"
+msgstr "Photos Library"
+
+#: 
+msgctxt "FTitleModeBar-version1"
+msgid "Search custom titles"
+msgstr "Search custom titles"
+
+#: 
+msgctxt "FTitleModeBar-version1"
+msgid "Search downloaded titles"
+msgstr "Search downloaded titles"
+
+#: 
+msgctxt "FTitleModeBar-version1"
+msgid "Search my favorite titles"
+msgstr "Search my favorite titles"
+
+#: 
+msgctxt "FTitleModeBar-version1"
+msgid "Search titles"
+msgstr "Search titles"
+
+#: 
+msgctxt "FTitleModeBar-version1"
+msgid "Search my titles"
+msgstr "Search my titles"
+
+#: 
+msgctxt "FScenceDetectionDlg-version1"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+msgctxt "FBorisFXGuideWidget-version1"
+msgid "BorisFX and NewBlue are online."
+msgstr "BorisFX and NewBlue are online."
+
+#: 
+msgctxt "FBorisFXGuideWidget-version1"
+msgid "New Special Effects!"
+msgstr "New Special Effects!"
+
+#: 
+msgctxt "FAIModuleHelper-version1"
+msgid "AI model updated successfully!"
+msgstr "AI model updated successfully!"
+
+#: 
+msgctxt "FCoverTemplateDialog-version1"
+msgid "封面模版窗体"
+msgstr "封面模版窗体"
+
+#: 
+msgctxt "FCoverMediaPlayerEditorWidget-version1"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+msgctxt "FChangeRatioDialog-version1"
+msgid "Edge Align"
+msgstr "Edge Align"
+
+#: 
+msgctxt "FChangeRatioDialog-version1"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+msgctxt "FExtractPackWaitingDialog-version1"
+msgid "Wait a second, refreshing the category information."
+msgstr "Wait a second, refreshing the category information."
+
+#: 
+msgctxt "FFAIErasingProgressPanel-version1"
+msgid "Preview Object Tracking"
+msgstr "Preview Object Tracking"
+
+#: 
+msgctxt "FFAIErasingProgressPanel-version1"
+msgid "Object Tracking in progress…"
+msgstr "Object Tracking in progress…"
+
+#: 
+msgctxt "FCurvedSpeedPresetHelper-version1"
+msgid "preset"
+msgstr "preset"
+
+#: 
+msgctxt "FPropertyControl-version1"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+msgctxt "FDesignerHelper-version1"
+msgid "Export Template Project"
+msgstr "Export Template Project"
+
+#: 
+msgctxt "FDesignerHelper-version1"
+msgid "Export Template Project..."
+msgstr "Export Template Project..."
+
+#: 
+msgctxt "FImportDeviceDialog-version1"
+msgid "Import from Device"
+msgstr "Import from Device"
+
+#: 
+msgctxt "FAIMusicNumberSliderWidget-version1"
+msgid "Generated music count"
+msgstr "Generated music count"
+
+#: 
+msgctxt "FExportLoginWidget-version1"
+msgid "SIGN IN"
+msgstr "SIGN IN"
+
+#: 
+msgctxt "FExportLoginWidget-version1"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+msgctxt "FExportLoginWidget-version1"
+msgid "SIGN OUT"
+msgstr "SIGN OUT"
+
+#: 
+msgctxt "FExportLoginWidget-version1"
+msgid "Sign out"
+msgstr "Sign out"
+
+#: 
+msgctxt "FMYFeatureTryLimitDialog-version1"
+msgid "Try VIP Feature"
+msgstr "Try VIP Feature"
+
+#: 
+msgctxt "FMYFeatureTryLimitDialog-version1"
+msgid "Try VIP Resource"
+msgstr "Try VIP Resource"
+
+#: 
+msgctxt "FMYFeatureTryLimitDialog-version1"
+msgid "Buy VIP Now"
+msgstr "Buy VIP Now"
+
+#: 
+msgctxt "FAccountCenterAvatarWidget-version1"
+msgid "Open the headdress accessories"
+msgstr "Open the headdress accessories"
+
+#: 
+msgctxt "FAccountCenterAvatarWidget-version1"
+msgid "Close the headdress accessories"
+msgstr "Close the headdress accessories"
+
+#: 
+msgctxt "FFToolBarManagerButton-version1"
+msgid "Custom toolbar"
+msgstr "Custom toolbar"
+
+#: 
+msgctxt "FProperty3DAnimationControl-version1"
+msgid "Animation Out"
+msgstr "Animation Out"
+
+#: 
+msgctxt "FProperty3DAnimationControl-version1"
+msgid "Animation In"
+msgstr "Animation In"
+
+#: 
+msgctxt "FKeyFrameViewBase-version1"
+msgid "Next Keyframe"
+msgstr "Next Keyframe"
+
+#: 
+msgctxt "FKeyFrameViewBase-version1"
+msgid "Add Keyframe"
+msgstr "Add Keyframe"
+
+#: 
+msgctxt "FKeyFrameViewBase-version1"
+msgid "Previous Keyframe"
+msgstr "Previous Keyframe"
+

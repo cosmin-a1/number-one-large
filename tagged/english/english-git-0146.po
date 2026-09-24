@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "MaskRatio"
+msgstr "MaskRatio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "isUpdateColor"
+msgstr "isUpdateColor"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Switching mouse status"
+msgstr "Switching mouse status"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Recording failed. Microphone connection error."
+msgstr "Recording failed. Microphone connection error."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Zoom Out"
+msgstr "Fade Zoom Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Length Philtrum"
+msgstr "Length Philtrum"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fluctuation Period"
+msgstr "Fluctuation Period"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Eclosion"
+msgstr "Eclosion"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Malay (Malaysia)"
+msgstr "Malay (Malaysia)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Box Color"
+msgstr "Box Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "privacy policies"
+msgstr "privacy policies"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select All Forward/Backward"
+msgstr "Select All Forward/Backward"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Mix Ratio"
+msgstr "Mix Ratio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for downloaded files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for downloaded files."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Install computer audio driver successful! Restart your computer to continue."
+msgstr "Install computer audio driver successful! Restart your computer to continue."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select All Backward"
+msgstr "Select All Backward"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "List View"
+msgstr "List View"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sparkle"
+msgstr "Sparkle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Country"
+msgstr "Country"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Acoustic"
+msgstr "Acoustic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Slide Down"
+msgstr "Slide Down"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Ecuador)"
+msgstr "Spanish (Ecuador)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lightning Flashes Out"
+msgstr "Lightning Flashes Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Each user can only retain up to 5 cloned voices. After deleting unnecessary voices, you can continue to use AI voice cloning."
+msgstr "Each user can only retain up to 5 cloned voices. After deleting unnecessary voices, you can continue to use AI voice cloning."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The image is being generated"
+msgstr "The image is being generated"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to close this page?"
+msgstr "Are you sure you want to close this page?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Characters Flash Out"
+msgstr "Characters Flash Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uStartPos"
+msgstr "uStartPos"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "This video is too short. Please try a different video."
+msgstr "This video is too short. Please try a different video."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "\"&&__&&\" does not exist, please try other items or contact our support team!"
+msgstr "\"&&__&&\" does not exist, please try other items or contact our support team!"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Static A"
+msgstr "Static A"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fetch Log"
+msgstr "Fetch Log"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure to quit Text-to-Speech?"
+msgstr "Are you sure to quit Text-to-Speech?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Mouth Type"
+msgstr "Mouth Type"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate 90 CCW"
+msgstr "Rotate 90 CCW"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "To achieve a more rhythmic text effect, you can enhance it by adding an audio file below the text track."
+msgstr "To achieve a more rhythmic text effect, you can enhance it by adding an audio file below the text track."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "isMutiHuman"
+msgstr "isMutiHuman"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "featherRatio"
+msgstr "featherRatio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Default"
+msgstr "Default"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid " occupied."
+msgstr " occupied."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure to delete your voice? Voice cannot be restored after being deleted."
+msgstr "Are you sure to delete your voice? Voice cannot be restored after being deleted."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Density"
+msgstr "Density"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Intensity"
+msgstr "Intensity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Click to log in"
+msgstr "Click to log in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Underline"
+msgstr "Underline"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vortex Out"
+msgstr "Vortex Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Textile"
+msgstr "Textile"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ripple Density"
+msgstr "Ripple Density"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate Upwards"
+msgstr "Rotate Upwards"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Swaying"
+msgstr "Swaying"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Typewriter Pops Out"
+msgstr "Typewriter Pops Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Split View-Left/Right"
+msgstr "Split View-Left/Right"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Transferring data...%1% has been transferred"
+msgstr "Transferring data...%1% has been transferred"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Middle Thumbnail View"
+msgstr "Middle Thumbnail View"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "vtDialect"
+msgstr "vtDialect"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+msgstr "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate in place"
+msgstr "Rotate in place"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Down Dir Insert"
+msgstr "Down Dir Insert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Don't miss out! Finish it to unlock exclusive benefits. Join today and enjoy more."
+msgstr "Don't miss out! Finish it to unlock exclusive benefits. Join today and enjoy more."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uRatioTime"
+msgstr "uRatioTime"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "SmartPhone Viewfinder 01"
+msgstr "SmartPhone Viewfinder 01"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Guatemala)"
+msgstr "Spanish (Guatemala)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "distFar"
+msgstr "distFar"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export Selected Clips"
+msgstr "Export Selected Clips"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "1 GB of Filmora Cloud Storage"
+msgstr "1 GB of Filmora Cloud Storage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Visual Content"
+msgstr "Visual Content"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Auto Zoom"
+msgstr "Auto Zoom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "4:3 (Standard)"
+msgstr "4:3 (Standard)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export Selected Range"
+msgstr "Export Selected Range"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "SLog 709 Cinematic"
+msgstr "SLog 709 Cinematic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Croatian (Croatian)"
+msgstr "Croatian (Croatian)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Verbatim Enlargement"
+msgstr "Verbatim Enlargement"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate to zoom in 1"
+msgstr "Rotate to zoom in 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate to zoom in 2"
+msgstr "Rotate to zoom in 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bounce to zoom in 1"
+msgstr "Bounce to zoom in 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bounce to zoom in 2"
+msgstr "Bounce to zoom in 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Filmora does not have access to your Photos Library."
+msgstr "Filmora does not have access to your Photos Library."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "interval_flashing"
+msgstr "interval_flashing"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You have got %1-Day free trial, redeem now and enjoy more."
+msgstr "You have got %1-Day free trial, redeem now and enjoy more."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (Widescreen)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upload failure"
+msgstr "Upload failure"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Key Frame"
+msgstr "Key Frame"
+

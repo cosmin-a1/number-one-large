@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Snapshot (%1)"
+msgstr "Snapshot (%1)"
+
+#: 
+msgctxt "FIntroTemplateEditPlayerToolBar-version1"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Snapshot (%1)"
+msgstr "Snapshot (%1)"
+
+#: 
+msgctxt "FTemplateEditPlayerToolBar-version1"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+msgctxt "FTimelineExportRangeWidget-version1"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+msgctxt "FTimelineExportRangeWidget-version1"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+msgctxt "RecordLoadingCtrl-version1"
+msgid "Press"
+msgstr "Press"
+
+#: 
+msgctxt "RecordLoadingCtrl-version1"
+msgid "to stop recording"
+msgstr "to stop recording"
+
+#: 
+msgctxt "RecordLoadingCtrl-version1"
+msgid "Start directly"
+msgstr "Start directly"
+
+#: 
+msgctxt "RecordLoadingCtrl-version1"
+msgid "Preparing to record"
+msgstr "Preparing to record"
+
+#: 
+msgctxt "FFOscillographWidget-version1"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+msgctxt "FFOscillographWidget-version1"
+msgid "The current media does not support displaying Video Scope waveforms"
+msgstr "The current media does not support displaying Video Scope waveforms"
+
+#: 
+msgctxt "FFOscillographWidget-version1"
+msgid "Floating panel"
+msgstr "Floating panel"
+
+#: 
+msgctxt "FFOscillographWindow-version1"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+msgctxt "FFOscillographWindow-version1"
+msgid "Embed player"
+msgstr "Embed player"
+
+#: 
+msgctxt "FMediaPlayerModuleWidget-version1"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+msgctxt "FMediaPlayerModuleWidget-version1"
+msgid "Player"
+msgstr "Player"
+
+#: 
+msgctxt "FMediaPlayerModuleWidget-version1"
+msgid "Remove the watermark"
+msgstr "Remove the watermark"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Lifetime Plan"
+msgstr "Lifetime Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Extend Plan"
+msgstr "Extend Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "We are refreshing your account info now. It may take a few seconds."
+msgstr "We are refreshing your account info now. It may take a few seconds."
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Annual Plan"
+msgstr "Annual Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Expires: %1"
+msgstr "Expires: %1"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Expires: Unlimited"
+msgstr "Expires: Unlimited"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "Free Plan"
+msgstr "Free Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "to refresh your authorization."
+msgstr "to refresh your authorization."
+
+#: 
+msgctxt "FAccountInfoPanel-version1"
+msgid "If you have purchased a plan,"
+msgstr "If you have purchased a plan,"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "Insufficient space, please upgrade Filmora Cloud"
+msgstr "Insufficient space, please upgrade Filmora Cloud"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "Upload failed, please check the network and try again"
+msgstr "Upload failed, please check the network and try again"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "The space has expired, please renew Filmora Cloud"
+msgstr "The space has expired, please renew Filmora Cloud"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+msgctxt "FProductHomePagePrivate-version1"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FSchemePlanItemWidget-version1"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version1"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version1"
+msgid "Unpaid user"
+msgstr "Unpaid user"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version1"
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version1"
+msgid "Click to copy"
+msgstr "Click to copy"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version1"
+msgid "Copied"
+msgstr "Copied"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version1"
+msgid "Task is in progress,please wait."
+msgstr "Task is in progress,please wait."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "The transcription failed, please re-select the file for transcription."
+msgstr "The transcription failed, please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "The language in the video doesn't match the selected language. Please choose again."
+msgstr "The language in the video doesn't match the selected language. Please choose again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+msgstr "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version1"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FExportUploadDlg-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FExportUploadDlg-version1"
+msgid "Please wait for a few minutes, still processing."
+msgstr "Please wait for a few minutes, still processing."
+
+#: 
+msgctxt "FExportUploadDlg-version1"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FExportUploadDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportUploadDlg-version1"
+msgid "Please check your connection and try again."
+msgstr "Please check your connection and try again."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version1"
+msgid "TransferCenter Waiting..."
+msgstr "TransferCenter Waiting..."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version1"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version1"
+msgid "Stopped"
+msgstr "Stopped"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version1"
+msgid "TransferCenter Stop"
+msgstr "TransferCenter Stop"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version1"
+msgid "to re-download a new copy of the installer for a fresh installation."
+msgstr "to re-download a new copy of the installer for a fresh installation."
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version1"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version1"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version1"
+msgid "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+msgstr "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version1"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version1"
+msgid "Please wait, it may take a while to download and install the effect plugin."
+msgstr "Please wait, it may take a while to download and install the effect plugin."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version1"
+msgid "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+msgstr "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version1"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version1"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+msgctxt "FProgressTipsDialog-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FProgressTipsDialog-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FProgressTipsDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProgressTipsDialog-version1"
+msgid "Please wait a few minutes, download and install the plug-in."
+msgstr "Please wait a few minutes, download and install the plug-in."
+
+#: 
+msgctxt "FProgressTipsDialog-version1"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FSmartEditExport-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSmartEditExport-version1"
+msgid "Converting the %1/%2 video."
+msgstr "Converting the %1/%2 video."
+

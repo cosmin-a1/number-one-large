@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Image Mask"
+msgstr "Image Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "This effect requires uploading the image material to the cloud for processing. It will only be used for the generation of your current work, and will not be stored or used for other purposes."
+msgstr "This effect requires uploading the image material to the cloud for processing. It will only be used for the generation of your current work, and will not be stored or used for other purposes."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Previous Frame"
+msgstr "Previous Frame"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The original AI painting effect will be replaced by a new effect. Are you sure you want to proceed with the replacement?"
+msgstr "The original AI painting effect will be replaced by a new effect. Are you sure you want to proceed with the replacement?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "After splitting the group clips, are you willing to keep it as a group or ungroup clips?"
+msgstr "After splitting the group clips, are you willing to keep it as a group or ungroup clips?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCG Plan Right 1"
+msgstr "VCG Plan Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VIP Plan Right 1"
+msgstr "VIP Plan Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VIP Plan Right 2"
+msgstr "VIP Plan Right 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Partial text transcription failed"
+msgstr "Partial text transcription failed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+msgstr "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Remove Object"
+msgstr "Remove Object"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stretch in and zoom in"
+msgstr "Stretch in and zoom in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "edgeValue"
+msgstr "edgeValue"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ripple Delete"
+msgstr "Ripple Delete"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Speech to Text"
+msgstr "Speech to Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Preset Templates"
+msgstr "Preset Templates"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Save the Template"
+msgstr "Save the Template"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Go to \"Media Cache\""
+msgstr "Go to \"Media Cache\""
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clockwise rotate"
+msgstr "Clockwise rotate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Main Timeline"
+msgstr "Main Timeline"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Free Plan Right 1"
+msgstr "Free Plan Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure to continue?"
+msgstr "Are you sure to continue?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "vtGeneral"
+msgstr "vtGeneral"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "General"
+msgstr "General"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ring Color 1"
+msgstr "Ring Color 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ring Color 2"
+msgstr "Ring Color 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stretch to right"
+msgstr "Stretch to right"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "There are contents on the selected track, deleting the track will remove all contents as well, do you wish to continue?"
+msgstr "There are contents on the selected track, deleting the track will remove all contents as well, do you wish to continue?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade2 Transition"
+msgstr "Fade2 Transition"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Smooth Strength"
+msgstr "Smooth Strength"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Screen zoom ratio change detected. In order not to affect the user experience, please restart the program and try again."
+msgstr "Screen zoom ratio change detected. In order not to affect the user experience, please restart the program and try again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Right Rotation Disappears"
+msgstr "Right Rotation Disappears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Media can be split multiple times at the dotted line position"
+msgstr "Media can be split multiple times at the dotted line position"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The position of the main track cannot be changed."
+msgstr "The position of the main track cannot be changed."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bad TV Signal"
+msgstr "Bad TV Signal"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The target inside the tracking box must be visible 100% of the time it is being tracked."
+msgstr "The target inside the tracking box must be visible 100% of the time it is being tracked."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chinese (HK)"
+msgstr "Chinese (HK)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chinese (TW)"
+msgstr "Chinese (TW)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bright Eye"
+msgstr "Bright Eye"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add to Project"
+msgstr "Add to Project"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Black&White"
+msgstr "Black&White"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Typewriter Pops Away"
+msgstr "Typewriter Pops Away"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chinese (Cantonese Simplified)"
+msgstr "Chinese (Cantonese Simplified)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Align Left"
+msgstr "Align Left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Align down"
+msgstr "Align down"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lower-left Rotation Disappears"
+msgstr "Lower-left Rotation Disappears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Down Up 1"
+msgstr "Down Up 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Down Up 2"
+msgstr "Down Up 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Down Roll"
+msgstr "Down Roll"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Give Up"
+msgstr "Give Up"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Closing this dialog now will stop your current download. Are you sure to continue?"
+msgstr "Closing this dialog now will stop your current download. Are you sure to continue?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to delete the selected item? This will delete the scene detection folder."
+msgstr "Are you sure you want to delete the selected item? This will delete the scene detection folder."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Increase Buffer"
+msgstr "Increase Buffer"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Big architecture, tilt-shift photography, tree, rock, water"
+msgstr "Big architecture, tilt-shift photography, tree, rock, water"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cannot download media to &\"path name\"& because Filmora does not have permission to save files to this folder"
+msgstr "Cannot download media to &\"path name\"& because Filmora does not have permission to save files to this folder"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Show Curve Panel"
+msgstr "Show Curve Panel"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Exceeds 50,000 character limit per task."
+msgstr "Exceeds 50,000 character limit per task."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Insufficient time interval to insert a new subtitle between the current one and the next one in the list"
+msgstr "Insufficient time interval to insert a new subtitle between the current one and the next one in the list"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Background Luminance"
+msgstr "Background Luminance"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fun Stickers"
+msgstr "Fun Stickers"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete Audio Stretch"
+msgstr "Delete Audio Stretch"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Gradient Color"
+msgstr "Gradient Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Z_Offset_start"
+msgstr "Z_Offset_start"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Delete Keyframe"
+msgstr "Delete Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Brighten Eye"
+msgstr "Brighten Eye"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add to Template"
+msgstr "Add to Template"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Renew 1 month at %1 off"
+msgstr "Renew 1 month at %1 off"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Continuous Curve"
+msgstr "Continuous Curve"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ball Color"
+msgstr "Ball Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bell Color"
+msgstr "Bell Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enlarge and Pop Out"
+msgstr "Enlarge and Pop Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rock'n'Roll"
+msgstr "Rock'n'Roll"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Technical Support"
+msgstr "Technical Support"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Align Vertical"
+msgstr "Align Vertical"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Send Backward"
+msgstr "Send Backward"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "%1  sync success, %2 sync  failure"
+msgstr "%1  sync success, %2 sync  failure"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Project Backups"
+msgstr "Project Backups"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shadow X"
+msgstr "Shadow X"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shadow Y"
+msgstr "Shadow Y"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shadow A"
+msgstr "Shadow A"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCG Plan Name"
+msgstr "VCG Plan Name"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Disappear Verbatim"
+msgstr "Disappear Verbatim"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 1"
+msgstr "Cinematic Flares 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 2"
+msgstr "Cinematic Flares 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 3"
+msgstr "Cinematic Flares 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 4"
+msgstr "Cinematic Flares 4"
+

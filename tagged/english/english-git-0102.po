@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "*E-mail"
+msgstr "*E-mail"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "include program log"
+msgstr "include program log"
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Please include your email."
+msgstr "Please include your email."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+msgctxt "FFeedBackPanel-version1"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "File Type"
+msgstr "File Type"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Last Modified Time"
+msgstr "Last Modified Time"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version1"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Please go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+msgstr "Please go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Please go to clear local disk space or go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+msgstr "Please go to clear local disk space or go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "There is not enough space on drive %1."
+msgstr "There is not enough space on drive %1."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Process"
+msgstr "Process"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Out of Disk Space"
+msgstr "Out of Disk Space"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Operations"
+msgstr "Operations"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Folder is not writable."
+msgstr "Folder is not writable."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "There are no tasks currently in progress, select files to download!"
+msgstr "There are no tasks currently in progress, select files to download!"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "Unwritable Tip"
+msgstr "Unwritable Tip"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version1"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version1"
+msgid "Roundness"
+msgstr "Roundness"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version1"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version1"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version1"
+msgid "Exposure"
+msgstr "Exposure"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version1"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version1"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version1"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version1"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version1"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyVideoBorderWidget-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyVideoBorderWidget-version1"
+msgid "Select Color"
+msgstr "Select Color"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version1"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version1"
+msgid "What kind of videos do you create? Your answer will help us decide what video effects to make next.(Max 3 choices)"
+msgstr "What kind of videos do you create? Your answer will help us decide what video effects to make next.(Max 3 choices)"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version1"
+msgid "SUBMIT"
+msgstr "SUBMIT"
+
+#: 
+msgctxt "FWaitStopAutoCreateDlg-version1"
+msgid "Stay"
+msgstr "Stay"
+
+#: 
+msgctxt "FWaitStopAutoCreateDlg-version1"
+msgid "Leave"
+msgstr "Leave"
+
+#: 
+msgctxt "FWaitStopAutoCreateDlg-version1"
+msgid "Your video's still being processed. Are you sure you want to leave?"
+msgstr "Your video's still being processed. Are you sure you want to leave?"
+
+#: 
+msgctxt "FFMiniRecordPanel-version1"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "FFMiniRecordPanel-version1"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FFMiniRecordPanel-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFMiniRecordPanel-version1"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+msgctxt "FFMiniRecordPanel-version1"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FFTrackingProgressWidget-version1"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "FFTrackingProgressWidget-version1"
+msgid "Tracking processing"
+msgstr "Tracking processing"
+
+#: 
+msgctxt "FScenceDetectionPanel-version1"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "FScenceDetectionPanel-version1"
+msgid "Detect"
+msgstr "Detect"
+
+#: 
+msgctxt "FScenceDetectionPanel-version1"
+msgid "Finish and Replace"
+msgstr "Finish and Replace"
+
+#: 
+msgctxt "FScenceDetectionPanel-version1"
+msgid "Add To Timeline"
+msgstr "Add To Timeline"
+
+#: 
+msgctxt "FScenceDetectionPanel-version1"
+msgid "Import Resource"
+msgstr "Import Resource"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Test"
+msgstr "Test"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Notice"
+msgstr "Notice"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Campaign"
+msgstr "Campaign"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Function"
+msgstr "Function"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Research"
+msgstr "Research"
+
+#: 
+msgctxt "FCaddyItemView-version1"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Double click to expand timeline editing."
+msgstr "Double click to expand timeline editing."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Tips"
+msgstr "Tips"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Drag the asset to the timeline"
+msgstr "Drag the asset to the timeline"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Try switching layouts"
+msgstr "Try switching layouts"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Select Creatives"
+msgstr "Select Creatives"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "After selecting a picture for the thumbnail, click 'Edit' to jump to the cover editing interface and customize your video thumbnail"
+msgstr "After selecting a picture for the thumbnail, click 'Edit' to jump to the cover editing interface and customize your video thumbnail"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Smart Search"
+msgstr "Smart Search"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Edit Clip"
+msgstr "Edit Clip"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Click here to import media."
+msgstr "Click here to import media."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "You can change the default path to unify the paths of screenshot files, backup files, recording files, rendering files, etc.by changing the default path."
+msgstr "You can change the default path to unify the paths of screenshot files, backup files, recording files, rendering files, etc.by changing the default path."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Template Edit"
+msgstr "Template Edit"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Switch Compound Clips"
+msgstr "Switch Compound Clips"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Support multiple audio and video for fast synchronization! Come and experience it!"
+msgstr "Support multiple audio and video for fast synchronization! Come and experience it!"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Draw masks of any shapes in the player"
+msgstr "Draw masks of any shapes in the player"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Quickly insert clip into the timeline"
+msgstr "Quickly insert clip into the timeline"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Upgrade template experience, support one-click material replacement.Experience super fast large screen to watch the template video"
+msgstr "Upgrade template experience, support one-click material replacement.Experience super fast large screen to watch the template video"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Click to import images"
+msgstr "Click to import images"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Right click on the keyframe and check \"Continuous Curve\""
+msgstr "Right click on the keyframe and check \"Continuous Curve\""
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Click here to modify the clip."
+msgstr "Click here to modify the clip."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Now you can composite multiple clips into one clip."
+msgstr "Now you can composite multiple clips into one clip."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Double-click a keyframe to enter a value."
+msgstr "Double-click a keyframe to enter a value."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Check \"Display full clip\" to display the full clip"
+msgstr "Check \"Display full clip\" to display the full clip"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Track Object"
+msgstr "Track Object"
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Double-click to replace material in the last shift."
+msgstr "Double-click to replace material in the last shift."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Switch to \"Default layout\" for easier editing."
+msgstr "Switch to \"Default layout\" for easier editing."
+
+#: 
+msgctxt "FFFunctionTips-version1"
+msgid "Play at double speed"
+msgstr "Play at double speed"
+

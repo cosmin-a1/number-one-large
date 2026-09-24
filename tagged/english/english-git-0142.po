@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unkown error"
+msgstr "Unkown error"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Start:"
+msgstr "Start:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Techno"
+msgstr "Techno"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sunset"
+msgstr "Sunset"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Interval"
+msgstr "Interval"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "interval"
+msgstr "interval"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "MiaoYing DouYin HomePage"
+msgstr "MiaoYing DouYin HomePage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Character Page Roll-out"
+msgstr "Character Page Roll-out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Use Original Media When Paused"
+msgstr "Use Original Media When Paused"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Type Writer"
+msgstr "Type Writer"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Tiny zoom"
+msgstr "Tiny zoom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Click to download the online content"
+msgstr "Click to download the online content"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fantasy, 1 girl, holding, eyeball scepter, blue sky, clouds, trees, green leaves, bead necklace, sitting, levitating, brown dress, brown boots, brown hair, meditation, forest, sunny day, anthropomorphism, nature"
+msgstr "Fantasy, 1 girl, holding, eyeball scepter, blue sky, clouds, trees, green leaves, bead necklace, sitting, levitating, brown dress, brown boots, brown hair, meditation, forest, sunny day, anthropomorphism, nature"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Same Series"
+msgstr "Same Series"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unknow"
+msgstr "Unknow"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unlike"
+msgstr "Unlike"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unmute"
+msgstr "Unmute"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Multi-terminal collaboration, real-time creation"
+msgstr "Multi-terminal collaboration, real-time creation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Radius"
+msgstr "Blur Radius"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Next Second"
+msgstr "Next Second"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Videos"
+msgstr "Videos"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Grow Shrink"
+msgstr "Grow Shrink"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Open System Preferences"
+msgstr "Open System Preferences"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Renew your Filmora Plan"
+msgstr "Renew your Filmora Plan"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Whiten"
+msgstr "Whiten"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Single Character Separates"
+msgstr "Single Character Separates"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom Rate"
+msgstr "Zoom Rate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom in 1"
+msgstr "Zoom in 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom in 2"
+msgstr "Zoom in 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom in 3"
+msgstr "Zoom in 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Spain)"
+msgstr "Spanish (Spain)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Crop To Fit"
+msgstr "Crop To Fit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enable Timeline Snapping"
+msgstr "Enable Timeline Snapping"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Vocal Remover"
+msgstr "AI Vocal Remover"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Split Style"
+msgstr "Split Style"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Boost Color"
+msgstr "Boost Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Effect&&Filter"
+msgstr "Effect&&Filter"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Heart Color"
+msgstr "Heart Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "interval_light"
+msgstr "interval_light"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Download failed. Please try again."
+msgstr "Download failed. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure to quit Speech-to-Text?"
+msgstr "Are you sure to quit Speech-to-Text?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Center Gradually Disappears"
+msgstr "Center Gradually Disappears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Project Beginning"
+msgstr "Project Beginning"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Your export is incomplete. Do you want to abort?"
+msgstr "Your export is incomplete. Do you want to abort?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export to local"
+msgstr "Export to local"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VIP exclusive resources"
+msgstr "VIP exclusive resources"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Start time:"
+msgstr "Start time:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Use Filmora Cloud to manage projects and materials and for convenient collaboration across multiple devices."
+msgstr "Use Filmora Cloud to manage projects and materials and for convenient collaboration across multiple devices."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clear All Used Masks"
+msgstr "Clear All Used Masks"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Box Opacity"
+msgstr "Box Opacity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "This type of file does not support replacement."
+msgstr "This type of file does not support replacement."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "MiaoYing User Community"
+msgstr "MiaoYing User Community"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Wavy Appearance"
+msgstr "Wavy Appearance"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Record from Webcam"
+msgstr "Record from Webcam"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Downloaded Resources"
+msgstr "Downloaded Resources"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Advance Plan Right 1"
+msgstr "Advance Plan Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Next Frame"
+msgstr "Next Frame"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Get Color"
+msgstr "Get Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add Guide"
+msgstr "Add Guide"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add Image"
+msgstr "Add Image"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Motion Blur"
+msgstr "Motion Blur"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Old Photo"
+msgstr "Old Photo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add Shape"
+msgstr "Add Shape"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Only files within 30 minutes are supported for translation.Please select again."
+msgstr "Only files within 30 minutes are supported for translation.Please select again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Character Page Roll-in"
+msgstr "Character Page Roll-in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text Scale"
+msgstr "Text Scale"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Old Video"
+msgstr "Old Video"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cool Max"
+msgstr "Cool Max"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "randomColor"
+msgstr "randomColor"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "BG Opacity"
+msgstr "BG Opacity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Remove Dark Circles"
+msgstr "Remove Dark Circles"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Not Sync"
+msgstr "Not Sync"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Process Ring Color"
+msgstr "Process Ring Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Polish (Poland)"
+msgstr "Polish (Poland)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Plexus Particles"
+msgstr "Plexus Particles"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "MotionTrack"
+msgstr "MotionTrack"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "100 Filmora AI Credits"
+msgstr "100 Filmora AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Shape Mask"
+msgstr "Shape Mask"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "CUBE File"
+msgstr "CUBE File"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom in to the bottom"
+msgstr "Zoom in to the bottom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "End time:"
+msgstr "End time:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Effect as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Effect as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Finish and Replace"
+msgstr "Finish and Replace"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Click to go to the material page"
+msgstr "Click to go to the material page"
+

@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FSaveProjectDialog-version1"
+msgid "Upload to Cloud Space"
+msgstr "Upload to Cloud Space"
+
+#: 
+msgctxt "FSaveProjectDialog-version1"
+msgid "Filmora Cloud has not been activated, please use it after activation"
+msgstr "Filmora Cloud has not been activated, please use it after activation"
+
+#: 
+msgctxt "FSaveProjectDialog-version1"
+msgid "After checking, when the project file is saved, it will be synchronized to the cloud, with multiple guarantees!"
+msgstr "After checking, when the project file is saved, it will be synchronized to the cloud, with multiple guarantees!"
+
+#: 
+msgctxt "FSaveProjectDialog-version1"
+msgid "Currently not logged in to use this service"
+msgstr "Currently not logged in to use this service"
+
+#: 
+msgctxt "FSaveProjectDialog-version1"
+msgid "Filmora Cloud has not been opened, please use it after opening"
+msgstr "Filmora Cloud has not been opened, please use it after opening"
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "Sign into your %1 account for more information."
+msgstr "Sign into your %1 account for more information."
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "The waiting time is too long and the session has expired, please try again."
+msgstr "The waiting time is too long and the session has expired, please try again."
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "Signing"
+msgstr "Signing"
+
+#: 
+msgctxt "FExportLoginWidgetEx-version1"
+msgid "Authorization has expired please click to retry, complete the login can upload video."
+msgstr "Authorization has expired please click to retry, complete the login can upload video."
+
+#: 
+msgctxt "FThirdLoginDlg-version1"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+msgctxt "FThirdLoginDlg-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FThirdLoginDlg-version1"
+msgid "The waiting time is too long and the session has expired, please try again."
+msgstr "The waiting time is too long and the session has expired, please try again."
+
+#: 
+msgctxt "FThirdLoginDlg-version1"
+msgid "Please sign in to your account on the web..."
+msgstr "Please sign in to your account on the web..."
+
+#: 
+msgctxt "FThirdLoginDlg-version1"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FThirdLoginDlg-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FImportTransformingDlg-version1"
+msgid "Importing %1 file, (%2 in total)"
+msgstr "Importing %1 file, (%2 in total)"
+
+#: 
+msgctxt "FImportTransformingDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FImportTransformingDlg-version1"
+msgid "Copying file:%1"
+msgstr "Copying file:%1"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Install Effect"
+msgstr "Install Effect"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Default Storage Location:"
+msgstr "Default Storage Location:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Disk space remaining %1 GB,space required %2 GB."
+msgstr "Disk space remaining %1 GB,space required %2 GB."
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "SnapShot"
+msgstr "SnapShot"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Insufficient Disk Space"
+msgstr "Insufficient Disk Space"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "MANAGE"
+msgstr "MANAGE"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Uploaded files:"
+msgstr "Uploaded files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Downloaded files:"
+msgstr "Downloaded files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Folders:"
+msgstr "Folders:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "change"
+msgstr "change"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Download from other Apps:"
+msgstr "Download from other Apps:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "The new storage location you selected matches the original file storage location. Please select a new one. "
+msgstr "The new storage location you selected matches the original file storage location. Please select a new one. "
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Cloud Project files:"
+msgstr "Cloud Project files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Recorded"
+msgstr "Recorded"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Recorded files:"
+msgstr "Recorded files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Effect packs:"
+msgstr "Effect packs:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Cloud Project"
+msgstr "Cloud Project"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "This change will take effect after clicking 'Save' and restarting the program."
+msgstr "This change will take effect after clicking 'Save' and restarting the program."
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Snapshot files:"
+msgstr "Snapshot files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "Recorded Audio:"
+msgstr "Recorded Audio:"
+
+#: 
+msgctxt "FSettingFolderPanel-version1"
+msgid "VoiceOver"
+msgstr "VoiceOver"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version1"
+msgid "Start Editing"
+msgstr "Start Editing"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version1"
+msgid "I Want More Tutorials"
+msgstr "I Want More Tutorials"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version1"
+msgid "Go Back the Tutorial"
+msgstr "Go Back the Tutorial"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version1"
+msgid "We hope you enjoy your editing journey."
+msgstr "We hope you enjoy your editing journey."
+
+#: 
+msgctxt "FUserGuideFinishWidget-version1"
+msgid "Well Done!"
+msgstr "Well Done!"
+
+#: 
+msgctxt "FFAudioMixerDialog-version1"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTimelineAudioMixerActionPresenter-version1"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTTSLoadErrorComponent-version1"
+msgid "Voice acquisition failed, please check the network and %1 click retry %2"
+msgstr "Voice acquisition failed, please check the network and %1 click retry %2"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version1"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version1"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version1"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+msgctxt "FAIToolboxItemWidget-version1"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version1"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version1"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version1"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version1"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+msgctxt "FDcPluginStatusWidget-version1"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version1"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "Category name should not be empty!"
+msgstr "Category name should not be empty!"
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+msgstr "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "This name is in use, please choose another."
+msgstr "This name is in use, please choose another."
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+msgstr "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "view more"
+msgstr "view more"
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+msgstr "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "This item is not commercially available"
+msgstr "This item is not commercially available"
+
+#: 
+msgctxt "FMediaTreeView-version1"
+msgid "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+msgstr "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "No downloads in progress."
+msgstr "No downloads in progress."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "Upload videos, images, projects, and more to your personal cloud storage."
+msgstr "Upload videos, images, projects, and more to your personal cloud storage."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "There are no results for %1"
+msgstr "There are no results for %1"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "No completed tasks."
+msgstr "No completed tasks."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "TransferCenter Status"
+msgstr "TransferCenter Status"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "No uploads in progress."
+msgstr "No uploads in progress."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "Download videos, images, projects, and more from your personal cloud storage."
+msgstr "Download videos, images, projects, and more from your personal cloud storage."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "Uploaded and downloaded tasks will appear here."
+msgstr "Uploaded and downloaded tasks will appear here."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "TransferCenter Size"
+msgstr "TransferCenter Size"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version1"
+msgid "TransferCenter Name"
+msgstr "TransferCenter Name"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Please input your email"
+msgstr "Please input your email"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Please enter a valid first name"
+msgstr "Please enter a valid first name"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Email inconsistent, please check and confirm again."
+msgstr "Email inconsistent, please check and confirm again."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "The password you've entered is incorrect. Click forget password to reset your password."
+msgstr "The password you've entered is incorrect. Click forget password to reset your password."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "There was an error connecting to the server. Please check your network or proxy server settings."
+msgstr "There was an error connecting to the server. Please check your network or proxy server settings."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Login successfully"
+msgstr "Login successfully"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Connection timed out. Please wait for a while or check your network connection."
+msgstr "Connection timed out. Please wait for a while or check your network connection."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Enter a combination of at least six numbersletters & symbols."
+msgstr "Enter a combination of at least six numbersletters & symbols."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Vertification code is empty"
+msgstr "Vertification code is empty"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Create account Successfully"
+msgstr "Create account Successfully"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Please enter a password"
+msgstr "Please enter a password"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+msgstr "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Please enter a valid last name"
+msgstr "Please enter a valid last name"
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+msgstr "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+
+#: 
+msgctxt "FUserAccountBasePage-version1"
+msgid "Please enter a vaild email"
+msgstr "Please enter a vaild email"
+
+#: 
+msgctxt "FPropertyTitlesControl-version1"
+msgid "Video Layer"
+msgstr "Video Layer"
+

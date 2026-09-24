@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FSmartEditExport-version1"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FSmartEditExport-version1"
+msgid "Conversion of %1/%2 videos has been completed."
+msgstr "Conversion of %1/%2 videos has been completed."
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version1"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version1"
+msgid "Generate preview videos for mobile"
+msgstr "Generate preview videos for mobile"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version1"
+msgid "Explosive template"
+msgstr "Explosive template"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version1"
+msgid "Template Name:"
+msgstr "Template Name:"
+
+#: 
+msgctxt "FPropertyAdvancedMosaicEffectWidget-version1"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version1"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version1"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version1"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version1"
+msgid "Corner Radius"
+msgstr "Corner Radius"
+
+#: 
+msgctxt "FTextTransformWidget-version1"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FTextTransformWidget-version1"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FTextTransformWidget-version1"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FScenceDetectListWidget-version1"
+msgid "Scene"
+msgstr "Scene"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version1"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "Clear Record"
+msgstr "Clear Record"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "TransferCenter Reveal in Finder"
+msgstr "TransferCenter Reveal in Finder"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "TransferCenter Reveal in Explorer"
+msgstr "TransferCenter Reveal in Explorer"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version1"
+msgid "Go to Project"
+msgstr "Go to Project"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "A file with the same name already exists."
+msgstr "A file with the same name already exists."
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Rename Tip"
+msgstr "Rename Tip"
+
+#: 
+msgctxt "ProjectLibraryListItem-version1"
+msgid "Do you want to rename \"%1\" to \"%2\"?"
+msgstr "Do you want to rename \"%1\" to \"%2\"?"
+
+#: 
+msgctxt "FSmartSearchFilterMenu-version1"
+msgid "Smart"
+msgstr "Smart"
+
+#: 
+msgctxt "FSmartSearchFilterMenu-version1"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FCurvedSpeedView-version1"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version1"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+
+#: 
+msgctxt "FTemplateClipSlidePlayerToolBar-version1"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FSubtitleListItem-version1"
+msgid "Split"
+msgstr "Split"
+
+#: 
+msgctxt "FSubtitleListItem-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAICommonStartView-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FAIGCImageParamWidget-version1"
+msgid "Style"
+msgstr "Style"
+
+#: 
+msgctxt "FAIGCImageParamWidget-version1"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FAIMusicSettingWidget-version1"
+msgid "Tempo"
+msgstr "Tempo"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "The \""
+msgstr "The \""
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "Cannot Set Shortcut"
+msgstr "Cannot Set Shortcut"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "\" shortcut is already assigned to the \""
+msgstr "\" shortcut is already assigned to the \""
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "Not all keys can be used in shortcuts."
+msgstr "Not all keys can be used in shortcuts."
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "Conflicting Shortcuts"
+msgstr "Conflicting Shortcuts"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version1"
+msgid "\" command. Do you wish to replace it?"
+msgstr "\" command. Do you wish to replace it?"
+
+#: 
+msgctxt "FTemplateResourceTabBar-version1"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "FTemplateResourceTabBar-version1"
+msgid "Musics"
+msgstr "Musics"
+
+#: 
+msgctxt "FTemplateResourceTabBar-version1"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FVCGDownloadProgressBubbleWidget-version1"
+msgid "Downloading HD footages (%1/%2)"
+msgstr "Downloading HD footages (%1/%2)"
+
+#: 
+msgctxt "FColorSelector-version1"
+msgid "Tones"
+msgstr "Tones"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "System Audio Off"
+msgstr "System Audio Off"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Click to stop recording"
+msgstr "Click to stop recording"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "The Camera %1 is lost."
+msgstr "The Camera %1 is lost."
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Click to start recording"
+msgstr "Click to start recording"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid " connection lost."
+msgstr " connection lost."
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Full Screen"
+msgstr "Full Screen"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Watch video tutorials to master more skills"
+msgstr "Watch video tutorials to master more skills"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Microphone Off"
+msgstr "Microphone Off"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Camera Off"
+msgstr "Camera Off"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Only one device has a screen."
+msgstr "Only one device has a screen."
+
+#: 
+msgctxt "FFRecordPanel-version1"
+msgid "Target Window"
+msgstr "Target Window"
+
+#: 
+msgctxt "FFDoubleSpinBox-version1"
+msgid "Drag with mouse;"
+msgstr "Drag with mouse;"
+
+#: 
+msgctxt "FFDoubleSpinBox-version1"
+msgid "Ways to change the value:"
+msgstr "Ways to change the value:"
+
+#: 
+msgctxt "FFDoubleSpinBox-version1"
+msgid "Scroll mouse wheel;"
+msgstr "Scroll mouse wheel;"
+
+#: 
+msgctxt "FFDoubleSpinBox-version1"
+msgid "Use the up and down keys."
+msgstr "Use the up and down keys."
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version1"
+msgid "Value"
+msgstr "Value"
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version1"
+msgid "Comparison View"
+msgstr "Comparison View"
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version1"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version1"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version1"
+msgid "Voice"
+msgstr "Voice"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version1"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version1"
+msgid "Congratulations on completing your creation!"
+msgstr "Congratulations on completing your creation!"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version1"
+msgid "Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+msgstr "Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version1"
+msgid "Network error. This feature requires an Internet connection to use."
+msgstr "Network error. This feature requires an Internet connection to use."
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version1"
+msgid "Separation failed: the media volume is insufficient. Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+msgstr "Separation failed: the media volume is insufficient. Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+
+#: 
+msgctxt "FHomePageTabBar-version1"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+msgctxt "FHomePageTabBar-version1"
+msgid "Creator Hub"
+msgstr "Creator Hub"
+
+#: 
+msgctxt "FHomePageTabBar-version1"
+msgid "AI Toolbox"
+msgstr "AI Toolbox"
+
+#: 
+msgctxt "FHomePageTabBar-version1"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+msgctxt "FHomePageTabBar-version1"
+msgid "Create Project"
+msgstr "Create Project"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Edit Clip"
+msgstr "Edit Clip"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Edit Text"
+msgstr "Edit Text"
+

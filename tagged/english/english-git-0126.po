@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+msgctxt "FProjectWidget-version1"
+msgid "9:16 (Portrait)"
+msgstr "9:16 (Portrait)"
+
+#: 
+msgctxt "LosslessMerger-version1"
+msgid "Total Duration:"
+msgstr "Total Duration:"
+
+#: 
+msgctxt "LosslessMerger-version1"
+msgid "Drag file to start merging"
+msgstr "Drag file to start merging"
+
+#: 
+msgctxt "LosslessMerger-version1"
+msgid "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+msgstr "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+
+#: 
+msgctxt "LosslessMerger-version1"
+msgid "Oops! Failed to merge video file."
+msgstr "Oops! Failed to merge video file."
+
+#: 
+msgctxt "FCreatorHubWidget-version1"
+msgid "Join the Latest Creative Campaigns"
+msgstr "Join the Latest Creative Campaigns"
+
+#: 
+msgctxt "FCreatorHubWidget-version1"
+msgid "Explore Fun and Useful Video Creation Guides"
+msgstr "Explore Fun and Useful Video Creation Guides"
+
+#: 
+msgctxt "FCreatorHubWidget-version1"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: 
+msgctxt "FCreatorHubWidget-version1"
+msgid "Beginner"
+msgstr "Beginner"
+
+#: 
+msgctxt "FCreatorHubWidget-version1"
+msgid "Learn from Other Creators"
+msgstr "Learn from Other Creators"
+
+#: 
+msgctxt "FCreatorHubWidget-version1"
+msgid "Tips & Tricks"
+msgstr "Tips & Tricks"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Start Recording"
+msgstr "Start Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Stop Recording"
+msgstr "Stop Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Quit recorder"
+msgstr "Quit recorder"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Show Camera Footage"
+msgstr "Show Camera Footage"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Resume Recording"
+msgstr "Resume Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Pause Recording"
+msgstr "Pause Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Hide Camera Footage"
+msgstr "Hide Camera Footage"
+
+#: 
+msgctxt "FFSysTrayIcon-version1"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+msgctxt "FPurchaseRefreshDialogPrivate-version1"
+msgid "No authorization information found"
+msgstr "No authorization information found"
+
+#: 
+msgctxt "FPurchaseRefreshDialogPrivate-version1"
+msgid "Refresh Success"
+msgstr "Refresh Success"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "Are you sure you want to close it?"
+msgstr "Are you sure you want to close it?"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "Select Files"
+msgstr "Select Files"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "There is currently tasks in progress, closing it will clear the task list."
+msgstr "There is currently tasks in progress, closing it will clear the task list."
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "File not found"
+msgstr "File not found"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "Logout Successful Tip"
+msgstr "Logout Successful Tip"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "You have successfully logged out."
+msgstr "You have successfully logged out."
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "Download List"
+msgstr "Download List"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version1"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+msgctxt "FCopyProxyFileDlg-version1"
+msgid "Copying file "
+msgstr "Copying file "
+
+#: 
+msgctxt "FCopyProxyFileDlg-version1"
+msgid "copy files "
+msgstr "copy files "
+
+#: 
+msgctxt "FFolderItemMenu-version1"
+msgid "Add a New Folder"
+msgstr "Add a New Folder"
+
+#: 
+msgctxt "FFolderItemMenu-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FFolderItemMenu-version1"
+msgid "Delete Folder"
+msgstr "Delete Folder"
+
+#: 
+msgctxt "FVoiceCloningWidget-version1"
+msgid "Cloning your voice… Please ensure that your network connection is stable."
+msgstr "Cloning your voice… Please ensure that your network connection is stable."
+
+#: 
+msgctxt "FVoiceCloningWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FRecordMenu-version1"
+msgid "Record PC Screen"
+msgstr "Record PC Screen"
+
+#: 
+msgctxt "FRecordMenu-version1"
+msgid "Record from Webcam"
+msgstr "Record from Webcam"
+
+#: 
+msgctxt "FRecordMenu-version1"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+msgctxt "FCheckDiskPanel-version1"
+msgid "Media Cache"
+msgstr "Media Cache"
+
+#: 
+msgctxt "FCheckDiskPanel-version1"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+msgctxt "FCheckDiskPanel-version1"
+msgid "Please free up space or adjust the Media Cache settings."
+msgstr "Please free up space or adjust the Media Cache settings."
+
+#: 
+msgctxt "FCheckDiskPanel-version1"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FCheckDiskPanel-version1"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FCollectionDialog-version1"
+msgid "What kind of videos do you want to create? Select from the keywords below for a better editing experience with Filmora (Max. 3 choices)."
+msgstr "What kind of videos do you want to create? Select from the keywords below for a better editing experience with Filmora (Max. 3 choices)."
+
+#: 
+msgctxt "FCollectionDialog-version1"
+msgid "What kind of videos do you want to create? Select from the keywords below to get custom tutorials from the Filmora Creator Academy (Max. 3 choices)."
+msgstr "What kind of videos do you want to create? Select from the keywords below to get custom tutorials from the Filmora Creator Academy (Max. 3 choices)."
+
+#: 
+msgctxt "FCollectionDialog-version1"
+msgid "Perfect! Click \"Confirm\" to keep on learning with the Filmora Creator Academy."
+msgstr "Perfect! Click \"Confirm\" to keep on learning with the Filmora Creator Academy."
+
+#: 
+msgctxt "FCollectionDialog-version1"
+msgid "Great! Click \"Confirm\" to start editing with Filmora."
+msgstr "Great! Click \"Confirm\" to start editing with Filmora."
+
+#: 
+msgctxt "FCollectionDialog-version1"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FCollectionDialog-version1"
+msgid "What kind of video you would like to create? Select the keywords from below to have a better editing experience with Filmora (Max 3 choices)."
+msgstr "What kind of video you would like to create? Select the keywords from below to have a better editing experience with Filmora (Max 3 choices)."
+
+#: 
+msgctxt "FDownInsProWidget-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FDownInsProWidget-version1"
+msgid "insufficient local disk space (2G)"
+msgstr "insufficient local disk space (2G)"
+
+#: 
+msgctxt "FDownInsProWidget-version1"
+msgid "Installing"
+msgstr "Installing"
+
+#: 
+msgctxt "FDownInsProWidget-version1"
+msgid "Failed in installing the effect plug-in, please click \"retry\" to try again."
+msgstr "Failed in installing the effect plug-in, please click \"retry\" to try again."
+
+#: 
+msgctxt "FDownInsProWidget-version1"
+msgid "Network link failed, please check"
+msgstr "Network link failed, please check"
+
+#: 
+msgctxt "FDownInsProWidget-version1"
+msgid "Exception error, unable to download and install the plug-in."
+msgstr "Exception error, unable to download and install the plug-in."
+
+#: 
+msgctxt "FProcessBarWidget-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FGraphicsTextEditVideoClipPainter-version1"
+msgid "Preset Video"
+msgstr "Preset Video"
+
+#: 
+msgctxt "FPropertyAutoMaskTypeListPresenter-version1"
+msgid "Select Character"
+msgstr "Select Character"
+
+#: 
+msgctxt "FPropertyAutoMaskTypeListPresenter-version1"
+msgid "Smart Brush"
+msgstr "Smart Brush"
+
+#: 
+msgctxt "FPropertyAutoMaskTypeListPresenter-version1"
+msgid "Select Subject"
+msgstr "Select Subject"
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "Compress media..."
+msgstr "Compress media..."
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "You must install the HEVC codec to use this feature. Click \"OK\" to go to the codec download page, which will be enabled after installation"
+msgstr "You must install the HEVC codec to use this feature. Click \"OK\" to go to the codec download page, which will be enabled after installation"
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "Export Template Project"
+msgstr "Export Template Project"
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "Output Settings"
+msgstr "Output Settings"
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "Exporting preview video..."
+msgstr "Exporting preview video..."
+
+#: 
+msgctxt "FExportLocalPanel-version1"
+msgid "highlight"
+msgstr "highlight"
+
+#: 
+msgctxt "FRatingDialog-version1"
+msgid "Please leave your rate. Your opinion is important to us."
+msgstr "Please leave your rate. Your opinion is important to us."
+
+#: 
+msgctxt "FRatingDialog-version1"
+msgid "Go Rating"
+msgstr "Go Rating"
+
+#: 
+msgctxt "FRatingDialog-version1"
+msgid "Refuse"
+msgstr "Refuse"
+
+#: 
+msgctxt "FRatingDialog-version1"
+msgid "Enjoy Filmora?"
+msgstr "Enjoy Filmora?"
+
+#: 
+msgctxt "FRatingDialog-version1"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+msgctxt "FRatingDialog-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FAdvanceSubtitleApplyAllProgressWidget-version1"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FAdvanceSubtitleApplyAllProgressWidget-version1"
+msgid "Please wait, we are applying the style of this subtitle to all the subtitle bars......"
+msgstr "Please wait, we are applying the style of this subtitle to all the subtitle bars......"
+
+#: 
+msgctxt "FPropertyMotionAnimationListview-version1"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FPropertyMotionAnimationListview-version1"
+msgid "Set as a default motion"
+msgstr "Set as a default motion"
+
+#: 
+msgctxt "FPropertyMotionAnimationListview-version1"
+msgid "Random to All"
+msgstr "Random to All"
+
+#: 
+msgctxt "FFTextToSpeechTableModel-version1"
+msgid "Completed/Total"
+msgstr "Completed/Total"
+
+#: 
+msgctxt "FFTextToSpeechTableModel-version1"
+msgid "Completed/TotalWord"
+msgstr "Completed/TotalWord"
+
+#: 
+msgctxt "FUserLabelCustomButton-version1"
+msgid "Try right clicking to edit the tag"
+msgstr "Try right clicking to edit the tag"
+
+#: 
+msgctxt "FFConvertDontRemindPanel-version1"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+msgctxt "FFConvertDontRemindPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFConvertDontRemindPanel-version1"
+msgid "If you choose not to remind, you'll not be able to restore your \"Shared Media\" library, \"My Music\" library, \"Favorites\" and \"Color Presets\" created with previous version of Filmora."
+msgstr "If you choose not to remind, you'll not be able to restore your \"Shared Media\" library, \"My Music\" library, \"Favorites\" and \"Color Presets\" created with previous version of Filmora."
+
+#: 
+msgctxt "FGpuInfoWidget-version1"
+msgid "Graphics card mismatches with driver. Please update your driver according to the instructions."
+msgstr "Graphics card mismatches with driver. Please update your driver according to the instructions."
+
+#: 
+msgctxt "FGpuInfoWidget-version1"
+msgid "Graphics card performance is low. GPU acceleration disabled."
+msgstr "Graphics card performance is low. GPU acceleration disabled."
+
+#: 
+msgctxt "FGpuInfoWidget-version1"
+msgid "Details"
+msgstr "Details"
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidget-version1"
+msgid "Stabilization failed."
+msgstr "Stabilization failed."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidget-version1"
+msgid "Stabilization successful."
+msgstr "Stabilization successful."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidget-version1"
+msgid "Try again"
+msgstr "Try again"
+
+#: 
+msgctxt "FThemeMediaBanner-version1"
+msgid "Search Results"
+msgstr "Search Results"
+
+#: 
+msgctxt "FThemeMediaBanner-version1"
+msgid "FThemeMediaBanner"
+msgstr "FThemeMediaBanner"
+
+#: 
+msgctxt "FThemeMediaBanner-version1"
+msgid "Related assets collection"
+msgstr "Related assets collection"
+
+#: 
+msgctxt "FThemeMediaBanner-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFAdvanceModeSettingWidget-version1"
+msgid "Track Reverse"
+msgstr "Track Reverse"
+

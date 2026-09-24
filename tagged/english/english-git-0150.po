@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 5"
+msgstr "Cinematic Flares 5"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 6"
+msgstr "Cinematic Flares 6"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Flares 7"
+msgstr "Cinematic Flares 7"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upgrading"
+msgstr "Upgrading"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Import with Auto Beat Sync"
+msgstr "Import with Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export to timeline"
+msgstr "Export to timeline"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Please contact Customer Support or your local network administrator for assistance."
+msgstr "Please contact Customer Support or your local network administrator for assistance."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Not connected to network"
+msgstr "Not connected to network"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "transfer failed"
+msgstr "transfer failed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export without watermark"
+msgstr "Export without watermark"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Expand template"
+msgstr "Expand template"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Limited-Time Free Asset"
+msgstr "Limited-Time Free Asset"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Detach Audio"
+msgstr "Detach Audio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vignette Classic"
+msgstr "Vignette Classic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VIP Plan Name"
+msgstr "VIP Plan Name"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Digital Clock or Not"
+msgstr "Digital Clock or Not"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Slide 1"
+msgstr "Fade Slide 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Slide 2"
+msgstr "Fade Slide 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Slide 3"
+msgstr "Fade Slide 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Slide 4"
+msgstr "Fade Slide 4"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Crop And Zoom"
+msgstr "Crop And Zoom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Color Correction"
+msgstr "Color Correction"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's"
+msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Mosaic Full"
+msgstr "Mosaic Full"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Creative Assets"
+msgstr "Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Transition as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Transition as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Copyrighted Music"
+msgstr "Copyrighted Music"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Skew right split"
+msgstr "Skew right split"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Purple Pops Out"
+msgstr "Purple Pops Out"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Deselect All"
+msgstr "Deselect All"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Drag or Double-click to Apply"
+msgstr "Drag or Double-click to Apply"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 1"
+msgstr "Text style 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 2"
+msgstr "Text style 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 3"
+msgstr "Text style 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 4"
+msgstr "Text style 4"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 5"
+msgstr "Text style 5"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 6"
+msgstr "Text style 6"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 7"
+msgstr "Text style 7"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 8"
+msgstr "Text style 8"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text style 9"
+msgstr "Text style 9"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Align Horizontal"
+msgstr "Align Horizontal"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "German (Germany)"
+msgstr "German (Germany)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Reflection Heigth"
+msgstr "Reflection Heigth"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Product Page"
+msgstr "Product Page"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Filmora does not have access to your %1"
+msgstr "Filmora does not have access to your %1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uParticleSize_start"
+msgstr "uParticleSize_start"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "offsetHalfHuman"
+msgstr "offsetHalfHuman"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to proceed without syncing? Not syncing data will cause the loss of your resources and custom preset data. "
+msgstr "Are you sure you want to proceed without syncing? Not syncing data will cause the loss of your resources and custom preset data. "
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cinematic Filters"
+msgstr "Cinematic Filters"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Template/Title/Color/Adjustment Layer Custom Presets"
+msgstr "Template/Title/Color/Adjustment Layer Custom Presets"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Film Grain"
+msgstr "Film Grain"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Comic Book"
+msgstr "Comic Book"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Clear proxy files"
+msgstr "Clear proxy files"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom in to the left"
+msgstr "Zoom in to the left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Film Stock"
+msgstr "Film Stock"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Right Roll"
+msgstr "Right Roll"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Only VIP can use this function"
+msgstr "Only VIP can use this function"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (United States)"
+msgstr "Spanish (United States)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Next Edit"
+msgstr "Next Edit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Next Step"
+msgstr "Next Step"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spanish (Colombia)"
+msgstr "Spanish (Colombia)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "ShortCut"
+msgstr "ShortCut"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom out 1"
+msgstr "Zoom out 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom out 2"
+msgstr "Zoom out 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom out 3"
+msgstr "Zoom out 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Renew early at %1 off"
+msgstr "Renew early at %1 off"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You are temporarily unable to continue downloading new studio media. The download limit for new studio media will be reset tomorrow. "
+msgstr "You are temporarily unable to continue downloading new studio media. The download limit for new studio media will be reset tomorrow. "
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Xpro II"
+msgstr "Xpro II"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Mobile downloads failed, please scan the code again for transmission."
+msgstr "Mobile downloads failed, please scan the code again for transmission."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Dialogue"
+msgstr "Dialogue"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Full Screen/Restore"
+msgstr "Full Screen/Restore"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Release Notes"
+msgstr "Release Notes"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No WaterMark"
+msgstr "No WaterMark"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "RichTick"
+msgstr "RichTick"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Right Rotation Appears"
+msgstr "Right Rotation Appears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Online Tutorial"
+msgstr "Online Tutorial"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Thumbnail changed."
+msgstr "Thumbnail changed."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Translation failed. Please retry later."
+msgstr "Translation failed. Please retry later."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Strong Vibration"
+msgstr "Strong Vibration"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "%1-Day Free Trial"
+msgstr "%1-Day Free Trial"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "segment_length"
+msgstr "segment_length"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text Position X"
+msgstr "Text Position X"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Text Position Y"
+msgstr "Text Position Y"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Z_Offset_end"
+msgstr "Z_Offset_end"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Multi-selection editing will clear the speed parameters that have been set for the selected clips."
+msgstr "Multi-selection editing will clear the speed parameters that have been set for the selected clips."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Left Side Flips In"
+msgstr "Left Side Flips In"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quick 3D Text"
+msgstr "Quick 3D Text"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Vertical Rotation Disappears"
+msgstr "Vertical Rotation Disappears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jigsaw A"
+msgstr "Jigsaw A"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jigsaw B"
+msgstr "Jigsaw B"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jigsaw C"
+msgstr "Jigsaw C"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jigsaw D"
+msgstr "Jigsaw D"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jigsaw E"
+msgstr "Jigsaw E"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jigsaw F"
+msgstr "Jigsaw F"
+

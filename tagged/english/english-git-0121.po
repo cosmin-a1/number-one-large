@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyTitlesControl-version1"
+msgid "Shape Layer"
+msgstr "Shape Layer"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "Failed to new folder. Insufficient cloud storage."
+msgstr "Failed to new folder. Insufficient cloud storage."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "Create"
+msgstr "Create"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "Failed to new folder."
+msgstr "Failed to new folder."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version1"
+msgid "Untitled Folder"
+msgstr "Untitled Folder"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+msgstr "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "The \"%1\" file has been loaded. Do you want to open the file now?"
+msgstr "The \"%1\" file has been loaded. Do you want to open the file now?"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Open now"
+msgstr "Open now"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Load complete tip"
+msgstr "Load complete tip"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version1"
+msgid "Use Now"
+msgstr "Use Now"
+
+#: 
+msgctxt "DcPluginManager-version1"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "DcPluginManager-version1"
+msgid "Installation failed. Please try again later."
+msgstr "Installation failed. Please try again later."
+
+#: 
+msgctxt "DcPluginManager-version1"
+msgid "Insufficient disk space. Please free up some space and try again."
+msgstr "Insufficient disk space. Please free up some space and try again."
+
+#: 
+msgctxt "DcPluginManager-version1"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FAIPortraitItemManager-version1"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "FAudioVoiceChangerMediaManager-version1"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version1"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FFeedBackDialog-version1"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+msgctxt "FFeedBackDialog-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Export Limitation"
+msgstr "Export Limitation"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Export with watermark"
+msgstr "Export with watermark"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+msgstr "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version1"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version1"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version1"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version1"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version1"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version1"
+msgid "Purchase Filmora X to export without a watermark."
+msgstr "Purchase Filmora X to export without a watermark."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version1"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version1"
+msgid "Delete cloud item"
+msgstr "Delete cloud item"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version1"
+msgid "Are you sure you want to move this item(s) to Recycle Bin?"
+msgstr "Are you sure you want to move this item(s) to Recycle Bin?"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version1"
+msgid "Tips: The storage will release after delete the item(s) from Recycle Bin."
+msgstr "Tips: The storage will release after delete the item(s) from Recycle Bin."
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version1"
+msgid "Move to Recycle Bin"
+msgstr "Move to Recycle Bin"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version1"
+msgid "Graniny Blur"
+msgstr "Graniny Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version1"
+msgid "Color Blur"
+msgstr "Color Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version1"
+msgid "Direction Blur"
+msgstr "Direction Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version1"
+msgid "Radial Blur"
+msgstr "Radial Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version1"
+msgid "Basic Blur"
+msgstr "Basic Blur"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Don't show this again."
+msgstr "Don't show this again."
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Add more media to get a better result"
+msgstr "Add more media to get a better result"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Delete the selected media?"
+msgstr "Delete the selected media?"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Import Folder"
+msgstr "Import Folder"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Add Again"
+msgstr "Add Again"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Add more than 5 media to unlock the Auto-Create"
+msgstr "Add more than 5 media to unlock the Auto-Create"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Import File"
+msgstr "Import File"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version1"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version1"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version1"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version1"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version1"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version1"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version1"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version1"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version1"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version1"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version1"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Duration setting"
+msgstr "Duration setting"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Add more media to customize the video duration"
+msgstr "Add more media to customize the video duration"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Max 30s"
+msgstr "Max 30s"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Max 60s"
+msgstr "Max 60s"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Text Color:"
+msgstr "Text Color:"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Max 2min"
+msgstr "Max 2min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Max 3min"
+msgstr "Max 3min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Max 5min"
+msgstr "Max 5min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Max 10min"
+msgstr "Max 10min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Video length:"
+msgstr "Video length:"
+
+#: 
+msgctxt "FGlobalSettingMenu-version1"
+msgid "Text type"
+msgstr "Text type"
+
+#: 
+msgctxt "FGuideRedeemPanel-version1"
+msgid "Complete User Guide to Redeem"
+msgstr "Complete User Guide to Redeem"
+

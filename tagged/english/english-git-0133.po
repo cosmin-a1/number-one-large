@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FKeyFrameViewBase-version1"
+msgid "Delete Keyframe"
+msgstr "Delete Keyframe"
+
+#: 
+msgctxt "FRecordStatusWidget-version1"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+msgctxt "FRecordStatusWidget-version1"
+msgid "Tap to record"
+msgstr "Tap to record"
+
+#: 
+msgctxt "FFSilenceDetectionSettingViewPrivate-version1"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+msgctxt "FFGradientColorCtlWidget-version1"
+msgid "Click to add color markers"
+msgstr "Click to add color markers"
+
+#: 
+msgctxt "FFGradientColorCtlWidget-version1"
+msgid "Reached the maximum limit of the color scale (10)"
+msgstr "Reached the maximum limit of the color scale (10)"
+
+#: 
+msgctxt "FFTipLabel-version1"
+msgid "The final video should not exceed 1/3 of the total length of all imported clips, and it should be shorter than the BGM."
+msgstr "The final video should not exceed 1/3 of the total length of all imported clips, and it should be shorter than the BGM."
+
+#: 
+msgctxt "FFSilenceDetectionProgressDialog-version1"
+msgid "Automatically remove silence from audio region."
+msgstr "Automatically remove silence from audio region."
+
+#: 
+msgctxt "FFSilenceDetectionProgressDialog-version1"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFSilenceDetectionProgressDialog-version1"
+msgid "Please wait, processing...("
+msgstr "Please wait, processing...("
+
+#: 
+msgctxt "FBottomWidget-version1"
+msgid "Your first voice clone is free and you will save 100 credits!"
+msgstr "Your first voice clone is free and you will save 100 credits!"
+
+#: 
+msgctxt "CutterSegment-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "CutterSegment-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFScenceDetectListItem-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "MergerSegment-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "MergerSegment-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFUpgradeVersionDisplayWidget-version1"
+msgid "Filmora%1 new features"
+msgstr "Filmora%1 new features"
+
+#: 
+msgctxt "FProperty3DMaterialPresetControl-version1"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FProperty3DMaterialPresetControl-version1"
+msgid "3D Material Preset"
+msgstr "3D Material Preset"
+
+#: 
+msgctxt "FClipContextMenu-version1"
+msgid "Smart Edit Tool"
+msgstr "Smart Edit Tool"
+
+#: 
+msgctxt "FFSpeechServiceNoTaskTip-version1"
+msgid "No assignment yet, go try the voice text service!"
+msgstr "No assignment yet, go try the voice text service!"
+
+#: 
+msgctxt "FMediaItemIconView-version1"
+msgid "No audio or video clips on the timeline."
+msgstr "No audio or video clips on the timeline."
+
+#: 
+msgctxt "FTutorialView-version1"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FTrackManagerDialog-version1"
+msgid "Track Manager"
+msgstr "Track Manager"
+
+#: 
+msgctxt "IFFGroupHeaderBasePainter-version1"
+msgid "%1 result(s) found"
+msgstr "%1 result(s) found"
+
+#: 
+msgctxt "FFSimpleModeSettingWidget-version1"
+msgid "Click to start Smart Cutout"
+msgstr "Click to start Smart Cutout"
+
+#: 
+msgctxt "FPropertySmartKeyingWidgetClass-version1"
+msgid "Click to start Smart Cutout"
+msgstr "Click to start Smart Cutout"
+
+#: 
+msgctxt "FUserGuidePlayerPanel2-version1"
+msgid "Basic Editing Tutorial"
+msgstr "Basic Editing Tutorial"
+
+#: 
+msgctxt "FUserGuidePlayerPanel2-version1"
+msgid "Video Effects Tutorial"
+msgstr "Video Effects Tutorial"
+
+#: 
+msgctxt "FUserGuidePlayerPanel2-version1"
+msgid "AI Features Tutorial"
+msgstr "AI Features Tutorial"
+
+#: 
+msgctxt "FTimelineAudioSynService-version1"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "FTimelineAudioSynService-version1"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FTimelineAudioSynService-version1"
+msgid "The selected clips cannot be synchronized, please reselect the clips."
+msgstr "The selected clips cannot be synchronized, please reselect the clips."
+
+#: 
+msgctxt "FCloudMediaLoadingDialog-version1"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FCloudMediaLoadingDialog-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FQuickEditNavigationBar-version1"
+msgid "Import File"
+msgstr "Import File"
+
+#: 
+msgctxt "FQuickStartMgr-version1"
+msgid "To learn more or contact support,use Help menu"
+msgstr "To learn more or contact support,use Help menu"
+
+#: 
+msgctxt "FUserGuideTipWidget-version1"
+msgid "Show Again"
+msgstr "Show Again"
+
+#: 
+msgctxt "FUserGuideTipWidget-version1"
+msgid "Next Step"
+msgstr "Next Step"
+
+#: 
+msgctxt "FAudioSoundTTSView-version1"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FAudioSoundTTSView-version1"
+msgid "Input your text and Convert it to Interesting Voiceover."
+msgstr "Input your text and Convert it to Interesting Voiceover."
+
+#: 
+msgctxt "FFTransferCenterPanel-version1"
+msgid "Network Connection Error"
+msgstr "Network Connection Error"
+
+#: 
+msgctxt "FFTransferCenterPanel-version1"
+msgid "The local file directory does not exist or has been deleted."
+msgstr "The local file directory does not exist or has been deleted."
+
+#: 
+msgctxt "FPrivacyStatementTooltip-version1"
+msgid "The screenshot area is limited to the interface of the Filmora product, and we will strictly follow the User Privacy Agreement."
+msgstr "The screenshot area is limited to the interface of the Filmora product, and we will strictly follow the User Privacy Agreement."
+
+#: 
+msgctxt "FPrivacyStatementTooltip-version1"
+msgid "User Privacy Agreement"
+msgstr "User Privacy Agreement"
+
+#: 
+msgctxt "FPropertymultipleSelectedWidget-version1"
+msgid "The selected clips cannot be edited at the same time, please reselect."
+msgstr "The selected clips cannot be edited at the same time, please reselect."
+
+#: 
+msgctxt "FStockMediaGuideWidget-version1"
+msgid "Check it out!"
+msgstr "Check it out!"
+
+#: 
+msgctxt "FStockMediaGuideWidget-version1"
+msgid "Pexels is here!"
+msgstr "Pexels is here!"
+
+#: 
+msgctxt "FSplashScreen-version1"
+msgid "Version: "
+msgstr "Version: "
+
+#: 
+msgctxt "FSplashScreen-version1"
+msgid "Copyright %1 %2 Wondershare. All rights reserved."
+msgstr "Copyright %1 %2 Wondershare. All rights reserved."
+
+#: 
+msgctxt "FFAIErasingSettingView-version1"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+msgctxt "FFAIErasingSettingView-version1"
+msgid "You can navigate to different times and select the objects you want to remove from the video."
+msgstr "You can navigate to different times and select the objects you want to remove from the video."
+
+#: 
+msgctxt "FFAIErasingSettingView-version1"
+msgid "Selected Objects"
+msgstr "Selected Objects"
+
+#: 
+msgctxt "FFNetwork-version1"
+msgid "You computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FTemplateMediaGroupPainter-version1"
+msgid "See All"
+msgstr "See All"
+
+#: 
+msgctxt "FResourceFreeTrialWidget-version1"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+msgctxt "FResourceFreeTrialWidget-version1"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FResourceFreeTrialWidget-version1"
+msgid "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+msgstr "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+
+#: 
+msgctxt "FTimelineQuickTextActionPresenter-version1"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "FFMediaHelper-version1"
+msgid "Commonly Used"
+msgstr "Commonly Used"
+
+#: 
+msgctxt "FFMediaHelper-version1"
+msgid "Recently Used"
+msgstr "Recently Used"
+
+#: 
+msgctxt "FPropertyColorWheelWidget-version1"
+msgid "Shadows"
+msgstr "Shadows"
+
+#: 
+msgctxt "FPropertyColorWheelWidget-version1"
+msgid "Highlights"
+msgstr "Highlights"
+
+#: 
+msgctxt "FPropertyColorWheelWidget-version1"
+msgid "Midtones"
+msgstr "Midtones"
+
+#: 
+msgctxt "FPropertyColorBasicAdjustWidget-version1"
+msgid "Sharpen"
+msgstr "Sharpen"
+
+#: 
+msgctxt "FProgressDialogWrap-version1"
+msgid "You have reached the daily limit of 20 generations. Try again tomorrow."
+msgstr "You have reached the daily limit of 20 generations. Try again tomorrow."
+
+#: 
+msgctxt "FAdvanceSSPlayerToolBar-version1"
+msgid "Zoom in (%1)"
+msgstr "Zoom in (%1)"
+
+#: 
+msgctxt "FAdvanceSSPlayerToolBar-version1"
+msgid "Zoom out (%1)"
+msgstr "Zoom out (%1)"
+
+#: 
+msgctxt "FCheckingTokenWebStateWidget-version1"
+msgid "Logging in..."
+msgstr "Logging in..."
+
+#: 
+msgctxt "FMediaItemView-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "QFile-version1"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FNothingFoundWidget-version1"
+msgid "No results found."
+msgstr "No results found."
+
+#: 
+msgctxt "FNothingFoundWidget-version1"
+msgid "Please create a new project document."
+msgstr "Please create a new project document."
+
+#: 
+msgctxt "FNothingFoundWidget-version1"
+msgid "Project document not found."
+msgstr "Project document not found."
+
+#: 
+msgctxt "FOldFollowUsWidget-version1"
+msgid "Follow us for more tutorials"
+msgstr "Follow us for more tutorials"
+
+#: 
+msgctxt "FTemplateProjectCustomView-version1"
+msgid "Choose the \"Save Project As Template\" option under the \"File\" menu to save a custom template. Your saved custom templates will be shown here."
+msgstr "Choose the \"Save Project As Template\" option under the \"File\" menu to save a custom template. Your saved custom templates will be shown here."
+
+#: 
+msgctxt "FTemplateProjectCustomView-version1"
+msgid "Open Recent Project"
+msgstr "Open Recent Project"
+
+#: 
+msgctxt "FClipTrimAdjustDialog-version1"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FTemplateClipSlideDailog-version1"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FPropertyBackgroundPatternListControl-version1"
+msgid "Please try again later!"
+msgstr "Please try again later!"
+
+#: 
+msgctxt "FPropertyBackgroundPatternListControl-version1"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+msgctxt "FPropertyTitlesLayerWidget-version1"
+msgid "Add a shadow to this layer"
+msgstr "Add a shadow to this layer"
+
+#: 
+msgctxt "FPropertyTitlesLayerWidget-version1"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FUnLicenseMediaItemWatermarkHint-version1"
+msgid "Remove paid resources and \n"
+"export with watermark"
+msgstr "Remove paid resources and \n"
+"export with watermark"
+
+#: 
+msgctxt "FFSmartKeyingMediaPlayerWidget-version1"
+msgid "Please draw mask first. Then you can start tracking."
+msgstr "Please draw mask first. Then you can start tracking."
+
+#: 
+msgctxt "FFSmartKeyingMediaPlayerWidget-version1"
+msgid "Track rendering failed, please try again!"
+msgstr "Track rendering failed, please try again!"
+
+#: 
+msgctxt "FFSmartKeyingMediaPlayerWidget-version1"
+msgid "No objects to track in this direction, please select another direction."
+msgstr "No objects to track in this direction, please select another direction."
+
+#: 
+msgctxt "FEffectControlMenu-version1"
+msgid "After effects with titles and transitions"
+msgstr "After effects with titles and transitions"
+
+#: 
+msgctxt "FEffectControlMenu-version1"
+msgid "All effects"
+msgstr "All effects"
+
+#: 
+msgctxt "FEffectControlMenu-version1"
+msgid "No effects"
+msgstr "No effects"
+
+#: 
+msgctxt "FEffectControlMenu-version1"
+msgid "Switch mode and replay the video"
+msgstr "Switch mode and replay the video"
+
+#: 
+msgctxt "FBaseIconItemPainter-version1"
+msgid "Open Recent Project"
+msgstr "Open Recent Project"
+
+#: 
+msgctxt "FBaseIconItemPainter-version1"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FExportFormatComboBox-version1"
+msgid "PNG Image Sequence"
+msgstr "PNG Image Sequence"
+
+#: 
+msgctxt "FExportFormatComboBox-version1"
+msgid "JPG Image Sequence"
+msgstr "JPG Image Sequence"
+
+#: 
+msgctxt "FTimelineWidget-version1"
+msgid "The clip cannot be moved"
+msgstr "The clip cannot be moved"
+
+#: 
+msgctxt "FTimelineWidget-version1"
+msgid "Cannot nudge in Auto Ripple"
+msgstr "Cannot nudge in Auto Ripple"
+
+#: 
+msgctxt "FTimelineWidget-version1"
+msgid "Please select a clip to nudge"
+msgstr "Please select a clip to nudge"
+
+#: 
+msgctxt "FFComboBoxItemDelegate-version1"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FFComboBoxItemDelegate-version1"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+

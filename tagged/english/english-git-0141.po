@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sunflower"
+msgstr "Sunflower"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Advance Plan Name"
+msgstr "Advance Plan Name"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ink Well"
+msgstr "Ink Well"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Freeze"
+msgstr "Freeze"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Locate in the resource panel"
+msgstr "Locate in the resource panel"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "4:5 (Vertical)"
+msgstr "4:5 (Vertical)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unlimited AI Credits"
+msgstr "Unlimited AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Undo Effect"
+msgstr "Undo Effect"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Characters Disappear Downwards"
+msgstr "Characters Disappear Downwards"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Filmora Official Account"
+msgstr "Filmora Official Account"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upper-left Flip Disappears"
+msgstr "Upper-left Flip Disappears"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Height"
+msgstr "Height"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fly to zoom in"
+msgstr "Fly to zoom in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The voice has been cloned successfully"
+msgstr "The voice has been cloned successfully"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Volume Threshold"
+msgstr "Volume Threshold"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom End Node"
+msgstr "Zoom End Node"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "PropertyConfig"
+msgstr "PropertyConfig"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Focus Color"
+msgstr "Focus Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Up Insert"
+msgstr "Up Insert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Invert"
+msgstr "Invert"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Italic"
+msgstr "Italic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "File Name_1"
+msgstr "File Name_1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The effect Pack can't be deleted because it is opened in Filmora."
+msgstr "The effect Pack can't be deleted because it is opened in Filmora."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Philtrum Length"
+msgstr "Philtrum Length"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Move to right"
+msgstr "Move to right"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The audio duration is too short, please re-select the audio of 0.5s or more for beat detection."
+msgstr "The audio duration is too short, please re-select the audio of 0.5s or more for beat detection."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jumper"
+msgstr "Jumper"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Jungle"
+msgstr "Jungle"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom out to the right"
+msgstr "Zoom out to the right"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sun Kissed"
+msgstr "Sun Kissed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Italian (Italy)"
+msgstr "Italian (Italy)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Portuguese (Brazil)"
+msgstr "Portuguese (Brazil)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quit AI Voice Cloning"
+msgstr "Quit AI Voice Cloning"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Linear"
+msgstr "Linear"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "My Mask 1"
+msgstr "My Mask 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Editing Timeline"
+msgstr "Editing Timeline"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Minute"
+msgstr "Minute"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Japanese (Japan)"
+msgstr "Japanese (Japan)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unable to recognize text content"
+msgstr "Unable to recognize text content"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "vtChildVoice"
+msgstr "vtChildVoice"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No Motion"
+msgstr "No Motion"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lord Kelvin"
+msgstr "Lord Kelvin"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Align Justified"
+msgstr "Align Justified"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "MiaoYing ZhiHu HomePage"
+msgstr "MiaoYing ZhiHu HomePage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Counter clockwise rotate"
+msgstr "Counter clockwise rotate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Outter Ring Color"
+msgstr "Outter Ring Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Number"
+msgstr "Number"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "X Offset"
+msgstr "X Offset"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Y Offset"
+msgstr "Y Offset"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "End Number"
+msgstr "End Number"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Chin Length"
+msgstr "Chin Length"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No search results yet."
+msgstr "No search results yet."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Next Marker"
+msgstr "Next Marker"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The style of Title will be reset after conversion to SRT."
+msgstr "The style of Title will be reset after conversion to SRT."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Photos"
+msgstr "Photos"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Player"
+msgstr "Player"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Zoom in to the right"
+msgstr "Zoom in to the right"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upgrade your license to enjoy unlimited equity."
+msgstr "Upgrade your license to enjoy unlimited equity."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Nose Length"
+msgstr "Nose Length"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Whiten Teeth"
+msgstr "Whiten Teeth"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Random"
+msgstr "Random"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Create Proxy File"
+msgstr "Create Proxy File"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Redden"
+msgstr "Redden"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Redeem"
+msgstr "Redeem"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Renew 1 year at %1 off"
+msgstr "Renew 1 year at %1 off"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "rotate_frame_count"
+msgstr "rotate_frame_count"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "PC Screen"
+msgstr "PC Screen"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Search"
+msgstr "Search"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Second"
+msgstr "Second"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select"
+msgstr "Select"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Processor"
+msgstr "Processor"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "TVwall"
+msgstr "TVwall"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Transcribe"
+msgstr "Transcribe"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Transcode failure"
+msgstr "Transcode failure"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Zoom In"
+msgstr "Fade Zoom In"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to delete the selected item?"
+msgstr "Are you sure you want to delete the selected item?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Smooth"
+msgstr "Smooth"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "distortion_density"
+msgstr "distortion_density"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spin 1"
+msgstr "Spin 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spin 2"
+msgstr "Spin 2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spin 3"
+msgstr "Spin 3"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Spin 4"
+msgstr "Spin 4"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Square"
+msgstr "Square"
+

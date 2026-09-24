@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidgetClass-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSubtitleToTitleProgressPanel-version1"
+msgid "Please wait, converting to SRT..."
+msgstr "Please wait, converting to SRT..."
+
+#: 
+msgctxt "FSubtitleToTitleProgressPanel-version1"
+msgid "Please wait, converting to Titles..."
+msgstr "Please wait, converting to Titles..."
+
+#: 
+msgctxt "FFCloudResourceReplyEventHandler-version1"
+msgid "Network error. Favorite wasn't saved."
+msgstr "Network error. Favorite wasn't saved."
+
+#: 
+msgctxt "FPropertyTextNoneWidget-version1"
+msgid "No editable items, please select at least one item to edit"
+msgstr "No editable items, please select at least one item to edit"
+
+#: 
+msgctxt "FPropertyTextNoneWidget-version1"
+msgid "Nothing to configure.\n"
+"Select a text box in the Previewer to continue."
+msgstr "Nothing to configure.\n"
+"Select a text box in the Previewer to continue."
+
+#: 
+msgctxt "FDurationSettingPanel-version1"
+msgid "HR:MIN:SEC:FR"
+msgstr "HR:MIN:SEC:FR"
+
+#: 
+msgctxt "FDurationSettingPanel-version1"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FDurationSettingPanel-version1"
+msgid "Adjustment failed: No extra space to apply duration. If you need to adjust, the ripple editor must be opened."
+msgstr "Adjustment failed: No extra space to apply duration. If you need to adjust, the ripple editor must be opened."
+
+#: 
+msgctxt "FDurationSettingPanel-version1"
+msgid "Input Duration:"
+msgstr "Input Duration:"
+
+#: 
+msgctxt "FQuickTutorialReward-version1"
+msgid "Thanks for Completing the Walkthrough with Us!"
+msgstr "Thanks for Completing the Walkthrough with Us!"
+
+#: 
+msgctxt "FQuickTutorialReward-version1"
+msgid "Now export your own video without watermark! Offer expires in three days."
+msgstr "Now export your own video without watermark! Offer expires in three days."
+
+#: 
+msgctxt "FQuickTutorialReward-version1"
+msgid "Click Here to Redeem"
+msgstr "Click Here to Redeem"
+
+#: 
+msgctxt "FProjectCoverPresenter-version1"
+msgid "Changing the template will clear the currently applied effect."
+msgstr "Changing the template will clear the currently applied effect."
+
+#: 
+msgctxt "FProjectCoverPresenter-version1"
+msgid "Change template"
+msgstr "Change template"
+
+#: 
+msgctxt "FProjectCoverPresenter-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectCoverPresenter-version1"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FProjectCoverPresenter-version1"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FProjectCoverPresenter-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Background Tasks"
+msgstr "Background Tasks"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Toolbox"
+msgstr "Toolbox"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Layout Mode"
+msgstr "Layout Mode"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FilmoraTitleToolButtonWdg-version1"
+msgid "Shortcut"
+msgstr "Shortcut"
+
+#: 
+msgctxt "FFSmartKeyingSettingWidget-version1"
+msgid "Simple Mode"
+msgstr "Simple Mode"
+
+#: 
+msgctxt "FFSmartKeyingSettingWidget-version1"
+msgid "Advanced Mode"
+msgstr "Advanced Mode"
+
+#: 
+msgctxt "FCreatePrjGuideWidget_Normal-version1"
+msgid "Click here to start your first video"
+msgstr "Click here to start your first video"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "100,000 Resources"
+msgstr "100,000 Resources"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: 
+msgctxt "FExportProgressPurchaseWidget-version1"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FTimelineSpeedActionPresenter-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FTimelineSpeedActionPresenter-version1"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "FAIMusicStartView-version1"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+msgctxt "FAIMusicStartView-version1"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+msgctxt "FPropertyBaseWidget-version1"
+msgid "Corrupted file, function not available"
+msgstr "Corrupted file, function not available"
+
+#: 
+msgctxt "FTimelineClipVisibleActionPresenter-version1"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+msgctxt "FTimelineClipVisibleActionPresenter-version1"
+msgid "Disable Clip"
+msgstr "Disable Clip"
+
+#: 
+msgctxt "FAccountCenterUserInfoWidget-version1"
+msgid "Please Login"
+msgstr "Please Login"
+
+#: 
+msgctxt "FAccountCenterUserInfoWidget-version1"
+msgid "Refresh Authorization"
+msgstr "Refresh Authorization"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Only translate text"
+msgstr "Only translate text"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Translate voice and text"
+msgstr "Translate voice and text"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Select Language"
+msgstr "Select Language"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Target Language:"
+msgstr "Target Language:"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Translation Type:"
+msgstr "Translation Type:"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version1"
+msgid "Source Language:"
+msgstr "Source Language:"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version1"
+msgid "Adjust Level"
+msgstr "Adjust Level"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version1"
+msgid "Device Model"
+msgstr "Device Model"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version1"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "FilmoraCN Download Center"
+msgstr "FilmoraCN Download Center"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Effect Store"
+msgstr "Effect Store"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+msgstr "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid " resource special effects package? Local resources are not deleted."
+msgstr " resource special effects package? Local resources are not deleted."
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Do you want to delete the task of the resource special effects package of "
+msgstr "Do you want to delete the task of the resource special effects package of "
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Do you want to delete the download record of "
+msgstr "Do you want to delete the download record of "
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid "Minimize windows"
+msgstr "Minimize windows"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version1"
+msgid " ? After deletion, you need to download it from the resource store again."
+msgstr " ? After deletion, you need to download it from the resource store again."
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version1"
+msgid "Track Setting"
+msgstr "Track Setting"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version1"
+msgid "Click to start Motion Track"
+msgstr "Click to start Motion Track"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version1"
+msgid "Link Element"
+msgstr "Link Element"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version1"
+msgid "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+msgstr "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version1"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version1"
+msgid "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+msgstr "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version1"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version1"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version1"
+msgid "Conversion Rules"
+msgstr "Conversion Rules"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version1"
+msgid "Layer panel:"
+msgstr "Layer panel:"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version1"
+msgid "I know"
+msgstr "I know"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version1"
+msgid "customize text and effect \n"
+"in a scene"
+msgstr "customize text and effect \n"
+"in a scene"
+
+#: 
+msgctxt "FEnterAdvancedEditRefreshDialog-version1"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FTryLimitRefreshDialog-version1"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FTryLimitRefreshDialog-version1"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version1"
+msgid "Filename too long"
+msgstr "Filename too long"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version1"
+msgid "Set as the default address"
+msgstr "Set as the default address"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version1"
+msgid "The file name is too long may cause the file cannot be opened after downloading"
+msgstr "The file name is too long may cause the file cannot be opened after downloading"
+
+#: 
+msgctxt "FFTimelinePresenter-version1"
+msgid "Please select the clip with audio in the timeline."
+msgstr "Please select the clip with audio in the timeline."
+
+#: 
+msgctxt "FFTimelinePresenter-version1"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+msgctxt "FFTimelinePresenter-version1"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+msgctxt "FFTimelinePresenter-version1"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+

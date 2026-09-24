@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version1"
+msgid "Country"
+msgstr "Country"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version1"
+msgid "Acoustic"
+msgstr "Acoustic"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version1"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version1"
+msgid "Rock'n'Roll"
+msgstr "Rock'n'Roll"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "TAG"
+msgstr "TAG"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "SIZE"
+msgstr "SIZE"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "TYPE"
+msgstr "TYPE"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "USED"
+msgstr "USED"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "IN POINT"
+msgstr "IN POINT"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "FRAME RATE"
+msgstr "FRAME RATE"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "RESOLUTION"
+msgstr "RESOLUTION"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "OUT POINT"
+msgstr "OUT POINT"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "MEDIA CREATED"
+msgstr "MEDIA CREATED"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "DATE IMPORTED"
+msgstr "DATE IMPORTED"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "DURATION"
+msgstr "DURATION"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "View More"
+msgstr "View More"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "UPDATED TIME"
+msgstr "UPDATED TIME"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "DATE CREATED"
+msgstr "DATE CREATED"
+
+#: 
+msgctxt "FFMediaItemModel-version1"
+msgid "AUDIO INFO"
+msgstr "AUDIO INFO"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "SRT"
+msgstr "SRT"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Select the file to be converted: "
+msgstr "Select the file to be converted: "
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Clip selection"
+msgstr "Clip selection"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+msgstr "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Language of the audio to be transcribed:"
+msgstr "Language of the audio to be transcribed:"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Language to be translated to:"
+msgstr "Language to be translated to:"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Choosing a language for translation will generate two files——transcript and translated files."
+msgstr "Choosing a language for translation will generate two files——transcript and translated files."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Automatically match dynamic effects based on the audio rhythm."
+msgstr "Automatically match dynamic effects based on the audio rhythm."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "The current language does not support translation"
+msgstr "The current language does not support translation"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Sorry, dynamic text does not currently support SRT files."
+msgstr "Sorry, dynamic text does not currently support SRT files."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Presentation of output on the timeline: "
+msgstr "Presentation of output on the timeline: "
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "Add automatical active words"
+msgstr "Add automatical active words"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "(Generates ordinary text fragments within the program, one by one on the timeline)"
+msgstr "(Generates ordinary text fragments within the program, one by one on the timeline)"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version1"
+msgid "The entire timeline sequence"
+msgstr "The entire timeline sequence"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Sad"
+msgstr "Sad"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Epic"
+msgstr "Epic"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Vlog"
+msgstr "Vlog"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Dance"
+msgstr "Dance"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Happy"
+msgstr "Happy"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Sport"
+msgstr "Sport"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "chill"
+msgstr "chill"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Cinematic"
+msgstr "Cinematic"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Travel"
+msgstr "Travel"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Emotional"
+msgstr "Emotional"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Peaceful"
+msgstr "Peaceful"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Exciting"
+msgstr "Exciting"
+
+#: 
+msgctxt "FFLowLayoutWidget-version1"
+msgid "Hopeful"
+msgstr "Hopeful"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "VCG"
+msgstr "VCG"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Stock"
+msgstr "Stock"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Elements"
+msgstr "Elements"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FMissingResourceItemWidget-version1"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Try"
+msgstr "Try"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Video Ratio:"
+msgstr "Video Ratio:"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Sample Text"
+msgstr "Sample Text"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Generated by AI"
+msgstr "Generated by AI"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Voice language"
+msgstr "Voice language"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Ideas & Feedback"
+msgstr "Ideas & Feedback"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Yes, and continue"
+msgstr "Yes, and continue"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Clone Voice"
+msgstr "Clone Voice"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Enter text with more than %1 characters to ensure better result."
+msgstr "Enter text with more than %1 characters to ensure better result."
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Video Text"
+msgstr "Video Text"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Translate the text to a language we support and try again."
+msgstr "Translate the text to a language we support and try again."
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "The Sample Text will replace your original input. Are you sure you want to replace the original input with the Sample Text?"
+msgstr "The Sample Text will replace your original input. Are you sure you want to replace the original input with the Sample Text?"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Type your own text here or generate text with AI."
+msgstr "Type your own text here or generate text with AI."
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "AI is generating results..."
+msgstr "AI is generating results..."
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Your voice language will be switched to “%1”,which will be consistent with your text language."
+msgstr "Your voice language will be switched to “%1”,which will be consistent with your text language."
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Back to Edit"
+msgstr "Back to Edit"
+
+#: 
+msgctxt "FTextToVideoWidget-version1"
+msgid "Read Supported Language List"
+msgstr "Read Supported Language List"
+
+#: 
+msgctxt "FTemplateMediaItemPainter-version1"
+msgid "Use"
+msgstr "Use"
+
+#: 
+msgctxt "FTemplateMediaItemPainter-version1"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "XPC"
+msgstr "XPC"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "Paid"
+msgstr "Paid"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "HIFIVE"
+msgstr "HIFIVE"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "Single Purchase"
+msgstr "Single Purchase"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "Standard"
+msgstr "Standard"
+
+#: 
+msgctxt "FMediaItemMoreInfoWidget-version1"
+msgid "Find Similar"
+msgstr "Find Similar"
+

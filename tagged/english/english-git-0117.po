@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Template Edit"
+msgstr "Template Edit"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Export to local or to social media"
+msgstr "Export to local or to social media"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Click to find tons of filters, \n"
+"LUTs, masks, and more."
+msgstr "Click to find tons of filters, \n"
+"LUTs, masks, and more."
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Click here to start your first video"
+msgstr "Click here to start your first video"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Export video"
+msgstr "Export video"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Double-click to replace material in the last shift"
+msgstr "Double-click to replace material in the last shift"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Click here to modify clip"
+msgstr "Click here to modify clip"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Drag to add effect"
+msgstr "Drag to add effect"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Click here to edit text"
+msgstr "Click here to edit text"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Import materials"
+msgstr "Import materials"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Play and preview"
+msgstr "Play and preview"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Click here to import Media"
+msgstr "Click here to import Media"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Drag media here to replace it"
+msgstr "Drag media here to replace it"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Replace Media"
+msgstr "Replace Media"
+
+#: 
+msgctxt "FMaskManager-version1"
+msgid "Drag to edit"
+msgstr "Drag to edit"
+
+#: 
+msgctxt "FMarkerContextMenu-version1"
+msgid "Delete All Markers"
+msgstr "Delete All Markers"
+
+#: 
+msgctxt "FMarkerContextMenu-version1"
+msgid "Modify Marker"
+msgstr "Modify Marker"
+
+#: 
+msgctxt "FMarkerContextMenu-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FIntroTemplateTextEditView-version1"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+msgctxt "FIntroTemplateTextEditView-version1"
+msgid "Type your text here."
+msgstr "Type your text here."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version1"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version1"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version1"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "You need to pay before use this resource, Please go to pay."
+msgstr "You need to pay before use this resource, Please go to pay."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Only ask once in this project"
+msgstr "Only ask once in this project"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "I have already activated it"
+msgstr "I have already activated it"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Not now"
+msgstr "Not now"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "You are using a paid effect for Filmora, click \"Purchase\"or\"Back to Edit\" before exporting."
+msgstr "You are using a paid effect for Filmora, click \"Purchase\"or\"Back to Edit\" before exporting."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "We noticed that you have already purchased Boris FX effect plugin for Filmora, now you can go to Boris FX License Tool to activate it and remove the watermark."
+msgstr "We noticed that you have already purchased Boris FX effect plugin for Filmora, now you can go to Boris FX License Tool to activate it and remove the watermark."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Activate"
+msgstr "Activate"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version1"
+msgid "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+msgstr "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Your story needs at least one video clip! It can't be deleted."
+msgstr "Your story needs at least one video clip! It can't be deleted."
+
+#: 
+msgctxt "FStoryItemListView-version1"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Crop Clip"
+msgstr "Crop Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "This type of file does not support replacement."
+msgstr "This type of file does not support replacement."
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version1"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "Speech-to-Text Purchase Refresh"
+msgstr "Speech-to-Text Purchase Refresh"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "If you have already purchased more hours, you can now use Speech-to-Text."
+msgstr "If you have already purchased more hours, you can now use Speech-to-Text."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "click here to purchase more hours."
+msgstr "click here to purchase more hours."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "Text-to-Speech Purchase Refresh"
+msgstr "Text-to-Speech Purchase Refresh"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "If you have already purchased more characters, you can now use Text-to-Speech."
+msgstr "If you have already purchased more characters, you can now use Text-to-Speech."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "Not enough characters left."
+msgstr "Not enough characters left."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "click here to purchase more characters."
+msgstr "click here to purchase more characters."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version1"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version1"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version1"
+msgid "Click here to expand cloud space"
+msgstr "Click here to expand cloud space"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version1"
+msgid "Expansion Tips"
+msgstr "Expansion Tips"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version1"
+msgid "If you have already expanded cloud storage, you can now use cloud storage."
+msgstr "If you have already expanded cloud storage, you can now use cloud storage."
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version1"
+msgid "click here to buy Wondershare Filmora"
+msgstr "click here to buy Wondershare Filmora"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version1"
+msgid "If you have already purchased Filmora, you can now use cloud storage."
+msgstr "If you have already purchased Filmora, you can now use cloud storage."
+
+#: 
+msgctxt "FMediaItemDragLayer-version1"
+msgid "title"
+msgstr "title"
+
+#: 
+msgctxt "FMediaItemDragLayer-version1"
+msgid "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+msgstr "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+
+#: 
+msgctxt "FMediaItemDragLayer-version1"
+msgid "effect"
+msgstr "effect"
+
+#: 
+msgctxt "FMediaItemDragLayer-version1"
+msgid "Quantity exceeds the limit"
+msgstr "Quantity exceeds the limit"
+
+#: 
+msgctxt "FFolderInfoWgt-version1"
+msgid "Sync text presets"
+msgstr "Sync text presets"
+
+#: 
+msgctxt "FFolderInfoWgt-version1"
+msgid "Sync template presets"
+msgstr "Sync template presets"
+
+#: 
+msgctxt "FFolderInfoWgt-version1"
+msgid "Sync compound clips"
+msgstr "Sync compound clips"
+
+#: 
+msgctxt "FFolderInfoWgt-version1"
+msgid "Sync adjustment layers"
+msgstr "Sync adjustment layers"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Switching to another mask will remove the current mask. Continue anyway?"
+msgstr "Switching to another mask will remove the current mask. Continue anyway?"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Remove"
+msgstr "Remove"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Switch to other mask will remove current draw mask. Continue anyway?"
+msgstr "Switch to other mask will remove current draw mask. Continue anyway?"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Remove Mask"
+msgstr "Remove Mask"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version1"
+msgid "Remove Draw Mask"
+msgstr "Remove Draw Mask"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "10K+ Preset Templates"
+msgstr "10K+ Preset Templates"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "Speech-to-Text, Text-to-Speech"
+msgstr "Speech-to-Text, Text-to-Speech"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "50+ Selected Collections"
+msgstr "50+ Selected Collections"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "Advanced AI Effects"
+msgstr "Advanced AI Effects"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "100K High Quality Resources"
+msgstr "100K High Quality Resources"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "Boris FX and NewBlue FX"
+msgstr "Boris FX and NewBlue FX"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version1"
+msgid "Key Frame"
+msgstr "Key Frame"
+

@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Letter Space"
+msgstr "Letter Space"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Native Setting"
+msgstr "Native Setting"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Dutch (Netherlands)"
+msgstr "Dutch (Netherlands)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Characters Flash In"
+msgstr "Characters Flash In"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI model is being upgraded,please wait…"
+msgstr "AI model is being upgraded,please wait…"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Are you sure you want to delete thumbnail?"
+msgstr "Are you sure you want to delete thumbnail?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Welcome! Select a Tutorial to Start Editing with Filmora."
+msgstr "Welcome! Select a Tutorial to Start Editing with Filmora."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with AI Portrait as an example."
+msgstr "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with AI Portrait as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Save as Compound Clip Custom"
+msgstr "Save as Compound Clip Custom"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Making changes in Speed Ramping will override the changes made in Uniform Speed."
+msgstr "Making changes in Speed Ramping will override the changes made in Uniform Speed."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Import Media Folder"
+msgstr "Import Media Folder"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Selected Collections"
+msgstr "Selected Collections"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "French (France)"
+msgstr "French (France)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Your DVD is not finished. Do you want to abort?"
+msgstr "Your DVD is not finished. Do you want to abort?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blockbuster"
+msgstr "Blockbuster"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Show Safe Zones"
+msgstr "Show Safe Zones"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Swedish (Sweden)"
+msgstr "Swedish (Sweden)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Character Fluctuations Shrink"
+msgstr "Character Fluctuations Shrink"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Do you want to rename it to \"%1\"?"
+msgstr "Do you want to rename it to \"%1\"?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Analysis error. Please try again."
+msgstr "Analysis error. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Tilt-shift Linear"
+msgstr "Tilt-shift Linear"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Plump Cheeks"
+msgstr "Plump Cheeks"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Unable to insert subtitles prompt"
+msgstr "Unable to insert subtitles prompt"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No clip selected."
+msgstr "No clip selected."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Background"
+msgstr "Background"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Title as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Title as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ukrainian (Ukraine)"
+msgstr "Ukrainian (Ukraine)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fetch Log..."
+msgstr "Fetch Log..."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Audio Effect-Reverb"
+msgstr "Audio Effect-Reverb"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade Out Shake"
+msgstr "Fade Out Shake"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Upload to Vimeo"
+msgstr "Upload to Vimeo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "uOrientation"
+msgstr "uOrientation"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "This action will remove all masks that have been used. Are you sure you want to continue?"
+msgstr "This action will remove all masks that have been used. Are you sure you want to continue?"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "A boy builds a sand castle by the sea"
+msgstr "A boy builds a sand castle by the sea"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Phase Increment"
+msgstr "Phase Increment"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Adjusting the speed of a clip will override the current loop effect."
+msgstr "Adjusting the speed of a clip will override the current loop effect."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Install computer audio driver failed! Please try again."
+msgstr "Install computer audio driver failed! Please try again."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Purple Haze"
+msgstr "Purple Haze"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Purple Lomo"
+msgstr "Purple Lomo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Purple Love"
+msgstr "Purple Love"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+msgstr "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ripple Size"
+msgstr "Ripple Size"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cold && Harsh"
+msgstr "Cold && Harsh"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "The usage limit has been reached today."
+msgstr "The usage limit has been reached today."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Edit advanced properties, Keyframe, and Speed Ramping."
+msgstr "Edit advanced properties, Keyframe, and Speed Ramping."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Adjust Audio"
+msgstr "Adjust Audio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "To allow access,open System Preferences,click on Security & Privacy settings there."
+msgstr "To allow access,open System Preferences,click on Security & Privacy settings there."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Double line"
+msgstr "Double line"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Export to Device"
+msgstr "Export to Device"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Decolor Position X"
+msgstr "Decolor Position X"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Decolor Position Y"
+msgstr "Decolor Position Y"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stretch Duration:"
+msgstr "Stretch Duration:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "MiaoYing WeiBo HomePage"
+msgstr "MiaoYing WeiBo HomePage"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Keep Group"
+msgstr "Keep Group"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Open VIP you can enjoy vip resources now!"
+msgstr "Open VIP you can enjoy vip resources now!"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Flip Down1"
+msgstr "Flip Down1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Flip Down2"
+msgstr "Flip Down2"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Old Film"
+msgstr "Old Film"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Dotted Ring Color"
+msgstr "Dotted Ring Color"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Decay factor"
+msgstr "Decay factor"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Portuguese (Portuguese)"
+msgstr "Portuguese (Portuguese)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Popular Special Effects"
+msgstr "Popular Special Effects"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Source Switcher"
+msgstr "Source Switcher"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Flash in"
+msgstr "Flash in"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You can try it for free within %1 or purchase %2 for unlimited exports."
+msgstr "You can try it for free within %1 or purchase %2 for unlimited exports."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate 90 CW"
+msgstr "Rotate 90 CW"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "TRADITIONAL CHINESE"
+msgstr "TRADITIONAL CHINESE"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Typewriter Upwards"
+msgstr "Typewriter Upwards"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bounce to zoom out 1"
+msgstr "Bounce to zoom out 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Rotate Speed"
+msgstr "Rotate Speed"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "English (India)"
+msgstr "English (India)"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Batch analysis in progress"
+msgstr "Batch analysis in progress"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Network connection is broken"
+msgstr "Network connection is broken"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "You can go to the %1 and try to apply the download resource."
+msgstr "You can go to the %1 and try to apply the download resource."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Radio Explike FX"
+msgstr "Radio Explike FX"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+msgstr "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Start Number"
+msgstr "Start Number"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Watermark Plan Right 1"
+msgstr "Watermark Plan Right 1"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "rotate_end_angle"
+msgstr "rotate_end_angle"
+

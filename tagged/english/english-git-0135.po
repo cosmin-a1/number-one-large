@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Transition Duration:"
+msgstr "Transition Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Pan & Zoom"
+msgstr "Pan & Zoom"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Photo Placement:"
+msgstr "Photo Placement:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Effect Duration:"
+msgstr "Effect Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Insert Mode:"
+msgstr "Insert Mode:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Split Button:"
+msgstr "Split Button:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Default Duration:"
+msgstr "Default Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Freeze Duration:"
+msgstr "Freeze Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Show the split button on timeline playhead"
+msgstr "Show the split button on timeline playhead"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Timeline Edit:"
+msgstr "Timeline Edit:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Split a single track"
+msgstr "Split a single track"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Split all tracks"
+msgstr "Split all tracks"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Quick Title Duration"
+msgstr "Quick Title Duration"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Click on the blank area to jump to the cursor position"
+msgstr "Click on the blank area to jump to the cursor position"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Cursor jump method:"
+msgstr "Cursor jump method:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Photo Duration:"
+msgstr "Photo Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingEditingPanel-version2"
+msgid "Filter Duration"
+msgstr "Filter Duration"
+
+#: 
+#, fuzzy
+msgctxt "FFChannelRotarySwitches-version2"
+msgid "L"
+msgstr "L"
+
+#: 
+#, fuzzy
+msgctxt "FFChannelRotarySwitches-version2"
+msgid "R"
+msgstr "R"
+
+#: 
+#, fuzzy
+msgctxt "FFMasterVolumeCtrlWidget-version2"
+msgid "L"
+msgstr "L"
+
+#: 
+#, fuzzy
+msgctxt "FFMasterVolumeCtrlWidget-version2"
+msgid "R"
+msgstr "R"
+
+#: 
+#, fuzzy
+msgctxt "FFPositionEffectWidget-version2"
+msgid "X"
+msgstr "X"
+
+#: 
+#, fuzzy
+msgctxt "FFPositionEffectWidget-version2"
+msgid "Y"
+msgstr "Y"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyXYPositionPropertyWidget-version2"
+msgid "X"
+msgstr "X"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyXYPositionPropertyWidget-version2"
+msgid "Y"
+msgstr "Y"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "X"
+msgstr "X"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Y"
+msgstr "Y"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "TV"
+msgstr "TV"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "70s"
+msgstr "70s"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ads"
+msgstr "Ads"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "All"
+msgstr "All"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Day"
+msgstr "Day"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "End"
+msgstr "End"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "RAM"
+msgstr "RAM"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Red"
+msgstr "Red"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "VCG"
+msgstr "VCG"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Top"
+msgstr "Top"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "and"
+msgstr "and"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "dot"
+msgstr "dot"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Insect Eye Vision"
+msgstr "Insect Eye Vision"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Cool"
+msgstr "Cool"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Drop"
+msgstr "Drop"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "End:"
+msgstr "End:"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Epic"
+msgstr "Epic"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Face"
+msgstr "Face"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fade"
+msgstr "Fade"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Full"
+msgstr "Full"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Hour"
+msgstr "Hour"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Left"
+msgstr "Left"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Like"
+msgstr "Like"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Lomo"
+msgstr "Lomo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Love"
+msgstr "Love"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "More"
+msgstr "More"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Name"
+msgstr "Name"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Mute"
+msgstr "Mute"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "News"
+msgstr "News"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Push"
+msgstr "Push"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Size"
+msgstr "Size"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Star"
+msgstr "Star"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Tile"
+msgstr "Tile"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Tilt"
+msgstr "Tilt"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Sync"
+msgstr "Sync"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Tips"
+msgstr "Tips"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Twrl"
+msgstr "Twrl"
+
+#: 
+#, fuzzy
+msgctxt "QObject-version2"
+msgid "Type"
+msgstr "Type"
+
