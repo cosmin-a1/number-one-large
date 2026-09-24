@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Previous Second"
+msgstr "Previous Second"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Urdu (India)"
+msgstr "Urdu (India)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ring Color"
+msgstr "Ring Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Special Effects Text"
+msgstr "Special Effects Text"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "QObject-version5"
+msgid "B&&W Noise"
+msgstr "B&&W Noise"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upload to YouTube"
+msgstr "Upload to YouTube"
+
+#: 
+msgctxt "QObject-version5"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "VCG Media"
+msgstr "VCG Media"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Complete Your Wondershare ID Now!"
+msgstr "Complete Your Wondershare ID Now!"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Show Track"
+msgstr "Show Track"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Microphone"
+msgstr "Microphone"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Music Generator"
+msgstr "AI Music Generator"
+
+#: 
+msgctxt "QObject-version5"
+msgid "About..."
+msgstr "About..."
+
+#: 
+msgctxt "QObject-version5"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Quickly create popular intros"
+msgstr "Quickly create popular intros"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Failed to record. Ensure your recording matches the script, and record again."
+msgstr "Failed to record. Ensure your recording matches the script, and record again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Uruguay)"
+msgstr "Spanish (Uruguay)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Intensity"
+msgstr "Blur Intensity"
+
+#: 
+msgctxt "QObject-version5"
+msgid "To the Right 1"
+msgstr "To the Right 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "To the Right 2"
+msgstr "To the Right 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Clockwise rotate to zoom in 1"
+msgstr "Clockwise rotate to zoom in 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Clockwise rotate to zoom in 2"
+msgstr "Clockwise rotate to zoom in 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Narration"
+msgstr "Narration"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fly in and Fly out"
+msgstr "Fly in and Fly out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add Animation"
+msgstr "Add Animation"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upload failed. Network connection problems."
+msgstr "Upload failed. Network connection problems."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Left Dir Insert"
+msgstr "Left Dir Insert"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Clip is too short to add animation."
+msgstr "Clip is too short to add animation."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Network failed, please retry"
+msgstr "Network failed, please retry"
+
+#: 
+msgctxt "QObject-version5"
+msgid "ADVANCED"
+msgstr "ADVANCED"
+
+#: 
+msgctxt "QObject-version5"
+msgid "network error"
+msgstr "network error"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Vortex In"
+msgstr "Vortex In"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Try Free"
+msgstr "Try Free"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Quick Split Mode"
+msgstr "Quick Split Mode"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Shrink and Pop Away"
+msgstr "Shrink and Pop Away"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stretch in and zoom in 1"
+msgstr "Stretch in and zoom in 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stretch in and zoom in 2"
+msgstr "Stretch in and zoom in 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upper-left Flip Appears"
+msgstr "Upper-left Flip Appears"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Segment"
+msgstr "Segment"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+msgctxt "QObject-version5"
+msgid "It is detected that importing large files may cause lag."
+msgstr "It is detected that importing large files may cause lag."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Turkish (Turkey)"
+msgstr "Turkish (Turkey)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Only 1 hour file can be transcribed in a single task."
+msgstr "Only 1 hour file can be transcribed in a single task."
+
+#: 
+msgctxt "QObject-version5"
+msgid "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+msgstr "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Only VIP can use this resource"
+msgstr "Only VIP can use this resource"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Block Size"
+msgstr "Block Size"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Previous Marker"
+msgstr "Previous Marker"
+
+#: 
+msgctxt "QObject-version5"
+msgid "glow_intensity"
+msgstr "glow_intensity"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Shine B"
+msgstr "Shine B"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Chinese"
+msgstr "Chinese"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Download MobileMiaoYing"
+msgstr "Download MobileMiaoYing"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Selected Clip End"
+msgstr "Selected Clip End"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Open External Canthus"
+msgstr "Open External Canthus"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Are you sure you want to delete the selected folder"
+msgstr "Are you sure you want to delete the selected folder"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lens Flare 1"
+msgstr "Lens Flare 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lens Flare 2"
+msgstr "Lens Flare 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lens Flare 3"
+msgstr "Lens Flare 3"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lens Flare 4"
+msgstr "Lens Flare 4"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lens Flare 5"
+msgstr "Lens Flare 5"
+
+#: 
+msgctxt "QObject-version5"
+msgid "MaskRatio"
+msgstr "MaskRatio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "isUpdateColor"
+msgstr "isUpdateColor"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Switching mouse status"
+msgstr "Switching mouse status"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Recording failed. Microphone connection error."
+msgstr "Recording failed. Microphone connection error."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fade Zoom Out"
+msgstr "Fade Zoom Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Length Philtrum"
+msgstr "Length Philtrum"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fluctuation Period"
+msgstr "Fluctuation Period"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Eclosion"
+msgstr "Eclosion"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Malay (Malaysia)"
+msgstr "Malay (Malaysia)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Box Color"
+msgstr "Box Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "privacy policies"
+msgstr "privacy policies"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select All Forward/Backward"
+msgstr "Select All Forward/Backward"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Mix Ratio"
+msgstr "Mix Ratio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for downloaded files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for downloaded files."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Install computer audio driver successful! Restart your computer to continue."
+msgstr "Install computer audio driver successful! Restart your computer to continue."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select All Backward"
+msgstr "Select All Backward"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "QObject-version5"
+msgid "List View"
+msgstr "List View"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Sparkle"
+msgstr "Sparkle"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Country"
+msgstr "Country"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Acoustic"
+msgstr "Acoustic"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Slide Down"
+msgstr "Slide Down"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Ecuador)"
+msgstr "Spanish (Ecuador)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lightning Flashes Out"
+msgstr "Lightning Flashes Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Each user can only retain up to 5 cloned voices. After deleting unnecessary voices, you can continue to use AI voice cloning."
+msgstr "Each user can only retain up to 5 cloned voices. After deleting unnecessary voices, you can continue to use AI voice cloning."
+
+#: 
+msgctxt "QObject-version5"
+msgid "The image is being generated"
+msgstr "The image is being generated"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Are you sure you want to close this page?"
+msgstr "Are you sure you want to close this page?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Characters Flash Out"
+msgstr "Characters Flash Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uStartPos"
+msgstr "uStartPos"
+

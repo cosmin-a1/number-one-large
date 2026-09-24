@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Burn DVD"
+msgstr "Burn DVD"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Language Not Matched"
+msgstr "Language Not Matched"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom Start Node"
+msgstr "Zoom Start Node"
+
+#: 
+msgctxt "QObject-version5"
+msgid "View More"
+msgstr "View More"
+
+#: 
+msgctxt "QObject-version5"
+msgid "view more"
+msgstr "view more"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fresh New"
+msgstr "Fresh New"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Vertical"
+msgstr "Vertical"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "QObject-version5"
+msgid "less than 1min"
+msgstr "less than 1min"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Resource"
+msgstr "Resource"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Unknow error"
+msgstr "Unknow error"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Intel i3 or better multicore processor, 2GHz or above."
+msgstr "Intel i3 or better multicore processor, 2GHz or above."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Single-word Enlargement"
+msgstr "Single-word Enlargement"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Arabic (Arabian Peninsula)"
+msgstr "Arabic (Arabian Peninsula)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Side by Side View"
+msgstr "Side by Side View"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Delete Selected Range"
+msgstr "Delete Selected Range"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add to SplitScreen"
+msgstr "Add to SplitScreen"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Preview on Mobile"
+msgstr "Preview on Mobile"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Activate to use"
+msgstr "Activate to use"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Similar Results"
+msgstr "Similar Results"
+
+#: 
+msgctxt "QObject-version5"
+msgid "21:9 (Cinema)"
+msgstr "21:9 (Cinema)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Preference"
+msgstr "Preference"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Save Project As"
+msgstr "Save Project As"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Human Pixelate"
+msgstr "Human Pixelate"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Advanced Edit"
+msgstr "Advanced Edit"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Preferences"
+msgstr "Preferences"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Vignette 10"
+msgstr "Vignette 10"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Text-to-Video"
+msgstr "AI Text-to-Video"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Your application appears to be damaged, please reinstall the application."
+msgstr "Your application appears to be damaged, please reinstall the application."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Danish (Denmark)"
+msgstr "Danish (Denmark)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "downsampleRatio"
+msgstr "downsampleRatio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "vtExplain"
+msgstr "vtExplain"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fly in and Fade out"
+msgstr "Fly in and Fade out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Keyframe"
+msgstr "Keyframe"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Minimum Silence"
+msgstr "Minimum Silence"
+
+#: 
+msgctxt "QObject-version5"
+msgid "NVIDIA GeForce GTX 700 or later;"
+msgstr "NVIDIA GeForce GTX 700 or later;"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Arrange Objects"
+msgstr "Arrange Objects"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Renew %1 years at %2 off"
+msgstr "Renew %1 years at %2 off"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Dermabrasion"
+msgstr "Dermabrasion"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Cancellation is not supported at the moment, please be patient"
+msgstr "Cancellation is not supported at the moment, please be patient"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stock Media"
+msgstr "Stock Media"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Filmora YouTube"
+msgstr "Filmora YouTube"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Popular, eye-catching 3-second Intros"
+msgstr "Popular, eye-catching 3-second Intros"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Scatter and Fly in"
+msgstr "Scatter and Fly in"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+msgctxt "QObject-version5"
+msgid "9:16 (Portrait)"
+msgstr "9:16 (Portrait)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Renew %1 quarters at %2 off"
+msgstr "Renew %1 quarters at %2 off"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Venezuela)"
+msgstr "Spanish (Venezuela)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lock Track"
+msgstr "Lock Track"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Filmora does not have access to your screen recording."
+msgstr "Filmora does not have access to your screen recording."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Translates speech in video and audio files and generates auto captions."
+msgstr "Translates speech in video and audio files and generates auto captions."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Would you like to create a new video with the resource?"
+msgstr "Would you like to create a new video with the resource?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Left Roll"
+msgstr "Left Roll"
+
+#: 
+msgctxt "QObject-version5"
+msgid "English (US)"
+msgstr "English (US)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "English (UK)"
+msgstr "English (UK)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Help Center."
+msgstr "Help Center."
+
+#: 
+msgctxt "QObject-version5"
+msgid "flow_speed"
+msgstr "flow_speed"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Four Seasons"
+msgstr "Four Seasons"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Left Side Flips Out"
+msgstr "Left Side Flips Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Image Mask"
+msgstr "Image Mask"
+
+#: 
+msgctxt "QObject-version5"
+msgid "This effect requires uploading the image material to the cloud for processing. It will only be used for the generation of your current work, and will not be stored or used for other purposes."
+msgstr "This effect requires uploading the image material to the cloud for processing. It will only be used for the generation of your current work, and will not be stored or used for other purposes."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Previous Frame"
+msgstr "Previous Frame"
+
+#: 
+msgctxt "QObject-version5"
+msgid "The original AI painting effect will be replaced by a new effect. Are you sure you want to proceed with the replacement?"
+msgstr "The original AI painting effect will be replaced by a new effect. Are you sure you want to proceed with the replacement?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "QObject-version5"
+msgid "After splitting the group clips, are you willing to keep it as a group or ungroup clips?"
+msgstr "After splitting the group clips, are you willing to keep it as a group or ungroup clips?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+msgctxt "QObject-version5"
+msgid "VCG Plan Right 1"
+msgstr "VCG Plan Right 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "VIP Plan Right 1"
+msgstr "VIP Plan Right 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "VIP Plan Right 2"
+msgstr "VIP Plan Right 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Partial text transcription failed"
+msgstr "Partial text transcription failed"
+
+#: 
+msgctxt "QObject-version5"
+msgid "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+msgstr "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Remove Object"
+msgstr "Remove Object"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stretch in and zoom in"
+msgstr "Stretch in and zoom in"
+
+#: 
+msgctxt "QObject-version5"
+msgid "edgeValue"
+msgstr "edgeValue"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ripple Delete"
+msgstr "Ripple Delete"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Speech to Text"
+msgstr "Speech to Text"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Preset Templates"
+msgstr "Preset Templates"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Save the Template"
+msgstr "Save the Template"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Go to \"Media Cache\""
+msgstr "Go to \"Media Cache\""
+
+#: 
+msgctxt "QObject-version5"
+msgid "Clockwise rotate"
+msgstr "Clockwise rotate"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Main Timeline"
+msgstr "Main Timeline"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Free Plan Right 1"
+msgstr "Free Plan Right 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Are you sure to continue?"
+msgstr "Are you sure to continue?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "vtGeneral"
+msgstr "vtGeneral"
+
+#: 
+msgctxt "QObject-version5"
+msgid "General"
+msgstr "General"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ring Color 1"
+msgstr "Ring Color 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ring Color 2"
+msgstr "Ring Color 2"
+

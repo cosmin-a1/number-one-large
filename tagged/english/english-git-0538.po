@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudMediaLoadingDialog-version4"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FCloudMediaLoadingDialog-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FQuickEditNavigationBar-version4"
+msgid "Import File"
+msgstr "Import File"
+
+#: 
+msgctxt "FQuickStartMgr-version4"
+msgid "To learn more or contact support,use Help menu"
+msgstr "To learn more or contact support,use Help menu"
+
+#: 
+msgctxt "FUserGuideTipWidget-version4"
+msgid "Show Again"
+msgstr "Show Again"
+
+#: 
+msgctxt "FUserGuideTipWidget-version4"
+msgid "Next Step"
+msgstr "Next Step"
+
+#: 
+msgctxt "FAudioSoundTTSView-version4"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FAudioSoundTTSView-version4"
+msgid "Input your text and Convert it to Interesting Voiceover."
+msgstr "Input your text and Convert it to Interesting Voiceover."
+
+#: 
+msgctxt "FFTransferCenterPanel-version4"
+msgid "Network Connection Error"
+msgstr "Network Connection Error"
+
+#: 
+msgctxt "FFTransferCenterPanel-version4"
+msgid "The local file directory does not exist or has been deleted."
+msgstr "The local file directory does not exist or has been deleted."
+
+#: 
+msgctxt "FPrivacyStatementTooltip-version4"
+msgid "The screenshot area is limited to the interface of the Filmora product, and we will strictly follow the User Privacy Agreement."
+msgstr "The screenshot area is limited to the interface of the Filmora product, and we will strictly follow the User Privacy Agreement."
+
+#: 
+msgctxt "FPrivacyStatementTooltip-version4"
+msgid "User Privacy Agreement"
+msgstr "User Privacy Agreement"
+
+#: 
+msgctxt "FPropertymultipleSelectedWidget-version4"
+msgid "The selected clips cannot be edited at the same time, please reselect."
+msgstr "The selected clips cannot be edited at the same time, please reselect."
+
+#: 
+msgctxt "FStockMediaGuideWidget-version4"
+msgid "Check it out!"
+msgstr "Check it out!"
+
+#: 
+msgctxt "FStockMediaGuideWidget-version4"
+msgid "Pexels is here!"
+msgstr "Pexels is here!"
+
+#: 
+msgctxt "FSplashScreen-version4"
+msgid "Version: "
+msgstr "Version: "
+
+#: 
+msgctxt "FSplashScreen-version4"
+msgid "Copyright %1 %2 Wondershare. All rights reserved."
+msgstr "Copyright %1 %2 Wondershare. All rights reserved."
+
+#: 
+msgctxt "FFAIErasingSettingView-version4"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+msgctxt "FFAIErasingSettingView-version4"
+msgid "You can navigate to different times and select the objects you want to remove from the video."
+msgstr "You can navigate to different times and select the objects you want to remove from the video."
+
+#: 
+msgctxt "FFAIErasingSettingView-version4"
+msgid "Selected Objects"
+msgstr "Selected Objects"
+
+#: 
+msgctxt "FFNetwork-version4"
+msgid "You computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FTemplateMediaGroupPainter-version4"
+msgid "See All"
+msgstr "See All"
+
+#: 
+msgctxt "FResourceFreeTrialWidget-version4"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+msgctxt "FResourceFreeTrialWidget-version4"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FResourceFreeTrialWidget-version4"
+msgid "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+msgstr "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+
+#: 
+msgctxt "FTimelineQuickTextActionPresenter-version4"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "FFMediaHelper-version4"
+msgid "Commonly Used"
+msgstr "Commonly Used"
+
+#: 
+msgctxt "FFMediaHelper-version4"
+msgid "Recently Used"
+msgstr "Recently Used"
+
+#: 
+msgctxt "FPropertyColorWheelWidget-version4"
+msgid "Shadows"
+msgstr "Shadows"
+
+#: 
+msgctxt "FPropertyColorWheelWidget-version4"
+msgid "Highlights"
+msgstr "Highlights"
+
+#: 
+msgctxt "FPropertyColorWheelWidget-version4"
+msgid "Midtones"
+msgstr "Midtones"
+
+#: 
+msgctxt "FPropertyColorBasicAdjustWidget-version4"
+msgid "Sharpen"
+msgstr "Sharpen"
+
+#: 
+msgctxt "FProgressDialogWrap-version4"
+msgid "You have reached the daily limit of 20 generations. Try again tomorrow."
+msgstr "You have reached the daily limit of 20 generations. Try again tomorrow."
+
+#: 
+msgctxt "FAdvanceSSPlayerToolBar-version4"
+msgid "Zoom in (%1)"
+msgstr "Zoom in (%1)"
+
+#: 
+msgctxt "FAdvanceSSPlayerToolBar-version4"
+msgid "Zoom out (%1)"
+msgstr "Zoom out (%1)"
+
+#: 
+msgctxt "FCheckingTokenWebStateWidget-version4"
+msgid "Logging in..."
+msgstr "Logging in..."
+
+#: 
+msgctxt "FMediaItemView-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "QFile-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FNothingFoundWidget-version4"
+msgid "No results found."
+msgstr "No results found."
+
+#: 
+msgctxt "FNothingFoundWidget-version4"
+msgid "Please create a new project document."
+msgstr "Please create a new project document."
+
+#: 
+msgctxt "FNothingFoundWidget-version4"
+msgid "Project document not found."
+msgstr "Project document not found."
+
+#: 
+msgctxt "FOldFollowUsWidget-version4"
+msgid "Follow us for more tutorials"
+msgstr "Follow us for more tutorials"
+
+#: 
+msgctxt "FTemplateProjectCustomView-version4"
+msgid "Choose the \"Save Project As Template\" option under the \"File\" menu to save a custom template. Your saved custom templates will be shown here."
+msgstr "Choose the \"Save Project As Template\" option under the \"File\" menu to save a custom template. Your saved custom templates will be shown here."
+
+#: 
+msgctxt "FTemplateProjectCustomView-version4"
+msgid "Open Recent Project"
+msgstr "Open Recent Project"
+
+#: 
+msgctxt "FClipTrimAdjustDialog-version4"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FTemplateClipSlideDailog-version4"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FPropertyBackgroundPatternListControl-version4"
+msgid "Please try again later!"
+msgstr "Please try again later!"
+
+#: 
+msgctxt "FPropertyBackgroundPatternListControl-version4"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+msgctxt "FPropertyTitlesLayerWidget-version4"
+msgid "Add a shadow to this layer"
+msgstr "Add a shadow to this layer"
+
+#: 
+msgctxt "FPropertyTitlesLayerWidget-version4"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FUnLicenseMediaItemWatermarkHint-version4"
+msgid "Remove paid resources and \n"
+"export with watermark"
+msgstr "Remove paid resources and \n"
+"export with watermark"
+
+#: 
+msgctxt "FFSmartKeyingMediaPlayerWidget-version4"
+msgid "Please draw mask first. Then you can start tracking."
+msgstr "Please draw mask first. Then you can start tracking."
+
+#: 
+msgctxt "FFSmartKeyingMediaPlayerWidget-version4"
+msgid "Track rendering failed, please try again!"
+msgstr "Track rendering failed, please try again!"
+
+#: 
+msgctxt "FFSmartKeyingMediaPlayerWidget-version4"
+msgid "No objects to track in this direction, please select another direction."
+msgstr "No objects to track in this direction, please select another direction."
+
+#: 
+msgctxt "FEffectControlMenu-version4"
+msgid "After effects with titles and transitions"
+msgstr "After effects with titles and transitions"
+
+#: 
+msgctxt "FEffectControlMenu-version4"
+msgid "All effects"
+msgstr "All effects"
+
+#: 
+msgctxt "FEffectControlMenu-version4"
+msgid "No effects"
+msgstr "No effects"
+
+#: 
+msgctxt "FEffectControlMenu-version4"
+msgid "Switch mode and replay the video"
+msgstr "Switch mode and replay the video"
+
+#: 
+msgctxt "FBaseIconItemPainter-version4"
+msgid "Open Recent Project"
+msgstr "Open Recent Project"
+
+#: 
+msgctxt "FBaseIconItemPainter-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FExportFormatComboBox-version4"
+msgid "PNG Image Sequence"
+msgstr "PNG Image Sequence"
+
+#: 
+msgctxt "FExportFormatComboBox-version4"
+msgid "JPG Image Sequence"
+msgstr "JPG Image Sequence"
+
+#: 
+msgctxt "FTimelineWidget-version4"
+msgid "The clip cannot be moved"
+msgstr "The clip cannot be moved"
+
+#: 
+msgctxt "FTimelineWidget-version4"
+msgid "Cannot nudge in Auto Ripple"
+msgstr "Cannot nudge in Auto Ripple"
+
+#: 
+msgctxt "FTimelineWidget-version4"
+msgid "Please select a clip to nudge"
+msgstr "Please select a clip to nudge"
+
+#: 
+msgctxt "FFComboBoxItemDelegate-version4"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FFComboBoxItemDelegate-version4"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FPropertyColorLutInfoListPresenter-version4"
+msgid "Deleted"
+msgstr "Deleted"
+
+#: 
+msgctxt "FPropertyTitle-version4"
+msgid "Split View-Left/Right"
+msgstr "Split View-Left/Right"
+
+#: 
+msgctxt "FPropertyTitle-version4"
+msgid "Split View-Top/Bottom"
+msgstr "Split View-Top/Bottom"
+
+#: 
+msgctxt "FPropertyTitle-version4"
+msgid "Side by Side View"
+msgstr "Side by Side View"
+
+#: 
+msgctxt "FPropertyTitle-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FExportBtnGuideWidget-version4"
+msgid "Click the Export button to create your video!"
+msgstr "Click the Export button to create your video!"
+
+#: 
+msgctxt "FFGIFLoadingWebStateWidget-version4"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FFLoadingWebStateWidget-version4"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FApplyTemplateProgressWidget-version4"
+msgid "loading..."
+msgstr "loading..."
+
+#: 
+msgctxt "FFSilenceDetectionView-version4"
+msgid "Please adjust settings to ensure that at least one clip is visible."
+msgstr "Please adjust settings to ensure that at least one clip is visible."
+
+#: 
+msgctxt "FFVideoAudioMediaDragWidget-version4"
+msgid "Drag audio to the timeline"
+msgstr "Drag audio to the timeline"
+
+#: 
+msgctxt "FFVideoAudioMediaDragWidget-version4"
+msgid "Drag video to the timeline"
+msgstr "Drag video to the timeline"
+
+#: 
+msgctxt "FAICopilotDialog-version4"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+msgctxt "FAICopilotPresenter-version4"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+msgctxt "FCheckingDeviceAuthWebStateWidget-version4"
+msgid "Checking Device Authorization..."
+msgstr "Checking Device Authorization..."
+
+#: 
+msgctxt "FCreatorAcademyDialog-version4"
+msgid "Creator Hub"
+msgstr "Creator Hub"
+
+#: 
+msgctxt "RecorderCenter-version4"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+msgctxt "LosslessToolBar-version4"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+msgctxt "LosslessToolBar-version4"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+msgctxt "FNetworkErrorPage-version4"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FNetworkErrorPage-version4"
+msgid "Please check the network"
+msgstr "Please check the network"
+
+#: 
+msgctxt "FPropertyTitleUnableEditWidget-version4"
+msgid "Unable to select normal and 3D text for editing at the same time, please try again."
+msgstr "Unable to select normal and 3D text for editing at the same time, please try again."
+
+#: 
+msgctxt "FExportInternetPanel-version4"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FFDropDialog-version4"
+msgid "Wondershare Filmora 13 Beta"
+msgstr "Wondershare Filmora 13 Beta"
+
+#: 
+msgctxt "FEffectWidgetHeader-version4"
+msgid "Not all of the selected clips are enabled."
+msgstr "Not all of the selected clips are enabled."
+
+#: 
+msgctxt "FProductName-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FUserTagCollecterCefView-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FUserTagCollecterDialog-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectDialog-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FVCGVIPGuideDialog-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FItemDelegate-version4"
+msgid "Check All"
+msgstr "Check All"
+
+#: 
+msgctxt "QWidget-version4"
+msgid "Setting_1"
+msgstr "Setting_1"
+
+#: 
+msgctxt "QWidget-version4"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+

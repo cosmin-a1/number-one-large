@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Noise Wave Amplitude"
+msgstr "Noise Wave Amplitude"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inside Falloff"
+msgstr "Inside Falloff"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Horizontal Perspective"
+msgstr "Horizontal Perspective"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glint Threshhold"
+msgstr "Glint Threshhold"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fill Color Green"
+msgstr "Fill Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "White Rectangle"
+msgstr "White Rectangle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Birth Color"
+msgstr "Birth Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blue Choke Mode"
+msgstr "Blue Choke Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Birth Frame"
+msgstr "Birth Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rough Winds"
+msgstr "Rough Winds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inner Color Blue"
+msgstr "Inner Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L202 Half C.T.Blue"
+msgstr "L202 Half C.T.Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Outer Color Blue"
+msgstr "Outer Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Paper Color Blue"
+msgstr "Paper Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Illustration (8fps)"
+msgstr "Illustration (8fps)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Shadow Color Red"
+msgstr "Shadow Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Skin mask (color)"
+msgstr "Skin mask (color)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Freq Resolution"
+msgstr "Freq Resolution"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Omit Center Oval"
+msgstr "Omit Center Oval"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Lock Noise Ratio"
+msgstr "Lock Noise Ratio"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Edge Smoother"
+msgstr "Edge Smoother"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Midpoint Color Use"
+msgstr "Midpoint Color Use"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Morph Start"
+msgstr "Morph Start"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opacity FX"
+msgstr "Opacity FX"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "QuickStart"
+msgstr "QuickStart"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Brush Angle"
+msgstr "Brush Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 10"
+msgstr "Size 10"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size FX"
+msgstr "Size FX"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size On"
+msgstr "Size On"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Red Choke Mode"
+msgstr "Red Choke Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Air Resistance (Spawn Particle)"
+msgstr "Air Resistance (Spawn Particle)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Dark Shade Green"
+msgstr "Dark Shade Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Brush Width"
+msgstr "Brush Width"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Key Color A"
+msgstr "Key Color A"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Key Color B"
+msgstr "Key Color B"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer B Pos XY X"
+msgstr "Layer B Pos XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer B Pos XY Y"
+msgstr "Layer B Pos XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer A Pos XY X"
+msgstr "Layer A Pos XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer A Pos XY Y"
+msgstr "Layer A Pos XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pick White Green"
+msgstr "Pick White Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Flash Speed"
+msgstr "Flash Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bright Oval Spot"
+msgstr "Bright Oval Spot"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Weighted Upward"
+msgstr "Weighted Upward"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Flickering"
+msgstr "Flickering"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Flesh Tones"
+msgstr "Flesh Tones"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Locked In"
+msgstr "Locked In"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Harsh Light"
+msgstr "Harsh Light"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Saturation"
+msgstr "BG Saturation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rough (quick mode)"
+msgstr "Rough (quick mode)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "EMITTER"
+msgstr "EMITTER"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Safe GL Texture Mode"
+msgstr "Safe GL Texture Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Crisp Reds"
+msgstr "Crisp Reds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Wind Gust Freq"
+msgstr "Wind Gust Freq"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Changed Colors"
+msgstr "Changed Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inside Only"
+msgstr "Inside Only"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inside Oval"
+msgstr "Inside Oval"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Particle Midpoint Color Blue"
+msgstr "Particle Midpoint Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blacklight"
+msgstr "Blacklight"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Subtle Edge Definition"
+msgstr "Subtle Edge Definition"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Shape - Circle"
+msgstr "Shape - Circle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Clarify"
+msgstr "Clarify"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Clarity"
+msgstr "Clarity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Upside Down"
+msgstr "Upside Down"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cleanup"
+msgstr "Cleanup"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rotate Wipe"
+msgstr "Rotate Wipe"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Background Follow"
+msgstr "Background Follow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Turb. Rotation"
+msgstr "Turb. Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Crop Source Height"
+msgstr "Crop Source Height"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Grainy Colors"
+msgstr "Grainy Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rotate Left"
+msgstr "Rotate Left"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fat Crossover"
+msgstr "Fat Crossover"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Force Rerender Param"
+msgstr "BCC Force Rerender Param"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Noise Intensity"
+msgstr "Noise Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Upright Color"
+msgstr "Upright Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Transparent"
+msgstr "Transparent"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L039 Pink Carnation"
+msgstr "L039 Pink Carnation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L020 Medium Amber"
+msgstr "L020 Medium Amber"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spot Offset Mode"
+msgstr "Spot Offset Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Low Cutoff dB"
+msgstr "Low Cutoff dB"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blend Original"
+msgstr "Blend Original"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L162 Bastard Amber"
+msgstr "L162 Bastard Amber"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L003 Lavender Tint"
+msgstr "L003 Lavender Tint"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Card All-Rotations with Propagation"
+msgstr "Card All-Rotations with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Lock Scale to"
+msgstr "Lock Scale to"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Time Resolution (frames/sec)"
+msgstr "Time Resolution (frames/sec)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Occlusion"
+msgstr "Occlusion"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest XY 1"
+msgstr "Interest XY 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest XY 2"
+msgstr "Interest XY 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest XY 3"
+msgstr "Interest XY 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest XY X"
+msgstr "Interest XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest XY Y"
+msgstr "Interest XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Custom Color Red"
+msgstr "Custom Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inherit Opacity Mode"
+msgstr "Inherit Opacity Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L002 Rose Pink"
+msgstr "L002 Rose Pink"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Prefer Lighter"
+msgstr "Prefer Lighter"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Add to Timeline"
+msgstr "Add to Timeline"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glitter BackGround Map Layer"
+msgstr "Glitter BackGround Map Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Green Color Blue"
+msgstr "Green Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Newer Particles in Front"
+msgstr "Newer Particles in Front"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Reference Pointers"
+msgstr "Reference Pointers"
+

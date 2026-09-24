@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Topic"
+msgstr "Topic"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Choice"
+msgstr "Choice"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Picture"
+msgstr "Picture"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Search VCG"
+msgstr "Search VCG"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Search Library"
+msgstr "Search Library"
+
+#: 
+msgctxt "FVCGMediaModeBar-version4"
+msgid "Search keyword"
+msgstr "Search keyword"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "Black"
+msgstr "Black"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "White"
+msgstr "White"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version4"
+msgid "Exposure"
+msgstr "Exposure"
+
+#: 
+msgctxt "FShortCutSearchLineEdit-version4"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+msgctxt "FShortCutSearchLineEdit-version4"
+msgid "Search keyboard shortcuts"
+msgstr "Search keyboard shortcuts"
+
+#: 
+msgctxt "FFProjectTemplateModeBarFilterMenu-version4"
+msgid "Clips"
+msgstr "Clips"
+
+#: 
+msgctxt "FFProjectTemplateModeBarFilterMenu-version4"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FFProjectTemplateModeBarFilterMenu-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Clips"
+msgstr "Clips"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Aspect ratio_2"
+msgstr "Aspect ratio_2"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Duration_2"
+msgstr "Duration_2"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version4"
+msgid "Login failed, please click login again!"
+msgstr "Login failed, please click login again!"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version4"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version4"
+msgid "You can back up your files to the cloud quickly after logging into the cloud drive."
+msgstr "You can back up your files to the cloud quickly after logging into the cloud drive."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Minimize"
+msgstr "Minimize"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "The recording panel is included here"
+msgstr "The recording panel is included here"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Please check write or read permission, or choose another path to continue."
+msgstr "Please check write or read permission, or choose another path to continue."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Webcam is being used by another application, please close other application and try again."
+msgstr "Webcam is being used by another application, please close other application and try again."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Click for quick action"
+msgstr "Click for quick action"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Re-recording will overwrite the already recorded content, are you sure?"
+msgstr "Re-recording will overwrite the already recorded content, are you sure?"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version4"
+msgid "Wondershare Screen Recorder"
+msgstr "Wondershare Screen Recorder"
+
+#: 
+msgctxt "FGpuUpdateDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FManageUserLabelDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FManageUserLabelDialog-version4"
+msgid "All tags can be managed here"
+msgstr "All tags can be managed here"
+
+#: 
+msgctxt "FManageUserLabelDialog-version4"
+msgid "Manage tags"
+msgstr "Manage tags"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Minimize"
+msgstr "Minimize"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Check for Updates"
+msgstr "Check for Updates"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "User Guide"
+msgstr "User Guide"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Maximize"
+msgstr "Maximize"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FProductHomePage-version4"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version4"
+msgid "%1 footage(s) download failed. If skipped, you can replace it with other materials yourself."
+msgstr "%1 footage(s) download failed. If skipped, you can replace it with other materials yourself."
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version4"
+msgid "%1 footage(s) download failed"
+msgstr "%1 footage(s) download failed"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version4"
+msgid "Failed to download all materials, you can use other materials to replace or retry on it."
+msgstr "Failed to download all materials, you can use other materials to replace or retry on it."
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version4"
+msgid "Skip and replace"
+msgstr "Skip and replace"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version4"
+msgid "%1 footages failed to replace"
+msgstr "%1 footages failed to replace"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version4"
+msgid "%1 footages failed to replace. If skipped, you can replace them with other materials yourself."
+msgstr "%1 footages failed to replace. If skipped, you can replace them with other materials yourself."
+
+#: 
+msgctxt "LosslessInformationDialog-version4"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "LosslessInformationDialog-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessInformationDialog-version4"
+msgid "Please contact our customer service."
+msgstr "Please contact our customer service."
+
+#: 
+msgctxt "LosslessInformationDialog-version4"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+msgctxt "LosslessInformationDialog-version4"
+msgid "<a style='color: #3CA9F8;' href = http://support.wondershare.com>Please contact our customer service.</a>"
+msgstr "<a style='color: #3CA9F8;' href = http://support.wondershare.com>Please contact our customer service.</a>"
+
+#: 
+msgctxt "LosslessInformationDialog-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version4"
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version4"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version4"
+msgid "Create a new Guides"
+msgstr "Create a new Guides"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version4"
+msgid "Direction"
+msgstr "Direction"
+
+#: 
+msgctxt "FFGuideLineSetPanel-version4"
+msgid "Vertical"
+msgstr "Vertical"
+
+#: 
+msgctxt "FPropertyVideoFillColorWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Cover"
+msgstr "Cover"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Do you want to overwrite it?"
+msgstr "Do you want to overwrite it?"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "The file named \"%1\" already exists locally."
+msgstr "The file named \"%1\" already exists locally."
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Do you want to overwrite this cloud file?"
+msgstr "Do you want to overwrite this cloud file?"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "The file named \"%1\" already exists in the cloud."
+msgstr "The file named \"%1\" already exists in the cloud."
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Keep both"
+msgstr "Keep both"
+
+#: 
+msgctxt "FCloudSpacePresenterHelper-version4"
+msgid "Do you want to overwrite this local file?"
+msgstr "Do you want to overwrite this local file?"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Cover"
+msgstr "Cover"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Do you want to overwrite it?"
+msgstr "Do you want to overwrite it?"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "The file named \"%1\" already exists locally."
+msgstr "The file named \"%1\" already exists locally."
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Do you want to overwrite this cloud file?"
+msgstr "Do you want to overwrite this cloud file?"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Upload Tips"
+msgstr "Upload Tips"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "The file named \"%1\" already exists in the cloud."
+msgstr "The file named \"%1\" already exists in the cloud."
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "The cloud drive function is not avaliable in your current region."
+msgstr "The cloud drive function is not avaliable in your current region."
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Keep both"
+msgstr "Keep both"
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "For better uploading experience and secure storage, the size of project files saved in versions prior to Filmora 11 may be slightly larger when uploaded to the cloud."
+msgstr "For better uploading experience and secure storage, the size of project files saved in versions prior to Filmora 11 may be slightly larger when uploaded to the cloud."
+
+#: 
+msgctxt "FProjectLibraryHelper-version4"
+msgid "Do you want to overwrite this local file?"
+msgstr "Do you want to overwrite this local file?"
+
+#: 
+msgctxt "FFOpenFileLineEdit-version4"
+msgid "Please check disk permissions, or choose another path to continue."
+msgstr "Please check disk permissions, or choose another path to continue."
+

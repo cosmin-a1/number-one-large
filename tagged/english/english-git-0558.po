@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Clip Left"
+msgstr "Clip Left"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Gradient Fill Pro"
+msgstr "Gradient Fill Pro"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fallthru Maximum"
+msgstr "Fallthru Maximum"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tile Map"
+msgstr "Tile Map"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Mix to Single Color Blue"
+msgstr "Mix to Single Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bi-directional Rotation"
+msgstr "Bi-directional Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "FG Scale Y Post"
+msgstr "FG Scale Y Post"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "TV on the Fritz"
+msgstr "TV on the Fritz"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Constant Radius"
+msgstr "Constant Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Midpoint Location"
+msgstr "Midpoint Location"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Mosaic Amount"
+msgstr "BG Mosaic Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bilinear"
+msgstr "Bilinear"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Range Tuning"
+msgstr "Range Tuning"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Block Damage"
+msgstr "Block Damage"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Magenta Color"
+msgstr "Magenta Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tilt Out"
+msgstr "Tilt Out"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cloud 01 White"
+msgstr "Cloud 01 White"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Floor Height"
+msgstr "Floor Height"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "H-Rolling Speed"
+msgstr "H-Rolling Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "V-Rolling Speed"
+msgstr "V-Rolling Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Clone Center"
+msgstr "Clone Center"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Color Choice"
+msgstr "Color Choice"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Particle Tumble with Propagation"
+msgstr "Particle Tumble with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rolling Stars"
+msgstr "Rolling Stars"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Twirl Radius"
+msgstr "Twirl Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Center FallOff"
+msgstr "Center FallOff"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Center Falloff"
+msgstr "Center Falloff"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "World Rotate X"
+msgstr "World Rotate X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "World Rotate Y"
+msgstr "World Rotate Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "World Rotate Z"
+msgstr "World Rotate Z"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glitch Intensity"
+msgstr "Glitch Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Magenta Angle"
+msgstr "Magenta Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "FG Scale X Post"
+msgstr "FG Scale X Post"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Color Choker"
+msgstr "BCC Color Choker"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fog Color Red"
+msgstr "Fog Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Split Screen"
+msgstr "Split Screen"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cool Contrast"
+msgstr "Cool Contrast"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rolling Waves"
+msgstr "Rolling Waves"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Screen Origin X"
+msgstr "Screen Origin X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Screen Origin Y"
+msgstr "Screen Origin Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opacity FX Layer Mode"
+msgstr "Opacity FX Layer Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sat Softness"
+msgstr "Sat Softness"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rain Angle"
+msgstr "Rain Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spin Angle"
+msgstr "Spin Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Vertical Streaks"
+msgstr "Vertical Streaks"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cyan Angle"
+msgstr "Cyan Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Destination Angle"
+msgstr "Destination Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fine Art"
+msgstr "Fine Art"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "About"
+msgstr "About"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Array"
+msgstr "Array"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Black"
+msgstr "Black"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blank"
+msgstr "Blank"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bleak"
+msgstr "Bleak"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blend"
+msgstr "Blend"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bloom"
+msgstr "Bloom"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blurs"
+msgstr "Blurs"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bokeh"
+msgstr "Bokeh"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Min Black"
+msgstr "Min Black"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rounded Rectangle"
+msgstr "Rounded Rectangle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Brash"
+msgstr "Brash"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cards"
+msgstr "Cards"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Audio Graph Options"
+msgstr "Audio Graph Options"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Burnt"
+msgstr "Burnt"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Chalk"
+msgstr "Chalk"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Chaos"
+msgstr "Chaos"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Chill"
+msgstr "Chill"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Choke"
+msgstr "Choke"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Clock"
+msgstr "Clock"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Clone"
+msgstr "Clone"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Colon"
+msgstr "Colon"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Count"
+msgstr "Count"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cover"
+msgstr "Cover"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Min Depth"
+msgstr "Min Depth"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cubic"
+msgstr "Cubic"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Decay"
+msgstr "Decay"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Delay"
+msgstr "Delay"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Dense"
+msgstr "Dense"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Depth"
+msgstr "Depth"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Curly"
+msgstr "Curly"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Curve"
+msgstr "Curve"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cycle"
+msgstr "Cycle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Discs"
+msgstr "Discs"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Indoors"
+msgstr "Indoors"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Freq. Variance"
+msgstr "Freq. Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Draft"
+msgstr "Draft"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Earth"
+msgstr "Earth"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Dream"
+msgstr "Dream"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Drift"
+msgstr "Drift"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Edges"
+msgstr "Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Dusty"
+msgstr "Dusty"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Raindrops"
+msgstr "Raindrops"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pin Edges"
+msgstr "Pin Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Floor Color Green"
+msgstr "Floor Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Empty"
+msgstr "Empty"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Lines On"
+msgstr "Lines On"
+

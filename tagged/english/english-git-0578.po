@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Roll B"
+msgstr "Roll B"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Roll G"
+msgstr "Roll G"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Roll R"
+msgstr "Roll R"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Rotate"
+msgstr "BG Rotate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sample"
+msgstr "Sample"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sci Fi"
+msgstr "Sci Fi"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Screen"
+msgstr "Screen"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Transforms"
+msgstr "Transforms"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Monochrome"
+msgstr "Monochrome"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Mix Shades"
+msgstr "Mix Shades"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Second"
+msgstr "Second"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Seesaw"
+msgstr "Seesaw"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Point Light 1"
+msgstr "Point Light 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Point Light 2"
+msgstr "Point Light 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Point Light 3"
+msgstr "Point Light 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Full Effect (Max 30 Seconds)"
+msgstr "Full Effect (Max 30 Seconds)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Shrink"
+msgstr "Shrink"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Duochrome"
+msgstr "Duochrome"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pin Screen"
+msgstr "Pin Screen"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Silver"
+msgstr "Silver"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Simple"
+msgstr "Simple"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Red Soften"
+msgstr "Red Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Paper Color Red"
+msgstr "Paper Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Ice Sculpture"
+msgstr "Ice Sculpture"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Density X"
+msgstr "Density X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Density Y"
+msgstr "Density Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 1"
+msgstr "Size 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 2"
+msgstr "Size 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 3"
+msgstr "Size 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 4"
+msgstr "Size 4"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 5"
+msgstr "Size 5"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 6"
+msgstr "Size 6"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 7"
+msgstr "Size 7"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 8"
+msgstr "Size 8"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size 9"
+msgstr "Size 9"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size X"
+msgstr "Size X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size Y"
+msgstr "Size Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size Z"
+msgstr "Size Z"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Sparks"
+msgstr "BCC Sparks"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Outside Glow Amount 1"
+msgstr "Outside Glow Amount 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Outside Glow Amount 2"
+msgstr "Outside Glow Amount 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Outside Glow Amount 3"
+msgstr "Outside Glow Amount 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Smokey"
+msgstr "Smokey"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Smooth"
+msgstr "Smooth"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "X Axis"
+msgstr "X Axis"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Diagonal Dynamic"
+msgstr "Diagonal Dynamic"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L278 Eighth Plus Green"
+msgstr "L278 Eighth Plus Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Soften"
+msgstr "Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Source"
+msgstr "Source"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sphere"
+msgstr "Sphere"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spikey"
+msgstr "Spikey"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spiral"
+msgstr "Spiral"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spline"
+msgstr "Spline"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Spring"
+msgstr "Spring"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "EBU 103 + NTSC"
+msgstr "EBU 103 + NTSC"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Target"
+msgstr "Target"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Square"
+msgstr "Square"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Static"
+msgstr "Static"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L442 Half C.T. Straw"
+msgstr "L442 Half C.T. Straw"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Launch Mocha Mask / Track"
+msgstr "Launch Mocha Mask / Track"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Stream"
+msgstr "Stream"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Strike"
+msgstr "Strike"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Stripe"
+msgstr "Stripe"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Subtle"
+msgstr "Subtle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Center XY"
+msgstr "Center XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Local Diffs. On"
+msgstr "Local Diffs. On"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sunset"
+msgstr "Sunset"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Moderate"
+msgstr "Moderate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interval"
+msgstr "Interval"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Random Seed"
+msgstr "Random Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Random Size"
+msgstr "Random Size"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Auto-Tumble Speed"
+msgstr "Auto-Tumble Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Ticker"
+msgstr "Ticker"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tilt X"
+msgstr "Tilt X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tilt Y"
+msgstr "Tilt Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Timing"
+msgstr "Timing"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "System"
+msgstr "System"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Binoculars"
+msgstr "Binoculars"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Y Axis"
+msgstr "Y Axis"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L101 Yellow"
+msgstr "L101 Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L765 Yellow"
+msgstr "L765 Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tracks"
+msgstr "Tracks"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Trails"
+msgstr "Trails"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Attenuation Boost"
+msgstr "Attenuation Boost"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fall Off Distance"
+msgstr "Fall Off Distance"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tumble"
+msgstr "Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L1 Tumble"
+msgstr "L1 Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L2 Tumble"
+msgstr "L2 Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L3 Tumble"
+msgstr "L3 Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L116 Medium Blue-Green"
+msgstr "L116 Medium Blue-Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Jet Trail2"
+msgstr "Jet Trail2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bottom Half"
+msgstr "Bottom Half"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tilting Source"
+msgstr "Tilting Source"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Left to Right Tight"
+msgstr "Left to Right Tight"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Custom Size"
+msgstr "Custom Size"
+

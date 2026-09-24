@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "3D Basic"
+msgstr "3D Basic"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "AI Tools"
+msgstr "AI Tools"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "3D Animation"
+msgstr "3D Animation"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version4"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version4"
+msgid "Luminance"
+msgstr "Luminance"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version4"
+msgid "Saturation"
+msgstr "Saturation"
+
+#: 
+msgctxt "FThumbnailSelectItem-version4"
+msgid "NEW"
+msgstr "NEW"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+msgstr "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Low bit rate will reduce video quality."
+msgstr "Low bit rate will reduce video quality."
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "The most common compression method"
+msgstr "The most common compression method"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Encoder:"
+msgstr "Encoder:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Compression Quality:"
+msgstr "Compression Quality:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Medium"
+msgstr "Medium"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+msgstr "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Automatic"
+msgstr "Automatic"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Better compression quality keeps more details.And also takes more time to export."
+msgstr "Better compression quality keeps more details.And also takes more time to export."
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "High compression ratio and clear image"
+msgstr "High compression ratio and clear image"
+
+#: 
+msgctxt "FExportSettingDlg-version4"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Mid"
+msgstr "Mid"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Noise Volume"
+msgstr "Noise Volume"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Hum Removal"
+msgstr "Hum Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "DeReverb"
+msgstr "DeReverb"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "AI Speech Enhancement"
+msgstr "AI Speech Enhancement"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Normal Denoise"
+msgstr "Normal Denoise"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Hiss Removal"
+msgstr "Hiss Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Wind Removal"
+msgstr "Wind Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version4"
+msgid "Denoise Level"
+msgstr "Denoise Level"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Select Voice"
+msgstr "Select Voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version4"
+msgid "Language"
+msgstr "Language"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "High"
+msgstr "High"
+

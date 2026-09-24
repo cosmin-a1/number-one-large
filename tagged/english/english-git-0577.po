@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rod Long"
+msgstr "Rod Long"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tint Mode"
+msgstr "Tint Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Best of Both Worlds"
+msgstr "Best of Both Worlds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blue Levels"
+msgstr "Blue Levels"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Point 10 X"
+msgstr "Point 10 X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Point 10 Y"
+msgstr "Point 10 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Render Over Effect"
+msgstr "Render Over Effect"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Median Width"
+msgstr "Median Width"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opaque"
+msgstr "Opaque"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Source as Gradient: Left to Right"
+msgstr "Source as Gradient: Left to Right"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pan XY"
+msgstr "Pan XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fade Length"
+msgstr "Fade Length"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Orange"
+msgstr "Orange"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Origin"
+msgstr "Origin"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "RENDER"
+msgstr "RENDER"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opacity Mid Life"
+msgstr "Opacity Mid Life"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Dark Vignette"
+msgstr "Dark Vignette"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pepper"
+msgstr "Pepper"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Accelerated Sprites"
+msgstr "Accelerated Sprites"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Period"
+msgstr "Period"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Output"
+msgstr "Output"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Grid Segments"
+msgstr "Grid Segments"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "RGB Parade"
+msgstr "RGB Parade"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Uniform Stretch"
+msgstr "Uniform Stretch"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pillar"
+msgstr "Pillar"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pink 1"
+msgstr "Pink 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pink 2"
+msgstr "Pink 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pink 3"
+msgstr "Pink 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pink 4"
+msgstr "Pink 4"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pink 5"
+msgstr "Pink 5"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pixels"
+msgstr "Pixels"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blur Master"
+msgstr "Blur Master"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "3D Planes"
+msgstr "3D Planes"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cam Pos XY"
+msgstr "Cam Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Stumbling Drunk"
+msgstr "Stumbling Drunk"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Plum 1"
+msgstr "Plum 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Plum 2"
+msgstr "Plum 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Plum 3"
+msgstr "Plum 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "SW2 Pos XY"
+msgstr "SW2 Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "SW1 Pos XY"
+msgstr "SW1 Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Transform Center Offset"
+msgstr "Transform Center Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Upper-Right"
+msgstr "Upper-Right"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size Mid Life"
+msgstr "Size Mid Life"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Points"
+msgstr "Points"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pos XY"
+msgstr "Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Gunpowder"
+msgstr "Gunpowder"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Poster"
+msgstr "Poster"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L366 Cornflower\""
+msgstr "L366 Cornflower\""
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Auto-Fill Sharp"
+msgstr "Auto-Fill Sharp"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "No Preset"
+msgstr "No Preset"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Prefer"
+msgstr "Prefer"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid ".preset"
+msgstr ".preset"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Deep Vignette"
+msgstr "Deep Vignette"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Diagonal Upper Right"
+msgstr "Diagonal Upper Right"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Neon Lights"
+msgstr "Neon Lights"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Lower-Right"
+msgstr "Lower-Right"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Purple"
+msgstr "Purple"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Median Angle"
+msgstr "Median Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Card Size with Propagation"
+msgstr "Card Size with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Color1 Blue"
+msgstr "Color1 Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Vertical Edge to Mid"
+msgstr "Vertical Edge to Mid"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L344 Violet"
+msgstr "L344 Violet"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Intensity Variance"
+msgstr "Intensity Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Attractor 1 Gradient"
+msgstr "Attractor 1 Gradient"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Attractor 2 Gradient"
+msgstr "Attractor 2 Gradient"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "SW2 Radius"
+msgstr "SW2 Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "SW1 Radius"
+msgstr "SW1 Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L713 J.Winter Blue"
+msgstr "L713 J.Winter Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Auto-Rotate Speed"
+msgstr "Auto-Rotate Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inv Blue"
+msgstr "Inv Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Distortion Control"
+msgstr "Distortion Control"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Mix In Particle Color"
+msgstr "Mix In Particle Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Inv Luma"
+msgstr "Inv Luma"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Time Window"
+msgstr "Time Window"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L226 U.V."
+msgstr "L226 U.V."
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Light Center X"
+msgstr "Light Center X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Light Center Y"
+msgstr "Light Center Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "End Brightness Variance"
+msgstr "End Brightness Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Radial"
+msgstr "Radial"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Random"
+msgstr "Random"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Median Level"
+msgstr "Median Level"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Home Movies"
+msgstr "Home Movies"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "UnMasked Lines"
+msgstr "UnMasked Lines"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glitter Ray Color Green"
+msgstr "Glitter Ray Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glare Brightness"
+msgstr "Glare Brightness"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Record"
+msgstr "Record"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Relief"
+msgstr "Relief"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Render"
+msgstr "Render"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Repeat"
+msgstr "Repeat"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opacity Random (%)"
+msgstr "Opacity Random (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pump Up Blues"
+msgstr "Pump Up Blues"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bright Shade Green"
+msgstr "Bright Shade Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rhythm"
+msgstr "Rhythm"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Ripple"
+msgstr "Ripple"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cam Rotate"
+msgstr "Cam Rotate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sys Rotate"
+msgstr "Sys Rotate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Downsample"
+msgstr "Downsample"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Horizontal Eighth"
+msgstr "Horizontal Eighth"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFAITranslationWidget-version4"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "remainder time"
+msgstr "remainder time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+msgstr "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+
+#: 
+msgctxt "FFSpeechToTextWidget-version4"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version4"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version4"
+msgid "The number of sentences"
+msgstr "The number of sentences"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version4"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version4"
+msgid "frequence"
+msgstr "frequence"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version4"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version4"
+msgid "Available Text:"
+msgstr "Available Text:"
+
+#: 
+msgctxt "FFMontagePresenter-version4"
+msgid "Step 2: Automagically higlights and chooses the best moments from your footage, and mix them according to the beats of the background music."
+msgstr "Step 2: Automagically higlights and chooses the best moments from your footage, and mix them according to the beats of the background music."
+
+#: 
+msgctxt "FFMontagePresenter-version4"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FFMontagePresenter-version4"
+msgid "Step 1: Analyze the beats and rhythm of the background music."
+msgstr "Step 1: Analyze the beats and rhythm of the background music."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Save Project As Template"
+msgstr "Save Project As Template"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Sorry, the One Drive authorization failed."
+msgstr "Sorry, the One Drive authorization failed."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "There is not enough space available.Please free up some space or choose a new path and try again."
+msgstr "There is not enough space available.Please free up some space or choose a new path and try again."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Sorry, the Google Drive authorization failed."
+msgstr "Sorry, the Google Drive authorization failed."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Create Proxy File"
+msgstr "Create Proxy File"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Editing with smaller proxy clips will result in a faster, smoother, experience. When exporting, your projects will render with the full quality of the original media. To change this setting go to 'Performance' in the 'Preferences' menu."
+msgstr "Editing with smaller proxy clips will result in a faster, smoother, experience. When exporting, your projects will render with the full quality of the original media. To change this setting go to 'Performance' in the 'Preferences' menu."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Saving into custom clip %1, please wait…"
+msgstr "Saving into custom clip %1, please wait…"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Saving into project template \""
+msgstr "Saving into project template \""
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Sorry, the Dropbox authorization failed."
+msgstr "Sorry, the Dropbox authorization failed."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Saving under the \"Custom\" category under \"Edit Thumbnail.\" Please wait..."
+msgstr "Saving under the \"Custom\" category under \"Edit Thumbnail.\" Please wait..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Authorize Google Drive"
+msgstr "Authorize Google Drive"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Saving..."
+msgstr "Saving..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Authorize Dropbox"
+msgstr "Authorize Dropbox"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "\", please waiting..."
+msgstr "\", please waiting..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Importing files"
+msgstr "Importing files"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Authorize One Drive"
+msgstr "Authorize One Drive"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version4"
+msgid "Please click to reauthorize."
+msgstr "Please click to reauthorize."
+
+#: 
+msgctxt "FMatchProjectDialog-version4"
+msgid "Keep Project Settings"
+msgstr "Keep Project Settings"
+
+#: 
+msgctxt "FMatchProjectDialog-version4"
+msgid "Match To Media"
+msgstr "Match To Media"
+
+#: 
+msgctxt "FMatchProjectDialog-version4"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+msgctxt "FMatchProjectDialog-version4"
+msgid "The resolution or frame rate of the media does not match the current project settings. Do you want to change your project settings to match?"
+msgstr "The resolution or frame rate of the media does not match the current project settings. Do you want to change your project settings to match?"
+
+#: 
+msgctxt "FFBaseSettingWidget-version4"
+msgid "Edge Feather:"
+msgstr "Edge Feather:"
+
+#: 
+msgctxt "FFBaseSettingWidget-version4"
+msgid "Edge Thickness:"
+msgstr "Edge Thickness:"
+
+#: 
+msgctxt "FFBaseSettingWidget-version4"
+msgid "Brush Size:"
+msgstr "Brush Size:"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "The text has been modified, Do you want to save the changes?"
+msgstr "The text has been modified, Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Advanced Subtitle Edit"
+msgstr "Advanced Subtitle Edit"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Save as Preset Tip"
+msgstr "Save as Preset Tip"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Name your custom text style. It will be saved under Style in the Titles menu."
+msgstr "Name your custom text style. It will be saved under Style in the Titles menu."
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Unable to merge, only support continuous subtitle strip merging"
+msgstr "Unable to merge, only support continuous subtitle strip merging"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Unable to merge, already the last subtitle"
+msgstr "Unable to merge, already the last subtitle"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Edit Subtitle File"
+msgstr "Edit Subtitle File"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version4"
+msgid "Subtitle text style templates will be saved in the preset category under \"Edit Subtitle File\""
+msgstr "Subtitle text style templates will be saved in the preset category under \"Edit Subtitle File\""
+
+#: 
+msgctxt "FAdvanceTextEditDialog-version4"
+msgid "The text has been modified, Do you want to save the changes?"
+msgstr "The text has been modified, Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceTextEditDialog-version4"
+msgid "Advanced Text Edit"
+msgstr "Advanced Text Edit"
+
+#: 
+msgctxt "FAdvanceTextEditDialog-version4"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+msgctxt "FThirdPartyLoginErrorPage-version4"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+msgctxt "FThirdPartyLoginErrorPage-version4"
+msgid "Please go back and try again"
+msgstr "Please go back and try again"
+
+#: 
+msgctxt "FThirdPartyLoginErrorPage-version4"
+msgid "Sorry, we could not sign you in"
+msgstr "Sorry, we could not sign you in"
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid " Then, log in with the Wondershare ID associated with your license."
+msgstr " Then, log in with the Wondershare ID associated with your license."
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "Activation failed. Here are some reasons this might have happened:"
+msgstr "Activation failed. Here are some reasons this might have happened:"
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "period"
+msgstr "period"
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "Click here to log out."
+msgstr "Click here to log out."
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "click here to buy Filmora9."
+msgstr "click here to buy Filmora9."
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "You could be experiencing a network delay. Wait a minute or two, then click 'Try Again'."
+msgstr "You could be experiencing a network delay. Wait a minute or two, then click 'Try Again'."
+
+#: 
+msgctxt "FActivateFailedDlg-version4"
+msgid "You could be logged into a Wondershare ID different from the one you used to make your purchase. You are currently signed in as: "
+msgstr "You could be logged into a Wondershare ID different from the one you used to make your purchase. You are currently signed in as: "
+
+#: 
+msgctxt "FSupportClientFilterMenu-version4"
+msgid "Desktop && Mobile"
+msgstr "Desktop && Mobile"
+
+#: 
+msgctxt "FSupportClientFilterMenu-version4"
+msgid "Three clients"
+msgstr "Three clients"
+
+#: 
+msgctxt "FSupportClientFilterMenu-version4"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: 
+msgctxt "FSupportClientFilterMenu-version4"
+msgid "Desktop && Tablet"
+msgstr "Desktop && Tablet"
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version4"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version4"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version4"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version4"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version4"
+msgid "Add a New Draw Mask"
+msgstr "Add a New Draw Mask"
+
+#: 
+msgctxt "FPropertyMotionTrackingWidget-version4"
+msgid "In order to apply motion tracking any keyframing, animations, or pan & zoom motions will be removed. Do you want to continue?"
+msgstr "In order to apply motion tracking any keyframing, animations, or pan & zoom motions will be removed. Do you want to continue?"
+
+#: 
+msgctxt "FPropertyMotionTrackingWidget-version4"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingWidget-version4"
+msgid "Unchecking the box next to Motion Tracking will clear all motion tracking data. Do you want to continue?"
+msgstr "Unchecking the box next to Motion Tracking will clear all motion tracking data. Do you want to continue?"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Product Features"
+msgstr "Product Features"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Effects & Services"
+msgstr "Effects & Services"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Payment will be charged to your Apple ID account upon the confirmation of your purchase. If you purchase the Annual Subscription it will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings in the App Store after purchase."
+msgstr "Payment will be charged to your Apple ID account upon the confirmation of your purchase. If you purchase the Annual Subscription it will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings in the App Store after purchase."
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "SUBSCRIPTION BENEFITS"
+msgstr "SUBSCRIPTION BENEFITS"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version4"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "You can browse the generation records for the past 30 days."
+msgstr "You can browse the generation records for the past 30 days."
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+

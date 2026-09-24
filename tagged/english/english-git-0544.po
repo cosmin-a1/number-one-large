@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uploading"
+msgstr "uploading"
+
+#: 
+msgctxt "QObject-version5"
+msgid "transcode failed"
+msgstr "transcode failed"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Log Out"
+msgstr "Log Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "You've chosen the same aspect ratio as the original video. Please select a different aspect ratio."
+msgstr "You've chosen the same aspect ratio as the original video. Please select a different aspect ratio."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Luma Sharp"
+msgstr "Luma Sharp"
+
+#: 
+msgctxt "QObject-version5"
+msgid "5 ~ 30 min"
+msgstr "5 ~ 30 min"
+
+#: 
+msgctxt "QObject-version5"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Center X"
+msgstr "Blur Center X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Center Y"
+msgstr "Blur Center Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Follow the"
+msgstr "Follow the"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flame Size"
+msgstr "Flame Size"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flame Type"
+msgstr "Flame Type"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "QObject-version5"
+msgid "3D LUT"
+msgstr "3D LUT"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Cinema 21:9"
+msgstr "Cinema 21:9"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uSinRadius"
+msgstr "uSinRadius"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Please free up space or adjust the Media Cache settings."
+msgstr "Please free up space or adjust the Media Cache settings."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Submitted successfully."
+msgstr "Submitted successfully."
+
+#: 
+msgctxt "QObject-version5"
+msgid "There is too much text you entered, please enter it in multiple text boxes."
+msgstr "There is too much text you entered, please enter it in multiple text boxes."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Panama)"
+msgstr "Spanish (Panama)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+msgctxt "QObject-version5"
+msgid "BBlurIntension"
+msgstr "BBlurIntension"
+
+#: 
+msgctxt "QObject-version5"
+msgid "GBlurIntension"
+msgstr "GBlurIntension"
+
+#: 
+msgctxt "QObject-version5"
+msgid "RBlurIntension"
+msgstr "RBlurIntension"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Properties Panel"
+msgstr "Properties Panel"
+
+#: 
+msgctxt "QObject-version5"
+msgid "You are welcome to try out the English version of the Avatar Presentation plugin."
+msgstr "You are welcome to try out the English version of the Avatar Presentation plugin."
+
+#: 
+msgctxt "QObject-version5"
+msgid "30 ~ 60 min"
+msgstr "30 ~ 60 min"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ultra-clear Screen Recording"
+msgstr "Ultra-clear Screen Recording"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Click to login"
+msgstr "Click to login"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: 
+msgctxt "QObject-version5"
+msgid "About Wondershare ID"
+msgstr "About Wondershare ID"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom in and out"
+msgstr "Zoom in and out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Center Gradually Appears"
+msgstr "Center Gradually Appears"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Making changes in Uniform Speed will override the changes made in Speed Ramping."
+msgstr "Making changes in Uniform Speed will override the changes made in Speed Ramping."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Roll clockwise"
+msgstr "Roll clockwise"
+
+#: 
+msgctxt "QObject-version5"
+msgid ". You can change this app's authority to access your Google Account via"
+msgstr ". You can change this app's authority to access your Google Account via"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Activate Wondershare Filmora X"
+msgstr "Activate Wondershare Filmora X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "GreenScreen"
+msgstr "GreenScreen"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Please make sure the output folder has the read and write permission."
+msgstr "Please make sure the output folder has the read and write permission."
+
+#: 
+msgctxt "QObject-version5"
+msgid "\"&&__&&\" download failed, please try again later!"
+msgstr "\"&&__&&\" download failed, please try again later!"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select all Keyframes"
+msgstr "Select all Keyframes"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Clear All KeyFrames"
+msgstr "Clear All KeyFrames"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Failed. Please try again."
+msgstr "Failed. Please try again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stretch to left"
+msgstr "Stretch to left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Sorry, the item you choose has been taken down by the supplier.You could download other items.Thanks for your comprehension."
+msgstr "Sorry, the item you choose has been taken down by the supplier.You could download other items.Thanks for your comprehension."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Special Offer!"
+msgstr "Special Offer!"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select All Text in Text Template"
+msgstr "Select All Text in Text Template"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Drag to the timeline to apply"
+msgstr "Drag to the timeline to apply"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Delete Voice"
+msgstr "Delete Voice"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Import with Instant Cutter Tool"
+msgstr "Import with Instant Cutter Tool"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Create Video"
+msgstr "Create Video"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Filmora does not have access to your Camera or Microphone."
+msgstr "Filmora does not have access to your Camera or Microphone."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Trimming the clip now will remove any speed adjustments you made earlier."
+msgstr "Trimming the clip now will remove any speed adjustments you made earlier."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Filmora Facebook"
+msgstr "Filmora Facebook"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Renew 1 quarter at %1 off"
+msgstr "Renew 1 quarter at %1 off"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Change Project Aspect Ratio"
+msgstr "Change Project Aspect Ratio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Hindi (India)"
+msgstr "Hindi (India)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Network error. Please try again later."
+msgstr "Network error. Please try again later."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Color Drift"
+msgstr "Color Drift"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Translate"
+msgstr "AI Translate"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upper Right"
+msgstr "Upper Right"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lower Right"
+msgstr "Lower Right"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Get Availabel Time Error"
+msgstr "Get Availabel Time Error"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Open VIP you can enjoy vip feature now!"
+msgstr "Open VIP you can enjoy vip feature now!"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upload failed. Please try again."
+msgstr "Upload failed. Please try again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+msgstr "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Random Flashing Out"
+msgstr "Random Flashing Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Online Help"
+msgstr "Online Help"
+
+#: 
+msgctxt "QObject-version5"
+msgid "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+msgstr "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Expand Now."
+msgstr "Expand Now."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Indonesian (Indonesia)"
+msgstr "Indonesian (Indonesia)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Process Ring BG Color"
+msgstr "Process Ring BG Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Downloading AI Drawing image:"
+msgstr "Downloading AI Drawing image:"
+
+#: 
+msgctxt "QObject-version5"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Random Flashing In"
+msgstr "Random Flashing In"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Welcome to try Filmora 13 Beta"
+msgstr "Welcome to try Filmora 13 Beta"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Proxy files currently being used will not be deleted."
+msgstr "Proxy files currently being used will not be deleted."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Don't remind me again"
+msgstr "Don't remind me again"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Black && White 1"
+msgstr "Black && White 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Black && White 2"
+msgstr "Black && White 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Black && White 3"
+msgstr "Black && White 3"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Black && White 4"
+msgstr "Black && White 4"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Black && White 5"
+msgstr "Black && White 5"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Remove Nasolabial Folds"
+msgstr "Remove Nasolabial Folds"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Bar Color"
+msgstr "Bar Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Amount"
+msgstr "Blur Amount"
+
+#: 
+msgctxt "QObject-version5"
+msgid "User Guide"
+msgstr "User Guide"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Edges"
+msgstr "Blur Edges"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Display audio waveform"
+msgstr "Display audio waveform"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Deleting the file will affect the used project. You can retrieve it by downloading the record"
+msgstr "Deleting the file will affect the used project. You can retrieve it by downloading the record"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Peru)"
+msgstr "Spanish (Peru)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Paste keyframe"
+msgstr "Paste keyframe"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Width"
+msgstr "Blur Width"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Resource download failed. Please try to apply the resource in the %1."
+msgstr "Resource download failed. Please try to apply the resource in the %1."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Confirm conversion to SRT?"
+msgstr "Confirm conversion to SRT?"
+

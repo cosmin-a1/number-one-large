@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyBackgroundTypePresenter-version4"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version4"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version4"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeWidget-version4"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeWidget-version4"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version4"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version4"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version4"
+msgid "Image Fill"
+msgstr "Image Fill"
+
+#: 
+msgctxt "FPropertyDynamicEffect-version4"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+msgctxt "FPropertyUniversalAudioDynamicEffectWidget-version4"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+msgctxt "FPropertyTextBaiscEditComponent-version4"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+msgctxt "FTextInputWidget-version4"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+msgctxt "FClipTaskWidget-version4"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+msgctxt "FClipTaskWidget-version4"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "FPropertyEffectSliderWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FRecentProjectDialog-version4"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+msgctxt "FRecentProjectDialog-version4"
+msgid "has been saved"
+msgstr "has been saved"
+
+#: 
+msgctxt "FRecentProjectDialog-version4"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+msgctxt "FSearchTagsWidget-version4"
+msgid "Search History"
+msgstr "Search History"
+
+#: 
+msgctxt "FSearchTagsWidget-version4"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+msgctxt "FSearchTagsWidget-version4"
+msgid "Trending"
+msgstr "Trending"
+
+#: 
+msgctxt "FConvertToSrtStatusDlg-version4"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FPropertyAnimationWidget-version4"
+msgid "Preset Motions (Legacy)"
+msgstr "Preset Motions (Legacy)"
+
+#: 
+msgctxt "FPropertyAnimationWidget-version4"
+msgid "Preset Animation"
+msgstr "Preset Animation"
+
+#: 
+msgctxt "FTimelineRenderPreviewActionPresenter-version4"
+msgid "Render Selected Range"
+msgstr "Render Selected Range"
+
+#: 
+msgctxt "FTimelineRenderPreviewActionPresenter-version4"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FThemeMediaItemWidget-version4"
+msgid "FThemeMediaItemWidget"
+msgstr "FThemeMediaItemWidget"
+
+#: 
+msgctxt "FFLineEdit-version4"
+msgid "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+msgstr "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+
+#: 
+msgctxt "FMediaCategoryView-version4"
+msgid "iTunes"
+msgstr "iTunes"
+
+#: 
+msgctxt "FMediaCategoryView-version4"
+msgid "Photos Library"
+msgstr "Photos Library"
+
+#: 
+msgctxt "FTitleModeBar-version4"
+msgid "Search custom titles"
+msgstr "Search custom titles"
+
+#: 
+msgctxt "FTitleModeBar-version4"
+msgid "Search downloaded titles"
+msgstr "Search downloaded titles"
+
+#: 
+msgctxt "FTitleModeBar-version4"
+msgid "Search my favorite titles"
+msgstr "Search my favorite titles"
+
+#: 
+msgctxt "FTitleModeBar-version4"
+msgid "Search titles"
+msgstr "Search titles"
+
+#: 
+msgctxt "FTitleModeBar-version4"
+msgid "Search my titles"
+msgstr "Search my titles"
+
+#: 
+msgctxt "FScenceDetectionDlg-version4"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+msgctxt "FBorisFXGuideWidget-version4"
+msgid "BorisFX and NewBlue are online."
+msgstr "BorisFX and NewBlue are online."
+
+#: 
+msgctxt "FBorisFXGuideWidget-version4"
+msgid "New Special Effects!"
+msgstr "New Special Effects!"
+
+#: 
+msgctxt "FAIModuleHelper-version4"
+msgid "AI model updated successfully!"
+msgstr "AI model updated successfully!"
+
+#: 
+msgctxt "FCoverTemplateDialog-version4"
+msgid "封面模版窗体"
+msgstr "封面模版窗体"
+
+#: 
+msgctxt "FCoverMediaPlayerEditorWidget-version4"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+msgctxt "FChangeRatioDialog-version4"
+msgid "Edge Align"
+msgstr "Edge Align"
+
+#: 
+msgctxt "FChangeRatioDialog-version4"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+msgctxt "FExtractPackWaitingDialog-version4"
+msgid "Wait a second, refreshing the category information."
+msgstr "Wait a second, refreshing the category information."
+
+#: 
+msgctxt "FFAIErasingProgressPanel-version4"
+msgid "Preview Object Tracking"
+msgstr "Preview Object Tracking"
+
+#: 
+msgctxt "FFAIErasingProgressPanel-version4"
+msgid "Object Tracking in progress…"
+msgstr "Object Tracking in progress…"
+
+#: 
+msgctxt "FCurvedSpeedPresetHelper-version4"
+msgid "preset"
+msgstr "preset"
+
+#: 
+msgctxt "FPropertyControl-version4"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+msgctxt "FDesignerHelper-version4"
+msgid "Export Template Project"
+msgstr "Export Template Project"
+
+#: 
+msgctxt "FDesignerHelper-version4"
+msgid "Export Template Project..."
+msgstr "Export Template Project..."
+
+#: 
+msgctxt "FImportDeviceDialog-version4"
+msgid "Import from Device"
+msgstr "Import from Device"
+
+#: 
+msgctxt "FAIMusicNumberSliderWidget-version4"
+msgid "Generated music count"
+msgstr "Generated music count"
+
+#: 
+msgctxt "FExportLoginWidget-version4"
+msgid "SIGN IN"
+msgstr "SIGN IN"
+
+#: 
+msgctxt "FExportLoginWidget-version4"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+msgctxt "FExportLoginWidget-version4"
+msgid "SIGN OUT"
+msgstr "SIGN OUT"
+
+#: 
+msgctxt "FExportLoginWidget-version4"
+msgid "Sign out"
+msgstr "Sign out"
+
+#: 
+msgctxt "FMYFeatureTryLimitDialog-version4"
+msgid "Try VIP Feature"
+msgstr "Try VIP Feature"
+
+#: 
+msgctxt "FMYFeatureTryLimitDialog-version4"
+msgid "Try VIP Resource"
+msgstr "Try VIP Resource"
+
+#: 
+msgctxt "FMYFeatureTryLimitDialog-version4"
+msgid "Buy VIP Now"
+msgstr "Buy VIP Now"
+
+#: 
+msgctxt "FAccountCenterAvatarWidget-version4"
+msgid "Open the headdress accessories"
+msgstr "Open the headdress accessories"
+
+#: 
+msgctxt "FAccountCenterAvatarWidget-version4"
+msgid "Close the headdress accessories"
+msgstr "Close the headdress accessories"
+
+#: 
+msgctxt "FFToolBarManagerButton-version4"
+msgid "Custom toolbar"
+msgstr "Custom toolbar"
+
+#: 
+msgctxt "FProperty3DAnimationControl-version4"
+msgid "Animation Out"
+msgstr "Animation Out"
+
+#: 
+msgctxt "FProperty3DAnimationControl-version4"
+msgid "Animation In"
+msgstr "Animation In"
+
+#: 
+msgctxt "FKeyFrameViewBase-version4"
+msgid "Next Keyframe"
+msgstr "Next Keyframe"
+
+#: 
+msgctxt "FKeyFrameViewBase-version4"
+msgid "Add Keyframe"
+msgstr "Add Keyframe"
+
+#: 
+msgctxt "FKeyFrameViewBase-version4"
+msgid "Previous Keyframe"
+msgstr "Previous Keyframe"
+
+#: 
+msgctxt "FKeyFrameViewBase-version4"
+msgid "Delete Keyframe"
+msgstr "Delete Keyframe"
+
+#: 
+msgctxt "FRecordStatusWidget-version4"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+msgctxt "FRecordStatusWidget-version4"
+msgid "Tap to record"
+msgstr "Tap to record"
+
+#: 
+msgctxt "FFSilenceDetectionSettingViewPrivate-version4"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+msgctxt "FFGradientColorCtlWidget-version4"
+msgid "Click to add color markers"
+msgstr "Click to add color markers"
+
+#: 
+msgctxt "FFGradientColorCtlWidget-version4"
+msgid "Reached the maximum limit of the color scale (10)"
+msgstr "Reached the maximum limit of the color scale (10)"
+
+#: 
+msgctxt "FFTipLabel-version4"
+msgid "The final video should not exceed 1/3 of the total length of all imported clips, and it should be shorter than the BGM."
+msgstr "The final video should not exceed 1/3 of the total length of all imported clips, and it should be shorter than the BGM."
+
+#: 
+msgctxt "FFSilenceDetectionProgressDialog-version4"
+msgid "Automatically remove silence from audio region."
+msgstr "Automatically remove silence from audio region."
+
+#: 
+msgctxt "FFSilenceDetectionProgressDialog-version4"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFSilenceDetectionProgressDialog-version4"
+msgid "Please wait, processing...("
+msgstr "Please wait, processing...("
+
+#: 
+msgctxt "FBottomWidget-version4"
+msgid "Your first voice clone is free and you will save 100 credits!"
+msgstr "Your first voice clone is free and you will save 100 credits!"
+
+#: 
+msgctxt "CutterSegment-version4"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "CutterSegment-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFScenceDetectListItem-version4"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "MergerSegment-version4"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "MergerSegment-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFUpgradeVersionDisplayWidget-version4"
+msgid "Filmora%1 new features"
+msgstr "Filmora%1 new features"
+
+#: 
+msgctxt "FProperty3DMaterialPresetControl-version4"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FProperty3DMaterialPresetControl-version4"
+msgid "3D Material Preset"
+msgstr "3D Material Preset"
+
+#: 
+msgctxt "FClipContextMenu-version4"
+msgid "Smart Edit Tool"
+msgstr "Smart Edit Tool"
+
+#: 
+msgctxt "FFSpeechServiceNoTaskTip-version4"
+msgid "No assignment yet, go try the voice text service!"
+msgstr "No assignment yet, go try the voice text service!"
+
+#: 
+msgctxt "FMediaItemIconView-version4"
+msgid "No audio or video clips on the timeline."
+msgstr "No audio or video clips on the timeline."
+
+#: 
+msgctxt "FTutorialView-version4"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FTrackManagerDialog-version4"
+msgid "Track Manager"
+msgstr "Track Manager"
+
+#: 
+msgctxt "IFFGroupHeaderBasePainter-version4"
+msgid "%1 result(s) found"
+msgstr "%1 result(s) found"
+
+#: 
+msgctxt "FFSimpleModeSettingWidget-version4"
+msgid "Click to start Smart Cutout"
+msgstr "Click to start Smart Cutout"
+
+#: 
+msgctxt "FPropertySmartKeyingWidgetClass-version4"
+msgid "Click to start Smart Cutout"
+msgstr "Click to start Smart Cutout"
+
+#: 
+msgctxt "FUserGuidePlayerPanel2-version4"
+msgid "Basic Editing Tutorial"
+msgstr "Basic Editing Tutorial"
+
+#: 
+msgctxt "FUserGuidePlayerPanel2-version4"
+msgid "Video Effects Tutorial"
+msgstr "Video Effects Tutorial"
+
+#: 
+msgctxt "FUserGuidePlayerPanel2-version4"
+msgid "AI Features Tutorial"
+msgstr "AI Features Tutorial"
+
+#: 
+msgctxt "FTimelineAudioSynService-version4"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "FTimelineAudioSynService-version4"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FTimelineAudioSynService-version4"
+msgid "The selected clips cannot be synchronized, please reselect the clips."
+msgstr "The selected clips cannot be synchronized, please reselect the clips."
+

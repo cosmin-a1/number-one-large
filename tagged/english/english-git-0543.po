@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upload to Vimeo"
+msgstr "Upload to Vimeo"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uOrientation"
+msgstr "uOrientation"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "QObject-version5"
+msgid "This action will remove all masks that have been used. Are you sure you want to continue?"
+msgstr "This action will remove all masks that have been used. Are you sure you want to continue?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "A boy builds a sand castle by the sea"
+msgstr "A boy builds a sand castle by the sea"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Phase Increment"
+msgstr "Phase Increment"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Adjusting the speed of a clip will override the current loop effect."
+msgstr "Adjusting the speed of a clip will override the current loop effect."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Install computer audio driver failed! Please try again."
+msgstr "Install computer audio driver failed! Please try again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Purple Haze"
+msgstr "Purple Haze"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Purple Lomo"
+msgstr "Purple Lomo"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Purple Love"
+msgstr "Purple Love"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+msgstr "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ripple Size"
+msgstr "Ripple Size"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Cold && Harsh"
+msgstr "Cold && Harsh"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "QObject-version5"
+msgid "The usage limit has been reached today."
+msgstr "The usage limit has been reached today."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Edit advanced properties, Keyframe, and Speed Ramping."
+msgstr "Edit advanced properties, Keyframe, and Speed Ramping."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Adjust Audio"
+msgstr "Adjust Audio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "To allow access,open System Preferences,click on Security & Privacy settings there."
+msgstr "To allow access,open System Preferences,click on Security & Privacy settings there."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Double line"
+msgstr "Double line"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Export to Device"
+msgstr "Export to Device"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Decolor Position X"
+msgstr "Decolor Position X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Decolor Position Y"
+msgstr "Decolor Position Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Stretch Duration:"
+msgstr "Stretch Duration:"
+
+#: 
+msgctxt "QObject-version5"
+msgid "MiaoYing WeiBo HomePage"
+msgstr "MiaoYing WeiBo HomePage"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Keep Group"
+msgstr "Keep Group"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Open VIP you can enjoy vip resources now!"
+msgstr "Open VIP you can enjoy vip resources now!"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flip Down1"
+msgstr "Flip Down1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flip Down2"
+msgstr "Flip Down2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Old Film"
+msgstr "Old Film"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Dotted Ring Color"
+msgstr "Dotted Ring Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Decay factor"
+msgstr "Decay factor"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+msgctxt "QObject-version5"
+msgid "Portuguese (Portuguese)"
+msgstr "Portuguese (Portuguese)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Popular Special Effects"
+msgstr "Popular Special Effects"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Source Switcher"
+msgstr "Source Switcher"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flash in"
+msgstr "Flash in"
+
+#: 
+msgctxt "QObject-version5"
+msgid "You can try it for free within %1 or purchase %2 for unlimited exports."
+msgstr "You can try it for free within %1 or purchase %2 for unlimited exports."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Rotate 90 CW"
+msgstr "Rotate 90 CW"
+
+#: 
+msgctxt "QObject-version5"
+msgid "TRADITIONAL CHINESE"
+msgstr "TRADITIONAL CHINESE"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Typewriter Upwards"
+msgstr "Typewriter Upwards"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Bounce to zoom out 1"
+msgstr "Bounce to zoom out 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Rotate Speed"
+msgstr "Rotate Speed"
+
+#: 
+msgctxt "QObject-version5"
+msgid "English (India)"
+msgstr "English (India)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Batch analysis in progress"
+msgstr "Batch analysis in progress"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Network connection is broken"
+msgstr "Network connection is broken"
+
+#: 
+msgctxt "QObject-version5"
+msgid "You can go to the %1 and try to apply the download resource."
+msgstr "You can go to the %1 and try to apply the download resource."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Radio Explike FX"
+msgstr "Radio Explike FX"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+msgstr "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Start Number"
+msgstr "Start Number"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Watermark Plan Right 1"
+msgstr "Watermark Plan Right 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: 
+msgctxt "QObject-version5"
+msgid "rotate_end_angle"
+msgstr "rotate_end_angle"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Source Width"
+msgstr "Source Width"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Align up"
+msgstr "Align up"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Import and preview your media within the library, then easily drag and drop clips into the timeline for editing."
+msgstr "Import and preview your media within the library, then easily drag and drop clips into the timeline for editing."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Calling 01"
+msgstr "Calling 01"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Export Templates"
+msgstr "Export Templates"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flip Up1"
+msgstr "Flip Up1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Flip Up2"
+msgstr "Flip Up2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Watermark Plan Name"
+msgstr "Watermark Plan Name"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blinking"
+msgstr "Blinking"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Transcription  failure"
+msgstr "Transcription  failure"
+
+#: 
+msgctxt "QObject-version5"
+msgid "accum_ratio"
+msgstr "accum_ratio"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Unlock 10M+ Creative Assets for free"
+msgstr "Unlock 10M+ Creative Assets for free"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Failed to open"
+msgstr "Failed to open"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Don't show this again"
+msgstr "Don't show this again"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Account Permission"
+msgstr "Account Permission"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Record PC Screen"
+msgstr "Record PC Screen"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Submission failed, please try again"
+msgstr "Submission failed, please try again"
+
+#: 
+msgctxt "QObject-version5"
+msgid "VCR Distortion"
+msgstr "VCR Distortion"
+
+#: 
+msgctxt "QObject-version5"
+msgid "The recorded audio will be lost after closing and the audio needs to be recorded again."
+msgstr "The recorded audio will be lost after closing and the audio needs to be recorded again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Compress media"
+msgstr "Compress media"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Gradient Color1"
+msgstr "Gradient Color1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Gradient Color2"
+msgstr "Gradient Color2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Scatter and Fly out"
+msgstr "Scatter and Fly out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Preview rendered files for the current project file will not be deleted."
+msgstr "Preview rendered files for the current project file will not be deleted."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Enterprise Plan Name"
+msgstr "Enterprise Plan Name"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Are you sure to delete all material?"
+msgstr "Are you sure to delete all material?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Loading"
+msgstr "Loading"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Import Media"
+msgstr "Import Media"
+

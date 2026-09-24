@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Do you want to rename \"%1\" to \"%2\"?"
+msgstr "Do you want to rename \"%1\" to \"%2\"?"
+
+#: 
+msgctxt "FSmartSearchFilterMenu-version4"
+msgid "Smart"
+msgstr "Smart"
+
+#: 
+msgctxt "FSmartSearchFilterMenu-version4"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FCurvedSpeedView-version4"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version4"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+
+#: 
+msgctxt "FTemplateClipSlidePlayerToolBar-version4"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FSubtitleListItem-version4"
+msgid "Split"
+msgstr "Split"
+
+#: 
+msgctxt "FSubtitleListItem-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAICommonStartView-version4"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FAIGCImageParamWidget-version4"
+msgid "Style"
+msgstr "Style"
+
+#: 
+msgctxt "FAIGCImageParamWidget-version4"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FAIMusicSettingWidget-version4"
+msgid "Tempo"
+msgstr "Tempo"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "The \""
+msgstr "The \""
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "Cannot Set Shortcut"
+msgstr "Cannot Set Shortcut"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "\" shortcut is already assigned to the \""
+msgstr "\" shortcut is already assigned to the \""
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "Not all keys can be used in shortcuts."
+msgstr "Not all keys can be used in shortcuts."
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "Conflicting Shortcuts"
+msgstr "Conflicting Shortcuts"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FShortCutBaseInfoWid-version4"
+msgid "\" command. Do you wish to replace it?"
+msgstr "\" command. Do you wish to replace it?"
+
+#: 
+msgctxt "FTemplateResourceTabBar-version4"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "FTemplateResourceTabBar-version4"
+msgid "Musics"
+msgstr "Musics"
+
+#: 
+msgctxt "FTemplateResourceTabBar-version4"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FVCGDownloadProgressBubbleWidget-version4"
+msgid "Downloading HD footages (%1/%2)"
+msgstr "Downloading HD footages (%1/%2)"
+
+#: 
+msgctxt "FColorSelector-version4"
+msgid "Tones"
+msgstr "Tones"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "System Audio Off"
+msgstr "System Audio Off"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Click to stop recording"
+msgstr "Click to stop recording"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "The Camera %1 is lost."
+msgstr "The Camera %1 is lost."
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Click to start recording"
+msgstr "Click to start recording"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid " connection lost."
+msgstr " connection lost."
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Full Screen"
+msgstr "Full Screen"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Watch video tutorials to master more skills"
+msgstr "Watch video tutorials to master more skills"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Microphone Off"
+msgstr "Microphone Off"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Camera Off"
+msgstr "Camera Off"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Only one device has a screen."
+msgstr "Only one device has a screen."
+
+#: 
+msgctxt "FFRecordPanel-version4"
+msgid "Target Window"
+msgstr "Target Window"
+
+#: 
+msgctxt "FFDoubleSpinBox-version4"
+msgid "Drag with mouse;"
+msgstr "Drag with mouse;"
+
+#: 
+msgctxt "FFDoubleSpinBox-version4"
+msgid "Ways to change the value:"
+msgstr "Ways to change the value:"
+
+#: 
+msgctxt "FFDoubleSpinBox-version4"
+msgid "Scroll mouse wheel;"
+msgstr "Scroll mouse wheel;"
+
+#: 
+msgctxt "FFDoubleSpinBox-version4"
+msgid "Use the up and down keys."
+msgstr "Use the up and down keys."
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version4"
+msgid "Value"
+msgstr "Value"
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version4"
+msgid "Comparison View"
+msgstr "Comparison View"
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version4"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyColorBasicColorMatchWidget-version4"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version4"
+msgid "Voice"
+msgstr "Voice"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version4"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version4"
+msgid "Congratulations on completing your creation!"
+msgstr "Congratulations on completing your creation!"
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version4"
+msgid "Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+msgstr "Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version4"
+msgid "Network error. This feature requires an Internet connection to use."
+msgstr "Network error. This feature requires an Internet connection to use."
+
+#: 
+msgctxt "FilmoraMainFormPresenterPrivate-version4"
+msgid "Separation failed: the media volume is insufficient. Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+msgstr "Separation failed: the media volume is insufficient. Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+
+#: 
+msgctxt "FHomePageTabBar-version4"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+msgctxt "FHomePageTabBar-version4"
+msgid "Creator Hub"
+msgstr "Creator Hub"
+
+#: 
+msgctxt "FHomePageTabBar-version4"
+msgid "AI Toolbox"
+msgstr "AI Toolbox"
+
+#: 
+msgctxt "FHomePageTabBar-version4"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+msgctxt "FHomePageTabBar-version4"
+msgid "Create Project"
+msgstr "Create Project"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Edit Clip"
+msgstr "Edit Clip"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Template Edit"
+msgstr "Template Edit"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Export to local or to social media"
+msgstr "Export to local or to social media"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Click to find tons of filters, \n"
+"LUTs, masks, and more."
+msgstr "Click to find tons of filters, \n"
+"LUTs, masks, and more."
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Click here to start your first video"
+msgstr "Click here to start your first video"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Export video"
+msgstr "Export video"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Double-click to replace material in the last shift"
+msgstr "Double-click to replace material in the last shift"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Click here to modify clip"
+msgstr "Click here to modify clip"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Drag to add effect"
+msgstr "Drag to add effect"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Click here to edit text"
+msgstr "Click here to edit text"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Import materials"
+msgstr "Import materials"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Play and preview"
+msgstr "Play and preview"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Click here to import Media"
+msgstr "Click here to import Media"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Drag media here to replace it"
+msgstr "Drag media here to replace it"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Replace Media"
+msgstr "Replace Media"
+
+#: 
+msgctxt "FMaskManager-version4"
+msgid "Drag to edit"
+msgstr "Drag to edit"
+
+#: 
+msgctxt "FMarkerContextMenu-version4"
+msgid "Delete All Markers"
+msgstr "Delete All Markers"
+
+#: 
+msgctxt "FMarkerContextMenu-version4"
+msgid "Modify Marker"
+msgstr "Modify Marker"
+
+#: 
+msgctxt "FMarkerContextMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FIntroTemplateTextEditView-version4"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+msgctxt "FIntroTemplateTextEditView-version4"
+msgid "Type your text here."
+msgstr "Type your text here."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version4"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version4"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FMediaItemLicenseExportProxy-version4"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "You need to pay before use this resource, Please go to pay."
+msgstr "You need to pay before use this resource, Please go to pay."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "Only ask once in this project"
+msgstr "Only ask once in this project"
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+msgctxt "FMediaItemLicenseTimelineProxy-version4"
+msgid "I have already activated it"
+msgstr "I have already activated it"
+

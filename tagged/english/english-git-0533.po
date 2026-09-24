@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyCloudResListView-version4"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "FPropertyCloudResListView-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyCloudResListView-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FPropertyCloudResListView-version4"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FPropertyCloudResListView-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FSpeedPresetList-version4"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "FHighLightPresenter-version4"
+msgid "Only clips under 5 hours can be analyzed by this tool."
+msgstr "Only clips under 5 hours can be analyzed by this tool."
+
+#: 
+msgctxt "FHighLightPresenter-version4"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "Your computer dose not seem to meet the "
+msgstr "Your computer dose not seem to meet the "
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "Update your driver"
+msgstr "Update your driver"
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "minimum requirements "
+msgstr "minimum requirements "
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "to run Wondershare Filmora9."
+msgstr "to run Wondershare Filmora9."
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "Or, if you choose continue, you might experiece poor performance or instability."
+msgstr "Or, if you choose continue, you might experiece poor performance or instability."
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid "During previous startup Filmora crashed."
+msgstr "During previous startup Filmora crashed."
+
+#: 
+msgctxt "FSafeModeDlg-version4"
+msgid " Please quit application and update your graphic driver to the latest.  "
+msgstr " Please quit application and update your graphic driver to the latest.  "
+
+#: 
+msgctxt "FAudioPreviewWidget-version4"
+msgid "Record Again"
+msgstr "Record Again"
+
+#: 
+msgctxt "FEmptyMessageView-version4"
+msgid "No message"
+msgstr "No message"
+
+#: 
+msgctxt "FThirdPartyCloud-version4"
+msgid "When the existing cloud drive is closed, the task will be cleared."
+msgstr "When the existing cloud drive is closed, the task will be cleared."
+
+#: 
+msgctxt "FThirdPartyCloud-version4"
+msgid "There are currently tasks in progress, exiting Filmora will clear all tasks."
+msgstr "There are currently tasks in progress, exiting Filmora will clear all tasks."
+
+#: 
+msgctxt "FThirdPartyCloud-version4"
+msgid "Do you agree to close the existing cloud drive and open a new one?"
+msgstr "Do you agree to close the existing cloud drive and open a new one?"
+
+#: 
+msgctxt "FThirdPartyCloud-version4"
+msgid "Are you sure you want to exit Filmora?"
+msgstr "Are you sure you want to exit Filmora?"
+
+#: 
+msgctxt "FThirdPartyCloud-version4"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version4"
+msgid "Delete all keyframes"
+msgstr "Delete all keyframes"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version4"
+msgid "Select all Keyframes"
+msgstr "Select all Keyframes"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version4"
+msgid "Copy keyframe"
+msgstr "Copy keyframe"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version4"
+msgid "Edit KeyFrame"
+msgstr "Edit KeyFrame"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version4"
+msgid "Delete all audio keyframes"
+msgstr "Delete all audio keyframes"
+
+#: 
+msgctxt "FKeyFrameContextMenu-version4"
+msgid "Delete KeyFrame"
+msgstr "Delete KeyFrame"
+
+#: 
+msgctxt "FAdvanceSSClipContextMenu-version4"
+msgid "Clear All KeyFrames"
+msgstr "Clear All KeyFrames"
+
+#: 
+msgctxt "FExportDevicePanel-version4"
+msgid "Export to Devices"
+msgstr "Export to Devices"
+
+#: 
+msgctxt "FExportDevicePanel-version4"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FAddTextPresenter-version4"
+msgid "Create Title"
+msgstr "Create Title"
+
+#: 
+msgctxt "FAddTextPresenter-version4"
+msgid "Quickly add titles with one click"
+msgstr "Quickly add titles with one click"
+
+#: 
+msgctxt "FSmartKeyingNodeContextMenu-version4"
+msgid "Delete Point"
+msgstr "Delete Point"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+msgstr "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Browse"
+msgstr "Browse"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Not enough disk space"
+msgstr "Not enough disk space"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "No Permission"
+msgstr "No Permission"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FFOpenFileLineEdit2-version4"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FSaveRemindWid-version4"
+msgid "Are you sure you want to discard the changes?"
+msgstr "Are you sure you want to discard the changes?"
+
+#: 
+msgctxt "FSaveRemindWid-version4"
+msgid "This action will reset any unsaved changes to the current keyboard preset. And this action cannot be undone."
+msgstr "This action will reset any unsaved changes to the current keyboard preset. And this action cannot be undone."
+
+#: 
+msgctxt "FSaveRemindWid-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSaveRemindWid-version4"
+msgid "Save And Toggle presets"
+msgstr "Save And Toggle presets"
+
+#: 
+msgctxt "FSaveRemindWid-version4"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FCurvedSpeedPresetNamePanel-version4"
+msgid "Please name your custom Speed Ramping settings."
+msgstr "Please name your custom Speed Ramping settings."
+
+#: 
+msgctxt "FGraphicsClipAudioRemixTrimLayer-version4"
+msgid "Please cancel the group before starting Audio Stretch."
+msgstr "Please cancel the group before starting Audio Stretch."
+
+#: 
+msgctxt "FGraphicsClipAudioRemixTrimLayer-version4"
+msgid "Audio Stretch is only supported for single 1x audio clips above 10s and below 10h."
+msgstr "Audio Stretch is only supported for single 1x audio clips above 10s and below 10h."
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version4"
+msgid "Authorization Refreshing..."
+msgstr "Authorization Refreshing..."
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version4"
+msgid "Authorize Google Drive"
+msgstr "Authorize Google Drive"
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version4"
+msgid "Sign in with Google"
+msgstr "Sign in with Google"
+
+#: 
+msgctxt "FCloudDiskAuthorizeDialog-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudMediaTaskHelper-version4"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+msgctxt "FCloudMediaTaskHelper-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FMediaFolderViewPrivate-version4"
+msgid "Drop the effect above the audio in timeline please to do music visualization"
+msgstr "Drop the effect above the audio in timeline please to do music visualization"
+
+#: 
+msgctxt "FFTextToSpeechTableHeaderToolTipper-version4"
+msgid "(Less than 100 words are calculated as 100 words)"
+msgstr "(Less than 100 words are calculated as 100 words)"
+
+#: 
+msgctxt "FFTextToSpeechTableHeaderToolTipper-version4"
+msgid "1 sentence per 100 words"
+msgstr "1 sentence per 100 words"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Open Anyway"
+msgstr "Open Anyway"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Influence Kit"
+msgstr "Influence Kit"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Scence"
+msgstr "Scence"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Same Series"
+msgstr "Same Series"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Your favourite assets will be stored in the \"Favorites\" folder in the media tab where they belong to."
+msgstr "Your favourite assets will be stored in the \"Favorites\" folder in the media tab where they belong to."
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Filmora does not have access to your Photos Library."
+msgstr "Filmora does not have access to your Photos Library."
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Sync from cloud"
+msgstr "Sync from cloud"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Some default effects used in this project file are missing,please download again."
+msgstr "Some default effects used in this project file are missing,please download again."
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+msgstr "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "The resources you downloaded will be stored in the \"Downloads\" folder in the media tab where they belong to."
+msgstr "The resources you downloaded will be stored in the \"Downloads\" folder in the media tab where they belong to."
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "View all"
+msgstr "View all"
+
+#: 
+msgctxt "FMediaItemStackedView-version4"
+msgid "Click the icon to find similar assets."
+msgstr "Click the icon to find similar assets."
+
+#: 
+msgctxt "FAudioRemixProgressPanel-version4"
+msgid "Audio Stretch in progress, please wait"
+msgstr "Audio Stretch in progress, please wait"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version4"
+msgid "Change default"
+msgstr "Change default"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version4"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version4"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FProjectSaveDefaultDialog-version4"
+msgid "Are you sure you want to change default project settings? This action will affect current and new projects."
+msgstr "Are you sure you want to change default project settings? This action will affect current and new projects."
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version4"
+msgid "CONTINUE"
+msgstr "CONTINUE"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version4"
+msgid "Sorry the following file(s) has missing"
+msgstr "Sorry the following file(s) has missing"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version4"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FExportMissingFileTipDialog-version4"
+msgid "If you continue export, your project will be exprted without them."
+msgstr "If you continue export, your project will be exprted without them."
+
+#: 
+msgctxt "FPropertyMosaicEffectWidget-version4"
+msgid "Blur Amount"
+msgstr "Blur Amount"
+
+#: 
+msgctxt "FPropertyMosaicEffectWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version4"
+msgid "Active Device Limit"
+msgstr "Active Device Limit"
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version4"
+msgid "If you log in on this device using this account you will be logged out on the following device: %1 ."
+msgstr "If you log in on this device using this account you will be logged out on the following device: %1 ."
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version4"
+msgid "You are currently signed in as %1 on %2 other devices. Your device limit is %2 ."
+msgstr "You are currently signed in as %1 on %2 other devices. Your device limit is %2 ."
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version4"
+msgid "LOG IN ON THIS DEVICE"
+msgstr "LOG IN ON THIS DEVICE"
+
+#: 
+msgctxt "FActiveDeviceLimitDlg-version4"
+msgid "DO NOT LOG IN"
+msgstr "DO NOT LOG IN"
+
+#: 
+msgctxt "FFUpgradeBaseContentWidget-version4"
+msgid "Current version:"
+msgstr "Current version:"
+
+#: 
+msgctxt "FFUpgradeBaseContentWidget-version4"
+msgid "Latest version:"
+msgstr "Latest version:"
+
+#: 
+msgctxt "FPropertyComposeWidget-version4"
+msgid "Blend Mode"
+msgstr "Blend Mode"
+
+#: 
+msgctxt "FPropertyComposeWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+

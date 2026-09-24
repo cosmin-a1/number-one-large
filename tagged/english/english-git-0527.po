@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "Restart the program now"
+msgstr "Restart the program now"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "No Migration"
+msgstr "No Migration"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FSettingFoldersPanel-version4"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version4"
+msgid "You're not connected to the internet"
+msgstr "You're not connected to the internet"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version4"
+msgid "Filmstock"
+msgstr "Filmstock"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version4"
+msgid "Poor network. Cloud resources couldn't load."
+msgstr "Poor network. Cloud resources couldn't load."
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version4"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version4"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version4"
+msgid "You need internet access to visit %1. Please check your connection and try again."
+msgstr "You need internet access to visit %1. Please check your connection and try again."
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "Open VIP,export high quality videos without watermark"
+msgstr "Open VIP,export high quality videos without watermark"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "you can enjoy 14 privileges if you open VIP immediately!"
+msgstr "you can enjoy 14 privileges if you open VIP immediately!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "Update VIP,export immediately"
+msgstr "Update VIP,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "ReEdit"
+msgstr "ReEdit"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "export videos with watermark"
+msgstr "export videos with watermark"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "Update VIP+VCG Member,export immediately"
+msgstr "Update VIP+VCG Member,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "You have used the following VIP resources!"
+msgstr "You have used the following VIP resources!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "You have used the following VIP tools!"
+msgstr "You have used the following VIP tools!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "You have used the following VIP and VCG resources!"
+msgstr "You have used the following VIP and VCG resources!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "Open VIP,unlock exclusive rights"
+msgstr "Open VIP,unlock exclusive rights"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "Open VIP+VCG Member,export immediately"
+msgstr "Open VIP+VCG Member,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "You have used the following VIP tools and resources!"
+msgstr "You have used the following VIP tools and resources!"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "Open VCG Member,export immediately"
+msgstr "Open VCG Member,export immediately"
+
+#: 
+msgctxt "FMYLicenseExportDialog-version4"
+msgid "You have used the following VCG resources!"
+msgstr "You have used the following VCG resources!"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search downloaded effects"
+msgstr "Search downloaded effects"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search my favorite effects"
+msgstr "Search my favorite effects"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search NewBlue FX"
+msgstr "Search NewBlue FX"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search audio effects"
+msgstr "Search audio effects"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search effects & filters"
+msgstr "Search effects & filters"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search video effects"
+msgstr "Search video effects"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search overlay"
+msgstr "Search overlay"
+
+#: 
+msgctxt "FEffectModeBar-version4"
+msgid "Search Boris FX"
+msgstr "Search Boris FX"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "Customer Support"
+msgstr "Customer Support"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "To remove this limitation, you can buy an authorized copy of Filmora."
+msgstr "To remove this limitation, you can buy an authorized copy of Filmora."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "If you have previously bought Filmora, you are seeing this warning in error."
+msgstr "If you have previously bought Filmora, you are seeing this warning in error."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "You are using an illegal copy"
+msgstr "You are using an illegal copy"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "We have detected that you may be the victim of software counterfeiting."
+msgstr "We have detected that you may be the victim of software counterfeiting."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "Please contact our "
+msgstr "Please contact our "
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid " with your purchase record."
+msgstr " with your purchase record."
+
+#: 
+msgctxt "AntiPiracyAbortDialog-version4"
+msgid "All Filmora features will be disabled and the application will be closed later."
+msgstr "All Filmora features will be disabled and the application will be closed later."
+
+#: 
+msgctxt "FAIImageStylizerListView-version4"
+msgid "Reminding times:%1"
+msgstr "Reminding times:%1"
+
+#: 
+msgctxt "FAIImageStylizerListView-version4"
+msgid "You can generate 20 times each day."
+msgstr "You can generate 20 times each day."
+
+#: 
+msgctxt "FAIImageStylizerListView-version4"
+msgid "AI Image has generated."
+msgstr "AI Image has generated."
+
+#: 
+msgctxt "FAIImageStylizerListView-version4"
+msgid "You have reached the daily limit of 20 generations. Try again tomorrow."
+msgstr "You have reached the daily limit of 20 generations. Try again tomorrow."
+
+#: 
+msgctxt "FAIImageStylizerListView-version4"
+msgid "Remaining times: %1"
+msgstr "Remaining times: %1"
+
+#: 
+msgctxt "FEnterTimelineLicenseProxy-version4"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+msgctxt "FQuickEditWidget-version4"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+msgctxt "FQuickEditWidget-version4"
+msgid "Customize your highlight"
+msgstr "Customize your highlight"
+
+#: 
+msgctxt "FQuickEditWidget-version4"
+msgid "Media pannel:"
+msgstr "Media pannel:"
+
+#: 
+msgctxt "FQuickEditWidget-version4"
+msgid "Change template, music, text"
+msgstr "Change template, music, text"
+
+#: 
+msgctxt "FQuickEditWidget-version4"
+msgid "Storyboard:"
+msgstr "Storyboard:"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version4"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version4"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version4"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FVideoTemplateTitleBar-version4"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version4"
+msgid "Resource name"
+msgstr "Resource name"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version4"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version4"
+msgid "More than 1 video use"
+msgstr "More than 1 video use"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version4"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version4"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+msgctxt "FUnLicenseMediaItemWidget-version4"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FEmptyResourceRecordWidget-version4"
+msgid "resource mall"
+msgstr "resource mall"
+
+#: 
+msgctxt "FEmptyResourceRecordWidget-version4"
+msgid "There is no download record, you can go to the"
+msgstr "There is no download record, you can go to the"
+
+#: 
+msgctxt "FEmptyResourceRecordWidget-version4"
+msgid "to select the resource special effects package."
+msgstr "to select the resource special effects package."
+
+#: 
+msgctxt "FOpenFXDownloadPage-version4"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FOpenFXDownloadPage-version4"
+msgid "The effect plugin has been installed successfully! Please close and restart Filmora to load the new installed effects correctly."
+msgstr "The effect plugin has been installed successfully! Please close and restart Filmora to load the new installed effects correctly."
+
+#: 
+msgctxt "FOpenFXDownloadPage-version4"
+msgid "Test Close"
+msgstr "Test Close"
+
+#: 
+msgctxt "FOpenFXDownloadPage-version4"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FOpenFXDownloadPage-version4"
+msgid "This project file uses one or more effect plugins which are not currently available on your computer. Please download and install the plugin(s) to restore the effect(s)."
+msgstr "This project file uses one or more effect plugins which are not currently available on your computer. Please download and install the plugin(s) to restore the effect(s)."
+
+#: 
+msgctxt "FCloudMediaContentMenu-version4"
+msgid "Go to Filmora Cloud"
+msgstr "Go to Filmora Cloud"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version4"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FCloudMediaContentMenu-version4"
+msgid "Share Link"
+msgstr "Share Link"
+
+#: 
+msgctxt "FMediaItemMenu-version4"
+msgid "Go to Filmora Cloud"
+msgstr "Go to Filmora Cloud"
+
+#: 
+msgctxt "FMediaItemMenu-version4"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+msgctxt "FMediaItemMenu-version4"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+msgctxt "FMediaItemMenu-version4"
+msgid "Replication failed"
+msgstr "Replication failed"
+
+#: 
+msgctxt "FMediaItemMenu-version4"
+msgid "Copy successfully"
+msgstr "Copy successfully"
+
+#: 
+msgctxt "FAIMusicItemMoreInfoWidget-version4"
+msgid "Music Downloads Catalog"
+msgstr "Music Downloads Catalog"
+
+#: 
+msgctxt "FAIMusicItemMoreInfoWidget-version4"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version4"
+msgid "(Not available for this asset)"
+msgstr "(Not available for this asset)"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version4"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version4"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version4"
+msgid "Our best and smartest model. Requires more processing time."
+msgstr "Our best and smartest model. Requires more processing time."
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version4"
+msgid "(Not compatible with this device)"
+msgstr "(Not compatible with this device)"
+
+#: 
+msgctxt "FPropertyAIPortraitVersionPresenter-version4"
+msgid "Our first generation real-time processing model."
+msgstr "Our first generation real-time processing model."
+
+#: 
+msgctxt "FFSaveTextPresetPanel-version4"
+msgid "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+msgstr "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+
+#: 
+msgctxt "FFSaveTextPresetPanel-version4"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FFSpeechToTextParamDialog-version4"
+msgid "Speech-to-Text parameter setting"
+msgstr "Speech-to-Text parameter setting"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version4"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version4"
+msgid "Ignore Alpha"
+msgstr "Ignore Alpha"
+
+#: 
+msgctxt "FPngPhotoInfoPage-version4"
+msgid "Premultiplied Alpha"
+msgstr "Premultiplied Alpha"
+

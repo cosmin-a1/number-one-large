@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version4"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version4"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "When there are multiple media present in different tracks at the same time, only the video or picture media in the top track are applied. Do you want to apply?"
+msgstr "When there are multiple media present in different tracks at the same time, only the video or picture media in the top track are applied. Do you want to apply?"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Blur style"
+msgstr "Blur style"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidget-version4"
+msgid "Level of blur"
+msgstr "Level of blur"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version4"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version4"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version4"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "your operation is too frequent"
+msgstr "your operation is too frequent"
+
+#: 
+msgctxt "FAIMusicToast-version4"
+msgid "Downloaded music will be displayed in \"AI Music > Generated\""
+msgstr "Downloaded music will be displayed in \"AI Music > Generated\""
+
+#: 
+msgctxt "FAIToolLevelWidget-version4"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FAIToolLevelWidget-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FAIToolLevelWidget-version4"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FAIToolLevelWidget-version4"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version4"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version4"
+msgid "Click to start analysis"
+msgstr "Click to start analysis"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version4"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version4"
+msgid "Click to start analysis again"
+msgstr "Click to start analysis again"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version4"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FPropertyAudioRippleWidget-version4"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: 
+msgctxt "FUseResourceGuideWidget-version4"
+msgid "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+msgstr "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+
+#: 
+msgctxt "FUseResourceGuideWidget-version4"
+msgid "Add Effects"
+msgstr "Add Effects"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "days"
+msgstr "days"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Proxy Files:"
+msgstr "Proxy Files:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Installed Effect:"
+msgstr "Installed Effect:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "AI Tools:"
+msgstr "AI Tools:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Preview Render files folder:"
+msgstr "Preview Render files folder:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "Cache Management:"
+msgstr "Cache Management:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version4"
+msgid "FSettingMediaCachePanel"
+msgstr "FSettingMediaCachePanel"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version4"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version4"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version4"
+msgid "Progress"
+msgstr "Progress"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version4"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "characters"
+msgstr "characters"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version4"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "TransCoding"
+msgstr "TransCoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Transcoding"
+msgstr "Transcoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version4"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Characters"
+msgstr "Characters"
+

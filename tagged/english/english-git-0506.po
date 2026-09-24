@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Share2"
+msgstr "Share2"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "AI title and description for social media"
+msgstr "AI title and description for social media"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Your export is incomplete. Do you want to abort?"
+msgstr "Your export is incomplete. Do you want to abort?"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Remaining pieces:"
+msgstr "Remaining pieces:"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Export Paused"
+msgstr "Export Paused"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Tencent"
+msgstr "Tencent"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+msgctxt "FExportProgressDialog-version4"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version4"
+msgid "Advanced Split Screen Edit"
+msgstr "Advanced Split Screen Edit"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version4"
+msgid "The split screen has been modified. Do you want to save the changes?"
+msgstr "The split screen has been modified. Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version4"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version4"
+msgid "Successfully applied to all subtitle bars"
+msgstr "Successfully applied to all subtitle bars"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version4"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+msgctxt "FDurationSettingDlg-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FDurationSettingDlg-version4"
+msgid "Duration Setting"
+msgstr "Duration Setting"
+
+#: 
+msgctxt "FDurationSettingDlg-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version4"
+msgid "Drag the items you want to use into the toolbar..."
+msgstr "Drag the items you want to use into the toolbar..."
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Export Succeed. "
+msgstr "Export Succeed. "
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Edit Thumbnail"
+msgstr "Edit Thumbnail"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "The thumbnail has been changed. Do you want to save your changes?"
+msgstr "The thumbnail has been changed. Do you want to save your changes?"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Export Failed."
+msgstr "Export Failed."
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Export to local"
+msgstr "Export to local"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Export Failed. Insufficient disk space. "
+msgstr "Export Failed. Insufficient disk space. "
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Applying template effects, please waiting..."
+msgstr "Applying template effects, please waiting..."
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FProjectCoverDialog-version4"
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+#: 
+msgctxt "FSavePreseNametDlg-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FSavePreseNametDlg-version4"
+msgid "This name is already in use. Do you want to overwrite the preset?"
+msgstr "This name is already in use. Do you want to overwrite the preset?"
+
+#: 
+msgctxt "FSavePreseNametDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSavePreseNametDlg-version4"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Send"
+msgstr "Send"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "We're Sorry!"
+msgstr "We're Sorry!"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+msgstr "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Please include a description of the issue under 'Feedback'."
+msgstr "Please include a description of the issue under 'Feedback'."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Please include a description of the issue or a Problem Log."
+msgstr "Please include a description of the issue or a Problem Log."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Please include you email and description."
+msgstr "Please include you email and description."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+msgstr "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "This is where we'll get back to you.Double check that it's right."
+msgstr "This is where we'll get back to you.Double check that it's right."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Sending"
+msgstr "Sending"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "E-mail format is incorret."
+msgstr "E-mail format is incorret."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "*Feedback"
+msgstr "*Feedback"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Network connection failed."
+msgstr "Network connection failed."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Thanks for contact us. Please submit your suggestions or requirements below."
+msgstr "Thanks for contact us. Please submit your suggestions or requirements below."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Please provide Email, description or log."
+msgstr "Please provide Email, description or log."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "*E-mail"
+msgstr "*E-mail"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "include program log"
+msgstr "include program log"
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Please include your email."
+msgstr "Please include your email."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+msgctxt "FFeedBackPanel-version4"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "File Type"
+msgstr "File Type"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Last Modified Time"
+msgstr "Last Modified Time"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version4"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Please go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+msgstr "Please go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Please go to clear local disk space or go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+msgstr "Please go to clear local disk space or go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "There is not enough space on drive %1."
+msgstr "There is not enough space on drive %1."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Process"
+msgstr "Process"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Out of Disk Space"
+msgstr "Out of Disk Space"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Operations"
+msgstr "Operations"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Folder is not writable."
+msgstr "Folder is not writable."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "There are no tasks currently in progress, select files to download!"
+msgstr "There are no tasks currently in progress, select files to download!"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "Unwritable Tip"
+msgstr "Unwritable Tip"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version4"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version4"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version4"
+msgid "Roundness"
+msgstr "Roundness"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version4"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version4"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version4"
+msgid "Exposure"
+msgstr "Exposure"
+

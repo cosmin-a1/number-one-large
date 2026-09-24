@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QWidget-version4"
+msgid "Material_1"
+msgstr "Material_1"
+
+#: 
+msgctxt "FMediaItemIconDelegate-version4"
+msgid "Click to clear template effect"
+msgstr "Click to clear template effect"
+
+#: 
+msgctxt "FIntroLogoTitleBar-version4"
+msgid "Add Your Logo"
+msgstr "Add Your Logo"
+
+#: 
+msgctxt "FFUpgradeMultiElementDialog-version4"
+msgid "Download Tips"
+msgstr "Download Tips"
+
+#: 
+msgctxt "FFUpgradeMultiElementDialog-version4"
+msgid "Installation Tips"
+msgstr "Installation Tips"
+
+#: 
+msgctxt "FTimelineItemWidget-version4"
+msgid "Element"
+msgstr "Element"
+
+#: 
+msgctxt "FFResourceConvertItem-version4"
+msgid "Your source projects are damaged"
+msgstr "Your source projects are damaged"
+
+#: 
+msgctxt "FFMissingResourceDownloadMgr-version4"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+msgctxt "FImportMaterialPage-version4"
+msgid "All Templates"
+msgstr "All Templates"
+
+#: 
+msgctxt "FImportMaterialPage-version4"
+msgid "Import your media"
+msgstr "Import your media"
+
+#: 
+msgctxt "FTitleBarBuyBtn-version4"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: 
+msgctxt "FTitleBarBuyBtn-version4"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FTimelineAudioRecorderActionPresenter-version4"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+msgctxt "FFVoicePanel-version4"
+msgid "There is currently no collection, go and collect your favorite vocalist!"
+msgstr "There is currently no collection, go and collect your favorite vocalist!"
+
+#: 
+msgctxt "FFPlaySettingWidget-version4"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FFTransferCenterDlg-version4"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "BorisFXUnActivationDialog-version4"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+msgctxt "FCheckSchemePlanFailedWebStateWidget-version4"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+msgctxt "FCloudMediaNavigationBar-version4"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+msgctxt "FCloudProjectWidget-version4"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+msgctxt "FFDrawMaskGuideWidget-version4"
+msgid "Brush over an area to begin Smart Cutout."
+msgstr "Brush over an area to begin Smart Cutout."
+
+#: 
+msgctxt "FNothingFindWid-version4"
+msgid "No results matched the searching keywords."
+msgstr "No results matched the searching keywords."
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidgetClass-version4"
+msgid "FPropertyMaskAIMaskWidget"
+msgstr "FPropertyMaskAIMaskWidget"
+
+#: 
+msgctxt "FBackupProjectDetailWidget-version4"
+msgid "All Projects"
+msgstr "All Projects"
+
+#: 
+msgctxt "FGraphicsVideoClipPainter-version4"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FGraphicsVideoClipPainter-version4"
+msgid "Removing object (Task %1)"
+msgstr "Removing object (Task %1)"
+
+#: 
+msgctxt "FUserLabelToast-version4"
+msgid "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+msgstr "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+
+#: 
+msgctxt "FTimelineZoomToFitActionPresenter-version4"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FInstantModeWidget-version4"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+msgctxt "FInstantModeWidget-version4"
+msgid "Create your own videos from templates"
+msgstr "Create your own videos from templates"
+
+#: 
+msgctxt "FInstantModeWidget-version4"
+msgid "Get Filmora Cloud"
+msgstr "Get Filmora Cloud"
+
+#: 
+msgctxt "FFMenu-version4"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FFTabWidget-version4"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FFTransferCenterLimitItemWidget-version4"
+msgid "*Up to 200 transmission history records"
+msgstr "*Up to 200 transmission history records"
+
+#: 
+msgctxt "FFWebcamRecordView-version4"
+msgid "Capture Video"
+msgstr "Capture Video"
+
+#: 
+msgctxt "FExportPurchaseTimingWidget-version4"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+msgctxt "FFCropAndZoomDialog-version4"
+msgid "Crop and Zoom"
+msgstr "Crop and Zoom"
+
+#: 
+msgctxt "FFUpgradeMultiElementWidget-version4"
+msgid "All Features"
+msgstr "All Features"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version4"
+msgid "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+msgstr "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version4"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskGroupWidgetClass-version4"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+msgctxt "FTTSCustomAddVoiceComponent-version4"
+msgid "Use Voice Clone to create your custom voice"
+msgstr "Use Voice Clone to create your custom voice"
+
+#: 
+msgctxt "FFNoNetworkWebStateWidget-version4"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FCloudDiskBottomBar-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFCloudDiskCheckDiskInfoDialog-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FKOCVideosItemWidget-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FTutorialVideosItemWidget-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "ProductItem-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FTTSNoFavoriteComponent-version4"
+msgid "There is currently no collection, go and collect your favorite voice!"
+msgstr "There is currently no collection, go and collect your favorite voice!"
+
+#: 
+msgctxt "FQuickEditProcessMask-version4"
+msgid "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+
+#: 
+msgctxt "FFSimpleProgressPanel-version4"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FTimelineQuick3DTextActionPresenter-version4"
+msgid "Quick 3D Text"
+msgstr "Quick 3D Text"
+
+#: 
+msgctxt "FRenewDialog-version4"
+msgid "If you have renewed Filmora, you can now export without a watermark!"
+msgstr "If you have renewed Filmora, you can now export without a watermark!"
+
+#: 
+msgctxt "FPropertyColorCurvePane-version4"
+msgid "The curve control point has reached the upper limit"
+msgstr "The curve control point has reached the upper limit"
+
+#: 
+msgctxt "FAISmartEditorSelectDlg-version4"
+msgid "AI Text Based Editing ( Silence Detection )"
+msgstr "AI Text Based Editing ( Silence Detection )"
+
+#: 
+msgctxt "someContext-version4"
+msgid "Some term"
+msgstr "Some term"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "."
+msgstr "."
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Please enter your email"
+msgstr "Please enter your email"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Enter your password"
+msgstr "Enter your password"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Create a Wondershare ID"
+msgstr "Create a Wondershare ID"
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "By clicking Create account, I agree that I have read and accepted the "
+msgstr "By clicking Create account, I agree that I have read and accepted the "
+
+#: 
+msgctxt "FUserRegisterPage-version5"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid ":"
+msgstr ":"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Transition Duration:"
+msgstr "Transition Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Pan & Zoom"
+msgstr "Pan & Zoom"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Photo Placement:"
+msgstr "Photo Placement:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Effect Duration:"
+msgstr "Effect Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Insert Mode:"
+msgstr "Insert Mode:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Split Button:"
+msgstr "Split Button:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Default Duration:"
+msgstr "Default Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Freeze Duration:"
+msgstr "Freeze Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Show the split button on timeline playhead"
+msgstr "Show the split button on timeline playhead"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Timeline Edit:"
+msgstr "Timeline Edit:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Split a single track"
+msgstr "Split a single track"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Split all tracks"
+msgstr "Split all tracks"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Quick Title Duration"
+msgstr "Quick Title Duration"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Click on the blank area to jump to the cursor position"
+msgstr "Click on the blank area to jump to the cursor position"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Cursor jump method:"
+msgstr "Cursor jump method:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Photo Duration:"
+msgstr "Photo Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version5"
+msgid "Filter Duration"
+msgstr "Filter Duration"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version5"
+msgid "L"
+msgstr "L"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version5"
+msgid "R"
+msgstr "R"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version5"
+msgid "L"
+msgstr "L"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version5"
+msgid "R"
+msgstr "R"
+
+#: 
+msgctxt "FFPositionEffectWidget-version5"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FFPositionEffectWidget-version5"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version5"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version5"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "QObject-version5"
+msgid "No"
+msgstr "No"
+

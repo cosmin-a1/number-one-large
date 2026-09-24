@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Record Media"
+msgstr "Record Media"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Open Recent"
+msgstr "Open Recent"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Effect&&Filter"
+msgstr "Effect&&Filter"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "For Designer"
+msgstr "For Designer"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Layout Mode"
+msgstr "Layout Mode"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Keyframe"
+msgstr "Keyframe"
+
+#: 
+msgctxt "FilmoraMenuBar-version4"
+msgid "Import from other Apps"
+msgstr "Import from other Apps"
+
+#: 
+msgctxt "FilmoraLayout-version4"
+msgid "Dual"
+msgstr "Dual"
+
+#: 
+msgctxt "FilmoraLayout-version4"
+msgid "Short Video"
+msgstr "Short Video"
+
+#: 
+msgctxt "FilmoraLayout-version4"
+msgid "Organize"
+msgstr "Organize"
+
+#: 
+msgctxt "FilmoraLayout-version4"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "FilmoraLayout-version4"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FilmoraLayout-version4"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+
+#: 
+msgctxt "FFBeatSyncWidget-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FFBeatSyncWidget-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FFBeatSyncWidget-version4"
+msgid "Background Music"
+msgstr "Background Music"
+
+#: 
+msgctxt "FFBeatSyncWidget-version4"
+msgid "Beat Cut"
+msgstr "Beat Cut"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version4"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version4"
+msgid "Freeze Frame"
+msgstr "Freeze Frame"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version4"
+msgid "Custom Speed"
+msgstr "Custom Speed"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version4"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version4"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version4"
+msgid "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+msgstr "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version4"
+msgid "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+msgstr "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version4"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version4"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version4"
+msgid "Once you exit, the changes will not be saved."
+msgstr "Once you exit, the changes will not be saved."
+
+#: 
+msgctxt "FSilenceDetectionDialog-version4"
+msgid "Are you sure you want to exit the Silence Detection?"
+msgstr "Are you sure you want to exit the Silence Detection?"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version4"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Return to Startup window"
+msgstr "Return to Startup window"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "About..."
+msgstr "About..."
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Support center"
+msgstr "Support center"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Account Information"
+msgstr "Account Information"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "TemplateModeScene-version4"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Shape Border"
+msgstr "Shape Border"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Shape Fill"
+msgstr "Shape Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Add a shadow to this layer"
+msgstr "Add a shadow to this layer"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Video Fill"
+msgstr "Video Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Input Text"
+msgstr "Input Text"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version4"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FPropertyBasicTransformWidgetClass-version4"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+msgctxt "FRecordPreViewSetting-version4"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+msgctxt "FRecordPreViewSetting-version4"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FRecordPreViewSetting-version4"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FRecordPreViewSetting-version4"
+msgid "Switch to Circle"
+msgstr "Switch to Circle"
+
+#: 
+msgctxt "FRecordPreViewSetting-version4"
+msgid "Switch to Square"
+msgstr "Switch to Square"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Font"
+msgstr "Font"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Add your first \"Favorite\" font"
+msgstr "Add your first \"Favorite\" font"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Load more cloud fonts"
+msgstr "Load more cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Failed to load cloud fonts, please check your network connection and try again."
+msgstr "Failed to load cloud fonts, please check your network connection and try again."
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "No results found"
+msgstr "No results found"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "Local fonts"
+msgstr "Local fonts"
+
+#: 
+msgctxt "FFontDataModel-version4"
+msgid "No recent selected font."
+msgstr "No recent selected font."
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "It is enabled, and you can freely set the content that needs to be synchronized."
+msgstr "It is enabled, and you can freely set the content that needs to be synchronized."
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Customization: title , template , adjustment layers, etc."
+msgstr "Customization: title , template , adjustment layers, etc."
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFSyncSettingWidget-version4"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+msgctxt "FPropertyScaleComponent-version4"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version4"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version4"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version4"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version4"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version4"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version4"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version4"
+msgid "Expand"
+msgstr "Expand"
+

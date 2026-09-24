@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCopyProxyFileDlg-version4"
+msgid "Copying file "
+msgstr "Copying file "
+
+#: 
+msgctxt "FCopyProxyFileDlg-version4"
+msgid "copy files "
+msgstr "copy files "
+
+#: 
+msgctxt "FFolderItemMenu-version4"
+msgid "Add a New Folder"
+msgstr "Add a New Folder"
+
+#: 
+msgctxt "FFolderItemMenu-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FFolderItemMenu-version4"
+msgid "Delete Folder"
+msgstr "Delete Folder"
+
+#: 
+msgctxt "FVoiceCloningWidget-version4"
+msgid "Cloning your voice… Please ensure that your network connection is stable."
+msgstr "Cloning your voice… Please ensure that your network connection is stable."
+
+#: 
+msgctxt "FVoiceCloningWidget-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FRecordMenu-version4"
+msgid "Record PC Screen"
+msgstr "Record PC Screen"
+
+#: 
+msgctxt "FRecordMenu-version4"
+msgid "Record from Webcam"
+msgstr "Record from Webcam"
+
+#: 
+msgctxt "FRecordMenu-version4"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+msgctxt "FCheckDiskPanel-version4"
+msgid "Media Cache"
+msgstr "Media Cache"
+
+#: 
+msgctxt "FCheckDiskPanel-version4"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+msgctxt "FCheckDiskPanel-version4"
+msgid "Please free up space or adjust the Media Cache settings."
+msgstr "Please free up space or adjust the Media Cache settings."
+
+#: 
+msgctxt "FCheckDiskPanel-version4"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FCheckDiskPanel-version4"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FCollectionDialog-version4"
+msgid "What kind of videos do you want to create? Select from the keywords below for a better editing experience with Filmora (Max. 3 choices)."
+msgstr "What kind of videos do you want to create? Select from the keywords below for a better editing experience with Filmora (Max. 3 choices)."
+
+#: 
+msgctxt "FCollectionDialog-version4"
+msgid "What kind of videos do you want to create? Select from the keywords below to get custom tutorials from the Filmora Creator Academy (Max. 3 choices)."
+msgstr "What kind of videos do you want to create? Select from the keywords below to get custom tutorials from the Filmora Creator Academy (Max. 3 choices)."
+
+#: 
+msgctxt "FCollectionDialog-version4"
+msgid "Perfect! Click \"Confirm\" to keep on learning with the Filmora Creator Academy."
+msgstr "Perfect! Click \"Confirm\" to keep on learning with the Filmora Creator Academy."
+
+#: 
+msgctxt "FCollectionDialog-version4"
+msgid "Great! Click \"Confirm\" to start editing with Filmora."
+msgstr "Great! Click \"Confirm\" to start editing with Filmora."
+
+#: 
+msgctxt "FCollectionDialog-version4"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FCollectionDialog-version4"
+msgid "What kind of video you would like to create? Select the keywords from below to have a better editing experience with Filmora (Max 3 choices)."
+msgstr "What kind of video you would like to create? Select the keywords from below to have a better editing experience with Filmora (Max 3 choices)."
+
+#: 
+msgctxt "FDownInsProWidget-version4"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FDownInsProWidget-version4"
+msgid "insufficient local disk space (2G)"
+msgstr "insufficient local disk space (2G)"
+
+#: 
+msgctxt "FDownInsProWidget-version4"
+msgid "Installing"
+msgstr "Installing"
+
+#: 
+msgctxt "FDownInsProWidget-version4"
+msgid "Failed in installing the effect plug-in, please click \"retry\" to try again."
+msgstr "Failed in installing the effect plug-in, please click \"retry\" to try again."
+
+#: 
+msgctxt "FDownInsProWidget-version4"
+msgid "Network link failed, please check"
+msgstr "Network link failed, please check"
+
+#: 
+msgctxt "FDownInsProWidget-version4"
+msgid "Exception error, unable to download and install the plug-in."
+msgstr "Exception error, unable to download and install the plug-in."
+
+#: 
+msgctxt "FProcessBarWidget-version4"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FGraphicsTextEditVideoClipPainter-version4"
+msgid "Preset Video"
+msgstr "Preset Video"
+
+#: 
+msgctxt "FPropertyAutoMaskTypeListPresenter-version4"
+msgid "Select Character"
+msgstr "Select Character"
+
+#: 
+msgctxt "FPropertyAutoMaskTypeListPresenter-version4"
+msgid "Smart Brush"
+msgstr "Smart Brush"
+
+#: 
+msgctxt "FPropertyAutoMaskTypeListPresenter-version4"
+msgid "Select Subject"
+msgstr "Select Subject"
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "Compress media..."
+msgstr "Compress media..."
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "You must install the HEVC codec to use this feature. Click \"OK\" to go to the codec download page, which will be enabled after installation"
+msgstr "You must install the HEVC codec to use this feature. Click \"OK\" to go to the codec download page, which will be enabled after installation"
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "Export Template Project"
+msgstr "Export Template Project"
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "Output Settings"
+msgstr "Output Settings"
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "Exporting preview video..."
+msgstr "Exporting preview video..."
+
+#: 
+msgctxt "FExportLocalPanel-version4"
+msgid "highlight"
+msgstr "highlight"
+
+#: 
+msgctxt "FRatingDialog-version4"
+msgid "Please leave your rate. Your opinion is important to us."
+msgstr "Please leave your rate. Your opinion is important to us."
+
+#: 
+msgctxt "FRatingDialog-version4"
+msgid "Go Rating"
+msgstr "Go Rating"
+
+#: 
+msgctxt "FRatingDialog-version4"
+msgid "Refuse"
+msgstr "Refuse"
+
+#: 
+msgctxt "FRatingDialog-version4"
+msgid "Enjoy Filmora?"
+msgstr "Enjoy Filmora?"
+
+#: 
+msgctxt "FRatingDialog-version4"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+msgctxt "FRatingDialog-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FAdvanceSubtitleApplyAllProgressWidget-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FAdvanceSubtitleApplyAllProgressWidget-version4"
+msgid "Please wait, we are applying the style of this subtitle to all the subtitle bars......"
+msgstr "Please wait, we are applying the style of this subtitle to all the subtitle bars......"
+
+#: 
+msgctxt "FPropertyMotionAnimationListview-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FPropertyMotionAnimationListview-version4"
+msgid "Set as a default motion"
+msgstr "Set as a default motion"
+
+#: 
+msgctxt "FPropertyMotionAnimationListview-version4"
+msgid "Random to All"
+msgstr "Random to All"
+
+#: 
+msgctxt "FFTextToSpeechTableModel-version4"
+msgid "Completed/Total"
+msgstr "Completed/Total"
+
+#: 
+msgctxt "FFTextToSpeechTableModel-version4"
+msgid "Completed/TotalWord"
+msgstr "Completed/TotalWord"
+
+#: 
+msgctxt "FUserLabelCustomButton-version4"
+msgid "Try right clicking to edit the tag"
+msgstr "Try right clicking to edit the tag"
+
+#: 
+msgctxt "FFConvertDontRemindPanel-version4"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+msgctxt "FFConvertDontRemindPanel-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFConvertDontRemindPanel-version4"
+msgid "If you choose not to remind, you'll not be able to restore your \"Shared Media\" library, \"My Music\" library, \"Favorites\" and \"Color Presets\" created with previous version of Filmora."
+msgstr "If you choose not to remind, you'll not be able to restore your \"Shared Media\" library, \"My Music\" library, \"Favorites\" and \"Color Presets\" created with previous version of Filmora."
+
+#: 
+msgctxt "FGpuInfoWidget-version4"
+msgid "Graphics card mismatches with driver. Please update your driver according to the instructions."
+msgstr "Graphics card mismatches with driver. Please update your driver according to the instructions."
+
+#: 
+msgctxt "FGpuInfoWidget-version4"
+msgid "Graphics card performance is low. GPU acceleration disabled."
+msgstr "Graphics card performance is low. GPU acceleration disabled."
+
+#: 
+msgctxt "FGpuInfoWidget-version4"
+msgid "Details"
+msgstr "Details"
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidget-version4"
+msgid "Stabilization failed."
+msgstr "Stabilization failed."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidget-version4"
+msgid "Stabilization successful."
+msgstr "Stabilization successful."
+
+#: 
+msgctxt "FPropertyStabilizationAnalysisWidget-version4"
+msgid "Try again"
+msgstr "Try again"
+
+#: 
+msgctxt "FThemeMediaBanner-version4"
+msgid "Search Results"
+msgstr "Search Results"
+
+#: 
+msgctxt "FThemeMediaBanner-version4"
+msgid "FThemeMediaBanner"
+msgstr "FThemeMediaBanner"
+
+#: 
+msgctxt "FThemeMediaBanner-version4"
+msgid "Related assets collection"
+msgstr "Related assets collection"
+
+#: 
+msgctxt "FThemeMediaBanner-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFAdvanceModeSettingWidget-version4"
+msgid "Track Reverse"
+msgstr "Track Reverse"
+
+#: 
+msgctxt "FFAdvanceModeSettingWidget-version4"
+msgid "Track Forward and Reverse"
+msgstr "Track Forward and Reverse"
+
+#: 
+msgctxt "FFAdvanceModeSettingWidget-version4"
+msgid "Track Forward"
+msgstr "Track Forward"
+
+#: 
+msgctxt "FFAdvanceModeSettingWidget-version4"
+msgid "Track One Section Forward"
+msgstr "Track One Section Forward"
+
+#: 
+msgctxt "FFAdvanceModeSettingWidget-version4"
+msgid "Track One Section Reverse"
+msgstr "Track One Section Reverse"
+
+#: 
+msgctxt "FAddImagePresenter-version4"
+msgid "Import Image"
+msgstr "Import Image"
+
+#: 
+msgctxt "FAddImagePresenter-version4"
+msgid "Click to import images from local"
+msgstr "Click to import images from local"
+
+#: 
+msgctxt "FPropertyOpenFXComboBoxPropertyWidget-version4"
+msgid "Load..."
+msgstr "Load..."
+
+#: 
+msgctxt "FPropertyOpenFXComboBoxPropertyWidget-version4"
+msgid "Load Preset"
+msgstr "Load Preset"
+
+#: 
+msgctxt "FEnsureActivateProjectExistDialog-version4"
+msgid "Loading"
+msgstr "Loading"
+
+#: 
+msgctxt "FFAutoHighlightWidget-version4"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FFAutoHighlightWidget-version4"
+msgid "Only clips under 5 hours can be analyzed by this tool."
+msgstr "Only clips under 5 hours can be analyzed by this tool."
+
+#: 
+msgctxt "FFAutoHighlightWidget-version4"
+msgid "Whole Length:"
+msgstr "Whole Length:"
+
+#: 
+msgctxt "FCloudDiskLogoutDialog-version4"
+msgid "Log Out"
+msgstr "Log Out"
+
+#: 
+msgctxt "FCloudDiskLogoutDialog-version4"
+msgid "Failed to log out of account, please click refresh and retry!"
+msgstr "Failed to log out of account, please click refresh and retry!"
+
+#: 
+msgctxt "FCloudDiskLogoutDialog-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudDiskLogoutDialog-version4"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "FCloudDiskLogoutDialog-version4"
+msgid "Are you sure you want to log out of your account?"
+msgstr "Are you sure you want to log out of your account?"
+
+#: 
+msgctxt "FCloudDiskLogoutDialog-version4"
+msgid "When you logout of your account, the page will be closed and the tasks in progress will be cleared."
+msgstr "When you logout of your account, the page will be closed and the tasks in progress will be cleared."
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version4"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version4"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version4"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version4"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version4"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FAccountBindWSIDDialog-version4"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+msgctxt "FAccountInfoDlg-version4"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FAccountInfoDlg-version4"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "FAccountInfoDlg-version4"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAccountInfoDlg-version4"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+msgctxt "FAccountInfoDlg-version4"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FAccountInfoDlg-version4"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version4"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version4"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "FAppstoreUserInfoDialog-version4"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+

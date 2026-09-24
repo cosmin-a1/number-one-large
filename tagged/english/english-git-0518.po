@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version4"
+msgid "Matches prompt"
+msgstr "Matches prompt"
+
+#: 
+msgctxt "FSchemePurchaseItemWidget-version4"
+msgid "Offer"
+msgstr "Offer"
+
+#: 
+msgctxt "FSchemePurchaseItemWidget-version4"
+msgid "Open vip"
+msgstr "Open vip"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Open file local location"
+msgstr "Open file local location"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version4"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version4"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version4"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version4"
+msgid "Creating:"
+msgstr "Creating:"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version4"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FPropertyViewClass-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Improvement program:"
+msgstr "Improvement program:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "User Interface:"
+msgstr "User Interface:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+msgstr "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+msgstr "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Launch:"
+msgstr "Launch:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Check for updates automatically:"
+msgstr "Check for updates automatically:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Message Center:"
+msgstr "Message Center:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Language:"
+msgstr "Language:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Help us to improve Wondershare Filmora"
+msgstr "Help us to improve Wondershare Filmora"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Reset all program warnings:"
+msgstr "Reset all program warnings:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Appearance:"
+msgstr "Appearance:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Miscellaneous:"
+msgstr "Miscellaneous:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Project Library Window at Startup:"
+msgstr "Project Library Window at Startup:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Every Week"
+msgstr "Every Week"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "System Default"
+msgstr "System Default"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Show this Startup window when Filmora launches"
+msgstr "Show this Startup window when Filmora launches"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Read Our Privacy Policy"
+msgstr "Read Our Privacy Policy"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Every Day"
+msgstr "Every Day"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Don't show messages automatically"
+msgstr "Don't show messages automatically"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "Light Mode"
+msgstr "Light Mode"
+
+#: 
+msgctxt "FSettingGeneralPanel-version4"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "What type of text are you going to do?"
+msgstr "What type of text are you going to do?"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "Product coverage"
+msgstr "Product coverage"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version4"
+msgid "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+msgstr "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Too much paid content"
+msgstr "Too much paid content"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Content not wanted"
+msgstr "Content not wanted"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Poor quality of content"
+msgstr "Poor quality of content"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Unclear catalog classification"
+msgstr "Unclear catalog classification"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Unclear resource naming"
+msgstr "Unclear resource naming"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version4"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Search for hot terms popular"
+msgstr "Search for hot terms popular"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Good quality of search results"
+msgstr "Good quality of search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Search for hot terms liked"
+msgstr "Search for hot terms liked"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version4"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version4"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version4"
+msgid "Automatic splitting"
+msgstr "Automatic splitting"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version4"
+msgid "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+msgstr "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version4"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version4"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Maximum Scramble"
+msgstr "Maximum Scramble"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Graph CONTROL"
+msgstr "Graph CONTROL"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Sharpen Amount"
+msgstr "BG Sharpen Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Right Two Thirds"
+msgstr "Right Two Thirds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Texture"
+msgstr "Texture"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Random Angle"
+msgstr "Random Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L2 Specular Highlight"
+msgstr "L2 Specular Highlight"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L1 Specular Highlight"
+msgstr "L1 Specular Highlight"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L3 Specular Highlight"
+msgstr "L3 Specular Highlight"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glitter Speed X"
+msgstr "Glitter Speed X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glitter Speed Y"
+msgstr "Glitter Speed Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Edge Map"
+msgstr "Edge Map"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Natural Light"
+msgstr "Natural Light"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "People Outdoors"
+msgstr "People Outdoors"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Point 10 Settings"
+msgstr "Point 10 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Garbage Matte"
+msgstr "Garbage Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Perturbation Seed"
+msgstr "Perturbation Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Modulation 1 Amount"
+msgstr "Modulation 1 Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Modulation 2 Amount"
+msgstr "Modulation 2 Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Use End Color"
+msgstr "Use End Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Noise : Twist : Disperse : Shift"
+msgstr "Noise : Twist : Disperse : Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Directional"
+msgstr "Directional"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "The Era"
+msgstr "The Era"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Feathering"
+msgstr "Feathering"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Farthest Z"
+msgstr "Farthest Z"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer A Rotation"
+msgstr "Layer A Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer B Rotation"
+msgstr "Layer B Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Wind Gustiness"
+msgstr "Wind Gustiness"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "FJI 8mm"
+msgstr "FJI 8mm"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Oval Soft Border"
+msgstr "Oval Soft Border"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Thicken"
+msgstr "Thicken"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Overall Opacity"
+msgstr "Overall Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Key Color Blue"
+msgstr "Key Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Detail Scale"
+msgstr "Detail Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Max Density"
+msgstr "Max Density"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interaction A"
+msgstr "Interaction A"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interaction B"
+msgstr "Interaction B"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pin All-Rotations with Propagation"
+msgstr "Pin All-Rotations with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Diamond"
+msgstr "Diamond"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pin Size with Propagation"
+msgstr "Pin Size with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Radiation"
+msgstr "Radiation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pick Tint Blue"
+msgstr "Pick Tint Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Pick tint Blue"
+msgstr "Pick tint Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Earthquake"
+msgstr "Earthquake"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Flashlight Shadow"
+msgstr "Flashlight Shadow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Diffuse"
+msgstr "Diffuse"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Digital"
+msgstr "Digital"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC+Streaks"
+msgstr "BCC+Streaks"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Gitty Green"
+msgstr "Gitty Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Tint On"
+msgstr "BG Tint On"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Continuous"
+msgstr "Continuous"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Throbbing Glow"
+msgstr "Throbbing Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Empty Frame"
+msgstr "Empty Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tilt In"
+msgstr "Tilt In"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Enable Generator 1"
+msgstr "Enable Generator 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Enable Generator 2"
+msgstr "Enable Generator 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Enable Generator 3"
+msgstr "Enable Generator 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Enable Generator 4"
+msgstr "Enable Generator 4"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "After Rotation"
+msgstr "After Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Degraded Amount"
+msgstr "Degraded Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Center Point X"
+msgstr "Center Point X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Center Point Y"
+msgstr "Center Point Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Apply Grade"
+msgstr "Apply Grade"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Particle End Color"
+msgstr "Particle End Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "From Top Right"
+msgstr "From Top Right"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Goldilocks"
+msgstr "Goldilocks"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Lucky Star!"
+msgstr "Lucky Star!"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Disable"
+msgstr "Disable"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Distant"
+msgstr "Distant"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L085 Deeper Blue"
+msgstr "L085 Deeper Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sharpen Amount"
+msgstr "Sharpen Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glint Ray Width"
+msgstr "Glint Ray Width"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Remove Yellow from Green"
+msgstr "Remove Yellow from Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Ring Intensity"
+msgstr "Ring Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blur Threshold"
+msgstr "Blur Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Blue Direction"
+msgstr "Blue Direction"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sharpen Radius"
+msgstr "Sharpen Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Laser Beam"
+msgstr "BCC Laser Beam"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Midtone High Range"
+msgstr "Midtone High Range"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Outside to Inside"
+msgstr "Outside to Inside"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Wildness Map Layer"
+msgstr "Wildness Map Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L363 Special Medium Blue"
+msgstr "L363 Special Medium Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Light Shading"
+msgstr "Light Shading"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Directional Blur"
+msgstr "BCC Directional Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BUILT-IN LIGHTS"
+msgstr "BUILT-IN LIGHTS"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Pixel Fixer"
+msgstr "BCC Pixel Fixer"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Messy Blush"
+msgstr "Messy Blush"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Tumble Variance"
+msgstr "Tumble Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Lock Width to Length"
+msgstr "Lock Width to Length"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "External File"
+msgstr "External File"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Color Mix with Propagation"
+msgstr "Color Mix with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Vibrant Colors"
+msgstr "Vibrant Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Positive Only"
+msgstr "Positive Only"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Auto-Fill"
+msgstr "Auto-Fill"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Distortion Field"
+msgstr "Distortion Field"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opaque Glow"
+msgstr "Opaque Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Min Signal Threshhold"
+msgstr "Min Signal Threshhold"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Slight Compression"
+msgstr "Slight Compression"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Size Random (%)"
+msgstr "Size Random (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Vertical Sync"
+msgstr "Vertical Sync"
+

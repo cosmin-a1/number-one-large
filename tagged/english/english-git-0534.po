@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FintroLogoRecommend-version4"
+msgid "Recommended"
+msgstr "Recommended"
+
+#: 
+msgctxt "FintroLogoRecommend-version4"
+msgid "Size: Less than 10 MB"
+msgstr "Size: Less than 10 MB"
+
+#: 
+msgctxt "FintroLogoRecommend-version4"
+msgid "Format:"
+msgstr "Format:"
+
+#: 
+msgctxt "FintroLogoRecommend-version4"
+msgid "Image size"
+msgstr "Image size"
+
+#: 
+msgctxt "FFPurchaseTopBar-version4"
+msgid "Monthly"
+msgstr "Monthly"
+
+#: 
+msgctxt "FFPurchaseTopBar-version4"
+msgid "Yearly"
+msgstr "Yearly"
+
+#: 
+msgctxt "FFColorSelecter-version4"
+msgid "More..."
+msgstr "More..."
+
+#: 
+msgctxt "FFColorSelecter-version4"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFMoreColorWidget-version4"
+msgid "More..."
+msgstr "More..."
+
+#: 
+msgctxt "FBannerWidget-version4"
+msgid "Get Creative Now"
+msgstr "Get Creative Now"
+
+#: 
+msgctxt "FBannerWidget-version4"
+msgid "See what's possible with Wondershare Filmora X!"
+msgstr "See what's possible with Wondershare Filmora X!"
+
+#: 
+msgctxt "FCheckingSchemePlanWebStateWidget-version4"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+msgctxt "FLowerRequirementDlg-version4"
+msgid "Update Graphics Driver"
+msgstr "Update Graphics Driver"
+
+#: 
+msgctxt "FLowerRequirementDlg-version4"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version4"
+msgid "Go to the subtitle editor after exporting"
+msgstr "Go to the subtitle editor after exporting"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version4"
+msgid "Export to timeline"
+msgstr "Export to timeline"
+
+#: 
+msgctxt "FFProgressPanel-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessProgressDialog-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessProgressDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpaceLoadMoreButton-version4"
+msgid "Click to load more"
+msgstr "Click to load more"
+
+#: 
+msgctxt "FEmptyTaskWidget-version4"
+msgid "No tasks in progress."
+msgstr "No tasks in progress."
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version4"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version4"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version4"
+msgid "%1 videos are yet to be generated.Are you sure you want to cancel ?"
+msgstr "%1 videos are yet to be generated.Are you sure you want to cancel ?"
+
+#: 
+msgctxt "FExportPanel-version4"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FExportPanel-version4"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FExportPanel-version4"
+msgid "There is not enough space in the specified output directory, please choose another one."
+msgstr "There is not enough space in the specified output directory, please choose another one."
+
+#: 
+msgctxt "FExportPanel-version4"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FPropertyAutoEnhanceWidget-version4"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FFModuleInstallView-version4"
+msgid "is being upgraded,please wait..."
+msgstr "is being upgraded,please wait..."
+
+#: 
+msgctxt "FFModuleInstallView-version4"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FFModuleInstallView-version4"
+msgid "The AI model cannot adapt to your device and this function cannot be used."
+msgstr "The AI model cannot adapt to your device and this function cannot be used."
+
+#: 
+msgctxt "FFModuleInstallView-version4"
+msgid "Please check your internet connection and try again.These features upgrade failed:"
+msgstr "Please check your internet connection and try again.These features upgrade failed:"
+
+#: 
+msgctxt "FFModuleInstallView-version4"
+msgid "Download failed. Please free up some storage space and try again."
+msgstr "Download failed. Please free up some storage space and try again."
+
+#: 
+msgctxt "FFModuleInstallView-version4"
+msgid "Upgrading"
+msgstr "Upgrading"
+
+#: 
+msgctxt "FProjectStateButton-version4"
+msgid "Backup"
+msgstr "Backup"
+
+#: 
+msgctxt "FProjectStateButton-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FIntroFactory-version4"
+msgid "Add Video or Picture"
+msgstr "Add Video or Picture"
+
+#: 
+msgctxt "FPSHelper-version4"
+msgid "Time remaining:"
+msgstr "Time remaining:"
+
+#: 
+msgctxt "FAutoCreateProgressDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAutoCreateProgressDlg-version4"
+msgid "Your creation is being made! This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made! This might take a couple minutes - magic takes time!"
+
+#: 
+msgctxt "FClipTrimAdjustPanel-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FClipTrimAdjustPanel-version4"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FCloudSpaceItems-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpaceItems-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceItems-version4"
+msgid "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+msgstr "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+
+#: 
+msgctxt "FCustomMediaProgressDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDoubleTipsDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDoubleTipsDialog-version4"
+msgid "Successfully installed!"
+msgstr "Successfully installed!"
+
+#: 
+msgctxt "FDoubleTipsDialog-version4"
+msgid " You can try the plug-in effect with a watermark, and you need to purchase an activation code to remove the watermark."
+msgstr " You can try the plug-in effect with a watermark, and you need to purchase an activation code to remove the watermark."
+
+#: 
+msgctxt "FDoubleTipsDialog-version4"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFAIErasingProressDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version4"
+msgid "There is not enough media in the source clip to fill the range in the timeline"
+msgstr "There is not enough media in the source clip to fill the range in the timeline"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version4"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version4"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version4"
+msgid "Continued editing will shorten the overall length"
+msgstr "Continued editing will shorten the overall length"
+
+#: 
+msgctxt "FScanningDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FScanningDlg-version4"
+msgid "Scanning media files. Please wait."
+msgstr "Scanning media files. Please wait."
+
+#: 
+msgctxt "FScanningDlg-version4"
+msgid "Files found: %1"
+msgstr "Files found: %1"
+
+#: 
+msgctxt "FScanningDlg-version4"
+msgid "Scanning Device"
+msgstr "Scanning Device"
+
+#: 
+msgctxt "FTryLimitRenewDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTryLimitRenewDialog-version4"
+msgid "Already renewed? Try refreshing your account information."
+msgstr "Already renewed? Try refreshing your account information."
+
+#: 
+msgctxt "FTryLimitRenewDialog-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FTitleBarFreeTrialBtn-version4"
+msgid "Try Filmora Creative Assets for free!"
+msgstr "Try Filmora Creative Assets for free!"
+
+#: 
+msgctxt "FTemplateResourceItemIconView-version4"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FEffectMaskMenu-version4"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+msgctxt "FEffectMaskMenu-version4"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FEffectMaskMenu-version4"
+msgid "Clear All Used Masks"
+msgstr "Clear All Used Masks"
+
+#: 
+msgctxt "FEffectMaskMenu-version4"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: 
+msgctxt "FEffectMaskMenu-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Are you satisfied with these resources?"
+msgstr "Are you satisfied with these resources?"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Feedback more"
+msgstr "Feedback more"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Thanks for your feedback"
+msgstr "Thanks for your feedback"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version4"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FOpenQuickStartAgainGuideWidget-version4"
+msgid "Filmora Walkthrough"
+msgstr "Filmora Walkthrough"
+
+#: 
+msgctxt "FOpenQuickStartAgainGuideWidget-version4"
+msgid "Restart Filmora Walkthrough"
+msgstr "Restart Filmora Walkthrough"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version4"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version4"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version4"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+msgctxt "FAdvanceTextCustomizeOutlineWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAdvanceTextCustomizeOutlineWidget-version4"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowWidget-version4"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FAdvancedPropertySubtitlePresetWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version4"
+msgid "Replace Thumbnail"
+msgstr "Replace Thumbnail"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version4"
+msgid "Reselect a thumbnail from video or local"
+msgstr "Reselect a thumbnail from video or local"
+
+#: 
+msgctxt "FCoverTemplateContentMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverTemplateContentMenu-version4"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FDeleteClipPresenter-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FDeleteClipPresenter-version4"
+msgid "Delete selected media"
+msgstr "Delete selected media"
+
+#: 
+msgctxt "FFreezeFrameContextMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFreezeFrameContextMenu-version4"
+msgid "Duration"
+msgstr "Duration"
+

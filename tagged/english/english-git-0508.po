@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Explore New Filters"
+msgstr "Explore New Filters"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Drag the handle to adjust the Curve"
+msgstr "Drag the handle to adjust the Curve"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "The newly created label will be displayed under the \"Favorites\" page. Right click to edit the label."
+msgstr "The newly created label will be displayed under the \"Favorites\" page. Right click to edit the label."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "AI Voice Cloning is here now!"
+msgstr "AI Voice Cloning is here now!"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Replace watermarked footages"
+msgstr "Replace watermarked footages"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "After editing you can back to Main Timeline by this Button."
+msgstr "After editing you can back to Main Timeline by this Button."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Right-click on a voice to delete it or rename it."
+msgstr "Right-click on a voice to delete it or rename it."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Double-click the J or L: play the video forward or backward at double speed;"
+msgstr "Double-click the J or L: play the video forward or backward at double speed;"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Subtitles are tied to your video screen. Changing the subtitles will also change the video screen."
+msgstr "Subtitles are tied to your video screen. Changing the subtitles will also change the video screen."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Try searching for characters, dialogue, and visual content in the video ."
+msgstr "Try searching for characters, dialogue, and visual content in the video ."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Automatically track the movement of objects"
+msgstr "Automatically track the movement of objects"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Click to remove tracking"
+msgstr "Click to remove tracking"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Multiple types of video scopes are available to help you in color grading"
+msgstr "Multiple types of video scopes are available to help you in color grading"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Each component corresponds to a creative feature"
+msgstr "Each component corresponds to a creative feature"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "The AI powered Audio Stretch tool to retime your audio to desired length - No need to cut or repeat music manually."
+msgstr "The AI powered Audio Stretch tool to retime your audio to desired length - No need to cut or repeat music manually."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Finish Edit"
+msgstr "Finish Edit"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Congratulations on completing the creation"
+msgstr "Congratulations on completing the creation"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Select the video or picture you want to use"
+msgstr "Select the video or picture you want to use"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Right-click on the player and check the ruler option"
+msgstr "Right-click on the player and check the ruler option"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Hover your mouse over the voice avatar to trigger a favorite action."
+msgstr "Hover your mouse over the voice avatar to trigger a favorite action."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "You can directly switch compound clips or go back to main timeline here."
+msgstr "You can directly switch compound clips or go back to main timeline here."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Draw a circle inside the mask object to quickly generate a mask"
+msgstr "Draw a circle inside the mask object to quickly generate a mask"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Add Mask"
+msgstr "Add Mask"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Save your personal video thumbnail template presets to make your next thumbnail quicker and easier!"
+msgstr "Save your personal video thumbnail template presets to make your next thumbnail quicker and easier!"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Edit Compound Clip"
+msgstr "Edit Compound Clip"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Filmora's camera recording feature has been upgraded!"
+msgstr "Filmora's camera recording feature has been upgraded!"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Get Started"
+msgstr "Get Started"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Press and hold the J and L keys: play the video in slow speed;"
+msgstr "Press and hold the J and L keys: play the video in slow speed;"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Switch to the preset that suits you!"
+msgstr "Switch to the preset that suits you!"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Create marketing videos more simply and effectively with our wide range of marketing-oriented commercial creative services."
+msgstr "Create marketing videos more simply and effectively with our wide range of marketing-oriented commercial creative services."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Edit Video with Text"
+msgstr "Edit Video with Text"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Recommendations for masking gameplay"
+msgstr "Recommendations for masking gameplay"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Get a realistic clone of your voice by recording a few seconds of audio with Filmora's AI Voice Cloning."
+msgstr "Get a realistic clone of your voice by recording a few seconds of audio with Filmora's AI Voice Cloning."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Delete all silent clips"
+msgstr "Delete all silent clips"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "You can edit screen recordings and camera footage separately."
+msgstr "You can edit screen recordings and camera footage separately."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Add Your Logo"
+msgstr "Add Your Logo"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "After editing in this screen, you can go to the subtitle editor for secondary editing"
+msgstr "After editing in this screen, you can go to the subtitle editor for secondary editing"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Remove muted clips with one click"
+msgstr "Remove muted clips with one click"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "You can drag the asset to the timeline to make your video more vivid"
+msgstr "You can drag the asset to the timeline to make your video more vivid"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Sample media is now placed under \"Stock media/Filmstock\""
+msgstr "Sample media is now placed under \"Stock media/Filmstock\""
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Premiere Pro/Final Cut Pro hotkey shortcuts are here"
+msgstr "Premiere Pro/Final Cut Pro hotkey shortcuts are here"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "A new beauty and face slimming column has been added to make attribute adjustment more convenient!"
+msgstr "A new beauty and face slimming column has been added to make attribute adjustment more convenient!"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Upload your Logo image to turn it into a creative animation"
+msgstr "Upload your Logo image to turn it into a creative animation"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "AI Translation is coming now! Translate voice and text."
+msgstr "AI Translation is coming now! Translate voice and text."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Right-click on a keyframe to adjust the curve for smoother animations"
+msgstr "Right-click on a keyframe to adjust the curve for smoother animations"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Add Subtitles"
+msgstr "Add Subtitles"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Unleash creativity with our game-changing filters for videos."
+msgstr "Unleash creativity with our game-changing filters for videos."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Create Marketing Videos"
+msgstr "Create Marketing Videos"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Use filters to select resources."
+msgstr "Use filters to select resources."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "The content downloaded from Filmstock will be displayed here."
+msgstr "The content downloaded from Filmstock will be displayed here."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Start creating with your selected video"
+msgstr "Start creating with your selected video"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Select Multiple Vertices"
+msgstr "Select Multiple Vertices"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Added beauty attribute adjustment"
+msgstr "Added beauty attribute adjustment"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Click here to edit text."
+msgstr "Click here to edit text."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Drag media here to replace it."
+msgstr "Drag media here to replace it."
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Replace Media"
+msgstr "Replace Media"
+
+#: 
+msgctxt "FFFunctionTips-version4"
+msgid "Change of layout!"
+msgstr "Change of layout!"
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Terms"
+msgstr "Terms"
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Powered by Pixabay "
+msgstr "Powered by Pixabay "
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Privacy"
+msgstr "Privacy"
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Powered by Pexels "
+msgstr "Powered by Pexels "
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Powered by Unsplash "
+msgstr "Powered by Unsplash "
+
+#: 
+msgctxt "FFStockMediaTipLabel-version4"
+msgid "Powered by Giphy "
+msgstr "Powered by Giphy "
+
+#: 
+msgctxt "FSubtitleListWidget-version4"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FSubtitleListWidget-version4"
+msgid "InOut"
+msgstr "InOut"
+
+#: 
+msgctxt "FSubtitleListWidget-version4"
+msgid "Time Code"
+msgstr "Time Code"
+
+#: 
+msgctxt "FSubtitleListWidget-version4"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FTemplateEditMediaView-version4"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FTemplateEditMediaView-version4"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FTemplateEditMediaView-version4"
+msgid "Stock Media"
+msgstr "Stock Media"
+
+#: 
+msgctxt "FPropertyDynamicTextBottomView-version4"
+msgid "Tips"
+msgstr "Tips"
+
+#: 
+msgctxt "FPropertyDynamicTextBottomView-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyDynamicTextBottomView-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FPropertyDynamicTextBottomView-version4"
+msgid "If the number is large, applying the full effect to the dynamic text clip may require some waiting time."
+msgstr "If the number is large, applying the full effect to the dynamic text clip may require some waiting time."
+
+#: 
+msgctxt "FPropertyDynamicTextBottomView-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyDynamicTextBottomView-version4"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMusicSettingMenu-version4"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+msgctxt "FMusicSettingMenu-version4"
+msgid "Music:"
+msgstr "Music:"
+
+#: 
+msgctxt "FMusicSettingMenu-version4"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FMusicSettingMenu-version4"
+msgid "Fade in:"
+msgstr "Fade in:"
+
+#: 
+msgctxt "FMusicSettingMenu-version4"
+msgid "Fade out:"
+msgstr "Fade out:"
+
+#: 
+msgctxt "LosslessDialog-version4"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+msgctxt "LosslessDialog-version4"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "LosslessDialog-version4"
+msgid "Click here for turorials."
+msgstr "Click here for turorials."
+
+#: 
+msgctxt "LosslessDialog-version4"
+msgid "Filmora Instant Cutter"
+msgstr "Filmora Instant Cutter"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version4"
+msgid "FAdvanceTextCustomizeBackgroundWidget"
+msgstr "FAdvanceTextCustomizeBackgroundWidget"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version4"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version4"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyBasicDropShadowWidgetClass-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyTitleShapeContentWidget-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyTitleShapeContentWidget-version4"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version4"
+msgid "Type"
+msgstr "Type"
+

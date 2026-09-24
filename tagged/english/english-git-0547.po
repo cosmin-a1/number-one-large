@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom in 1"
+msgstr "Zoom in 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom in 2"
+msgstr "Zoom in 2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom in 3"
+msgstr "Zoom in 3"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Spain)"
+msgstr "Spanish (Spain)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Crop To Fit"
+msgstr "Crop To Fit"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Enable Timeline Snapping"
+msgstr "Enable Timeline Snapping"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Vocal Remover"
+msgstr "AI Vocal Remover"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Split Style"
+msgstr "Split Style"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Boost Color"
+msgstr "Boost Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Effect&&Filter"
+msgstr "Effect&&Filter"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Heart Color"
+msgstr "Heart Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "interval_light"
+msgstr "interval_light"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Download failed. Please try again."
+msgstr "Download failed. Please try again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Are you sure to quit Speech-to-Text?"
+msgstr "Are you sure to quit Speech-to-Text?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Center Gradually Disappears"
+msgstr "Center Gradually Disappears"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Project Beginning"
+msgstr "Project Beginning"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Your export is incomplete. Do you want to abort?"
+msgstr "Your export is incomplete. Do you want to abort?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Export to local"
+msgstr "Export to local"
+
+#: 
+msgctxt "QObject-version5"
+msgid "VIP exclusive resources"
+msgstr "VIP exclusive resources"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Start time:"
+msgstr "Start time:"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Use Filmora Cloud to manage projects and materials and for convenient collaboration across multiple devices."
+msgstr "Use Filmora Cloud to manage projects and materials and for convenient collaboration across multiple devices."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Clear All Used Masks"
+msgstr "Clear All Used Masks"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Box Opacity"
+msgstr "Box Opacity"
+
+#: 
+msgctxt "QObject-version5"
+msgid "This type of file does not support replacement."
+msgstr "This type of file does not support replacement."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+msgctxt "QObject-version5"
+msgid "MiaoYing User Community"
+msgstr "MiaoYing User Community"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Wavy Appearance"
+msgstr "Wavy Appearance"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Record from Webcam"
+msgstr "Record from Webcam"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Downloaded Resources"
+msgstr "Downloaded Resources"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Advance Plan Right 1"
+msgstr "Advance Plan Right 1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Next Frame"
+msgstr "Next Frame"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Get Color"
+msgstr "Get Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add Guide"
+msgstr "Add Guide"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add Image"
+msgstr "Add Image"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Motion Blur"
+msgstr "Motion Blur"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Old Photo"
+msgstr "Old Photo"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add Shape"
+msgstr "Add Shape"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Only files within 30 minutes are supported for translation.Please select again."
+msgstr "Only files within 30 minutes are supported for translation.Please select again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Character Page Roll-in"
+msgstr "Character Page Roll-in"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Text Scale"
+msgstr "Text Scale"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Old Video"
+msgstr "Old Video"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Cool Max"
+msgstr "Cool Max"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+msgctxt "QObject-version5"
+msgid "randomColor"
+msgstr "randomColor"
+
+#: 
+msgctxt "QObject-version5"
+msgid "BG Opacity"
+msgstr "BG Opacity"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Remove Dark Circles"
+msgstr "Remove Dark Circles"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Not Sync"
+msgstr "Not Sync"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Process Ring Color"
+msgstr "Process Ring Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Polish (Poland)"
+msgstr "Polish (Poland)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Plexus Particles"
+msgstr "Plexus Particles"
+
+#: 
+msgctxt "QObject-version5"
+msgid "MotionTrack"
+msgstr "MotionTrack"
+
+#: 
+msgctxt "QObject-version5"
+msgid "100 Filmora AI Credits"
+msgstr "100 Filmora AI Credits"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Shape Mask"
+msgstr "Shape Mask"
+
+#: 
+msgctxt "QObject-version5"
+msgid "CUBE File"
+msgstr "CUBE File"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Zoom in to the bottom"
+msgstr "Zoom in to the bottom"
+
+#: 
+msgctxt "QObject-version5"
+msgid "End time:"
+msgstr "End time:"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Effect as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Effect as an example."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Finish and Replace"
+msgstr "Finish and Replace"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Click to go to the material page"
+msgstr "Click to go to the material page"
+
+#: 
+msgctxt "QObject-version5"
+msgid "One or more of your selected clips have been added to the timeline. Deleting them from the library will also delete them from the timeline."
+msgstr "One or more of your selected clips have been added to the timeline. Deleting them from the library will also delete them from the timeline."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Expansion"
+msgstr "Expansion"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Variety of Subtitles"
+msgstr "Variety of Subtitles"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Tamil (India)"
+msgstr "Tamil (India)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "The main track cannot paste resource materials."
+msgstr "The main track cannot paste resource materials."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Usage is too frequent. Retry later. Please wait 24 hours before trying again."
+msgstr "Usage is too frequent. Retry later. Please wait 24 hours before trying again."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Boris FX"
+msgstr "Boris FX"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Low Bass"
+msgstr "Low Bass"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Close Gap"
+msgstr "Close Gap"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Create Compound Clip"
+msgstr "Create Compound Clip"
+
+#: 
+msgctxt "QObject-version5"
+msgid "REFRESH"
+msgstr "REFRESH"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Your upload is incomplete. Do you want to abort?"
+msgstr "Your upload is incomplete. Do you want to abort?"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Blue Explosion"
+msgstr "Blue Explosion"
+
+#: 
+msgctxt "QObject-version5"
+msgid "color1"
+msgstr "color1"
+
+#: 
+msgctxt "QObject-version5"
+msgid "color2"
+msgstr "color2"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Rotation"
+msgstr "Rotation"
+
+#: 
+msgctxt "QObject-version5"
+msgid "rotate_x"
+msgstr "rotate_x"
+
+#: 
+msgctxt "QObject-version5"
+msgid "rotate_y"
+msgstr "rotate_y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "rotate_z"
+msgstr "rotate_z"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select all Clips with the Same Color Mark"
+msgstr "Select all Clips with the Same Color Mark"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Crosszoom"
+msgstr "Crosszoom"
+
+#: 
+msgctxt "QObject-version5"
+msgid "delete"
+msgstr "delete"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Edit Properties"
+msgstr "Edit Properties"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Smoothness"
+msgstr "Smoothness"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Motion X"
+msgstr "Motion X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Motion Y"
+msgstr "Motion Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Currently analyzing up to %1/%2 videos, processing may last several minutes. If there are longer files, individual processing is more recommended."
+msgstr "Currently analyzing up to %1/%2 videos, processing may last several minutes. If there are longer files, individual processing is more recommended."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Add picture to set as thumbnail"
+msgstr "Add picture to set as thumbnail"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Audio Visualization"
+msgstr "Audio Visualization"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Typewriter Appears"
+msgstr "Typewriter Appears"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Profile Rhinoplasty"
+msgstr "Profile Rhinoplasty"
+

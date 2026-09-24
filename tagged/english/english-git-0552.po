@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Radial Circle Color"
+msgstr "Radial Circle Color"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Click to listen to the song online"
+msgstr "Click to listen to the song online"
+
+#: 
+msgctxt "QObject-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Network Proxy Settings"
+msgstr "Network Proxy Settings"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Update Forever"
+msgstr "Update Forever"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Delete Preview Render Files"
+msgstr "Delete Preview Render Files"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Transition Color Pop-up"
+msgstr "Transition Color Pop-up"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Create a video"
+msgstr "Create a video"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "QObject-version5"
+msgid "(Default)"
+msgstr "(Default)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Vignette Radius"
+msgstr "Vignette Radius"
+
+#: 
+msgctxt "QObject-version5"
+msgid "NLog 709 Cinematic"
+msgstr "NLog 709 Cinematic"
+
+#: 
+msgctxt "QObject-version5"
+msgid "distortion_intensity"
+msgstr "distortion_intensity"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "QObject-version5"
+msgid "The template has been saved to the \"Custom\" directory."
+msgstr "The template has been saved to the \"Custom\" directory."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Export Settings"
+msgstr "Export Settings"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Validating activation status, please wait for a while..."
+msgstr "Validating activation status, please wait for a while..."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Previous Edit"
+msgstr "Previous Edit"
+
+#: 
+msgctxt "QObject-version5"
+msgid "rough cut"
+msgstr "rough cut"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Frosted Level"
+msgstr "Frosted Level"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Please name file"
+msgstr "Please name file"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Select a clip to apply the motion."
+msgstr "Select a clip to apply the motion."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Project End"
+msgstr "Project End"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Product FAQ"
+msgstr "Product FAQ"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Vertical Rotation Appears"
+msgstr "Vertical Rotation Appears"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Get Availabel frequence Error"
+msgstr "Get Availabel frequence Error"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Social Media"
+msgstr "Social Media"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Beauty Skin"
+msgstr "Beauty Skin"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Project Settings"
+msgstr "Project Settings"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Shrink Cheekbone"
+msgstr "Shrink Cheekbone"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Video Wall"
+msgstr "Video Wall"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uShowCoreLine"
+msgstr "uShowCoreLine"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Move to upper left"
+msgstr "Move to upper left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Move to lower left"
+msgstr "Move to lower left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "You are temporarily unable to continue downloading resources from POND5. Download permissions for these resources will be reset tomorrow."
+msgstr "You are temporarily unable to continue downloading resources from POND5. Download permissions for these resources will be reset tomorrow."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Spanish (Argentina)"
+msgstr "Spanish (Argentina)"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Open Canthus"
+msgstr "Open Canthus"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fade in Shake"
+msgstr "Fade in Shake"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Unrecognized file content."
+msgstr "Unrecognized file content."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Up Roll"
+msgstr "Up Roll"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Trim End To Playhead"
+msgstr "Trim End To Playhead"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Failed. Insufficient Cloud space."
+msgstr "Failed. Insufficient Cloud space."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Elegant"
+msgstr "Elegant"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Bullet time"
+msgstr "Bullet time"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Split View-Top/Bottom"
+msgstr "Split View-Top/Bottom"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Install Computer Audio Driver"
+msgstr "Install Computer Audio Driver"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Trembling"
+msgstr "Trembling"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Download failed. Network connection problems."
+msgstr "Download failed. Network connection problems."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Reminder"
+msgstr "Reminder"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Lower Left"
+msgstr "Lower Left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Upper Left"
+msgstr "Upper Left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "AMD Radeon R5 or later."
+msgstr "AMD Radeon R5 or later."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Play/Pause"
+msgstr "Play/Pause"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Rich Transition"
+msgstr "Rich Transition"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Round Eye"
+msgstr "Round Eye"
+
+#: 
+msgctxt "QObject-version5"
+msgid "vtEmotion"
+msgstr "vtEmotion"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Unsupported Language"
+msgstr "Unsupported Language"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "QObject-version5"
+msgid "English"
+msgstr "English"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uEnhance"
+msgstr "uEnhance"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Enhance"
+msgstr "Enhance"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Ungroup"
+msgstr "Ungroup"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgctxt "QObject-version5"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Download old version"
+msgstr "Download old version"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Sunshine"
+msgstr "Sunshine"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Center X"
+msgstr "Center X"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Center Y"
+msgstr "Center Y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "center_x"
+msgstr "center_x"
+
+#: 
+msgctxt "QObject-version5"
+msgid "center_y"
+msgstr "center_y"
+
+#: 
+msgctxt "QObject-version5"
+msgid "uCount_end"
+msgstr "uCount_end"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Get Creative"
+msgstr "Get Creative"
+
+#: 
+msgctxt "QObject-version5"
+msgid "glow_density"
+msgstr "glow_density"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Failed. There is insufficient disk space."
+msgstr "Failed. There is insufficient disk space."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Filmora Instagram"
+msgstr "Filmora Instagram"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Future car, Bus, unique front face, details, HDR, UHD, 8K, CG wallpaper"
+msgstr "Future car, Bus, unique front face, details, HDR, UHD, 8K, CG wallpaper"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Forward Rotation Appears"
+msgstr "Forward Rotation Appears"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Simple Elegent"
+msgstr "Simple Elegent"
+
+#: 
+msgctxt "QObject-version5"
+msgid "just supported less than 300"
+msgstr "just supported less than 300"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Not enough characters left"
+msgstr "Not enough characters left"
+
+#: 
+msgctxt "QObject-version5"
+msgid "MiaoYing BiliBili HomePage"
+msgstr "MiaoYing BiliBili HomePage"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Disable GPU acceleration temporarily."
+msgstr "Disable GPU acceleration temporarily."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fade In"
+msgstr "Fade In"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fade in"
+msgstr "Fade in"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Failed to clone your voice. Please try again later."
+msgstr "Failed to clone your voice. Please try again later."
+
+#: 
+msgctxt "QObject-version5"
+msgid "All Functions"
+msgstr "All Functions"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Fantasy"
+msgstr "Fantasy"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Your operation is too frequent."
+msgstr "Your operation is too frequent."
+
+#: 
+msgctxt "QObject-version5"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Frequency"
+msgstr "Frequency"
+
+#: 
+msgctxt "QObject-version5"
+msgid "Saturation"
+msgstr "Saturation"
+

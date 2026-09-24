@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "Expires: %1"
+msgstr "Expires: %1"
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "Expires: Unlimited"
+msgstr "Expires: Unlimited"
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "Free Plan"
+msgstr "Free Plan"
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "to refresh your authorization."
+msgstr "to refresh your authorization."
+
+#: 
+msgctxt "FAccountInfoPanel-version4"
+msgid "If you have purchased a plan,"
+msgstr "If you have purchased a plan,"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "Insufficient space, please upgrade Filmora Cloud"
+msgstr "Insufficient space, please upgrade Filmora Cloud"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "Upload failed, please check the network and try again"
+msgstr "Upload failed, please check the network and try again"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "The space has expired, please renew Filmora Cloud"
+msgstr "The space has expired, please renew Filmora Cloud"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+msgctxt "FProductHomePagePrivate-version4"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FSchemePlanItemWidget-version4"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version4"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version4"
+msgid "Unpaid user"
+msgstr "Unpaid user"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version4"
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version4"
+msgid "Click to copy"
+msgstr "Click to copy"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version4"
+msgid "Copied"
+msgstr "Copied"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version4"
+msgid "Task is in progress,please wait."
+msgstr "Task is in progress,please wait."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "The transcription failed, please re-select the file for transcription."
+msgstr "The transcription failed, please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "The language in the video doesn't match the selected language. Please choose again."
+msgstr "The language in the video doesn't match the selected language. Please choose again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+msgstr "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version4"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FExportUploadDlg-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FExportUploadDlg-version4"
+msgid "Please wait for a few minutes, still processing."
+msgstr "Please wait for a few minutes, still processing."
+
+#: 
+msgctxt "FExportUploadDlg-version4"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FExportUploadDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportUploadDlg-version4"
+msgid "Please check your connection and try again."
+msgstr "Please check your connection and try again."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version4"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version4"
+msgid "TransferCenter Waiting..."
+msgstr "TransferCenter Waiting..."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version4"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version4"
+msgid "Stopped"
+msgstr "Stopped"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version4"
+msgid "TransferCenter Stop"
+msgstr "TransferCenter Stop"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version4"
+msgid "to re-download a new copy of the installer for a fresh installation."
+msgstr "to re-download a new copy of the installer for a fresh installation."
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version4"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version4"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version4"
+msgid "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+msgstr "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version4"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version4"
+msgid "Please wait, it may take a while to download and install the effect plugin."
+msgstr "Please wait, it may take a while to download and install the effect plugin."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version4"
+msgid "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+msgstr "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version4"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version4"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+msgctxt "FProgressTipsDialog-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FProgressTipsDialog-version4"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FProgressTipsDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProgressTipsDialog-version4"
+msgid "Please wait a few minutes, download and install the plug-in."
+msgstr "Please wait a few minutes, download and install the plug-in."
+
+#: 
+msgctxt "FProgressTipsDialog-version4"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version4"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FSmartEditExport-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSmartEditExport-version4"
+msgid "Converting the %1/%2 video."
+msgstr "Converting the %1/%2 video."
+
+#: 
+msgctxt "FSmartEditExport-version4"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FSmartEditExport-version4"
+msgid "Conversion of %1/%2 videos has been completed."
+msgstr "Conversion of %1/%2 videos has been completed."
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version4"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version4"
+msgid "Generate preview videos for mobile"
+msgstr "Generate preview videos for mobile"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version4"
+msgid "Explosive template"
+msgstr "Explosive template"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version4"
+msgid "Template Name:"
+msgstr "Template Name:"
+
+#: 
+msgctxt "FPropertyAdvancedMosaicEffectWidget-version4"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version4"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version4"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version4"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version4"
+msgid "Corner Radius"
+msgstr "Corner Radius"
+
+#: 
+msgctxt "FTextTransformWidget-version4"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FTextTransformWidget-version4"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FTextTransformWidget-version4"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FScenceDetectListWidget-version4"
+msgid "Scene"
+msgstr "Scene"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version4"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "Clear Record"
+msgstr "Clear Record"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "TransferCenter Reveal in Finder"
+msgstr "TransferCenter Reveal in Finder"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "TransferCenter Reveal in Explorer"
+msgstr "TransferCenter Reveal in Explorer"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version4"
+msgid "Go to Project"
+msgstr "Go to Project"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "A file with the same name already exists."
+msgstr "A file with the same name already exists."
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "ProjectLibraryListItem-version4"
+msgid "Rename Tip"
+msgstr "Rename Tip"
+

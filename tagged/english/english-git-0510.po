@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Success"
+msgstr "Success"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "frequency"
+msgstr "frequency"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version4"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FAIGenerateToast-version4"
+msgid "view"
+msgstr "view"
+
+#: 
+msgctxt "FAIGenerateToast-version4"
+msgid "Image downloaded to directory Stock Media - AI Image - Downloads"
+msgstr "Image downloaded to directory Stock Media - AI Image - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version4"
+msgid "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+msgstr "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version4"
+msgid "Music downloaded to directory Audio - AI Music - Downloads"
+msgstr "Music downloaded to directory Audio - AI Music - Downloads"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "year"
+msgstr "year"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "month"
+msgstr "month"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "Yearly Plan"
+msgstr "Yearly Plan"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "Premium Month"
+msgstr "Premium Month"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "Premium Yearly"
+msgstr "Premium Yearly"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version4"
+msgid "Everything in standard plan effects"
+msgstr "Everything in standard plan effects"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version4"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version4"
+msgid "Search file names, visuals, and dialogue"
+msgstr "Search file names, visuals, and dialogue"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version4"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version4"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Search custom adjustment layer"
+msgstr "Search custom adjustment layer"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Search adjustment layer"
+msgstr "Search adjustment layer"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Search downloaded media"
+msgstr "Search downloaded media"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+msgctxt "FMediaModeBar-version4"
+msgid "Search custom compound clip"
+msgstr "Search custom compound clip"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Giphy"
+msgstr "Giphy"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search images and videos"
+msgstr "Search images and videos"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search all the GIFs and Stickers"
+msgstr "Search all the GIFs and Stickers"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search Favorite Media"
+msgstr "Search Favorite Media"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search Downloaded Media"
+msgstr "Search Downloaded Media"
+
+#: 
+msgctxt "FStockMediaModeBar-version4"
+msgid "Search free high-resolution photos"
+msgstr "Search free high-resolution photos"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search music"
+msgstr "Search music"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search my music"
+msgstr "Search my music"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search sound effects"
+msgstr "Search sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search downloaded music"
+msgstr "Search downloaded music"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search my favorite sound effects"
+msgstr "Search my favorite sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search downloaded sound effects"
+msgstr "Search downloaded sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version4"
+msgid "Search my favorite music"
+msgstr "Search my favorite music"
+
+#: 
+msgctxt "FAudioInfoPage-version4"
+msgid "Audio Info"
+msgstr "Audio Info"
+
+#: 
+msgctxt "FAudioInfoPage-version4"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FAudioInfoPage-version4"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+msgctxt "FAudioInfoPage-version4"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FAudioInfoPage-version4"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+msgctxt "FFRemainingWidget-version4"
+msgid "Remaining available characters: %1 "
+msgstr "Remaining available characters: %1 "
+
+#: 
+msgctxt "FFRemainingWidget-version4"
+msgid "Time Remaining:"
+msgstr "Time Remaining:"
+
+#: 
+msgctxt "FFRemainingWidget-version4"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFRemainingWidget-version4"
+msgid "Purchase more characters"
+msgstr "Purchase more characters"
+
+#: 
+msgctxt "FFRemainingWidget-version4"
+msgid "Purchase more"
+msgstr "Purchase more"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "Add Smart Brush"
+msgstr "Add Smart Brush"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "The longest only supports tracking for 20s."
+msgstr "The longest only supports tracking for 20s."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version4"
+msgid "Add Mask"
+msgstr "Add Mask"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "(Estimated)"
+msgstr "(Estimated)"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "Size:"
+msgstr "Size:"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "EXPORT"
+msgstr "EXPORT"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+msgstr "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "When this setting is checked, each export will use the previous export settings by default"
+msgstr "When this setting is checked, each export will use the previous export settings by default"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "Use the most recent export settings"
+msgstr "Use the most recent export settings"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "Use last export settings for local"
+msgstr "Use last export settings for local"
+
+#: 
+msgctxt "FExportModuleWidget-version4"
+msgid "Use last export settings for device"
+msgstr "Use last export settings for device"
+
+#: 
+msgctxt "FFScoreDialog-version4"
+msgid "To help Filmora make better progress, please leave your feedback."
+msgstr "To help Filmora make better progress, please leave your feedback."
+
+#: 
+msgctxt "FFScoreDialog-version4"
+msgid "FFScoreDialoguggestionLb"
+msgstr "FFScoreDialoguggestionLb"
+
+#: 
+msgctxt "FFScoreDialog-version4"
+msgid "Are you satisfied with Filmora?"
+msgstr "Are you satisfied with Filmora?"
+
+#: 
+msgctxt "FFScoreDialog-version4"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FAIGCCreateButton-version4"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+msgctxt "FAIGCCreateButton-version4"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIGCCreateSecondaryButton-version4"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+msgctxt "FAIGCCreateSecondaryButton-version4"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIMusicDenoiseSliderWidget-version4"
+msgid "Music Duration"
+msgstr "Music Duration"
+
+#: 
+msgctxt "FAIMusicDenoiseSliderWidget-version4"
+msgid "min:sec"
+msgstr "min:sec"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Previous Edit Point (%1)"
+msgstr "Previous Edit Point (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Next Edit Point (%1)"
+msgstr "Next Edit Point (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Delete (%1)"
+msgstr "Delete (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Redo (%1)"
+msgstr "Redo (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Undo (%1)"
+msgstr "Undo (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version4"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+

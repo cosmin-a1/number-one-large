@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Start generating your own stickers today!"
+msgstr "Start generating your own stickers today!"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Spark your creativity with just one click"
+msgstr "Spark your creativity with just one click"
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FAIGCWidget-version4"
+msgid "Generate AI Sticker"
+msgstr "Generate AI Sticker"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version4"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version4"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version4"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version4"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version4"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version4"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version4"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyTextAnimationControl-version4"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version4"
+msgid "Selected %1 bar"
+msgstr "Selected %1 bar"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version4"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version4"
+msgid "Select all"
+msgstr "Select all"
+
+#: 
+msgctxt "FStoryEditToolBar-version4"
+msgid "Timeline"
+msgstr "Timeline"
+
+#: 
+msgctxt "FStoryEditToolBar-version4"
+msgid "Effect Control"
+msgstr "Effect Control"
+
+#: 
+msgctxt "FStoryEditToolBar-version4"
+msgid "Global Setting"
+msgstr "Global Setting"
+
+#: 
+msgctxt "FStoryEditToolBar-version4"
+msgid "Music Setting"
+msgstr "Music Setting"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version4"
+msgid "Try it out!"
+msgstr "Try it out!"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version4"
+msgid "Filmora Cloud is here."
+msgstr "Filmora Cloud is here."
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version4"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version4"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version4"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version4"
+msgid "Drag or import a video here to start reframing"
+msgstr "Drag or import a video here to start reframing"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version4"
+msgid "Downloading filmora"
+msgstr "Downloading filmora"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version4"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version4"
+msgid "Upgrading..."
+msgstr "Upgrading..."
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version4"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version4"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version4"
+msgid "We opened a new browser tab, you can log in in the new tab"
+msgstr "We opened a new browser tab, you can log in in the new tab"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version4"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version4"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version4"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version4"
+msgid "Waiting..."
+msgstr "Waiting..."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version4"
+msgid "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+msgstr "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version4"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version4"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version4"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version4"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FImportFailDialog-version4"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FImportFailDialog-version4"
+msgid "Importing failed"
+msgstr "Importing failed"
+
+#: 
+msgctxt "FImportFailDialog-version4"
+msgid "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+msgstr "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+
+#: 
+msgctxt "FImportFailDialog-version4"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version4"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version4"
+msgid "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+msgstr "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+
+#: 
+msgctxt "FUnsupportedFileDialog-version4"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version4"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FAlertDialog-version4"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version4"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version4"
+msgid " has no permission."
+msgstr " has no permission."
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version4"
+msgid "The install directory "
+msgstr "The install directory "
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Align"
+msgstr "Align"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Go to"
+msgstr "Go to"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Unlock Guides"
+msgstr "Unlock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Compare Color Before/After"
+msgstr "Compare Color Before/After"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Hide Guides"
+msgstr "Hide Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Guides"
+msgstr "Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version4"
+msgid "Zoom Level"
+msgstr "Zoom Level"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version4"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version4"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version4"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version4"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version4"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version4"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version4"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version4"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version4"
+msgid "ZoomRate"
+msgstr "ZoomRate"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version4"
+msgid "CenterX"
+msgstr "CenterX"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version4"
+msgid "CenterY"
+msgstr "CenterY"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version4"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version4"
+msgid "Fit split screen duration on the main timeline"
+msgstr "Fit split screen duration on the main timeline"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version4"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+msgctxt "FEffectContentMenu-version4"
+msgid "Apply"
+msgstr "Apply"
+
