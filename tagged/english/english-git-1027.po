@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "would_like_request"
+msgstr "would_like_request"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "required_plan"
+msgstr "required_plan"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "cannot_use_num"
+msgstr "cannot_use_num"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "calendar_blocked_for"
+msgstr "calendar_blocked_for"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "owner"
+msgstr "owner"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "subs_active"
+msgstr "subs_active"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "unlock_this_features"
+msgstr "unlock_this_features"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "your_active_plan"
+msgstr "your_active_plan"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "set_as_channel"
+msgstr "set_as_channel"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "channel_desc"
+msgstr "channel_desc"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "calendar_channels"
+msgstr "calendar_channels"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "individual"
+msgstr "individual"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "rsvp_blocked"
+msgstr "rsvp_blocked"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "verification_code_not_valid"
+msgstr "verification_code_not_valid"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "sms_desc"
+msgstr "sms_desc"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "landline_desc"
+msgstr "landline_desc"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "code_verify_desc"
+msgstr "code_verify_desc"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "landline"
+msgstr "landline"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "pro_public_calendar"
+msgstr "pro_public_calendar"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "is_your_phone_number"
+msgstr "is_your_phone_number"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "call_me_with_code"
+msgstr "call_me_with_code"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "pro_tier_dialog_title"
+msgstr "pro_tier_dialog_title"
+
+#: some text
+msgctxt "\"round1\".\"version8\""
+msgid "pro_tier_dialog_body"
+msgstr "pro_tier_dialog_body"
+
+#: some text
+msgctxt "\"round1\".\"production1\".\"weird context to see\""
+msgid "event_title multiple row\n"
+"text.\n"
+"\n"
+"Just for test."
+msgstr "event_title multiple row\n"
+"text.\n"
+"\n"
+"Just for test."
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "all_day"
+msgstr "all_day"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "save"
+msgstr "save"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "start_date"
+msgstr "start_date"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "end_date"
+msgstr "end_date"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "add_location"
+msgstr "add_location"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "delete"
+msgstr "delete"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "ok"
+msgstr "ok"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "cancel"
+msgstr "cancel"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "delete_event_alert"
+msgstr "delete_event_alert"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "exit_edit"
+msgstr "exit_edit"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "add_note"
+msgstr "add_note"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "select_color"
+msgstr "select_color"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "settings"
+msgstr "settings"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "add_a_reminder"
+msgstr "add_a_reminder"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "add_another_reminder"
+msgstr "add_another_reminder"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "minutes_before"
+msgstr "minutes_before"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "add_an_attendee"
+msgstr "add_an_attendee"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "add_another_attendee"
+msgstr "add_another_attendee"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "custom"
+msgstr "custom"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "custom_notification"
+msgstr "custom_notification"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "amount"
+msgstr "amount"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "enter_some_amount"
+msgstr "enter_some_amount"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "minutes"
+msgstr "minutes"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "hours"
+msgstr "hours"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "days"
+msgstr "days"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "weeks"
+msgstr "weeks"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "recent"
+msgstr "recent"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "all"
+msgstr "all"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "accepted"
+msgstr "accepted"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "pending"
+msgstr "pending"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "declined"
+msgstr "declined"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "search"
+msgstr "search"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "day_1"
+msgstr "day_1"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "day_3"
+msgstr "day_3"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "day_7"
+msgstr "day_7"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "first_day_of_week"
+msgstr "first_day_of_week"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "snooze"
+msgstr "snooze"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "today"
+msgstr "today"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "tomorrow"
+msgstr "tomorrow"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "notif_second_line_all_day"
+msgstr "notif_second_line_all_day"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "notif_first_line_regular"
+msgstr "notif_first_line_regular"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "notif_first_line_regular_past"
+msgstr "notif_first_line_regular_past"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "notif_first_line_regular_now"
+msgstr "notif_first_line_regular_now"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "notif_second_line_regular"
+msgstr "notif_second_line_regular"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "going"
+msgstr "going"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "yes"
+msgstr "yes"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "no"
+msgstr "no"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "maybe"
+msgstr "maybe"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "time"
+msgstr "time"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "starts"
+msgstr "starts"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "ends"
+msgstr "ends"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "does_not_repeat"
+msgstr "does_not_repeat"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "location"
+msgstr "location"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "reminders"
+msgstr "reminders"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "participants"
+msgstr "participants"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "notes"
+msgstr "notes"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "other_parameters"
+msgstr "other_parameters"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "default_color"
+msgstr "default_color"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "busy"
+msgstr "busy"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "beforeNumber"
+msgstr "beforeNumber"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "default_cal"
+msgstr "default_cal"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "long_tap_for"
+msgstr "long_tap_for"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "orange"
+msgstr "orange"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "pink"
+msgstr "pink"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "yellow"
+msgstr "yellow"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "grey"
+msgstr "grey"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "red"
+msgstr "red"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "purple"
+msgstr "purple"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "lavender"
+msgstr "lavender"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "light_green"
+msgstr "light_green"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "dark_blue"
+msgstr "dark_blue"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "dark_green"
+msgstr "dark_green"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "light_blue"
+msgstr "light_blue"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "delete_reminder"
+msgstr "delete_reminder"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "delete_attendee"
+msgstr "delete_attendee"
+
+#: some text
+msgctxt "\"round1\".\"production1\""
+msgid "done"
+msgstr "done"
+
