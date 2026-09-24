@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "about_group"
+msgstr "about_group"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "enter_text_here"
+msgstr "enter_text_here"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "tier_activated"
+msgstr "tier_activated"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "all_the_features"
+msgstr "all_the_features"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "plan_issue"
+msgstr "plan_issue"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "signed_with_a_landline"
+msgstr "signed_with_a_landline"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "change_to_mob"
+msgstr "change_to_mob"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "features_not_supported"
+msgstr "features_not_supported"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "you_can_either"
+msgstr "you_can_either"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "downgrade_calendar"
+msgstr "downgrade_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "phone_already_in_use"
+msgstr "phone_already_in_use"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "show_tasks_on_calendar"
+msgstr "show_tasks_on_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "tap_to_connect"
+msgstr "tap_to_connect"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "what_do_you_plan"
+msgstr "what_do_you_plan"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "share_calendars_with"
+msgstr "share_calendars_with"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "share_calendars_with_your_customers"
+msgstr "share_calendars_with_your_customers"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "landline_number"
+msgstr "landline_number"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "mobile_number"
+msgstr "mobile_number"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "calendar_verification_badge"
+msgstr "calendar_verification_badge"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "send_verification_request"
+msgstr "send_verification_request"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "send_verification_addition"
+msgstr "send_verification_addition"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "send_request"
+msgstr "send_request"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "would_like_request"
+msgstr "would_like_request"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "required_plan"
+msgstr "required_plan"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "cannot_use_num"
+msgstr "cannot_use_num"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "calendar_blocked_for"
+msgstr "calendar_blocked_for"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "owner"
+msgstr "owner"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "subs_active"
+msgstr "subs_active"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "unlock_this_features"
+msgstr "unlock_this_features"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "your_active_plan"
+msgstr "your_active_plan"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "set_as_channel"
+msgstr "set_as_channel"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "channel_desc"
+msgstr "channel_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "calendar_channels"
+msgstr "calendar_channels"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "individual"
+msgstr "individual"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "rsvp_blocked"
+msgstr "rsvp_blocked"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "verification_code_not_valid"
+msgstr "verification_code_not_valid"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "sms_desc"
+msgstr "sms_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "landline_desc"
+msgstr "landline_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "code_verify_desc"
+msgstr "code_verify_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "landline"
+msgstr "landline"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "pro_public_calendar"
+msgstr "pro_public_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "is_your_phone_number"
+msgstr "is_your_phone_number"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "call_me_with_code"
+msgstr "call_me_with_code"
+
+#: some text
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "pro_tier_dialog_title"
+msgstr "pro_tier_dialog_title"
+
+#: 
+msgctxt "ct-\"round4\".\"production4\".\"version8\""
+msgid "pro_tier_dialog_body"
+msgstr "pro_tier_dialog_body"
+
+#: 
+msgid "ceva"
+msgstr "ceva"
+
+#: 
+msgid "altceva"
+msgstr "altceva"
+
