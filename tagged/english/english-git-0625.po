@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version5"
+msgid "Cloud space is not available."
+msgstr "Cloud space is not available."
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version5"
+msgid "Drag and drop file upload"
+msgstr "Drag and drop file upload"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version5"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Lack of Storage"
+msgstr "Lack of Storage"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Are you sure you want to quit?"
+msgstr "Are you sure you want to quit?"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "You have task in progress"
+msgstr "You have task in progress"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Buy Storage"
+msgstr "Buy Storage"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDisk-version5"
+msgid "Insufficient cloud storage. Please buy more."
+msgstr "Insufficient cloud storage. Please buy more."
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Log in to your account to activate authorization"
+msgstr "Log in to your account to activate authorization"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "No file uploaded yet. Upload now!"
+msgstr "No file uploaded yet. Upload now!"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Sorry about the information pulling failure, please click to refresh!"
+msgstr "Sorry about the information pulling failure, please click to refresh!"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Storage:"
+msgstr "Storage:"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDiskView-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+msgstr "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Download failed: File does not exist"
+msgstr "Download failed: File does not exist"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+msgstr "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Network error. Please check network."
+msgstr "Network error. Please check network."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Sync failed"
+msgstr "Sync failed"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Download failed. Please check your network."
+msgstr "Download failed. Please check your network."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "%1 item(s) has been added to the Transfer Center."
+msgstr "%1 item(s) has been added to the Transfer Center."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Insufficient space. Please expand cloud storage."
+msgstr "Insufficient space. Please expand cloud storage."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Local directory \"%1\" is not write, please modify the local permission before downloading."
+msgstr "Local directory \"%1\" is not write, please modify the local permission before downloading."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version5"
+msgid "Insufficient Storage Available"
+msgstr "Insufficient Storage Available"
+
+#: 
+msgctxt "FFFAQWidget-version5"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Failed to upload to YouTube. For details, please check the FAQ."
+msgstr "Failed to upload to YouTube. For details, please check the FAQ."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid " Contact for help. "
+msgstr " Contact for help. "
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Failed to export %1. Do you want to continue exporting other files?"
+msgstr "Failed to export %1. Do you want to continue exporting other files?"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Uploading speed depends on the quality of your network."
+msgstr "Uploading speed depends on the quality of your network."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid " Please check the network settings or personal account permission settings and try to upload again."
+msgstr " Please check the network settings or personal account permission settings and try to upload again."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Thumbnail upload failed."
+msgstr "Thumbnail upload failed."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+msgstr "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Upload Failed"
+msgstr "Upload Failed"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Automatically delete video exported to local"
+msgstr "Automatically delete video exported to local"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Authorization denied. Please sign in to your %1 account to proceed. "
+msgstr "Authorization denied. Please sign in to your %1 account to proceed. "
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Uploaded Successfully"
+msgstr "Uploaded Successfully"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "To upload videos,you have to create at least one channel on you Google/YouTube account. Google \"Create a YouTube channel \"to seek official support of YouTube."
+msgstr "To upload videos,you have to create at least one channel on you Google/YouTube account. Google \"Create a YouTube channel \"to seek official support of YouTube."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Your YouTube account authorization has expired. Please log in again and authorize."
+msgstr "Your YouTube account authorization has expired. Please log in again and authorize."
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Your account doesn't have permissions to upload and set custom video thumbnails.%1"
+msgstr "Your account doesn't have permissions to upload and set custom video thumbnails.%1"
+
+#: 
+msgctxt "FUploadProgressDlg-version5"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "ESC"
+msgstr "ESC"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "⌥+Left Click"
+msgstr "⌥+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Alt+Scroll Up/Down"
+msgstr "Alt+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "⌘+Left Click"
+msgstr "⌘+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Alt+Left Click"
+msgstr "Alt+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Scroll Up/Down"
+msgstr "Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "⌘+Scroll Up/Down"
+msgstr "⌘+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "⇧+Scroll Up/Down"
+msgstr "⇧+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "⌥+Scroll Up/Down"
+msgstr "⌥+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Shift+Scroll Up/Down"
+msgstr "Shift+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Alt+Mouse Drag"
+msgstr "Alt+Mouse Drag"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Ctrl+Scroll Up/Down"
+msgstr "Ctrl+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "Ctrl+Left Click"
+msgstr "Ctrl+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version5"
+msgid "⌥+Mouse Drag"
+msgstr "⌥+Mouse Drag"
+
+#: 
+msgctxt "FClipperTextEdit-version5"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "FClipperTextEdit-version5"
+msgid "Copy"
+msgstr "Copy"
+

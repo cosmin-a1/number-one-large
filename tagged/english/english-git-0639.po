@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Launching the Filmora Walkthough guide will open a new project. Would you like to save your current project?"
+msgstr "Launching the Filmora Walkthough guide will open a new project. Would you like to save your current project?"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Backing up project"
+msgstr "Backing up project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "The AI model cannot adapt to your device and this function cannot be used."
+msgstr "The AI model cannot adapt to your device and this function cannot be used."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "You have set auto backup the previous version project."
+msgstr "You have set auto backup the previous version project."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Cannot open project. "
+msgstr "Cannot open project. "
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Please check your internet connection and try again, some features will not be available."
+msgstr "Please check your internet connection and try again, some features will not be available."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Archive"
+msgstr "Archive"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "download failed"
+msgstr "download failed"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Unzip project fail"
+msgstr "Unzip project fail"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Back up and open"
+msgstr "Back up and open"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "When opening an engineering project from a mobile phone or tablet, some functions/resources may be incompatible, please pay attention to the backup."
+msgstr "When opening an engineering project from a mobile phone or tablet, some functions/resources may be incompatible, please pay attention to the backup."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Save as"
+msgstr "Save as"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Incompatible Project"
+msgstr "Incompatible Project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Convert project fail"
+msgstr "Convert project fail"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "It is detected that the current device does not meet the conditions for enabling GPU acceleration, and there may be color differences during preview."
+msgstr "It is detected that the current device does not meet the conditions for enabling GPU acceleration, and there may be color differences during preview."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "The project has been modified. Do you want to save the changes?"
+msgstr "The project has been modified. Do you want to save the changes?"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Unzip Project"
+msgstr "Unzip Project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Save as Project"
+msgstr "Save as Project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "The project is being backed up to cloud storage and cannot be opened."
+msgstr "The project is being backed up to cloud storage and cannot be opened."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "The file name is invalid, please input another one."
+msgstr "The file name is invalid, please input another one."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Back up project"
+msgstr "Back up project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "The project file was saved with an old version of Filmora. In the new version, it will be backed up as a file named '_backup' and saved in the same folder as the original file."
+msgstr "The project file was saved with an old version of Filmora. In the new version, it will be backed up as a file named '_backup' and saved in the same folder as the original file."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+msgstr "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Path"
+msgstr "Path"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Drag area to generate keyframes"
+msgstr "Drag area to generate keyframes"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Track Object"
+msgstr "Track Object"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidget-version5"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version5"
+msgid "Path"
+msgstr "Path"
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version5"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version5"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version5"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version5"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Play"
+msgstr "Play"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Clear In and Out"
+msgstr "Clear In and Out"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Audio Track"
+msgstr "Audio Track"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Save as Compound Clip Custom"
+msgstr "Save as Compound Clip Custom"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Append"
+msgstr "Append"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Editing Timeline"
+msgstr "Editing Timeline"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Create Proxy file"
+msgstr "Create Proxy file"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "AI Vocal Remover"
+msgstr "AI Vocal Remover"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Download Other Resolution"
+msgstr "Download Other Resolution"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Add to Split Screen"
+msgstr "Add to Split Screen"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Upload to Filmora Cloud"
+msgstr "Upload to Filmora Cloud"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Relink Media"
+msgstr "Relink Media"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Adjust Frame Rate"
+msgstr "Adjust Frame Rate"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Replication failed"
+msgstr "Replication failed"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Cancel Proxy"
+msgstr "Cancel Proxy"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Copy successfully"
+msgstr "Copy successfully"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Add to Template"
+msgstr "Add to Template"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Set as thumbnail"
+msgstr "Set as thumbnail"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Copy to global media"
+msgstr "Copy to global media"
+
+#: 
+msgctxt "FMediaContentMenu-version5"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+msgctxt "FMediaCustomClipMenu-version5"
+msgid "Play"
+msgstr "Play"
+
+#: 
+msgctxt "FMediaCustomClipMenu-version5"
+msgid "Delete from cloud disk"
+msgstr "Delete from cloud disk"
+
+#: 
+msgctxt "FMediaCustomClipMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaCustomClipMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FMediaCustomClipMenu-version5"
+msgid "Backup to cloud disk"
+msgstr "Backup to cloud disk"
+
+#: 
+msgctxt "FMediaCustomClipMenu-version5"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+msgctxt "FTemplatePreviewToolbar-version5"
+msgid "Play"
+msgstr "Play"
+
+#: 
+msgctxt "FTemplatePreviewToolbar-version5"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FTemplatePreviewToolbar-version5"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Play"
+msgstr "Play"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Add to the beginning of current project"
+msgstr "Add to the beginning of current project"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Add to the end of current project"
+msgstr "Add to the end of current project"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Delete from cloud disk"
+msgstr "Delete from cloud disk"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+

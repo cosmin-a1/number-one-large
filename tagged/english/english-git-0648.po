@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version5"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyTextAnimationControl-version5"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version5"
+msgid "Selected %1 bar"
+msgstr "Selected %1 bar"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version5"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version5"
+msgid "Select all"
+msgstr "Select all"
+
+#: 
+msgctxt "FStoryEditToolBar-version5"
+msgid "Timeline"
+msgstr "Timeline"
+
+#: 
+msgctxt "FStoryEditToolBar-version5"
+msgid "Effect Control"
+msgstr "Effect Control"
+
+#: 
+msgctxt "FStoryEditToolBar-version5"
+msgid "Global Setting"
+msgstr "Global Setting"
+
+#: 
+msgctxt "FStoryEditToolBar-version5"
+msgid "Music Setting"
+msgstr "Music Setting"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version5"
+msgid "Try it out!"
+msgstr "Try it out!"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version5"
+msgid "Filmora Cloud is here."
+msgstr "Filmora Cloud is here."
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version5"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version5"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version5"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version5"
+msgid "Drag or import a video here to start reframing"
+msgstr "Drag or import a video here to start reframing"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version5"
+msgid "Downloading filmora"
+msgstr "Downloading filmora"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version5"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version5"
+msgid "Upgrading..."
+msgstr "Upgrading..."
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version5"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version5"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version5"
+msgid "We opened a new browser tab, you can log in in the new tab"
+msgstr "We opened a new browser tab, you can log in in the new tab"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version5"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version5"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version5"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version5"
+msgid "Waiting..."
+msgstr "Waiting..."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version5"
+msgid "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+msgstr "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version5"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version5"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version5"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version5"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FImportFailDialog-version5"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FImportFailDialog-version5"
+msgid "Importing failed"
+msgstr "Importing failed"
+
+#: 
+msgctxt "FImportFailDialog-version5"
+msgid "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+msgstr "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+
+#: 
+msgctxt "FImportFailDialog-version5"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version5"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version5"
+msgid "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+msgstr "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+
+#: 
+msgctxt "FUnsupportedFileDialog-version5"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version5"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FAlertDialog-version5"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version5"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version5"
+msgid " has no permission."
+msgstr " has no permission."
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version5"
+msgid "The install directory "
+msgstr "The install directory "
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Align"
+msgstr "Align"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Go to"
+msgstr "Go to"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Unlock Guides"
+msgstr "Unlock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Compare Color Before/After"
+msgstr "Compare Color Before/After"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Hide Guides"
+msgstr "Hide Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Guides"
+msgstr "Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version5"
+msgid "Zoom Level"
+msgstr "Zoom Level"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version5"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version5"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version5"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version5"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version5"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+msgctxt "FPropertyCustomLutEffectWidget-version5"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version5"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version5"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version5"
+msgid "ZoomRate"
+msgstr "ZoomRate"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version5"
+msgid "CenterX"
+msgstr "CenterX"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version5"
+msgid "CenterY"
+msgstr "CenterY"
+
+#: 
+msgctxt "FPropertyMagnifyEffectWidget-version5"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAdvanceSSBottomBtnGroup-version5"
+msgid "Fit split screen duration on the main timeline"
+msgstr "Fit split screen duration on the main timeline"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FAdvanceTextBottomBtnGroup-version5"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FAudioContentMenu-version5"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Append"
+msgstr "Append"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Random to Selected Clips"
+msgstr "Random to Selected Clips"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+msgctxt "FEffectContentMenu-version5"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+

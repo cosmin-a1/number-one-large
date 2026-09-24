@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCheckingSchemePlanWebStateWidget-version5"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+msgctxt "FLowerRequirementDlg-version5"
+msgid "Update Graphics Driver"
+msgstr "Update Graphics Driver"
+
+#: 
+msgctxt "FLowerRequirementDlg-version5"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version5"
+msgid "Go to the subtitle editor after exporting"
+msgstr "Go to the subtitle editor after exporting"
+
+#: 
+msgctxt "FExportBottomBtnGroup-version5"
+msgid "Export to timeline"
+msgstr "Export to timeline"
+
+#: 
+msgctxt "FFProgressPanel-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessProgressDialog-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "LosslessProgressDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpaceLoadMoreButton-version5"
+msgid "Click to load more"
+msgstr "Click to load more"
+
+#: 
+msgctxt "FEmptyTaskWidget-version5"
+msgid "No tasks in progress."
+msgstr "No tasks in progress."
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version5"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version5"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FAutoReframeExportPresenter-version5"
+msgid "%1 videos are yet to be generated.Are you sure you want to cancel ?"
+msgstr "%1 videos are yet to be generated.Are you sure you want to cancel ?"
+
+#: 
+msgctxt "FExportPanel-version5"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "FExportPanel-version5"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FExportPanel-version5"
+msgid "There is not enough space in the specified output directory, please choose another one."
+msgstr "There is not enough space in the specified output directory, please choose another one."
+
+#: 
+msgctxt "FExportPanel-version5"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FPropertyAutoEnhanceWidget-version5"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FFModuleInstallView-version5"
+msgid "is being upgraded,please wait..."
+msgstr "is being upgraded,please wait..."
+
+#: 
+msgctxt "FFModuleInstallView-version5"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FFModuleInstallView-version5"
+msgid "The AI model cannot adapt to your device and this function cannot be used."
+msgstr "The AI model cannot adapt to your device and this function cannot be used."
+
+#: 
+msgctxt "FFModuleInstallView-version5"
+msgid "Please check your internet connection and try again.These features upgrade failed:"
+msgstr "Please check your internet connection and try again.These features upgrade failed:"
+
+#: 
+msgctxt "FFModuleInstallView-version5"
+msgid "Download failed. Please free up some storage space and try again."
+msgstr "Download failed. Please free up some storage space and try again."
+
+#: 
+msgctxt "FFModuleInstallView-version5"
+msgid "Upgrading"
+msgstr "Upgrading"
+
+#: 
+msgctxt "FProjectStateButton-version5"
+msgid "Backup"
+msgstr "Backup"
+
+#: 
+msgctxt "FProjectStateButton-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FIntroFactory-version5"
+msgid "Add Video or Picture"
+msgstr "Add Video or Picture"
+
+#: 
+msgctxt "FPSHelper-version5"
+msgid "Time remaining:"
+msgstr "Time remaining:"
+
+#: 
+msgctxt "FAutoCreateProgressDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAutoCreateProgressDlg-version5"
+msgid "Your creation is being made! This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made! This might take a couple minutes - magic takes time!"
+
+#: 
+msgctxt "FClipTrimAdjustPanel-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FClipTrimAdjustPanel-version5"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FCloudSpaceItems-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudSpaceItems-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceItems-version5"
+msgid "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+msgstr "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+
+#: 
+msgctxt "FCustomMediaProgressDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDoubleTipsDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FDoubleTipsDialog-version5"
+msgid "Successfully installed!"
+msgstr "Successfully installed!"
+
+#: 
+msgctxt "FDoubleTipsDialog-version5"
+msgid " You can try the plug-in effect with a watermark, and you need to purchase an activation code to remove the watermark."
+msgstr " You can try the plug-in effect with a watermark, and you need to purchase an activation code to remove the watermark."
+
+#: 
+msgctxt "FDoubleTipsDialog-version5"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFAIErasingProressDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version5"
+msgid "There is not enough media in the source clip to fill the range in the timeline"
+msgstr "There is not enough media in the source clip to fill the range in the timeline"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version5"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaRelpaceProcesser-version5"
+msgid "Continued editing will shorten the overall length"
+msgstr "Continued editing will shorten the overall length"
+
+#: 
+msgctxt "FScanningDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FScanningDlg-version5"
+msgid "Scanning media files. Please wait."
+msgstr "Scanning media files. Please wait."
+
+#: 
+msgctxt "FScanningDlg-version5"
+msgid "Files found: %1"
+msgstr "Files found: %1"
+
+#: 
+msgctxt "FScanningDlg-version5"
+msgid "Scanning Device"
+msgstr "Scanning Device"
+
+#: 
+msgctxt "FTryLimitRenewDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTryLimitRenewDialog-version5"
+msgid "Already renewed? Try refreshing your account information."
+msgstr "Already renewed? Try refreshing your account information."
+
+#: 
+msgctxt "FTryLimitRenewDialog-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FTitleBarFreeTrialBtn-version5"
+msgid "Try Filmora Creative Assets for free!"
+msgstr "Try Filmora Creative Assets for free!"
+
+#: 
+msgctxt "FTemplateResourceItemIconView-version5"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FEffectMaskMenu-version5"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+msgctxt "FEffectMaskMenu-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FEffectMaskMenu-version5"
+msgid "Clear All Used Masks"
+msgstr "Clear All Used Masks"
+
+#: 
+msgctxt "FEffectMaskMenu-version5"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: 
+msgctxt "FEffectMaskMenu-version5"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Are you satisfied with these resources?"
+msgstr "Are you satisfied with these resources?"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Feedback more"
+msgstr "Feedback more"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Thanks for your feedback"
+msgstr "Thanks for your feedback"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "IFFUserScoreBarPainter-version5"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FOpenQuickStartAgainGuideWidget-version5"
+msgid "Filmora Walkthrough"
+msgstr "Filmora Walkthrough"
+
+#: 
+msgctxt "FOpenQuickStartAgainGuideWidget-version5"
+msgid "Restart Filmora Walkthrough"
+msgstr "Restart Filmora Walkthrough"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version5"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version5"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FAdjustLayerContentMenu-version5"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+msgctxt "FAdvanceTextCustomizeOutlineWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAdvanceTextCustomizeOutlineWidget-version5"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowWidget-version5"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FAdvancedPropertySubtitlePresetWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version5"
+msgid "Replace Thumbnail"
+msgstr "Replace Thumbnail"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version5"
+msgid "Reselect a thumbnail from video or local"
+msgstr "Reselect a thumbnail from video or local"
+
+#: 
+msgctxt "FCoverTemplateContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverTemplateContentMenu-version5"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FDeleteClipPresenter-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FDeleteClipPresenter-version5"
+msgid "Delete selected media"
+msgstr "Delete selected media"
+
+#: 
+msgctxt "FFreezeFrameContextMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFreezeFrameContextMenu-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FGuideLineMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FGuideLineMenu-version5"
+msgid "Add Guide"
+msgstr "Add Guide"
+
+#: 
+msgctxt "FMaskItemList-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMaskItemList-version5"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FMaskItemList-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FMaskItemList-version5"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FMaskItemList-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FPropertyTitlePresetWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyTitlePresetWidget-version5"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FUserLabelManageListWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FUserLabelManageListWidget-version5"
+msgid "New tag"
+msgstr "New tag"
+

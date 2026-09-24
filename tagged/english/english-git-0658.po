@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFilmStockAskDialog-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFilmStockAskDialog-version5"
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: 
+msgctxt "FFilmStockAskDialog-version5"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFilmStockAskDialog-version5"
+msgid "Still have problems, please %1"
+msgstr "Still have problems, please %1"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "1TB Cloud Storage"
+msgstr "1TB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "20GB Cloud Storage"
+msgstr "20GB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "/ MONTH"
+msgstr "/ MONTH"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "Muti-terminal draft exchange"
+msgstr "Muti-terminal draft exchange"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "Unlimited credits validity"
+msgstr "Unlimited credits validity"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "100GB Cloud Storage"
+msgstr "100GB Cloud Storage"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "Extremely fast download"
+msgstr "Extremely fast download"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "10000 Credits Pack"
+msgstr "10000 Credits Pack"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "%1 per credit"
+msgstr "%1 per credit"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "5000 Credits Pack"
+msgstr "5000 Credits Pack"
+
+#: 
+msgctxt "FFPurchaseComponent-version5"
+msgid "1000 Credits Pack"
+msgstr "1000 Credits Pack"
+
+#: 
+msgctxt "SliderControlViewClass-version5"
+msgid "Disabled"
+msgstr "Disabled"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version5"
+msgid "Add Adjustment Point"
+msgstr "Add Adjustment Point"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version5"
+msgid "Delete Adjustment Point"
+msgstr "Delete Adjustment Point"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version5"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version5"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version5"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+msgctxt "FPropertySpeedRampingWidget-version5"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+msgctxt "FCoverRecommendationItem-version5"
+msgid "Please reload"
+msgstr "Please reload"
+
+#: 
+msgctxt "FCoverRecommendationItem-version5"
+msgid "Generating..."
+msgstr "Generating..."
+
+#: 
+msgctxt "FFreePurchaseDialog-version5"
+msgid "Enjoy Filmora Creative Assets for free"
+msgstr "Enjoy Filmora Creative Assets for free"
+
+#: 
+msgctxt "FFreePurchaseDialog-version5"
+msgid "Get a %1-Day Free Trial and unlock 10M+ creative assets, including titles, effects, copyrighted music, sound, LUTs, filters and templates."
+msgstr "Get a %1-Day Free Trial and unlock 10M+ creative assets, including titles, effects, copyrighted music, sound, LUTs, filters and templates."
+
+#: 
+msgctxt "FFreePurchaseDialog-version5"
+msgid "Activate your %1-Day Free Trial later through the Limited-time Offer in your Account Center."
+msgstr "Activate your %1-Day Free Trial later through the Limited-time Offer in your Account Center."
+
+#: 
+msgctxt "FFreePurchaseDialog-version5"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+msgctxt "FFreePurchaseDialog-version5"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FFreePurchaseDialog-version5"
+msgid "Back to Edit"
+msgstr "Back to Edit"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version5"
+msgid "Position X"
+msgstr "Position X"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version5"
+msgid "Position Y"
+msgstr "Position Y"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version5"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version5"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "FFMediaPlayerValueDisplayWidget-version5"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "FPropertySubtitleManager-version5"
+msgid "Unable to merge, already for the first subtitle"
+msgstr "Unable to merge, already for the first subtitle"
+
+#: 
+msgctxt "FPropertySubtitleManager-version5"
+msgid "Merge failed! Please select subtitles below 1000 bar to merge."
+msgstr "Merge failed! Please select subtitles below 1000 bar to merge."
+
+#: 
+msgctxt "FPropertySubtitleManager-version5"
+msgid "Unable to merge, already the last subtitle"
+msgstr "Unable to merge, already the last subtitle"
+
+#: 
+msgctxt "FPropertySubtitleManager-version5"
+msgid "Unable to split, please select a subtitle bar larger than one frame for splitting."
+msgstr "Unable to split, please select a subtitle bar larger than one frame for splitting."
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+msgstr "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "The definition of trial material is low"
+msgstr "The definition of trial material is low"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "Open vcg membership now"
+msgstr "Open vcg membership now"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "Try vcg Resource"
+msgstr "Try vcg Resource"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "Jump to rights"
+msgstr "Jump to rights"
+
+#: 
+msgctxt "FFVCGVIPGuideDialog-version5"
+msgid "pictures and music materials of visual China, which can be downloaded 50 times a day. The legitimate version supports commercial use."
+msgstr "pictures and music materials of visual China, which can be downloaded 50 times a day. The legitimate version supports commercial use."
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version5"
+msgid "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+msgstr "The material is provided by visual China. After opening the material member, you can enjoy the vast amount of exquisite video,"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version5"
+msgid "The definition of trial material is low"
+msgstr "The definition of trial material is low"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version5"
+msgid "Open vcg membership now"
+msgstr "Open vcg membership now"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version5"
+msgid "Try vcg Resource"
+msgstr "Try vcg Resource"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version5"
+msgid "Jump to rights"
+msgstr "Jump to rights"
+
+#: 
+msgctxt "FVCGVIPGuidePanel-version5"
+msgid "pictures and music materials of visual China, which can be downloaded %1 times a day. The legitimate version supports commercial use."
+msgstr "pictures and music materials of visual China, which can be downloaded %1 times a day. The legitimate version supports commercial use."
+
+#: 
+msgctxt "FImportMediaView-version5"
+msgid "Click or Drop to import"
+msgstr "Click or Drop to import"
+
+#: 
+msgctxt "FImportMediaView-version5"
+msgid "Videos,audios,and images"
+msgstr "Videos,audios,and images"
+
+#: 
+msgctxt "FImportMediaView-version5"
+msgid "Drop your SRT here or click here to import SRT file."
+msgstr "Drop your SRT here or click here to import SRT file."
+
+#: 
+msgctxt "FImportMediaView-version5"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FImportMediaView-version5"
+msgid "Drop your audio here or click here to import audio."
+msgstr "Drop your audio here or click here to import audio."
+
+#: 
+msgctxt "FImportMediaView-version5"
+msgid "Import media here to use it in multiple projects"
+msgstr "Import media here to use it in multiple projects"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Add Effect Mask"
+msgstr "Add Effect Mask"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FPropertyGroupHeader-version5"
+msgid "Presets are saved here, click to add"
+msgstr "Presets are saved here, click to add"
+
+#: 
+msgctxt "FFBgmContrlBarWidget-version5"
+msgid "Set BGM Start Time:"
+msgstr "Set BGM Start Time:"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version5"
+msgid "Frame Sampling"
+msgstr "Frame Sampling"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version5"
+msgid "Optical Flow"
+msgstr "Optical Flow"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version5"
+msgid "Frame Blending"
+msgstr "Frame Blending"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version5"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version5"
+msgid "Faster but lower quality"
+msgstr "Faster but lower quality"
+
+#: 
+msgctxt "FPropertySpeedAIFramePresenter-version5"
+msgid "Slower but higher quality"
+msgstr "Slower but higher quality"
+
+#: 
+msgctxt "FAIVoiceSeparationDialog-version5"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FAIVoiceSeparationDialog-version5"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FFPlayQualityWidget-version5"
+msgid "Switch Playback Quality can speed up playback performance"
+msgstr "Switch Playback Quality can speed up playback performance"
+
+#: 
+msgctxt "FFPlayQualityWidget-version5"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+msgctxt "FFPlayQualityWidget-version5"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "FFPlayQualityWidget-version5"
+msgid "Full Quality"
+msgstr "Full Quality"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search downloaded templates"
+msgstr "Search downloaded templates"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search my custom templates"
+msgstr "Search my custom templates"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search split screen"
+msgstr "Search split screen"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search my favorite templates"
+msgstr "Search my favorite templates"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search templates"
+msgstr "Search templates"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search my favorite split screen"
+msgstr "Search my favorite split screen"
+
+#: 
+msgctxt "FSplitScreenModeBar-version5"
+msgid "Search downloaded split screen"
+msgstr "Search downloaded split screen"
+
+#: 
+msgctxt "FExportGuideWidget-version5"
+msgid "Export and Share"
+msgstr "Export and Share"
+
+#: 
+msgctxt "FExportGuideWidget-version5"
+msgid "Export and share on Social Media"
+msgstr "Export and share on Social Media"
+
+#: 
+msgctxt "FTemplateStoryboardViewPresenter-version5"
+msgid "This media file is too short and has been processed at a reduced speed."
+msgstr "This media file is too short and has been processed at a reduced speed."
+
+#: 
+msgctxt "FTemplateStoryboardViewPresenter-version5"
+msgid "The duration of the material is too short to reuse the speed control effect."
+msgstr "The duration of the material is too short to reuse the speed control effect."
+
+#: 
+msgctxt "FTemplateStoryboardViewPresenter-version5"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+msgctxt "FTemplateStoryboardViewPresenter-version5"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+msgctxt "FFTextToSpeechHelper-version5"
+msgid "SpeakRate: "
+msgstr "SpeakRate: "
+
+#: 
+msgctxt "FFTextToSpeechHelper-version5"
+msgid "TotalWord: "
+msgstr "TotalWord: "
+
+#: 
+msgctxt "FFTextToSpeechHelper-version5"
+msgid "Vocalist: "
+msgstr "Vocalist: "
+
+#: 
+msgctxt "FFTextToSpeechHelper-version5"
+msgid "Inotation: "
+msgstr "Inotation: "
+
+#: 
+msgctxt "FBottomStateBar-version5"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+msgctxt "FBottomStateBar-version5"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+

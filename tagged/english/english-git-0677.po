@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Button label for sign up to 24me
+#: some text
+msgid "sign_up"
+msgstr "sign_up"
+
+#. Hint on name input field of new user screen
+#: some text
+msgid "full_name"
+msgstr "full_name"
+
+#. Error message if you trying to use existing email
+#: some text
+msgid "user_already_exist"
+msgstr "user_already_exist"
+
+#. Title on choose login method screen
+#: some text
+msgid "log_in_to"
+msgstr "log_in_to"
+
+#. Button label about forgot password
+#: some text
+msgid "forgot_your_password"
+msgstr "forgot_your_password"
+
+#. Button lable to login into app
+#: some text
+msgid "log_in"
+msgstr "log_in"
+
+#. Screen title on email login screen
+#: some text
+msgid "enter_your_acc"
+msgstr "enter_your_acc"
+
+#. Dialog title for confirmation process
+#: some text
+msgid "are_you_sure"
+msgstr "are_you_sure"
+
+#. Button title for entering as guest
+#: some text
+msgid "enter_as_guest_button"
+msgstr "enter_as_guest_button"
+
+#. Dialog message which explains guest disadvantages
+#: some text
+msgid "guest_user_message"
+msgstr "guest_user_message"
+
+#. Error message when login failed
+#: some text
+msgid "login_failed"
+msgstr "login_failed"
+
+#. Error message on input field when user does not typed password
+#: some text
+msgid "empty_password"
+msgstr "empty_password"
+
+#. Error message when signup failed
+#: some text
+msgid "sign_up_failed"
+msgstr "sign_up_failed"
+
+#. Screen title on password recovery screen
+#: some text
+msgid "password_recovery"
+msgstr "password_recovery"
+
+#. Label for message on recovery screen
+#: some text
+msgid "password_recovery_desc"
+msgstr "password_recovery_desc"
+
+#. Button to reset password on recovery screen
+#: some text
+msgid "reset_password"
+msgstr "reset_password"
+
+#. Error message on input field for incorrect email
+#: some text
+msgid "email_provided_are_not_valid"
+msgstr "email_provided_are_not_valid"
+
+#. Label for message on recovery screen about success
+#: some text
+msgid "success_recovery_desc"
+msgstr "success_recovery_desc"
+
+#. Button label which leads to login after recovery password
+#: some text
+msgid "back_to_log_in"
+msgstr "back_to_log_in"
+
+#. Label for message about support_email button
+#: some text
+msgid "need_further"
+msgstr "need_further"
+
+#. Body of email message
+#: some text
+msgid "support_request"
+msgstr "support_request"
+
+#. Label for button on top of event details screen
+#: some text
+msgid "event"
+msgstr "event"
+
+#. Label for button on top of event details screen
+#: some text
+msgid "task"
+msgstr "task"
+
+#. Label for progress dialog
+#: some text
+msgid "please_wait"
+msgstr "please_wait"
+
+#. Name of predefined label for new users
+#: some text
+msgid "test"
+msgstr "test"
+
+#. Name of predefined label for new users
+#: some text
+msgid "personal"
+msgstr "personal"
+
+#. Name of predefined label for new users
+#: some text
+msgid "household"
+msgstr "household"
+
+#. Name of predefined label for new users
+#: some text
+msgid "work"
+msgstr "work"
+
+#. Title of label section in event details screen
+#: some text
+msgid "labels"
+msgstr "labels"
+
+#. Label for a footer button in labels list
+#: some text
+msgid "add_label"
+msgstr "add_label"
+
+#. Label for a footer button in labels list if list already have labels
+#: some text
+msgid "add_another_label"
+msgstr "add_another_label"
+
+#. Title for a dialog with label selection
+#: some text
+msgid "your_labels"
+msgstr "your_labels"
+
+#. Label for a footer button in labels dialog
+#: some text
+msgid "add_label_new"
+msgstr "add_label_new"
+
+#. Toast message when user trying to change group event color
+#: some text
+msgid "groupcal_event_explain"
+msgstr "groupcal_event_explain"
+
+#. Error message when you trying to add existing label
+#: some text
+msgid "list_of_labels"
+msgstr "list_of_labels"
+
+#. Label for keyboard enter key when user typing new label name
+#: some text
+msgid "add"
+msgstr "add"
+
+#. Hint for input field in change label name dialog
+#: some text
+msgid "label_text"
+msgstr "label_text"
+
+#. Error message if user trying to add empty label
+#: some text
+msgid "empty_label"
+msgstr "empty_label"
+
+#. Label for keyboard enter key when user updates label name
+#: some text
+msgid "update"
+msgstr "update"
+
+#. Label for a footer button in notes array on event detail screen
+#: some text
+msgid "add_another_note"
+msgstr "add_another_note"
+
+#. Label for a button for item in labels list to edit color
+#: some text
+msgid "edit_color"
+msgstr "edit_color"
+
+#. Label for a button for item in labels list to edit label name
+#: some text
+msgid "edit_name"
+msgstr "edit_name"
+
+#. Hint for event/task title on event detail screen
+#: some text
+msgid "task_title"
+msgstr "task_title"
+
+#. Label for a calendar tab on main screen
+#: some text
+msgid "calendar"
+msgstr "calendar"
+
+#. Label for a tasks tab on main screen
+#: some text
+msgid "tasks"
+msgstr "tasks"
+
+#. Label for a notifications tab on main screen
+#: some text
+msgid "notifications"
+msgstr "notifications"
+
+#. Label for an error message about failed signup
+#: some text
+msgid "sign_up_failed_exist"
+msgstr "sign_up_failed_exist"
+
+#. Snackbar message about where the task was moved to; Example: "Moved task to 2pm"
+#: some text
+msgid "moved_task_to"
+msgstr "moved_task_to"
+
+#. Label for a notes section on event details screen
+#: some text
+msgid "notes_sub_tasks"
+msgstr "notes_sub_tasks"
+
+#. Label for a footer button in notes list
+#: some text
+msgid "add_note_subtask"
+msgstr "add_note_subtask"
+
+#. Label for a section on tasks screen for later(more than tomorrow date) tasks
+#: some text
+msgid "later"
+msgstr "later"
+
+#. Label for a footer button on each section in tasks screen
+#: some text
+msgid "add_a_new_task"
+msgstr "add_a_new_task"
+
+#. Label for a reminder type variant
+#: some text
+msgid "on_time"
+msgstr "on_time"
+
+#. Label for a button in drop-down list of task screen modes
+#: some text
+msgid "label"
+msgstr "label"
+
+#. Label for a section on tasks screen for tasks without labels
+#: some text
+msgid "not_labeled"
+msgstr "not_labeled"
+
+#. Title of dialog which explains why user unable to do current action
+#: some text
+msgid "cant_do_that"
+msgstr "cant_do_that"
+
+#. Message of dialog when user tries add/edit event on group
+#: some text
+msgid "you_dont_have_permission"
+msgstr "you_dont_have_permission"
+
+#. Label for a button which clears date from task
+#: some text
+msgid "clear"
+msgstr "clear"
+
+#. Label for a start date button
+#: some text
+msgid "set_start_date"
+msgstr "set_start_date"
+
+#. Label for a end date button
+#: some text
+msgid "set_end_date"
+msgstr "set_end_date"
+
+#. Label for someday task row with amount. Example: "Someday Tasks (5)"
+#: some text
+msgid "someday_tasks"
+msgstr "someday_tasks"
+
+#. Title for a tooltip when user adds someday task for a first time
+#: some text
+msgid "your_someday_tasks"
+msgstr "your_someday_tasks"
+
+#. Message on tooltip about someday tasks
+#: some text
+msgid "someday_tasks_desc"
+msgstr "someday_tasks_desc"
+
+#. Label for a button on event detail screen to archive (delete) task
+#: some text
+msgid "archive"
+msgstr "archive"
+
+#. Label for a button on event detail screen to uncomplete task
+#: some text
+msgid "uncomplete"
+msgstr "uncomplete"
+
+#. Label for a button on event detail screen to complete task
+#: some text
+msgid "complete"
+msgstr "complete"
+
+#. Title for a tooltip when user archive task for a first time
+#: some text
+msgid "archiving_tasks"
+msgstr "archiving_tasks"
+
+#. Message on tooltip about archiving tasks
+#: some text
+msgid "archiving_tasks_desc"
+msgstr "archiving_tasks_desc"
+
+#. Label for a weekview top left corner to indicate all day section
+#: some text
+msgid "all_day_space"
+msgstr "all_day_space"
+
+#. Title of task when user select contact whom user wants to call. Example: "Call Dmytro"
+#: some text
+msgid "call_to"
+msgstr "call_to"
+
+#. When user types this label in event detail screen as name of event, app will show select contacts screen
+#: some text
+msgid "call_label"
+msgstr "call_label"
+
+#. Label on select contact screen row to determine type of phone number. Example: "mobile - +972 3334 21 1"
+#: some text
+msgid "type_mobile"
+msgstr "type_mobile"
+
+#. Label on select contact screen row to determine type of phone number. Example: "work - +972 3334 21 1"
+#: some text
+msgid "type_work"
+msgstr "type_work"
+
+#. Label on select contact screen row to determine type of phone number. Example: "home - +972 3334 21 1"
+#: some text
+msgid "type_home"
+msgstr "type_home"
+
+#. When user types this label in event detail screen as name of event, app will show select contacts screen
+#: some text
+msgid "text_label"
+msgstr "text_label"
+
+#. Title of task when user select contact whom user wants to text. Example: "Text Dmytro"
+#: some text
+msgid "text_to"
+msgstr "text_to"
+
+#. When user types this label in event detail screen as name of event, app will show select contacts screen
+#: some text
+msgid "email_label"
+msgstr "email_label"
+
+#. Title of task when user select contact whom user wants to email. Example: "Email Dmytro"
+#: some text
+msgid "email_to"
+msgstr "email_to"
+
+#. Title of task when user select contact whom user wants to send gift. Example: "Send gift Dmytro"
+#: some text
+msgid "gift_to"
+msgstr "gift_to"
+
+#. Title of task when user select contact whom user wants to meet. Example: "Meet Dmytro"
+#: some text
+msgid "meet_to"
+msgstr "meet_to"
+
+#. When user types this label in event detail screen as name of event, app will show select contacts screen
+#: some text
+msgid "meet_label"
+msgstr "meet_label"
+
+#. When user types this label in event detail screen as name of event, app will show select contacts screen
+#: some text
+msgid "send_gift_label"
+msgstr "send_gift_label"
+
+#. Label for dialog which asks user to set location to event from contact location. Example: "Set Odesa, Hretska St 11 as location to event?"
+#: some text
+msgid "set_location"
+msgstr "set_location"
+
+#. Hint for a send text message dialog determines receiver
+#: some text
+msgid "to"
+msgstr "to"
+
+#. Label for a button on send message dialog
+#: some text
+msgid "send"
+msgstr "send"
+
+#. Title for a dialog when you complete/uncomplete/delete recurrent task
+#: some text
+msgid "editing_recurring_tasks"
+msgstr "editing_recurring_tasks"
+
+#. Label for a button which applies change to all recurrent event series
+#: some text
+msgid "series"
+msgstr "series"
+
+#. Label for a button which applies change to specific instance of recurrent task
+#: some text
+msgid "instance"
+msgstr "instance"
+
+#. Label for a message in edit recurrent task dialog
+#: some text
+msgid "recurring_dec"
+msgstr "recurring_dec"
+
+#. Title for a dialog when user tries to make a call without sim card
+#: some text
+msgid "cannot_make_phone_calls"
+msgstr "cannot_make_phone_calls"
+
+#. Message for a dialog when user tries to make a call without sim card
+#: some text
+msgid "no_connected_to_active_network"
+msgstr "no_connected_to_active_network"
+
+#. Title for a dialog when user tries to send SMS without sim card
+#: some text
+msgid "cannot_send_text_messages"
+msgstr "cannot_send_text_messages"
+
+#. Label for a tooltip on long press on shortcut in event detail screen. Example: "Create a 'Call' task"
+#: some text
+msgid "create_a_task"
+msgstr "create_a_task"
+
+#. When user types this label in event detail screen as name of event, app will show select contacts screen
+#: some text
+msgid "hotel_label"
+msgstr "hotel_label"
+
+#. Label for a tooltip on long press on meet shortcut in event detail screen
+#: some text
+msgid "create_a_meet"
+msgstr "create_a_meet"
+
+#. Notification message for today agenda. Example: "You have [4 events], starting at [09:00].
+#: some text
+msgid "you_have_agenda_items_general"
+msgstr "you_have_agenda_items_general"
+
+#. Label which explains user that he not able to set repeat rule for events bigger than 1 day
+#: some text
+msgid "recurrence_to_possible"
+msgstr "recurrence_to_possible"
+
+#. Label for button on notes tab; on press on that button note details screen opens
+#: some text
+msgid "add_a_new_note"
+msgstr "add_a_new_note"
+
+#. Label for button which determines type of calendar item [event, task, note]
+#: some text
+msgid "note"
+msgstr "note"
+
+#. Label for section in event details screen
+#: some text
+msgid "note_content"
+msgstr "note_content"
+

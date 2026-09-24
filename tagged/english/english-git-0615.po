@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FBeatInfoSetting-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FBeatInfoSetting-version5"
+msgid "No beat"
+msgstr "No beat"
+
+#: 
+msgctxt "FBeatInfoSetting-version5"
+msgid "Mark highlight beats only"
+msgstr "Mark highlight beats only"
+
+#: 
+msgctxt "FBeatInfoSetting-version5"
+msgid "Highlight offset"
+msgstr "Highlight offset"
+
+#: 
+msgctxt "FBeatInfoSetting-version5"
+msgid "Highlight every"
+msgstr "Highlight every"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version5"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version5"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version5"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version5"
+msgid "Enterprise member: only one device can be bound and can be contacted"
+msgstr "Enterprise member: only one device can be bound and can be contacted"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "Date Created:"
+msgstr "Date Created:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "Date Updated:"
+msgstr "Date Updated:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version5"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version5"
+msgid "preset"
+msgstr "preset"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version5"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FDownloadProgressDlg-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FDownloadProgressDlg-version5"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FDownloadProgressDlg-version5"
+msgid "Downloading Online Content"
+msgstr "Downloading Online Content"
+
+#: 
+msgctxt "FDownloadProgressDlg-version5"
+msgid "Download_1"
+msgstr "Download_1"
+
+#: 
+msgctxt "FDownloadProgressDlg-version5"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Step: Converting..."
+msgstr "Step: Converting..."
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "PAUSE"
+msgstr "PAUSE"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "RESUME"
+msgstr "RESUME"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Convert"
+msgstr "Convert"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Remove Watermark"
+msgstr "Remove Watermark"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version5"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Your upload to TikTok has failed, but the video has saved succssfuly in hard disk.  Please log in your TikTok account again and try to upload again."
+msgstr "Your upload to TikTok has failed, but the video has saved succssfuly in hard disk.  Please log in your TikTok account again and try to upload again."
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Please click the \"Sign in\" button to access your TikTok account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your TikTok account before you upload the video."
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Public"
+msgstr "Public"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Private"
+msgstr "Private"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Video Upload Requirements:"
+msgstr "Video Upload Requirements:"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "You can upload this video to TikTok"
+msgstr "You can upload this video to TikTok"
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "1.The size of the uploaded video file must be less than or equal to 4GB.\n"
+"2.The duration of the video file must be at least 3 seconds and shorter than or equal to 10 minutes."
+msgstr "1.The size of the uploaded video file must be less than or equal to 4GB.\n"
+"2.The duration of the video file must be at least 3 seconds and shorter than or equal to 10 minutes."
+
+#: 
+msgctxt "FExportTikTokPanel-version5"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Tags:"
+msgstr "Tags:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "People I follow on Vimeo"
+msgstr "People I follow on Vimeo"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Please click the \"Sign in\" button to access your Vimeo account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your Vimeo account before you upload the video."
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Anyone"
+msgstr "Anyone"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "You can upload this video to Vimeo"
+msgstr "You can upload this video to Vimeo"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Only me"
+msgstr "Only me"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Your upload to Vimeo has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+msgstr "Your upload to Vimeo has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportVimeoPanel-version5"
+msgid "Viewable by:"
+msgstr "Viewable by:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Tags:"
+msgstr "Tags:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Your upload to YouTube has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+msgstr "Your upload to YouTube has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "You can upload this video to YouTube"
+msgstr "You can upload this video to YouTube"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "The content cannot contain any of the following characters:< >"
+msgstr "The content cannot contain any of the following characters:< >"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Public"
+msgstr "Public"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Private"
+msgstr "Private"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Privacy:"
+msgstr "Privacy:"
+

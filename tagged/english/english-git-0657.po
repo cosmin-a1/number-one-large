@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FStoryItemListView-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FStoryItemListView-version5"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+msgctxt "FStoryItemListView-version5"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+msgctxt "FStoryItemListView-version5"
+msgid "Your story needs at least one video clip! It can't be deleted."
+msgstr "Your story needs at least one video clip! It can't be deleted."
+
+#: 
+msgctxt "FStoryItemListView-version5"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Crop Clip"
+msgstr "Crop Clip"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "This type of file does not support replacement."
+msgstr "This type of file does not support replacement."
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+msgctxt "FTemplateStoryboardListView-version5"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "Speech-to-Text Purchase Refresh"
+msgstr "Speech-to-Text Purchase Refresh"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "If you have already purchased more hours, you can now use Speech-to-Text."
+msgstr "If you have already purchased more hours, you can now use Speech-to-Text."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "click here to purchase more hours."
+msgstr "click here to purchase more hours."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "Text-to-Speech Purchase Refresh"
+msgstr "Text-to-Speech Purchase Refresh"
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "If you have already purchased more characters, you can now use Text-to-Speech."
+msgstr "If you have already purchased more characters, you can now use Text-to-Speech."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "Not enough characters left."
+msgstr "Not enough characters left."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "click here to purchase more characters."
+msgstr "click here to purchase more characters."
+
+#: 
+msgctxt "FAIVoiceRefreshDialog-version5"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version5"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version5"
+msgid "Click here to expand cloud space"
+msgstr "Click here to expand cloud space"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version5"
+msgid "Expansion Tips"
+msgstr "Expansion Tips"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version5"
+msgid "If you have already expanded cloud storage, you can now use cloud storage."
+msgstr "If you have already expanded cloud storage, you can now use cloud storage."
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version5"
+msgid "click here to buy Wondershare Filmora"
+msgstr "click here to buy Wondershare Filmora"
+
+#: 
+msgctxt "FCloudDiskRefreshDialog-version5"
+msgid "If you have already purchased Filmora, you can now use cloud storage."
+msgstr "If you have already purchased Filmora, you can now use cloud storage."
+
+#: 
+msgctxt "FMediaItemDragLayer-version5"
+msgid "title"
+msgstr "title"
+
+#: 
+msgctxt "FMediaItemDragLayer-version5"
+msgid "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+msgstr "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+
+#: 
+msgctxt "FMediaItemDragLayer-version5"
+msgid "effect"
+msgstr "effect"
+
+#: 
+msgctxt "FMediaItemDragLayer-version5"
+msgid "Quantity exceeds the limit"
+msgstr "Quantity exceeds the limit"
+
+#: 
+msgctxt "FFolderInfoWgt-version5"
+msgid "Sync text presets"
+msgstr "Sync text presets"
+
+#: 
+msgctxt "FFolderInfoWgt-version5"
+msgid "Sync template presets"
+msgstr "Sync template presets"
+
+#: 
+msgctxt "FFolderInfoWgt-version5"
+msgid "Sync compound clips"
+msgstr "Sync compound clips"
+
+#: 
+msgctxt "FFolderInfoWgt-version5"
+msgid "Sync adjustment layers"
+msgstr "Sync adjustment layers"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Switching to another mask will remove the current mask. Continue anyway?"
+msgstr "Switching to another mask will remove the current mask. Continue anyway?"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Remove"
+msgstr "Remove"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Switch to other mask will remove current draw mask. Continue anyway?"
+msgstr "Switch to other mask will remove current draw mask. Continue anyway?"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Remove Mask"
+msgstr "Remove Mask"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyMaskBasicWidget-version5"
+msgid "Remove Draw Mask"
+msgstr "Remove Draw Mask"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "10K+ Preset Templates"
+msgstr "10K+ Preset Templates"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "Speech-to-Text, Text-to-Speech"
+msgstr "Speech-to-Text, Text-to-Speech"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "50+ Selected Collections"
+msgstr "50+ Selected Collections"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "Advanced AI Effects"
+msgstr "Advanced AI Effects"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "100K High Quality Resources"
+msgstr "100K High Quality Resources"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "Boris FX and NewBlue FX"
+msgstr "Boris FX and NewBlue FX"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "VFX Text"
+msgstr "VFX Text"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "10M+ Creative Assets"
+msgstr "10M+ Creative Assets"
+
+#: 
+msgctxt "FExportPurchasePrivilegeWidget-version5"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "lock aspect ratio"
+msgstr "lock aspect ratio"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "Color Space:"
+msgstr "Color Space:"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+msgstr "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "unlock aspect ratio"
+msgstr "unlock aspect ratio"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "Aspect Ratio "
+msgstr "Aspect Ratio "
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+msgstr "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+
+#: 
+msgctxt "FProjectSettingPanel-version5"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+msgctxt "FFTextToSpeechService-version5"
+msgid "The add-collection has been failed locally."
+msgstr "The add-collection has been failed locally."
+
+#: 
+msgctxt "FFTextToSpeechService-version5"
+msgid "The un-collection has been failed locally"
+msgstr "The un-collection has been failed locally"
+
+#: 
+msgctxt "FFTextToSpeechService-version5"
+msgid "The un-collection has been failed. please retry"
+msgstr "The un-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechService-version5"
+msgid "The add-collection has been failed. please retry"
+msgstr "The add-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechService-version5"
+msgid "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FFTextToSpeechService-version5"
+msgid "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Sorry, we couldn't find similar results for this item. Please try another one."
+msgstr "Sorry, we couldn't find similar results for this item. Please try another one."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "on the Filmstock website."
+msgstr "on the Filmstock website."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "There is no item with current filter, please change the filter to show more resource."
+msgstr "There is no item with current filter, please change the filter to show more resource."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Click here to search for \"%1\""
+msgstr "Click here to search for \"%1\""
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "There is no download file. You can download videos, images, audios or subtitle files from your Filmora Cloud."
+msgstr "There is no download file. You can download videos, images, audios or subtitle files from your Filmora Cloud."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Click 'Favorite' while hovering over a resource to add an item to this folder."
+msgstr "Click 'Favorite' while hovering over a resource to add an item to this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "You don't have any Favorites."
+msgstr "You don't have any Favorites."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "please check other categories"
+msgstr "please check other categories"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "This category is empty, you can switch to another category for more templates."
+msgstr "This category is empty, you can switch to another category for more templates."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Save the adjustment layer as a preset, which will be added to this folder."
+msgstr "Save the adjustment layer as a preset, which will be added to this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "There is no custom title, you can save your title as custom in advanced editing page."
+msgstr "There is no custom title, you can save your title as custom in advanced editing page."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "No content"
+msgstr "No content"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "There are no results for %1,"
+msgstr "There are no results for %1,"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "You haven't downloaded any asset, click a resource to download it."
+msgstr "You haven't downloaded any asset, click a resource to download it."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "No untagged content"
+msgstr "No untagged content"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "No results for \"%1\" in your installed Filmstock content."
+msgstr "No results for \"%1\" in your installed Filmstock content."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Save the custom clip as a  preset, will be added in this folder."
+msgstr "Save the custom clip as a  preset, will be added in this folder."
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "Try AI Image!"
+msgstr "Try AI Image!"
+
+#: 
+msgctxt "FEmptyFilterView-version5"
+msgid "NO VCG download record"
+msgstr "NO VCG download record"
+
+#: 
+msgctxt "FCloudMediaEmptyView-version5"
+msgid "Drag and drop your media file here to upload to cloud for backup."
+msgstr "Drag and drop your media file here to upload to cloud for backup."
+
+#: 
+msgctxt "FCloudMediaEmptyView-version5"
+msgid "Upload Files."
+msgstr "Upload Files."
+
+#: 
+msgctxt "FCloudMediaEmptyView-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFilmStockAskDialog-version5"
+msgid "Opps! Looks like you can't use the effect. Please ensure you bought this effect via the current account."
+msgstr "Opps! Looks like you can't use the effect. Please ensure you bought this effect via the current account."
+

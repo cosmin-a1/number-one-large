@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Title for a screen where user determines is it Business or Personal use of groupcal
+#: some text
+msgid "what_do_you_plan"
+msgstr "what_do_you_plan"
+
+#. Title for a users which explains the purpose of use of groupcal app
+#: some text
+msgid "share_calendars_with"
+msgstr "share_calendars_with"
+
+#. Title for a business users which explains the purpose of use of groupcal app
+#: some text
+msgid "share_calendars_with_your_customers"
+msgstr "share_calendars_with_your_customers"
+
+#. Title for a type of phone number during login
+#: some text
+msgid "landline_number"
+msgstr "landline_number"
+
+#. Title for a type of phone number during login
+#: some text
+msgid "mobile_number"
+msgstr "mobile_number"
+
+#. Title for a button inside group info screen which opens a dialog about making group - verified group
+#: some text
+msgid "calendar_verification_badge"
+msgstr "calendar_verification_badge"
+
+#. Message for a dialog which explains the process of getting verified badge
+#: some text
+msgid "send_verification_request"
+msgstr "send_verification_request"
+
+#. Addition to the verification explanation message in case user does not have Business+ subscription
+#: some text
+msgid "send_verification_addition"
+msgstr "send_verification_addition"
+
+#. Title for a button which opens email client to send an email for verification
+#: some text
+msgid "send_request"
+msgstr "send_request"
+
+#. Title for an email which will be sent from the user to the support team in order to start verification
+#: some text
+msgid "would_like_request"
+msgstr "would_like_request"
+
+#. Title for a label which indicates needed plan for the requested feature
+#: some text
+msgid "required_plan"
+msgstr "required_plan"
+
+#. Title for a dialog which shown once user wants to update his phone number but its already in use
+#: some text
+msgid "cannot_use_num"
+msgstr "cannot_use_num"
+
+#. Title for a message which explain user that calendar blocked because of the owner
+#: some text
+msgid "calendar_blocked_for"
+msgstr "calendar_blocked_for"
+
+#. Title for a label which indicates owner of a calendar in user list
+#: some text
+msgid "owner"
+msgstr "owner"
+
+#. Sub title for a purchases screen
+#: some text
+msgid "subs_active"
+msgstr "subs_active"
+
+#. Sub title for a purchases screen when it opened from multiple features
+#: some text
+msgid "unlock_this_features"
+msgstr "unlock_this_features"
+
+#. Message for a dialog when user tries to purchase product while user has already product but from another store. Example: "Your active plan was purchased from the App store. You will need to first cancel it on the App store before making any changes to your plan in the app."
+#: some text
+msgid "your_active_plan"
+msgstr "your_active_plan"
+
+#. Title for a button which switches calendars from private to public
+#: some text
+msgid "set_as_channel"
+msgstr "set_as_channel"
+
+#. Title for a description about calendar channels
+#: some text
+msgid "channel_desc"
+msgstr "channel_desc"
+
+#. Title for a tab in search screen which shows public calendars
+#: some text
+msgid "calendar_channels"
+msgstr "calendar_channels"
+
+#. TItle for a button which determines groupcal app mode: Individual or Business
+#: some text
+msgid "individual"
+msgstr "individual"
+
+#. Message for a dialog which explains user why event adding is blocked
+#: some text
+msgid "rsvp_blocked"
+msgstr "rsvp_blocked"
+
+#. Error message when user types wrong code
+#: some text
+msgid "verification_code_not_valid"
+msgstr "verification_code_not_valid"
+
+#. Title for a code receive with SMS
+#: some text
+msgid "sms_desc"
+msgstr "sms_desc"
+
+#. Title for a code receive with missed call
+#: some text
+msgid "landline_desc"
+msgstr "landline_desc"
+
+#. Title for a label which explains user that he need to await for incoming SMS with code in order to proceed auth
+#: some text
+msgid "code_verify_desc"
+msgstr "code_verify_desc"
+
+#. Title for a type of authentication. Can be Mobile or Landline
+#: some text
+msgid "landline"
+msgstr "landline"
+
+#. Title of a groupcal pro feature which gives access to set calendar as public
+#: some text
+msgid "pro_public_calendar"
+msgstr "pro_public_calendar"
+
+#. Body for a dialog which asks user about correct number. Example: "+380931234567" 
+#. 
+#. Is your phone number above correct?
+#: some text
+msgid "is_your_phone_number"
+msgstr "is_your_phone_number"
+
+#. Title for a button which initiates call to user with code to auth
+#: some text
+msgid "call_me_with_code"
+msgstr "call_me_with_code"
+
+#. Title for a dialog when user tries to do paid action without rights to do so. Example: "GroupCal Pro Plan"
+#: some text
+msgid "pro_tier_dialog_title"
+msgstr "pro_tier_dialog_title"
+
+#: some text
+msgctxt "\"version2\".\"weird context to see\""
+msgid "event_title multiple row\n"
+"text.\n"
+"\n"
+"Just for test."
+msgstr "event_title multiple row\n"
+"text.\n"
+"\n"
+"Just for test."
+
+#: some text
+msgctxt "\"version2\""
+msgid "all_day"
+msgstr "all_day"
+
+#: some text
+msgctxt "\"version2\""
+msgid "save"
+msgstr "save"
+
+#: some text
+msgctxt "\"version2\""
+msgid "start_date"
+msgstr "start_date"
+
+#: some text
+msgctxt "\"version2\""
+msgid "end_date"
+msgstr "end_date"
+
+#: some text
+msgctxt "\"version2\""
+msgid "add_location"
+msgstr "add_location"
+
+#: some text
+msgctxt "\"version2\""
+msgid "delete"
+msgstr "delete"
+
+#: some text
+msgctxt "\"version2\""
+msgid "ok"
+msgstr "ok"
+
+#: some text
+msgctxt "\"version2\""
+msgid "cancel"
+msgstr "cancel"
+
+#: some text
+msgctxt "\"version2\""
+msgid "delete_event_alert"
+msgstr "delete_event_alert"
+
+#: some text
+msgctxt "\"version2\""
+msgid "exit_edit"
+msgstr "exit_edit"
+
+#: some text
+msgctxt "\"version2\""
+msgid "add_note"
+msgstr "add_note"
+
+#: some text
+msgctxt "\"version2\""
+msgid " select_color"
+msgstr " select_color"
+
+#: some text
+msgctxt "\"version2\""
+msgid "settings"
+msgstr "settings"
+
+#: some text
+msgctxt "\"version2\""
+msgid "add_a_reminder"
+msgstr "add_a_reminder"
+
+#: some text
+msgctxt "\"version2\""
+msgid "add_another_reminder"
+msgstr "add_another_reminder"
+
+#: some text
+msgctxt "\"version2\""
+msgid "minutes_before"
+msgstr "minutes_before"
+
+#: some text
+msgctxt "\"version2\""
+msgid "add_an_attendee"
+msgstr "add_an_attendee"
+
+#: some text
+msgctxt "\"version2\""
+msgid "add_another_attendee"
+msgstr "add_another_attendee"
+
+#: some text
+msgctxt "\"version2\""
+msgid "custom"
+msgstr "custom"
+
+#: some text
+msgctxt "\"version2\""
+msgid "custom_notification"
+msgstr "custom_notification"
+
+#: some text
+msgctxt "\"version2\""
+msgid "amount"
+msgstr "amount"
+
+#: some text
+msgctxt "\"version2\""
+msgid "enter_some_amount"
+msgstr "enter_some_amount"
+
+#: some text
+msgctxt "\"version2\""
+msgid "minutes"
+msgstr "minutes"
+
+#: some text
+msgctxt "\"version2\""
+msgid "hours"
+msgstr "hours"
+
+#: some text
+msgctxt "\"version2\""
+msgid "days"
+msgstr "days"
+
+#: some text
+msgctxt "\"version2\""
+msgid "weeks"
+msgstr "weeks"
+
+#: some text
+msgctxt "\"version2\""
+msgid "recent"
+msgstr "recent"
+
+#: some text
+msgctxt "\"version2\""
+msgid "all"
+msgstr "all"
+
+#: some text
+msgctxt "\"version2\""
+msgid "accepted"
+msgstr "accepted"
+
+#: some text
+msgctxt "\"version2\""
+msgid "pending"
+msgstr "pending"
+
+#: some text
+msgctxt "\"version2\""
+msgid "declined"
+msgstr "declined"
+
+#: some text
+msgctxt "\"version2\""
+msgid "search"
+msgstr "search"
+
+#: some text
+msgctxt "\"version2\""
+msgid "day_1"
+msgstr "day_1"
+
+#: some text
+msgctxt "\"version2\""
+msgid "day_3"
+msgstr "day_3"
+
+#: some text
+msgctxt "\"version2\""
+msgid "day_7"
+msgstr "day_7"
+
+#: some text
+msgctxt "\"version2\""
+msgid "first_day_of_week"
+msgstr "first_day_of_week"
+
+#: some text
+msgctxt "\"version2\""
+msgid "snooze"
+msgstr "snooze"
+
+#: some text
+msgctxt "\"version2\""
+msgid "today"
+msgstr "today"
+
+#: some text
+msgctxt "\"version2\""
+msgid "tomorrow"
+msgstr "tomorrow"
+
+#: some text
+msgctxt "\"version2\""
+msgid "notif_second_line_all_day"
+msgstr "notif_second_line_all_day"
+
+#: some text
+msgctxt "\"version2\""
+msgid "notif_first_line_regular"
+msgstr "notif_first_line_regular"
+
+#: some text
+msgctxt "\"version2\""
+msgid "notif_first_line_regular_past"
+msgstr "notif_first_line_regular_past"
+
+#: some text
+msgctxt "\"version2\""
+msgid "notif_first_line_regular_now"
+msgstr "notif_first_line_regular_now"
+
+#: some text
+msgctxt "\"version2\""
+msgid "notif_second_line_regular"
+msgstr "notif_second_line_regular"
+
+#: some text
+msgctxt "\"version2\""
+msgid "going"
+msgstr "going"
+
+#: some text
+msgctxt "\"version2\""
+msgid "yes"
+msgstr "yes"
+
+#: some text
+msgctxt "\"version2\""
+msgid "no"
+msgstr "no"
+
+#: some text
+msgctxt "\"version2\""
+msgid "maybe"
+msgstr "maybe"
+
+#: some text
+msgctxt "\"version2\""
+msgid "time"
+msgstr "time"
+
+#: some text
+msgctxt "\"version2\""
+msgid "starts"
+msgstr "starts"
+
+#: some text
+msgctxt "\"version2\""
+msgid "ends"
+msgstr "ends"
+
+#: some text
+msgctxt "\"version2\""
+msgid "does_not_repeat"
+msgstr "does_not_repeat"
+
+#: some text
+msgctxt "\"version2\""
+msgid "location"
+msgstr "location"
+
+#: some text
+msgctxt "\"version2\""
+msgid "reminders"
+msgstr "reminders"
+
+#: some text
+msgctxt "\"version2\""
+msgid "participants"
+msgstr "participants"
+
+#: some text
+msgctxt "\"version2\""
+msgid "notes"
+msgstr "notes"
+
+#: some text
+msgctxt "\"version2\""
+msgid "other_parameters"
+msgstr "other_parameters"
+
+#: some text
+msgctxt "\"version2\""
+msgid "default_color"
+msgstr "default_color"
+
+#: some text
+msgctxt "\"version2\""
+msgid "busy"
+msgstr "busy"
+
+#: some text
+msgctxt "\"version2\""
+msgid "beforeNumber"
+msgstr "beforeNumber"
+
+#: some text
+msgctxt "\"version2\""
+msgid "default_cal"
+msgstr "default_cal"
+
+#: some text
+msgctxt "\"version2\""
+msgid "long_tap_for"
+msgstr "long_tap_for"
+
+#: some text
+msgctxt "\"version2\""
+msgid "orange"
+msgstr "orange"
+
+#: some text
+msgctxt "\"version2\""
+msgid "pink"
+msgstr "pink"
+
+#: some text
+msgctxt "\"version2\""
+msgid "yellow"
+msgstr "yellow"
+
+#: some text
+msgctxt "\"version2\""
+msgid "grey"
+msgstr "grey"
+
+#: some text
+msgctxt "\"version2\""
+msgid "red"
+msgstr "red"
+
+#: some text
+msgctxt "\"version2\""
+msgid "purple"
+msgstr "purple"
+

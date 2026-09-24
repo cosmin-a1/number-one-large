@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "3D Basic"
+msgstr "3D Basic"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "AI Tools"
+msgstr "AI Tools"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "3D Animation"
+msgstr "3D Animation"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version5"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version5"
+msgid "Luminance"
+msgstr "Luminance"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version5"
+msgid "Saturation"
+msgstr "Saturation"
+
+#: 
+msgctxt "FThumbnailSelectItem-version5"
+msgid "NEW"
+msgstr "NEW"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+msgstr "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Low bit rate will reduce video quality."
+msgstr "Low bit rate will reduce video quality."
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "The most common compression method"
+msgstr "The most common compression method"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Encoder:"
+msgstr "Encoder:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Compression Quality:"
+msgstr "Compression Quality:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Medium"
+msgstr "Medium"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+msgstr "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Automatic"
+msgstr "Automatic"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Better compression quality keeps more details.And also takes more time to export."
+msgstr "Better compression quality keeps more details.And also takes more time to export."
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "High compression ratio and clear image"
+msgstr "High compression ratio and clear image"
+
+#: 
+msgctxt "FExportSettingDlg-version5"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Mid"
+msgstr "Mid"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Noise Volume"
+msgstr "Noise Volume"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Hum Removal"
+msgstr "Hum Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "DeReverb"
+msgstr "DeReverb"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "AI Speech Enhancement"
+msgstr "AI Speech Enhancement"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Normal Denoise"
+msgstr "Normal Denoise"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Hiss Removal"
+msgstr "Hiss Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Wind Removal"
+msgstr "Wind Removal"
+
+#: 
+msgctxt "FPropertyAudioDenoiseWidget-version5"
+msgid "Denoise Level"
+msgstr "Denoise Level"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Select Voice"
+msgstr "Select Voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidget-version5"
+msgid "Language"
+msgstr "Language"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Select Voice"
+msgstr "Select Voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version5"
+msgid "Language"
+msgstr "Language"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version5"
+msgid "OFF"
+msgstr "OFF"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version5"
+msgid "Re-subscribe to explore more!"
+msgstr "Re-subscribe to explore more!"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version5"
+msgid "Yearly fee"
+msgstr "Yearly fee"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version5"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version5"
+msgid "OFF"
+msgstr "OFF"
+

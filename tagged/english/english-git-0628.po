@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version5"
+msgid "month"
+msgstr "month"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version5"
+msgid "ReNew user first order SUPER VALUE Offer"
+msgstr "ReNew user first order SUPER VALUE Offer"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version5"
+msgid "New customers will get a discount on their first purchase and continue to subscribe next month at"
+msgstr "New customers will get a discount on their first purchase and continue to subscribe next month at"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version5"
+msgid "Monthly fee"
+msgstr "Monthly fee"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Old"
+msgstr "Old"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Calm"
+msgstr "Calm"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Deep"
+msgstr "Deep"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Wise"
+msgstr "Wise"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Adult"
+msgstr "Adult"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Crisp"
+msgstr "Crisp"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Hyped"
+msgstr "Hyped"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Sassy"
+msgstr "Sassy"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Intense"
+msgstr "Intense"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Sweet"
+msgstr "Sweet"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Young"
+msgstr "Young"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Pleasant"
+msgstr "Pleasant"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Classy"
+msgstr "Classy"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Confident"
+msgstr "Confident"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Formal"
+msgstr "Formal"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Mature"
+msgstr "Mature"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Strict"
+msgstr "Strict"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Powerful"
+msgstr "Powerful"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Clear_TTS"
+msgstr "Clear_TTS"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Excited"
+msgstr "Excited"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Childish"
+msgstr "Childish"
+
+#: 
+msgctxt "FFTTSConfigs-version5"
+msgid "Professional"
+msgstr "Professional"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version5"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version5"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version5"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version5"
+msgid "Video Wall"
+msgstr "Video Wall"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Owl"
+msgstr "Owl"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Globe"
+msgstr "Globe"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Vintage Typewriter"
+msgstr "Vintage Typewriter"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Strawberry Cream Cake"
+msgstr "Strawberry Cream Cake"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Avocado"
+msgstr "Avocado"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Shining Diamond"
+msgstr "Shining Diamond"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Lively Dolphin"
+msgstr "Lively Dolphin"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Pretty Bow"
+msgstr "Pretty Bow"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Describe the sticker you want to generate"
+msgstr "Describe the sticker you want to generate"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Jack O’Lantern"
+msgstr "Jack O’Lantern"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version5"
+msgid "Describe the sticker you want to generate, e.g., a pretty bow."
+msgstr "Describe the sticker you want to generate, e.g., a pretty bow."
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Blues"
+msgstr "Blues"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Dance"
+msgstr "Dance"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Techno"
+msgstr "Techno"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Low Bass"
+msgstr "Low Bass"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Hard Rock"
+msgstr "Hard Rock"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Sparkle"
+msgstr "Sparkle"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Country"
+msgstr "Country"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Acoustic"
+msgstr "Acoustic"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version5"
+msgid "Rock'n'Roll"
+msgstr "Rock'n'Roll"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "TAG"
+msgstr "TAG"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "SIZE"
+msgstr "SIZE"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "TYPE"
+msgstr "TYPE"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "USED"
+msgstr "USED"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "IN POINT"
+msgstr "IN POINT"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "FRAME RATE"
+msgstr "FRAME RATE"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "RESOLUTION"
+msgstr "RESOLUTION"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "OUT POINT"
+msgstr "OUT POINT"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "MEDIA CREATED"
+msgstr "MEDIA CREATED"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "DATE IMPORTED"
+msgstr "DATE IMPORTED"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "DURATION"
+msgstr "DURATION"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "View More"
+msgstr "View More"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "UPDATED TIME"
+msgstr "UPDATED TIME"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "DATE CREATED"
+msgstr "DATE CREATED"
+
+#: 
+msgctxt "FFMediaItemModel-version5"
+msgid "AUDIO INFO"
+msgstr "AUDIO INFO"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "SRT"
+msgstr "SRT"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Select the file to be converted: "
+msgstr "Select the file to be converted: "
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Clip selection"
+msgstr "Clip selection"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+msgstr "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Language of the audio to be transcribed:"
+msgstr "Language of the audio to be transcribed:"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Language to be translated to:"
+msgstr "Language to be translated to:"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Choosing a language for translation will generate two files——transcript and translated files."
+msgstr "Choosing a language for translation will generate two files——transcript and translated files."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Automatically match dynamic effects based on the audio rhythm."
+msgstr "Automatically match dynamic effects based on the audio rhythm."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "The current language does not support translation"
+msgstr "The current language does not support translation"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Sorry, dynamic text does not currently support SRT files."
+msgstr "Sorry, dynamic text does not currently support SRT files."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Presentation of output on the timeline: "
+msgstr "Presentation of output on the timeline: "
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "Add automatical active words"
+msgstr "Add automatical active words"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "(Generates ordinary text fragments within the program, one by one on the timeline)"
+msgstr "(Generates ordinary text fragments within the program, one by one on the timeline)"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version5"
+msgid "The entire timeline sequence"
+msgstr "The entire timeline sequence"
+
+#: 
+msgctxt "FFLowLayoutWidget-version5"
+msgid "Sad"
+msgstr "Sad"
+
+#: 
+msgctxt "FFLowLayoutWidget-version5"
+msgid "Epic"
+msgstr "Epic"
+
+#: 
+msgctxt "FFLowLayoutWidget-version5"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+msgctxt "FFLowLayoutWidget-version5"
+msgid "Vlog"
+msgstr "Vlog"
+

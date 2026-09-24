@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Label for a button in settings screen which enable/disable grouping someday tasks into one. "Someday Tasks" is a term that has a separate transaltion. Refer to "someday_tasks" translation
+#: some text
+msgid "grouping_someday_tasks_label"
+msgstr "grouping_someday_tasks_label"
+
+#. Label for a button which opens terms and privacy screen. Translate only #### part <![CDATA[####]]
+#: some text
+msgid "terms_and_privacy_label"
+msgstr "terms_and_privacy_label"
+
+#. Label for a button which enable/disable possibility of non-admin users of a shared calendar change name and photo of shared calendar. Translate only #### part <![CDATA[####]]
+#: some text
+msgid "group_settings_edit_name_photo_label"
+msgstr "group_settings_edit_name_photo_label"
+
+#. Message of dialog after purchase pro version of app. Example: "All 24me Pro features are now enabled."
+#: some text
+msgid "all_features_enabled_pro"
+msgstr "all_features_enabled_pro"
+
+#. Label for a toast which appear when user tries to add more than 255 participants to a shared calendar. Example: "You can add up to 255 participants to a shared calendar"
+#: some text
+msgid "you_can_add_up_to_participants_shared"
+msgstr "you_can_add_up_to_participants_shared"
+
+#. Meesage for dialog which shows after user action which was made from an old application version. Example: "This version of Groupcal is out of date. Update to the latest version and then try signing in again."
+#: some text
+msgid "need_update_app_message"
+msgstr "need_update_app_message"
+
+#. Label for a button which shows set event recurrence dialog
+#: some text
+msgid "add_recurrence"
+msgstr "add_recurrence"
+
+#. Title for a variant which indicates, that user will invite new users by contact list
+#: some text
+msgid "your_contact_list"
+msgstr "your_contact_list"
+
+#. Description for a variant which indicates, that user will invite new users by contact list
+#: some text
+msgid "desc_contact_list"
+msgstr "desc_contact_list"
+
+#. Title of a variant which indicates, that user will invite new users by creation of invite-link
+#: some text
+msgid "a_link_share"
+msgstr "a_link_share"
+
+#. Description for a variant which indicates, that user will invite new users by creation of invite-link
+#: some text
+msgid "a_link_share_desc"
+msgstr "a_link_share_desc"
+
+#. Title for a dialog which show applications by which user can invite participants. For example Facebook, Twitter, WhatsApp
+#: some text
+msgid "share_with"
+msgstr "share_with"
+
+#. Invite message, which will be shown when user shares link by other apps. Example: Open this link to join 'New Group Name' shared calendar in GroupCal: https://groupcal.page.list/12HX2"
+#: some text
+msgid "join_by_link_message"
+msgstr "join_by_link_message"
+
+#. Title for a button which opens share group dialog, where user choose by which application he will share
+#: some text
+msgid "share_calendar_with_link"
+msgstr "share_calendar_with_link"
+
+#. Title for a button which removes share link from a group
+#: some text
+msgid "disable_existing_link"
+msgstr "disable_existing_link"
+
+#. Title for a email, when user sends invite link to other user
+#: some text
+msgid "join_shared_calendar"
+msgstr "join_shared_calendar"
+
+#. Title for a channel in application settings which shows push-notifications about group updates
+#: some text
+msgid "groups_updates_channel_name"
+msgstr "groups_updates_channel_name"
+
+#. Description for a channel which shows group updates notifications
+#: some text
+msgid "groups_updates_channel_desc"
+msgstr "groups_updates_channel_desc"
+
+#. Title for a channel in application settings which shows push-notifications about event updates
+#: some text
+msgid "events_updates_channel_name"
+msgstr "events_updates_channel_name"
+
+#. Description for a channel which shows event updates notifications
+#: some text
+msgid "events_updates_channel_desc"
+msgstr "events_updates_channel_desc"
+
+#. Title for a notification when somebody add you to shared calendar
+#: some text
+msgid "you_were_invited"
+msgstr "you_were_invited"
+
+#. Label for a message in notification when somebody added you to shared calendar. Example: "John invited you to ‘Family calendar’; +081829282 invited you to ‘Family calendar’"
+#: some text
+msgid "invited_you_to"
+msgstr "invited_you_to"
+
+#. Title for a dialog which shown after user tries to join group by link, but link expired
+#: some text
+msgid "cannot_join_calendar"
+msgstr "cannot_join_calendar"
+
+#. Message for a dialog which shown after user tries to join group by link, but link expired
+#: some text
+msgid "disabled_link"
+msgstr "disabled_link"
+
+#. Title for a last message on group list, when user joins shared calendar by invitation link
+#: some text
+msgid "you_joined_shared_calendar"
+msgstr "you_joined_shared_calendar"
+
+#. Title for a last message on group list, when other user joins shared calendar by invitation link
+#: some text
+msgid "other_joined_shared_calendar"
+msgstr "other_joined_shared_calendar"
+
+#. Label for a button on press on which calendar info screen opens
+#: some text
+msgid "tap_here_for_calendar_info"
+msgstr "tap_here_for_calendar_info"
+
+#. Title for a message on participant list to indicate that this is pending user who invtied to groupcal
+#: some text
+msgid "invited_to_groupcal"
+msgstr "invited_to_groupcal"
+
+#. Title for a screen where user selecting the method for how to add group members
+#: some text
+msgid "add_participants_with"
+msgstr "add_participants_with"
+
+#. Label on a button, on click on which group details opens
+#: some text
+msgid "tap_to_add"
+msgstr "tap_to_add"
+
+#. Label for a subtitle of group calendar screen when group have some updated events
+#: some text
+msgid "updated_events"
+msgstr "updated_events"
+
+#. Label for a ticker which shows on which current unseen event we looking. Example: "1 of 3"
+#: some text
+msgid "look_of"
+msgstr "look_of"
+
+#. Title for a first screen after install. Example: "Groupcal. Nice to meet"
+#: some text
+msgid "groupcal_app_title"
+msgstr "groupcal_app_title"
+
+#. Label for button which opens app settings
+#: some text
+msgid "open_settings_to_allow"
+msgstr "open_settings_to_allow"
+
+#. Label for contacts screen when there are no contacts at all in the contact list
+#: some text
+msgid "no_contacts_found_empty"
+msgstr "no_contacts_found_empty"
+
+#. Title for a tooltip of group list screen after application install. Example: "GroupCal is like Whatsapp for calendars: It lists shared calendars on this screen, similar to how Whatsapp lists chats on its home screen. Each shared calendar has its own calendar screen similar to how each Whatsapp group or chat has its own messages."
+#: some text
+msgid "showcase_home_screen_description_upd"
+msgstr "showcase_home_screen_description_upd"
+
+#. Title for a tooltip which points to first shared calendar. On tap on it shared calendar screen will open. Example: "Tapping on it opens its own calendar screen similar to how tapping on a Whatsapp chat opens it own messages screen."
+#: some text
+msgid "showcase_shared_calendar_description"
+msgstr "showcase_shared_calendar_description"
+
+#. Description for tooltip when you enter group for the first time. Example: "Each shared calendar has its own group of members which are listed under the title. Events you add here, immediately show up on their devices, similar to how Whatsapp messages show up on the devices of all group chat participants."
+#: some text
+msgid "showcase_shared_calendar_screen_description"
+msgstr "showcase_shared_calendar_screen_description"
+
+#. Title for a dialog which shown before requesting permissions. Example: "Please Allow GroupCal Access to your Contacts"
+#: some text
+msgid "permission_grant_title"
+msgstr "permission_grant_title"
+
+#. Label for a message about location permissions dialog
+#: some text
+msgid "location_permissions_description"
+msgstr "location_permissions_description"
+
+#. Label for a message about calendar permissions dialog. Example: "This will allow you to see your existing events in GroupCal, and to add new ones."
+#: some text
+msgid "calendar_permissions_description"
+msgstr "calendar_permissions_description"
+
+#. Label for a message about photos permissions. Example: "This will allow you to use photos in GroupCal."
+#: some text
+msgid "camera_photos_permissions_description"
+msgstr "camera_photos_permissions_description"
+
+#. Label for a message about contacts permissions dialog.
+#: some text
+msgid "contacts_permissions_description"
+msgstr "contacts_permissions_description"
+
+#. Label for a %permission_grant_title% string to explain contacts permission
+#: some text
+msgid "contacts"
+msgstr "contacts"
+
+#. Label for a message about permissions request for Camera and photos
+#: some text
+msgid "camera_and_photos"
+msgstr "camera_and_photos"
+
+#. Title for a tooltip for button which changes view of calendar (1,3,7,30 days view) when user long clicks on a button
+#: some text
+msgid "calendar_views"
+msgstr "calendar_views"
+
+#. Title for a tooltip for button which moves to today when user long clicks on a button
+#: some text
+msgid "back_to_today"
+msgstr "back_to_today"
+
+#. Title for a default messaging application
+#: some text
+msgid "messages_app"
+msgstr "messages_app"
+
+#. Title for a permission request about location. Used in %permission_grant_title%. Example: "Please Allow GroupCal Access to your Location"
+#: some text
+msgid "location_permission"
+msgstr "location_permission"
+
+#. Title for group info screen
+#: some text
+msgid "group_info_title"
+msgstr "group_info_title"
+
+#. Label for a counter which shows how many users you added to a group. Example: "Add participant: 23 / 255"
+#: some text
+msgid "selected_of_members"
+msgstr "selected_of_members"
+
+#. Label for participants section of regular events
+#: some text
+msgid "participants_regular"
+msgstr "participants_regular"
+
+#. Label for adding new participant for regular events
+#: some text
+msgid "add_an_attendee_regular"
+msgstr "add_an_attendee_regular"
+
+#. Label for adding more participants for regular events
+#: some text
+msgid "add_another_attendee_regular"
+msgstr "add_another_attendee_regular"
+
+#. Label for a button which opens youtube with tutorials about app
+#: some text
+msgid "tutorials"
+msgstr "tutorials"
+
+#. Description of a dialog which shown after user tries to add shared calendar without a name
+#: some text
+msgid "add_group_name_desc"
+msgstr "add_group_name_desc"
+
+#. Title for a dialog which shown after user tries to add shared calendar without a name
+#: some text
+msgid "add_group_name_dialog_title"
+msgstr "add_group_name_dialog_title"
+
+#. Hint for an input field in dialog for input full user name
+#: some text
+msgid "full_name_hint"
+msgstr "full_name_hint"
+
+#. Title of dialog about events on the screen that look transparent
+#: some text
+msgid "faded_events_title"
+msgstr "faded_events_title"
+
+#. Text of explanation dialog about transparent events.
+#: some text
+msgid "faded_events_desc"
+msgstr "faded_events_desc"
+
+#. Title for a repeating event variant, when event will be repeated each weekday
+#: some text
+msgid "repeat_weekdays"
+msgstr "repeat_weekdays"
+
+#. Title for a repeating event variant, when event will be repeated each weekend
+#: some text
+msgid "repeat_weekends"
+msgstr "repeat_weekends"
+
+#. Title for a message which appears when application not able to process selected photo by user
+#: some text
+msgid "unable_to_receive_photo"
+msgstr "unable_to_receive_photo"
+
+#. Title for a button in shared calendar info screen, which determines events visibility. Example: "Show events on 'All calendars'"
+#: some text
+msgid "show_events_on"
+msgstr "show_events_on"
+
+#. Title for a button in shared calendar info screen, which determines will user receive event reminders from the shared calendar or not
+#: some text
+msgid "get_reminders_for_events"
+msgstr "get_reminders_for_events"
+
+#. Title for a dialog which appears when user tries set reminder for an event, but disabled that function in shared calendar info screen
+#: some text
+msgid "set_reminder_error_title"
+msgstr "set_reminder_error_title"
+
+#. Label for a dialog which appears when user tries set reminder for an event, but disabled that function in shared calendar info screen
+#: some text
+msgid "set_reminder_error_message"
+msgstr "set_reminder_error_message"
+
+#. Title for a settings section in calendar details screen
+#: some text
+msgid "on_your_device"
+msgstr "on_your_device"
+
+#. Title for a button which determines does this event require confirmation of attendance on event
+#: some text
+msgid "request_participation"
+msgstr "request_participation"
+
+#. Subtitle of purchase variant which indicates how much user can save. %1$s - "amount of percent" word; Example: "Save 50%". Use %% to place it after/before number
+#: some text
+msgid "save_with_percent"
+msgstr "save_with_percent"
+
+#. Title for promo actions. Example: "24me Pro - Special Sale"
+#: some text
+msgid "special_sale"
+msgstr "special_sale"
+
+#. Tilte for countind down time in promo action. It look like this: "Ends in: 23:45:22"
+#: some text
+msgid "ends_in"
+msgstr "ends_in"
+
+#. Title for a buy button when promo opened
+#: some text
+msgid "buy_now_one_time"
+msgstr "buy_now_one_time"
+
+#. Sub title with price for buy promo button. Example: "$28.99 (less than an annual subscription)"
+#: some text
+msgid "less_than_annual"
+msgstr "less_than_annual"
+
+#. Title for a snackbar which appears on bottom of screen when user do not grant calendar permission to app
+#: some text
+msgid "no_access_to_your"
+msgstr "no_access_to_your"
+
+#. Title for a button which closes dialog
+#: some text
+msgid "close"
+msgstr "close"
+
+#. Title for a button, which opens android dialog to request permissions
+#: some text
+msgid "fix"
+msgstr "fix"
+
+#. Label of monthly price purchase variant. Example: "$45.99/month"
+#: some text
+msgid "monthly_price"
+msgstr "monthly_price"
+
+#. Label for a purchase variant which explains how often user will need to pay
+#: some text
+msgid "billed_yearly"
+msgstr "billed_yearly"
+
+#. Title for a button which switches calendars from private to public
+#: some text
+msgid "set_as_public"
+msgstr "set_as_public"
+
+#. Title for a description about public calendars
+#: some text
+msgid "public_group_desc"
+msgstr "public_group_desc"
+
+#. Title for a tab in search screen which shows public calendars
+#: some text
+msgid "public_calendars"
+msgstr "public_calendars"
+
+#. Title for a button to join public calendar on public calendar row in search screen
+#: some text
+msgid "join"
+msgstr "join"
+
+#. Title for a message when you joining group, but shared calendar reached its maximum number of members
+#: some text
+msgid "join_group_capaciy_error"
+msgstr "join_group_capaciy_error"
+
+#. Title for a dialog which appears when you joining group, but shared calendar reached its maximum number of members
+#: some text
+msgid "join_group_error_title"
+msgstr "join_group_error_title"
+
+#. Title for a dialog which appears when user press on a badge, in navigation menu which explain guest mode
+#: some text
+msgid "guest_mode"
+msgstr "guest_mode"
+
+#. Title for a message inside dialog which explains guest mode. Example: "Using 24me as a guest, will not allow you to:..."
+#: some text
+msgid "guest_user_message_badge"
+msgstr "guest_user_message_badge"
+
+#. Title for a welcome screen which non guest/non logged in user see after splash screen. Example: "Welcome to 24me"
+#: some text
+msgid "welcome_24me"
+msgstr "welcome_24me"
+
+#. Title for an explanation on the introduction screen to the app
+#: some text
+msgid "your_calendar_todo_list"
+msgstr "your_calendar_todo_list"
+
+#. Explanation for pro version that it can be canceled anytime
+#: some text
+msgid "cancel_any_time"
+msgstr "cancel_any_time"
+
+#. Explanation for activation pro from promo actions
+#: some text
+msgid "all_pro_functionalities"
+msgstr "all_pro_functionalities"
+
+#. Title for a button in singup screen which leads to screen where user can login. Example: "Have an account? Log In"
+#: some text
+msgid "have_an_account"
+msgstr "have_an_account"
+
+#. Label for a side-menu item which opens removed items screen
+#: some text
+msgid "removed_items"
+msgstr "removed_items"
+
+#. Title for a button on removed items screen which removes all tasks
+#: some text
+msgid "clear_all"
+msgstr "clear_all"
+
+#. Title for a section on removed items screen which lists tasks without dates
+#: some text
+msgid "dateless_tasks"
+msgstr "dateless_tasks"
+
+#. Title for a section on removed items screen which lists tasks which repeating
+#: some text
+msgid "recurring_tasks"
+msgstr "recurring_tasks"
+
+#. Title for a dialog which asks user about removing all tasks
+#: some text
+msgid "clear_all_removed_tasks"
+msgstr "clear_all_removed_tasks"
+
+#. Title for a message in dialog which explains tasks removal
+#: some text
+msgid "remove_all_explain"
+msgstr "remove_all_explain"
+
+#. Label for a week number. Example: "W37. Which means 37 week in year
+#: some text
+msgid "week_number"
+msgstr "week_number"
+
+#. Title for a button in settings screen which enable/disable weeknumbers on views
+#: some text
+msgid "week_numbers"
+msgstr "week_numbers"
+

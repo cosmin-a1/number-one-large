@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FilmoraLayout-version5"
+msgid "Organize"
+msgstr "Organize"
+
+#: 
+msgctxt "FilmoraLayout-version5"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "FilmoraLayout-version5"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FilmoraLayout-version5"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+
+#: 
+msgctxt "FFBeatSyncWidget-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FFBeatSyncWidget-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FFBeatSyncWidget-version5"
+msgid "Background Music"
+msgstr "Background Music"
+
+#: 
+msgctxt "FFBeatSyncWidget-version5"
+msgid "Beat Cut"
+msgstr "Beat Cut"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version5"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version5"
+msgid "Freeze Frame"
+msgstr "Freeze Frame"
+
+#: 
+msgctxt "FGraphicsSpeedSegmentPainter-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FSpeedSegmentContextMenu-version5"
+msgid "Custom Speed"
+msgstr "Custom Speed"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version5"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+msgctxt "FToolBarSpeedMenu-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version5"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version5"
+msgid "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+msgstr "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version5"
+msgid "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+msgstr "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+
+#: 
+msgctxt "FFAutoHighlightMontageView-version5"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version5"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version5"
+msgid "Once you exit, the changes will not be saved."
+msgstr "Once you exit, the changes will not be saved."
+
+#: 
+msgctxt "FSilenceDetectionDialog-version5"
+msgid "Are you sure you want to exit the Silence Detection?"
+msgstr "Are you sure you want to exit the Silence Detection?"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSilenceDetectionDialog-version5"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Return to Startup window"
+msgstr "Return to Startup window"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "About..."
+msgstr "About..."
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Support center"
+msgstr "Support center"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Account Information"
+msgstr "Account Information"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "TemplateModeScene-version5"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Shape Border"
+msgstr "Shape Border"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Shape Fill"
+msgstr "Shape Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Add a shadow to this layer"
+msgstr "Add a shadow to this layer"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Video Fill"
+msgstr "Video Fill"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Input Text"
+msgstr "Input Text"
+
+#: 
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version5"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FPropertyBasicTransformWidgetClass-version5"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+msgctxt "FRecordPreViewSetting-version5"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+msgctxt "FRecordPreViewSetting-version5"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FRecordPreViewSetting-version5"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FRecordPreViewSetting-version5"
+msgid "Switch to Circle"
+msgstr "Switch to Circle"
+
+#: 
+msgctxt "FRecordPreViewSetting-version5"
+msgid "Switch to Square"
+msgstr "Switch to Square"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Font"
+msgstr "Font"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Add your first \"Favorite\" font"
+msgstr "Add your first \"Favorite\" font"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Load more cloud fonts"
+msgstr "Load more cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Failed to load cloud fonts, please check your network connection and try again."
+msgstr "Failed to load cloud fonts, please check your network connection and try again."
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "No results found"
+msgstr "No results found"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "Local fonts"
+msgstr "Local fonts"
+
+#: 
+msgctxt "FFontDataModel-version5"
+msgid "No recent selected font."
+msgstr "No recent selected font."
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "It is enabled, and you can freely set the content that needs to be synchronized."
+msgstr "It is enabled, and you can freely set the content that needs to be synchronized."
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Customization: title , template , adjustment layers, etc."
+msgstr "Customization: title , template , adjustment layers, etc."
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFSyncSettingWidget-version5"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+msgctxt "FPropertyScaleComponent-version5"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version5"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version5"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version5"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version5"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version5"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version5"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version5"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version5"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudSpacePresenter-version5"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudSpacePresenter-version5"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+msgctxt "FVideoTemplate-version5"
+msgid "Help"
+msgstr "Help"
+
+#: 
+msgctxt "FItemVisibleControlMenu-version5"
+msgid "Hide"
+msgstr "Hide"
+
+#: 
+msgctxt "FItemVisibleControlMenu-version5"
+msgid "Show"
+msgstr "Show"
+
+#: 
+msgctxt "FItemVisibleControlMenu-version5"
+msgid "Title_2"
+msgstr "Title_2"
+
+#: 
+msgctxt "FCloudDiskNavigationBar-version5"
+msgid "Home"
+msgstr "Home"
+
+#: 
+msgctxt "FViewTabBar-version5"
+msgid "Home"
+msgstr "Home"
+

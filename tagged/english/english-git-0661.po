@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+msgstr "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version5"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version5"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version5"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version5"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FAppLicenseExportDialog-version5"
+msgid "Purchase Filmora X to export without a watermark."
+msgstr "Purchase Filmora X to export without a watermark."
+
+#: 
+msgctxt "FAppLicenseExportDialog-version5"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version5"
+msgid "Delete cloud item"
+msgstr "Delete cloud item"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version5"
+msgid "Are you sure you want to move this item(s) to Recycle Bin?"
+msgstr "Are you sure you want to move this item(s) to Recycle Bin?"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version5"
+msgid "Tips: The storage will release after delete the item(s) from Recycle Bin."
+msgstr "Tips: The storage will release after delete the item(s) from Recycle Bin."
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version5"
+msgid "Move to Recycle Bin"
+msgstr "Move to Recycle Bin"
+
+#: 
+msgctxt "FCloudMediaRemoveDialog-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version5"
+msgid "Graniny Blur"
+msgstr "Graniny Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version5"
+msgid "Color Blur"
+msgstr "Color Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version5"
+msgid "Direction Blur"
+msgstr "Direction Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version5"
+msgid "Radial Blur"
+msgstr "Radial Blur"
+
+#: 
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version5"
+msgid "Basic Blur"
+msgstr "Basic Blur"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Don't show this again."
+msgstr "Don't show this again."
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Add more media to get a better result"
+msgstr "Add more media to get a better result"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Delete the selected media?"
+msgstr "Delete the selected media?"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Import Folder"
+msgstr "Import Folder"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Add Again"
+msgstr "Add Again"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Add more than 5 media to unlock the Auto-Create"
+msgstr "Add more than 5 media to unlock the Auto-Create"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Import File"
+msgstr "Import File"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FMediaResourceManagerWidget-version5"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version5"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version5"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FAdvanceTextPlayerToolBar-version5"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version5"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version5"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFAdvanceTextPlayerToolBar-version5"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version5"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version5"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version5"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+msgctxt "FFSmartKeyingPlayerToolBar-version5"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Duration setting"
+msgstr "Duration setting"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Add more media to customize the video duration"
+msgstr "Add more media to customize the video duration"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Max 30s"
+msgstr "Max 30s"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Max 60s"
+msgstr "Max 60s"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Text Color:"
+msgstr "Text Color:"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Max 2min"
+msgstr "Max 2min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Max 3min"
+msgstr "Max 3min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Max 5min"
+msgstr "Max 5min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Max 10min"
+msgstr "Max 10min"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Video length:"
+msgstr "Video length:"
+
+#: 
+msgctxt "FGlobalSettingMenu-version5"
+msgid "Text type"
+msgstr "Text type"
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "Complete User Guide to Redeem"
+msgstr "Complete User Guide to Redeem"
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "Skip User Guide and Reward"
+msgstr "Skip User Guide and Reward"
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "Unlock Watermark-Free"
+msgstr "Unlock Watermark-Free"
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "Don't Miss Out on This Special Bonus"
+msgstr "Don't Miss Out on This Special Bonus"
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "You're just a few steps away from claiming your"
+msgstr "You're just a few steps away from claiming your"
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "Unlock Watermark-Free Exports reward."
+msgstr "Unlock Watermark-Free Exports reward."
+
+#: 
+msgctxt "FGuideRedeemPanel-version5"
+msgid "%1 Exports reward."
+msgstr "%1 Exports reward."
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version5"
+msgid "Original Path"
+msgstr "Original Path"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version5"
+msgid "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+msgstr "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version5"
+msgid "Relocate"
+msgstr "Relocate"
+
+#: 
+msgctxt "FRelocateMissingFilesPanel-version5"
+msgid "Matched File"
+msgstr "Matched File"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version5"
+msgid "List of voice-text services"
+msgstr "List of voice-text services"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version5"
+msgid "Speech Service dialog"
+msgstr "Speech Service dialog"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version5"
+msgid "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+msgstr "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version5"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+msgctxt "FFSpeechServiceDialog-version5"
+msgid "Are you sure to quit?"
+msgstr "Are you sure to quit?"
+
+#: 
+msgctxt "FFSpeechServiceDialog-version5"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FPropertySpeedControl-version5"
+msgid "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+msgstr "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+
+#: 
+msgctxt "FPropertySpeedControl-version5"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+msgctxt "FPropertySpeedControl-version5"
+msgid "Preview the result by Export or Render Preview"
+msgstr "Preview the result by Export or Render Preview"
+
+#: 
+msgctxt "FPropertySpeedControl-version5"
+msgid "When multi-selection editing, ripple editing is forced to be enabled."
+msgstr "When multi-selection editing, ripple editing is forced to be enabled."
+
+#: 
+msgctxt "FFMainPlayerWidget-version5"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+
+#: 
+msgctxt "FFMainPlayerWidget-version5"
+msgid "Command + mouse wheel to zoom the player"
+msgstr "Command + mouse wheel to zoom the player"
+
+#: 
+msgctxt "FFMainPlayerWidget-version5"
+msgid "Insufficient Disk Space"
+msgstr "Insufficient Disk Space"
+
+#: 
+msgctxt "FFMainPlayerWidget-version5"
+msgid "Ctrl + mouse wheel to zoom the player"
+msgstr "Ctrl + mouse wheel to zoom the player"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "The download center is running. Only after it is closed can the resources be migrated."
+msgstr "The download center is running. Only after it is closed can the resources be migrated."
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Disk space remaining %1 GB,space required %2 GB."
+msgstr "Disk space remaining %1 GB,space required %2 GB."
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "After closing the program, it will start to migrate the files from the original storage path to the new path. When finished, the program will automatically restart for you."
+msgstr "After closing the program, it will start to migrate the files from the original storage path to the new path. When finished, the program will automatically restart for you."
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "The default storage location includes render files, backup files, proxy files, downloaded files, recording files, etc. After changing the default file storage path, all the above files and any new files will be migrated to the new path."
+msgstr "The default storage location includes render files, backup files, proxy files, downloaded files, recording files, etc. After changing the default file storage path, all the above files and any new files will be migrated to the new path."
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "The new storage location you selected matches the original file storage location. Please select a new one."
+msgstr "The new storage location you selected matches the original file storage location. Please select a new one."
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Not enough disk space"
+msgstr "Not enough disk space"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "No Permission"
+msgstr "No Permission"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Restart the program now"
+msgstr "Restart the program now"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "No Migration"
+msgstr "No Migration"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FSettingFoldersPanel-version5"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version5"
+msgid "You're not connected to the internet"
+msgstr "You're not connected to the internet"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version5"
+msgid "Filmstock"
+msgstr "Filmstock"
+
+#: 
+msgctxt "FLoadingNoNetworkPage-version5"
+msgid "Poor network. Cloud resources couldn't load."
+msgstr "Poor network. Cloud resources couldn't load."
+

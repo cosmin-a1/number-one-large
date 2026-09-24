@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FUserLabelManageListWidget-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version5"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version5"
+msgid "Please enter a valid name"
+msgstr "Please enter a valid name"
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version5"
+msgid "Tip: The recording time must be between  <b>%1 20 s and 1 min %2</b>. Emotions, accents, etc. will be recorded and used in voice cloning."
+msgstr "Tip: The recording time must be between  <b>%1 20 s and 1 min %2</b>. Emotions, accents, etc. will be recorded and used in voice cloning."
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version5"
+msgid "Tip: The recording time must be between <b>%1 10s and 1min%2</b>. To ensure the success of subsequent voice cloning, the person performing the voice cloning operation must accurately read the text and record the audio."
+msgstr "Tip: The recording time must be between <b>%1 10s and 1min%2</b>. To ensure the success of subsequent voice cloning, the person performing the voice cloning operation must accurately read the text and record the audio."
+
+#: 
+msgctxt "FPropertyVideoControl-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyVideoControl-version5"
+msgid "Adjustment Layer Preset Saved!"
+msgstr "Adjustment Layer Preset Saved!"
+
+#: 
+msgctxt "FTextPresetPanel-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FTextPresetPanel-version5"
+msgid "Name your custom text preset. It will be saved under Custom in the Titles menu."
+msgstr "Name your custom text preset. It will be saved under Custom in the Titles menu."
+
+#: 
+msgctxt "FTextPresetPanel-version5"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FTopGridWidget-version5"
+msgid "Device"
+msgstr "Device"
+
+#: 
+msgctxt "FTopGridWidget-version5"
+msgid "Voice Name"
+msgstr "Voice Name"
+
+#: 
+msgctxt "FTextOptionsWidget-version5"
+msgid "Line Height"
+msgstr "Line Height"
+
+#: 
+msgctxt "FTextOptionsWidget-version5"
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: 
+msgctxt "FTextOptionsWidget-version5"
+msgid "Alignment"
+msgstr "Alignment"
+
+#: 
+msgctxt "FPropertyStabilizationPanelClass-version5"
+msgid "Edge Processing"
+msgstr "Edge Processing"
+
+#: 
+msgctxt "FPropertyStabilizationPanelClass-version5"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FAIQueueProcessButton-version5"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FAIQueueProcessButton-version5"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FAIQueueProcessButton-version5"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FAIQueueProcessButton-version5"
+msgid "Processing in queue"
+msgstr "Processing in queue"
+
+#: 
+msgctxt "FAccountCenterBottomWidget-version5"
+msgid "User Center"
+msgstr "User Center"
+
+#: 
+msgctxt "FAccountCenterBottomWidget-version5"
+msgid "Logout"
+msgstr "Logout"
+
+#: 
+msgctxt "FAccountCenterBottomWidget-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFavoritedGroupTagMenu-version5"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FFavoritedGroupTagMenu-version5"
+msgid "Add tag"
+msgstr "Add tag"
+
+#: 
+msgctxt "FFavoritedGroupTagMenu-version5"
+msgid "Manage tags"
+msgstr "Manage tags"
+
+#: 
+msgctxt "FSatisfactionDialog-version5"
+msgid "Neutral"
+msgstr "Neutral"
+
+#: 
+msgctxt "FSatisfactionDialog-version5"
+msgid "How do you like the video generated from text?"
+msgstr "How do you like the video generated from text?"
+
+#: 
+msgctxt "FSatisfactionDialog-version5"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSatisfactionDialog-version5"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FCloudSpaceWidget-version5"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudSpaceWidget-version5"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FCloudSpaceWidget-version5"
+msgid "Share Space"
+msgstr "Share Space"
+
+#: 
+msgctxt "FCloudSpaceWidget-version5"
+msgid "Click to open cloud space"
+msgstr "Click to open cloud space"
+
+#: 
+msgctxt "FCloudSpaceWidget-version5"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FCloudSpaceWidget-version5"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+msgctxt "FAdvancedEditingToolBar-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportModuleDlg-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportModuleDlg-version5"
+msgid "There are unfinished render tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+msgstr "There are unfinished render tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+
+#: 
+msgctxt "FExportModuleDlg-version5"
+msgid "Export selected clips"
+msgstr "Export selected clips"
+
+#: 
+msgctxt "FExportModuleDlg-version5"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+msgctxt "LosslessBase-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "LosslessBase-version5"
+msgid "Add Segment"
+msgstr "Add Segment"
+
+#: 
+msgctxt "LosslessBase-version5"
+msgid "Open File"
+msgstr "Open File"
+
+#: 
+msgctxt "LosslessBase-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version5"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version5"
+msgid "View what's new of previous versions"
+msgstr "View what's new of previous versions"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version5"
+msgid "Next Feature"
+msgstr "Next Feature"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version5"
+msgid "Try Now"
+msgstr "Try Now"
+
+#: 
+msgctxt "FTimerDurationView-version5"
+msgid "Frames"
+msgstr "Frames"
+
+#: 
+msgctxt "FTimerDurationView-version5"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FMediaMaterialManagerWidget-version5"
+msgid "Auto Create"
+msgstr "Auto Create"
+
+#: 
+msgctxt "FFStepFunctionTipWidget-version5"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Filmora AI Credits"
+msgstr "Filmora AI Credits"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Usage Rules"
+msgstr "Usage Rules"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Filmora Cloud Drive"
+msgstr "Filmora Cloud Drive"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version5"
+msgid "Pick a plan to improve your efficiency"
+msgstr "Pick a plan to improve your efficiency"
+
+#: 
+msgctxt "FAIImageViewDelegate-version5"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIImageViewDelegate-version5"
+msgid "Describe the image you want to generate"
+msgstr "Describe the image you want to generate"
+
+#: 
+msgctxt "FAIImageViewDelegate-version5"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIImageViewDelegate-version5"
+msgid "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+msgstr "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+
+#: 
+msgctxt "FMediaBlankContentMenu-version5"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaBlankContentMenu-version5"
+msgid "Remove unused media"
+msgstr "Remove unused media"
+
+#: 
+msgctxt "FMediaImportHelper-version5"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaImportHelper-version5"
+msgid "%1 is importing now, %2 files left."
+msgstr "%1 is importing now, %2 files left."
+
+#: 
+msgctxt "FMediaImportHelper-version5"
+msgid "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+msgstr "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+
+#: 
+msgctxt "FFColorPickPartsCtrlPrivate-version5"
+msgid "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+msgstr "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+
+#: 
+msgctxt "FCommercialButtonWidget-version5"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FCommercialButtonWidget-version5"
+msgid "Non-Commercial Use"
+msgstr "Non-Commercial Use"
+
+#: 
+msgctxt "FHomePageFeatureIntroWidget-version5"
+msgid "No data"
+msgstr "No data"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version5"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version5"
+msgid "Account"
+msgstr "Account"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version5"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+msgctxt "FTimelineAddMarkerActionPresenter-version5"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+msgctxt "FNewFollowUsWidget-version5"
+msgid "Follow us for more tutorials."
+msgstr "Follow us for more tutorials."
+
+#: 
+msgctxt "IFFScrollTipPainter-version5"
+msgid "Scroll to continue to the next category"
+msgstr "Scroll to continue to the next category"
+
+#: 
+msgctxt "IFFScrollTipPainter-version5"
+msgid "No more result"
+msgstr "No more result"
+
+#: 
+msgctxt "FFVoiceStackedWidget-version5"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+msgctxt "FFVoiceStackedWidget-version5"
+msgid "Sorry about the failure, please check the network and click Refresh to try again"
+msgstr "Sorry about the failure, please check the network and click Refresh to try again"
+
+#: 
+msgctxt "FTTSLoadingVoiceComponent-version5"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+msgctxt "FFilterNewModeBar-version5"
+msgid "Search my favorite filters"
+msgstr "Search my favorite filters"
+
+#: 
+msgctxt "FFilterNewModeBar-version5"
+msgid "Search downloaded filters"
+msgstr "Search downloaded filters"
+
+#: 
+msgctxt "FFilterNewModeBar-version5"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+msgctxt "FMigrationDialog-version5"
+msgid "File migration success"
+msgstr "File migration success"
+
+#: 
+msgctxt "FMigrationDialog-version5"
+msgid "Files are being transferred to a new storage location..."
+msgstr "Files are being transferred to a new storage location..."
+
+#: 
+msgctxt "FMigrationDialog-version5"
+msgid "Tips: Please do not close during the process"
+msgstr "Tips: Please do not close during the process"
+
+#: 
+msgctxt "FMigrationDialog-version5"
+msgid "New Location:"
+msgstr "New Location:"
+
+#: 
+msgctxt "FPropertyDirectionBlurEffectWidget-version5"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version5"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version5"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version5"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version5"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version5"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version5"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FPropertyCloudResListViewPrivate-version5"
+msgid "File name invalid."
+msgstr "File name invalid."
+

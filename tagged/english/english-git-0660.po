@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FSettingFolderPanel-version5"
+msgid "Snapshot files:"
+msgstr "Snapshot files:"
+
+#: 
+msgctxt "FSettingFolderPanel-version5"
+msgid "Recorded Audio:"
+msgstr "Recorded Audio:"
+
+#: 
+msgctxt "FSettingFolderPanel-version5"
+msgid "VoiceOver"
+msgstr "VoiceOver"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version5"
+msgid "Start Editing"
+msgstr "Start Editing"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version5"
+msgid "I Want More Tutorials"
+msgstr "I Want More Tutorials"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version5"
+msgid "Go Back the Tutorial"
+msgstr "Go Back the Tutorial"
+
+#: 
+msgctxt "FUserGuideFinishWidget-version5"
+msgid "We hope you enjoy your editing journey."
+msgstr "We hope you enjoy your editing journey."
+
+#: 
+msgctxt "FUserGuideFinishWidget-version5"
+msgid "Well Done!"
+msgstr "Well Done!"
+
+#: 
+msgctxt "FFAudioMixerDialog-version5"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTimelineAudioMixerActionPresenter-version5"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTTSLoadErrorComponent-version5"
+msgid "Voice acquisition failed, please check the network and %1 click retry %2"
+msgstr "Voice acquisition failed, please check the network and %1 click retry %2"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version5"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version5"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version5"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+msgctxt "FAIToolboxItemWidget-version5"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+msgctxt "FAIToolboxItemWidget-version5"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version5"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version5"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version5"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+msgctxt "FDcPluginStatusWidget-version5"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+msgctxt "FDcPluginStatusWidget-version5"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "Category name should not be empty!"
+msgstr "Category name should not be empty!"
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+msgstr "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "This name is in use, please choose another."
+msgstr "This name is in use, please choose another."
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+msgstr "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "view more"
+msgstr "view more"
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+msgstr "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "This item is not commercially available"
+msgstr "This item is not commercially available"
+
+#: 
+msgctxt "FMediaTreeView-version5"
+msgid "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+msgstr "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "No downloads in progress."
+msgstr "No downloads in progress."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "Upload videos, images, projects, and more to your personal cloud storage."
+msgstr "Upload videos, images, projects, and more to your personal cloud storage."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "There are no results for %1"
+msgstr "There are no results for %1"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "No completed tasks."
+msgstr "No completed tasks."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "TransferCenter Status"
+msgstr "TransferCenter Status"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "No uploads in progress."
+msgstr "No uploads in progress."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "Download videos, images, projects, and more from your personal cloud storage."
+msgstr "Download videos, images, projects, and more from your personal cloud storage."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "Uploaded and downloaded tasks will appear here."
+msgstr "Uploaded and downloaded tasks will appear here."
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "TransferCenter Size"
+msgstr "TransferCenter Size"
+
+#: 
+msgctxt "FFTransferCenterTaskWidget-version5"
+msgid "TransferCenter Name"
+msgstr "TransferCenter Name"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Please input your email"
+msgstr "Please input your email"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Please enter a valid first name"
+msgstr "Please enter a valid first name"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Email inconsistent, please check and confirm again."
+msgstr "Email inconsistent, please check and confirm again."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "The password you've entered is incorrect. Click forget password to reset your password."
+msgstr "The password you've entered is incorrect. Click forget password to reset your password."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "There was an error connecting to the server. Please check your network or proxy server settings."
+msgstr "There was an error connecting to the server. Please check your network or proxy server settings."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Login successfully"
+msgstr "Login successfully"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Connection timed out. Please wait for a while or check your network connection."
+msgstr "Connection timed out. Please wait for a while or check your network connection."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Enter a combination of at least six numbersletters & symbols."
+msgstr "Enter a combination of at least six numbersletters & symbols."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Vertification code is empty"
+msgstr "Vertification code is empty"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Create account Successfully"
+msgstr "Create account Successfully"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Please enter a password"
+msgstr "Please enter a password"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+msgstr "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Please enter a valid last name"
+msgstr "Please enter a valid last name"
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+msgstr "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+
+#: 
+msgctxt "FUserAccountBasePage-version5"
+msgid "Please enter a vaild email"
+msgstr "Please enter a vaild email"
+
+#: 
+msgctxt "FPropertyTitlesControl-version5"
+msgid "Video Layer"
+msgstr "Video Layer"
+
+#: 
+msgctxt "FPropertyTitlesControl-version5"
+msgid "Shape Layer"
+msgstr "Shape Layer"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "Failed to new folder. Insufficient cloud storage."
+msgstr "Failed to new folder. Insufficient cloud storage."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "Create"
+msgstr "Create"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "Failed to new folder."
+msgstr "Failed to new folder."
+
+#: 
+msgctxt "FCloudMediaNewFolderDialog-version5"
+msgid "Untitled Folder"
+msgstr "Untitled Folder"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+msgstr "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "The \"%1\" file has been loaded. Do you want to open the file now?"
+msgstr "The \"%1\" file has been loaded. Do you want to open the file now?"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Open now"
+msgstr "Open now"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Load complete tip"
+msgstr "Load complete tip"
+
+#: 
+msgctxt "FFCloudDiskFloatingWidget-version5"
+msgid "Use Now"
+msgstr "Use Now"
+
+#: 
+msgctxt "DcPluginManager-version5"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "DcPluginManager-version5"
+msgid "Installation failed. Please try again later."
+msgstr "Installation failed. Please try again later."
+
+#: 
+msgctxt "DcPluginManager-version5"
+msgid "Insufficient disk space. Please free up some space and try again."
+msgstr "Insufficient disk space. Please free up some space and try again."
+
+#: 
+msgctxt "DcPluginManager-version5"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FAIPortraitItemManager-version5"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "FAudioVoiceChangerMediaManager-version5"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FFeedbackMoreDialog-version5"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FFeedBackDialog-version5"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+msgctxt "FFeedBackDialog-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Export Limitation"
+msgstr "Export Limitation"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Export with watermark"
+msgstr "Export with watermark"
+
+#: 
+msgctxt "FAdvanceTrialLimitationDialog-version5"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+

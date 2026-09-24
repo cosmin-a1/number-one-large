@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Label for contact with unsynced details
+#: some text
+msgid "tap_to_update"
+msgstr "tap_to_update"
+
+#. Label which shows who created the group. Example: "John created this group"
+#: some text
+msgid "group_added_by"
+msgstr "group_added_by"
+
+#. Label which shows who updated a group and which field was updated. Example: "[John] changed the group's [name]"
+#: some text
+msgid "group_updated_by"
+msgstr "group_updated_by"
+
+#. Label which shows which field changed for group. Example: "Group [name] changed"
+#: some text
+msgid "group_updated_by_item_general"
+msgstr "group_updated_by_item_general"
+
+#. Label which shows that a group info was changed
+#: some text
+msgid "group_updated_by_general"
+msgstr "group_updated_by_general"
+
+#. One of the group's parameters. Used as part of a sentence. Exmaple: "Group [color,name,photo,participants] changed"
+#: some text
+msgid "color"
+msgstr "color"
+
+#. One of the group's parameters. Used as part of a sentence. Exmaple: "Group [color,name,photo,participants] changed"
+#: some text
+msgid "name"
+msgstr "name"
+
+#. One of the group's parameters. Used as part of a sentence. Exmaple: "Group [color,name,photo,participants] changed"
+#: some text
+msgid "photo"
+msgstr "photo"
+
+#. Label which shows who added an event, and the title of the event. Example: "[John]] added an event - [Marketing meeting]"
+#: some text
+msgid "event_added_by"
+msgstr "event_added_by"
+
+#. Label which shows who updated an event, and the title of the event. Example: "[John]] added an event - [Marketing meeting]"
+#: some text
+msgid "event_updated_by"
+msgstr "event_updated_by"
+
+#. Label which shows that an event was added, and the title of the event. Example: "Event was added: [Marketing meeting]"
+#: some text
+msgid "event_added_general"
+msgstr "event_added_general"
+
+#. Label which shows that an event was updated, and the title of the event. Example: "Updated event: [Marketing meeting]"
+#: some text
+msgid "event_updated_general"
+msgstr "event_updated_general"
+
+#. Label which shows a group was created.
+#: some text
+msgid "group_added_general"
+msgstr "group_added_general"
+
+#. Label which shows that an event was deleted. Example: "Deleted event: [Marketing meeting]."
+#: some text
+msgid "event_removed_general"
+msgstr "event_removed_general"
+
+#. Label which shows who deleted event. Example: "[John]] deleted an event: [Marketing meeting]."
+#: some text
+msgid "event_removed_by"
+msgstr "event_removed_by"
+
+#. Label indicating yesterday
+#: some text
+msgid "yesterday"
+msgstr "yesterday"
+
+#. Label which shows that participants were added to a group
+#: some text
+msgid "added_participant_general"
+msgstr "added_participant_general"
+
+#. Label which shows who added participants. Example: "[John] added participants"
+#: some text
+msgid "added_participant"
+msgstr "added_participant"
+
+#. Label which shows that participants were removed from a group
+#: some text
+msgid "removed_participant_general"
+msgstr "removed_participant_general"
+
+#. Label which shows who removed participants from group. Example: "[John] removed participants"
+#: some text
+msgid "removed_participant"
+msgstr "removed_participant"
+
+#. Label which shows that you received admin rights on a group"
+#: some text
+msgid "you_are_now_admin"
+msgstr "you_are_now_admin"
+
+#. Label which shows that you lost admin rights for a group"
+#: some text
+msgid "you_are_no_admin"
+msgstr "you_are_no_admin"
+
+#. Label on a button which leads to GooglePlay for rating the app. Example: "Rate [App NAME]"
+#: some text
+msgid "rate"
+msgstr "rate"
+
+#. Title on the menu for the smart alerts screen
+#: some text
+msgid "smart_alerts"
+msgstr "smart_alerts"
+
+#. Title for section in smart alert screen
+#: some text
+msgid "general"
+msgstr "general"
+
+#. Label for button which enable/disable the daily agenda alert
+#: some text
+msgid "daily_agenda"
+msgstr "daily_agenda"
+
+#. Label for a button to pick the agenda for tomorrow
+#: some text
+msgid "tomorrows_agenda"
+msgstr "tomorrows_agenda"
+
+#. Label for a button to pick the agenda for today
+#: some text
+msgid "todays_agenda"
+msgstr "todays_agenda"
+
+#. Title for notification about today agenda
+#: some text
+msgid "today_agenda_title"
+msgstr "today_agenda_title"
+
+#. Title for notification about tomorrow's agenda
+#: some text
+msgid "tomorrow_agenda_title"
+msgstr "tomorrow_agenda_title"
+
+#. Message about when it's possible to set today's agenda
+#: some text
+msgid "you_can_select_only_from2to12"
+msgstr "you_can_select_only_from2to12"
+
+#. Plurals for the events amount
+#: some text
+msgid "events_plurals"
+msgstr "events_plurals"
+
+#. Label for a section in help center screen
+#: some text
+msgid "learn_about"
+msgstr "learn_about"
+
+#. Label for a button which opens user guide for app
+#: some text
+msgid "user_guide"
+msgstr "user_guide"
+
+#. Notification message for today agenda if you do not have events for today
+#: some text
+msgid "nothing_for_today"
+msgstr "nothing_for_today"
+
+#. Notification message for tomorrow agenda if you do not have events for tomorrow
+#: some text
+msgid "nothing_for_tomorrow"
+msgstr "nothing_for_tomorrow"
+
+#. Label to notify user that he was added to a group Example: "[John] added you to this group
+#: some text
+msgid "added_you_to_group"
+msgstr "added_you_to_group"
+
+#. Label for a button in smart alerts screen
+#: some text
+msgid "weather_alerts"
+msgstr "weather_alerts"
+
+#. Title for a notification about weather
+#: some text
+msgid "weather_alert"
+msgstr "weather_alert"
+
+#. Message for a notificaation about weather. Example: [chance of rain] tomorrow.
+#: some text
+msgid "weather_message"
+msgstr "weather_message"
+
+#. Weather condition for weather notification. Exmaple: 'chance of raing tomorrow'
+#: some text
+msgid "chance_of_rain"
+msgstr "chance_of_rain"
+
+#. Weather condition for weather notification. Exmaple: 'chance of snow tomorrow'
+#: some text
+msgid "chance_of_snow"
+msgstr "chance_of_snow"
+
+#. Weather condition for weather notification. Exmaple: 'chance of severe snow tomorrow'
+#: some text
+msgid "chance_of_severe_snow"
+msgstr "chance_of_severe_snow"
+
+#. Weather condition for weather notification. Exmaple: 'chance of thunderstorms tomorrow'
+#: some text
+msgid "chance_of_thunderstorms"
+msgstr "chance_of_thunderstorms"
+
+#. Weather condition for weather notification. Exmaple: 'chance of fog tomorrow'
+#: some text
+msgid "chance_of_fog"
+msgstr "chance_of_fog"
+
+#. Label for a message in group list screen that you created this group.
+#: some text
+msgid "you_added_group"
+msgstr "you_added_group"
+
+#. Label for a message in group list screen that you changed this group. Example: 'You changed this group's color'
+#: some text
+msgid "you_updated_group_item"
+msgstr "you_updated_group_item"
+
+#. Label for a message in group list screen that you added participants to this group.
+#: some text
+msgid "you_added_participants"
+msgstr "you_added_participants"
+
+#. Label for a message in group list screen that you removed participants from this group.
+#: some text
+msgid "you_removed_participants"
+msgstr "you_removed_participants"
+
+#. Label for a message in group list screen that you deleted an event. Example: You deleted an event: [Meeting with Gilad].
+#: some text
+msgid "you_removed_event"
+msgstr "you_removed_event"
+
+#. Label for a message in group list screen that you deleted an event. Example: You added an event: [Meeting with Gilad].
+#: some text
+msgid "you_added_event"
+msgstr "you_added_event"
+
+#. Label for a message in group list screen that you deleted an event. Example: You updated an event: [Meeting with Gilad].
+#: some text
+msgid "you_updated_event"
+msgstr "you_updated_event"
+
+#. Open on the menu to go to the screen where all customer support features are listed
+#: some text
+msgid "help_center_label"
+msgstr "help_center_label"
+
+#. Title for a section in smart notification screen
+#: some text
+msgid "daily_agenda_notifications"
+msgstr "daily_agenda_notifications"
+
+#. Label for button which enalbe/disable daily agenda notifications
+#: some text
+msgid "enable_daily_agenda_notifs"
+msgstr "enable_daily_agenda_notifs"
+
+#. Label for button which enalbe/disable weather notifications
+#: some text
+msgid "enable_weather_alerts"
+msgstr "enable_weather_alerts"
+
+#. Label for a button which opens email client
+#: some text
+msgid "contact_the_support_team"
+msgstr "contact_the_support_team"
+
+#. Label for a button which opens mail client
+#: some text
+msgid "i_have_a_bug"
+msgstr "i_have_a_bug"
+
+#. Label for a button which opens mail client
+#: some text
+msgid "i_have_suggestion"
+msgstr "i_have_suggestion"
+
+#. Subject of a mail with app name. Example: Bug Report - [GroupCal] - Android
+#: some text
+msgid "bug_report_title"
+msgstr "bug_report_title"
+
+#. First sentence in mail for a bug report
+#: some text
+msgid "bug_body_begin"
+msgstr "bug_body_begin"
+
+#. Subject of a mail with app name. Example: Suggestion for [GroupCal] - Android
+#: some text
+msgid "suggestion_report_title"
+msgstr "suggestion_report_title"
+
+#. First sentence in mail for a app suggestion
+#: some text
+msgid "suggestion_body_begin"
+msgstr "suggestion_body_begin"
+
+#. Title for a section in group details screen
+#: some text
+msgid "group_actions"
+msgstr "group_actions"
+
+#. Label for a button to exit a group
+#: some text
+msgid "exit_group"
+msgstr "exit_group"
+
+#. Title for a dialog which asking to leave a group
+#: some text
+msgid "exit_group_msg"
+msgstr "exit_group_msg"
+
+#. Label for a button inside dialog to confirm exit
+#: some text
+msgid "exit"
+msgstr "exit"
+
+#. Label for an indication that you left the group
+#: some text
+msgid "you_left_group"
+msgstr "you_left_group"
+
+#. Label for an indication that user left the group. Example: [Gilad] left the group
+#: some text
+msgid "user_left_group"
+msgstr "user_left_group"
+
+#. Label for a button which shows that there are more items available to show. Example: [6] more
+#: some text
+msgid "more_available"
+msgstr "more_available"
+
+#. Label for a swipable section in search screen
+#: some text
+msgid "groups"
+msgstr "groups"
+
+#. Label for a message regarding some functionality which currently not supported. Example: [Change group of event] is not supported
+#: some text
+msgid "not_supported"
+msgstr "not_supported"
+
+#. Title for a section in dialog for choosing calendar account for event
+#: some text
+msgid "calendar_accounts"
+msgstr "calendar_accounts"
+
+#. Title for a section in dialog for choosing calendar account for event
+#: some text
+msgid "group_calendars"
+msgstr "group_calendars"
+
+#. Title for a dialog that selected calendar cannot be set as default
+#: some text
+msgid "cant_set_default_calendar"
+msgstr "cant_set_default_calendar"
+
+#. Label for a dialog body that selected calendar cannot be set as default
+#: some text
+msgid "cant_set_calendar_message"
+msgstr "cant_set_calendar_message"
+
+#. Label for an indication that no results found
+#: some text
+msgid "no_results_found"
+msgstr "no_results_found"
+
+#. Hint for an input field for first name
+#: some text
+msgid "enter_your_name"
+msgstr "enter_your_name"
+
+#. Hint for an input field for last name
+#: some text
+msgid "enter_your_last_name"
+msgstr "enter_your_last_name"
+
+#. Title for a section about last name in enter name dialog
+#: some text
+msgid "last_name"
+msgstr "last_name"
+
+#. Title for a section about first name in enter name dialog
+#: some text
+msgid "first_name"
+msgstr "first_name"
+
+#. Label for a message when you want to submit only last name, without entered name
+#: some text
+msgid "first_name_is_required"
+msgstr "first_name_is_required"
+
+#. Button label which leads to login screen for existing user
+#: some text
+msgid "existing_user"
+msgstr "existing_user"
+
+#. Button label which leads to create new user screen
+#: some text
+msgid "newUser"
+msgstr "newUser"
+
+#. Title on create new user screen
+#: some text
+msgid "create_account_with"
+msgstr "create_account_with"
+
+#. Description below title about creating 24me account
+#: some text
+msgid "create_account_desc"
+msgstr "create_account_desc"
+
+#. Description above TOS and PP buttons
+#: some text
+msgid "tos_pp_desc"
+msgstr "tos_pp_desc"
+
+#. Label for TOS button
+#: some text
+msgid "terms_of_service"
+msgstr "terms_of_service"
+
+#. Connection word between TOS and PP button
+#: some text
+msgid "and"
+msgstr "and"
+
+#. Label for PP button
+#: some text
+msgid "privacy_policy"
+msgstr "privacy_policy"
+
+#. Label for button to login with FB
+#: some text
+msgid "use_facebook"
+msgstr "use_facebook"
+
+#. Label for button to login with email
+#: some text
+msgid "use_email"
+msgstr "use_email"
+
+#. Label for button to enter to app as guest
+#: some text
+msgid "enter_as_guest"
+msgstr "enter_as_guest"
+
+#. Hint for email input field
+#: some text
+msgid "prompt_email"
+msgstr "prompt_email"
+
+#. Hint for password input field
+#: some text
+msgid "prompt_password"
+msgstr "prompt_password"
+
+#. Label on enter as guest dialog which leads to sign in screen
+#: some text
+msgid "action_sign_in_short"
+msgstr "action_sign_in_short"
+
+#. Error message on input field for invalid email
+#: some text
+msgid "error_invalid_email"
+msgstr "error_invalid_email"
+
+#. Error message on input field for short password
+#: some text
+msgid "error_invalid_password"
+msgstr "error_invalid_password"
+
+#. Error message on input field for indicating that this field is required
+#: some text
+msgid "error_field_required"
+msgstr "error_field_required"
+
+#. Screen title on create new user screen
+#: some text
+msgid "new_user_create"
+msgstr "new_user_create"
+

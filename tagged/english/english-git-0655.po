@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FProductHomePagePrivate-version5"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FProductHomePagePrivate-version5"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+msgctxt "FProductHomePagePrivate-version5"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+msgctxt "FProductHomePagePrivate-version5"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+msgctxt "FProductHomePagePrivate-version5"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+msgctxt "FSchemePlanItemWidget-version5"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version5"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version5"
+msgid "Unpaid user"
+msgstr "Unpaid user"
+
+#: 
+msgctxt "FSchemePlanItemWidget-version5"
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version5"
+msgid "Click to copy"
+msgstr "Click to copy"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version5"
+msgid "Copied"
+msgstr "Copied"
+
+#: 
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version5"
+msgid "Task is in progress,please wait."
+msgstr "Task is in progress,please wait."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "The transcription failed, please re-select the file for transcription."
+msgstr "The transcription failed, please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "The language in the video doesn't match the selected language. Please choose again."
+msgstr "The language in the video doesn't match the selected language. Please choose again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+msgstr "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FConvertToSrtStatusPanel-version5"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FExportUploadDlg-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FExportUploadDlg-version5"
+msgid "Please wait for a few minutes, still processing."
+msgstr "Please wait for a few minutes, still processing."
+
+#: 
+msgctxt "FExportUploadDlg-version5"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FExportUploadDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportUploadDlg-version5"
+msgid "Please check your connection and try again."
+msgstr "Please check your connection and try again."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version5"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version5"
+msgid "TransferCenter Waiting..."
+msgstr "TransferCenter Waiting..."
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version5"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version5"
+msgid "Stopped"
+msgstr "Stopped"
+
+#: 
+msgctxt "FFTransferCenterUploadTaskItemWidget-version5"
+msgid "TransferCenter Stop"
+msgstr "TransferCenter Stop"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version5"
+msgid "to re-download a new copy of the installer for a fresh installation."
+msgstr "to re-download a new copy of the installer for a fresh installation."
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version5"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version5"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version5"
+msgid "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+msgstr "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+
+#: 
+msgctxt "FFUpgradeDownloadFailedDialog-version5"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version5"
+msgid "Please wait, it may take a while to download and install the effect plugin."
+msgstr "Please wait, it may take a while to download and install the effect plugin."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version5"
+msgid "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+msgstr "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version5"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FOpenfxPackManagerDlg-version5"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+msgctxt "FProgressTipsDialog-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FProgressTipsDialog-version5"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FProgressTipsDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProgressTipsDialog-version5"
+msgid "Please wait a few minutes, download and install the plug-in."
+msgstr "Please wait a few minutes, download and install the plug-in."
+
+#: 
+msgctxt "FProgressTipsDialog-version5"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSFeedbackConfirmDlg-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FSmartEditExport-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FSmartEditExport-version5"
+msgid "Converting the %1/%2 video."
+msgstr "Converting the %1/%2 video."
+
+#: 
+msgctxt "FSmartEditExport-version5"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FSmartEditExport-version5"
+msgid "Conversion of %1/%2 videos has been completed."
+msgstr "Conversion of %1/%2 videos has been completed."
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version5"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version5"
+msgid "Generate preview videos for mobile"
+msgstr "Generate preview videos for mobile"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version5"
+msgid "Explosive template"
+msgstr "Explosive template"
+
+#: 
+msgctxt "FExportTemplatesSettingDialog-version5"
+msgid "Template Name:"
+msgstr "Template Name:"
+
+#: 
+msgctxt "FPropertyAdvancedMosaicEffectWidget-version5"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version5"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version5"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version5"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FPropertyBasicTransformWidget-version5"
+msgid "Corner Radius"
+msgstr "Corner Radius"
+
+#: 
+msgctxt "FTextTransformWidget-version5"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FTextTransformWidget-version5"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FTextTransformWidget-version5"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FScenceDetectListWidget-version5"
+msgid "Scene"
+msgstr "Scene"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version5"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudSpaceListViewMenu-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "Clear Record"
+msgstr "Clear Record"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "TransferCenter Reveal in Finder"
+msgstr "TransferCenter Reveal in Finder"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "TransferCenter Reveal in Explorer"
+msgstr "TransferCenter Reveal in Explorer"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: 
+msgctxt "FFTransferCenterFinishTaskItemWidget-version5"
+msgid "Go to Project"
+msgstr "Go to Project"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "A file with the same name already exists."
+msgstr "A file with the same name already exists."
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Rename Tip"
+msgstr "Rename Tip"
+
+#: 
+msgctxt "ProjectLibraryListItem-version5"
+msgid "Do you want to rename \"%1\" to \"%2\"?"
+msgstr "Do you want to rename \"%1\" to \"%2\"?"
+
+#: 
+msgctxt "FSmartSearchFilterMenu-version5"
+msgid "Smart"
+msgstr "Smart"
+
+#: 
+msgctxt "FSmartSearchFilterMenu-version5"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FCurvedSpeedView-version5"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyUniformSpeedWidget-version5"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+

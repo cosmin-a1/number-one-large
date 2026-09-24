@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version5"
+msgid "Advanced Split Screen Edit"
+msgstr "Advanced Split Screen Edit"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version5"
+msgid "The split screen has been modified. Do you want to save the changes?"
+msgstr "The split screen has been modified. Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceSSEditDialog-version5"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version5"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version5"
+msgid "Successfully applied to all subtitle bars"
+msgstr "Successfully applied to all subtitle bars"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version5"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+msgctxt "FDurationSettingDlg-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FDurationSettingDlg-version5"
+msgid "Duration Setting"
+msgstr "Duration Setting"
+
+#: 
+msgctxt "FDurationSettingDlg-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version5"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFSmartKeyingSettingView-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version5"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFToolBarManagerPanel-version5"
+msgid "Drag the items you want to use into the toolbar..."
+msgstr "Drag the items you want to use into the toolbar..."
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Export Succeed. "
+msgstr "Export Succeed. "
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Edit Thumbnail"
+msgstr "Edit Thumbnail"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "The thumbnail has been changed. Do you want to save your changes?"
+msgstr "The thumbnail has been changed. Do you want to save your changes?"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Export Failed."
+msgstr "Export Failed."
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Export to local"
+msgstr "Export to local"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Export Failed. Insufficient disk space. "
+msgstr "Export Failed. Insufficient disk space. "
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Applying template effects, please waiting..."
+msgstr "Applying template effects, please waiting..."
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FProjectCoverDialog-version5"
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+#: 
+msgctxt "FSavePreseNametDlg-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FSavePreseNametDlg-version5"
+msgid "This name is already in use. Do you want to overwrite the preset?"
+msgstr "This name is already in use. Do you want to overwrite the preset?"
+
+#: 
+msgctxt "FSavePreseNametDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FSavePreseNametDlg-version5"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Send"
+msgstr "Send"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "We're Sorry!"
+msgstr "We're Sorry!"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+msgstr "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Please include a description of the issue under 'Feedback'."
+msgstr "Please include a description of the issue under 'Feedback'."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Please include a description of the issue or a Problem Log."
+msgstr "Please include a description of the issue or a Problem Log."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Please include you email and description."
+msgstr "Please include you email and description."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+msgstr "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "This is where we'll get back to you.Double check that it's right."
+msgstr "This is where we'll get back to you.Double check that it's right."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Sending"
+msgstr "Sending"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "E-mail format is incorret."
+msgstr "E-mail format is incorret."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "*Feedback"
+msgstr "*Feedback"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Network connection failed."
+msgstr "Network connection failed."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Thanks for contact us. Please submit your suggestions or requirements below."
+msgstr "Thanks for contact us. Please submit your suggestions or requirements below."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Please provide Email, description or log."
+msgstr "Please provide Email, description or log."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "*E-mail"
+msgstr "*E-mail"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "include program log"
+msgstr "include program log"
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Please include your email."
+msgstr "Please include your email."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+msgctxt "FFeedBackPanel-version5"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "File Type"
+msgstr "File Type"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Last Modified Time"
+msgstr "Last Modified Time"
+
+#: 
+msgctxt "FCloudDiskFileTableView-version5"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Please go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+msgstr "Please go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Please go to clear local disk space or go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+msgstr "Please go to clear local disk space or go to File-Preferences-Folders-Download from other Apps to change the file download directory."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "There is not enough space on drive %1."
+msgstr "There is not enough space on drive %1."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Process"
+msgstr "Process"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Out of Disk Space"
+msgstr "Out of Disk Space"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Operations"
+msgstr "Operations"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Folder is not writable."
+msgstr "Folder is not writable."
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "There are no tasks currently in progress, select files to download!"
+msgstr "There are no tasks currently in progress, select files to download!"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "Unwritable Tip"
+msgstr "Unwritable Tip"
+
+#: 
+msgctxt "FCloudDiskTaskWidget-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version5"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version5"
+msgid "Roundness"
+msgstr "Roundness"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version5"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version5"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FPropertyColorBasicVignetteWidget-version5"
+msgid "Exposure"
+msgstr "Exposure"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version5"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version5"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version5"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FPropertyHumanBorderEffectWidget-version5"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyRemoveBackgroundWidget-version5"
+msgid "Feather"
+msgstr "Feather"
+
+#: 
+msgctxt "FPropertyVideoBorderWidget-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyVideoBorderWidget-version5"
+msgid "Select Color"
+msgstr "Select Color"
+
+#: 
+msgctxt "FUserInfoCollectWidget-version5"
+msgid "Skip"
+msgstr "Skip"
+

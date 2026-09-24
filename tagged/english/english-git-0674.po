@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTitleBarBuyBtn-version5"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FTimelineAudioRecorderActionPresenter-version5"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+msgctxt "FFVoicePanel-version5"
+msgid "There is currently no collection, go and collect your favorite vocalist!"
+msgstr "There is currently no collection, go and collect your favorite vocalist!"
+
+#: 
+msgctxt "FFPlaySettingWidget-version5"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FFTransferCenterDlg-version5"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "BorisFXUnActivationDialog-version5"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+msgctxt "FCheckSchemePlanFailedWebStateWidget-version5"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+msgctxt "FCloudMediaNavigationBar-version5"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+msgctxt "FCloudProjectWidget-version5"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+msgctxt "FFDrawMaskGuideWidget-version5"
+msgid "Brush over an area to begin Smart Cutout."
+msgstr "Brush over an area to begin Smart Cutout."
+
+#: 
+msgctxt "FNothingFindWid-version5"
+msgid "No results matched the searching keywords."
+msgstr "No results matched the searching keywords."
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidgetClass-version5"
+msgid "FPropertyMaskAIMaskWidget"
+msgstr "FPropertyMaskAIMaskWidget"
+
+#: 
+msgctxt "FBackupProjectDetailWidget-version5"
+msgid "All Projects"
+msgstr "All Projects"
+
+#: 
+msgctxt "FGraphicsVideoClipPainter-version5"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FGraphicsVideoClipPainter-version5"
+msgid "Removing object (Task %1)"
+msgstr "Removing object (Task %1)"
+
+#: 
+msgctxt "FUserLabelToast-version5"
+msgid "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+msgstr "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+
+#: 
+msgctxt "FTimelineZoomToFitActionPresenter-version5"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FInstantModeWidget-version5"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+msgctxt "FInstantModeWidget-version5"
+msgid "Create your own videos from templates"
+msgstr "Create your own videos from templates"
+
+#: 
+msgctxt "FInstantModeWidget-version5"
+msgid "Get Filmora Cloud"
+msgstr "Get Filmora Cloud"
+
+#: 
+msgctxt "FFMenu-version5"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FFTabWidget-version5"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FFTransferCenterLimitItemWidget-version5"
+msgid "*Up to 200 transmission history records"
+msgstr "*Up to 200 transmission history records"
+
+#: 
+msgctxt "FFWebcamRecordView-version5"
+msgid "Capture Video"
+msgstr "Capture Video"
+
+#: 
+msgctxt "FExportPurchaseTimingWidget-version5"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+msgctxt "FFCropAndZoomDialog-version5"
+msgid "Crop and Zoom"
+msgstr "Crop and Zoom"
+
+#: 
+msgctxt "FFUpgradeMultiElementWidget-version5"
+msgid "All Features"
+msgstr "All Features"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version5"
+msgid "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+msgstr "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version5"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskGroupWidgetClass-version5"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+msgctxt "FTTSCustomAddVoiceComponent-version5"
+msgid "Use Voice Clone to create your custom voice"
+msgstr "Use Voice Clone to create your custom voice"
+
+#: 
+msgctxt "FFNoNetworkWebStateWidget-version5"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FCloudDiskBottomBar-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFCloudDiskCheckDiskInfoDialog-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FKOCVideosItemWidget-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FTutorialVideosItemWidget-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "ProductItem-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FTTSNoFavoriteComponent-version5"
+msgid "There is currently no collection, go and collect your favorite voice!"
+msgstr "There is currently no collection, go and collect your favorite voice!"
+
+#: 
+msgctxt "FQuickEditProcessMask-version5"
+msgid "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+
+#: 
+msgctxt "FFSimpleProgressPanel-version5"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FTimelineQuick3DTextActionPresenter-version5"
+msgid "Quick 3D Text"
+msgstr "Quick 3D Text"
+
+#: 
+msgctxt "FRenewDialog-version5"
+msgid "If you have renewed Filmora, you can now export without a watermark!"
+msgstr "If you have renewed Filmora, you can now export without a watermark!"
+
+#: 
+msgctxt "FPropertyColorCurvePane-version5"
+msgid "The curve control point has reached the upper limit"
+msgstr "The curve control point has reached the upper limit"
+
+#: 
+msgctxt "FAISmartEditorSelectDlg-version5"
+msgid "AI Text Based Editing ( Silence Detection )"
+msgstr "AI Text Based Editing ( Silence Detection )"
+
+#: 
+msgctxt "someContext-version5"
+msgid "Some term"
+msgstr "Some term"
+
+#. Please don't change the name of the application
+#: 
+msgid "app.name"
+msgstr "app.name"
+
+#. form_label
+#: 
+msgctxt "<b>context</b>"
+msgid "app.login.text"
+msgstr "app.login.text"
+
+#: 
+msgid "app.login.message.success"
+msgstr "app.login.message.success"
+
+#: 
+msgid "app.login.message.error"
+msgstr "app.login.message.error"
+
+#: 
+msgid "app.login.password.forget"
+msgstr "app.login.password.forget"
+
+#: 
+msgid "app.login.password.reset"
+msgstr "app.login.password.reset"
+
+#: 
+msgid "app.register.text"
+msgstr "app.register.text"
+
+#: 
+msgid "app.register.message.success"
+msgstr "app.register.message.success"
+
+#: 
+msgid "app.register.message.error"
+msgstr "app.register.message.error"
+
+#: 
+msgid "app.menu.terms"
+msgstr "app.menu.terms"
+
+#: 
+msgid "app.users.active"
+msgstr "app.users.active"
+
+#. form_label
+#: 
+msgid "app.login.pass"
+msgstr "app.login.pass"
+
+#. Label for time label of time before event; Examaple "5 minutes before"
+#: some text
+msgid "beforeNumber"
+msgstr "beforeNumber"
+
+#. Label next to a default selection
+#: some text
+msgid "default_cal"
+msgstr "default_cal"
+
+#. Label for selection of default calendar account
+#: some text
+msgid "long_tap_for"
+msgstr "long_tap_for"
+
+#. Color names
+#: some text
+msgid "orange"
+msgstr "orange"
+
+#: some text
+msgid "pink"
+msgstr "pink"
+
+#: some text
+msgctxt "<b> bing</b>"
+msgid "yellow <b>bam</b>"
+msgstr "yellow <b>bam</b>"
+
+#: some text
+msgid "grey"
+msgstr "grey"
+
+#: some text
+msgid "red"
+msgstr "red"
+
+#: some text
+msgid "purple"
+msgstr "purple"
+
+#: some text
+msgid "lavender"
+msgstr "lavender"
+
+#: some text
+msgid "light_green"
+msgstr "light_green"
+
+#: some text
+msgid "dark_blue"
+msgstr "dark_blue"
+
+#: some text
+msgid "dark_green"
+msgstr "dark_green"
+
+#: some text
+msgid "light_blue"
+msgstr "light_blue"
+
+#. end of available colors for events
+#. Dialog message about deleting reminder of event
+#: some text
+msgid "delete_reminder"
+msgstr "delete_reminder"
+
+#. Dialog message about deleting attendee of event
+#: some text
+msgid "delete_attendee"
+msgstr "delete_attendee"
+
+#. Label on button to mark something as done
+#: some text
+msgid "done"
+msgstr "done"
+
+#. Label for event without any text in its title
+#: some text
+msgid "no_title"
+msgstr "no_title"
+
+#. Label indicating that there is no reminder for event
+#: some text
+msgid "no_reminder"
+msgstr "no_reminder"
+
+#. Label on button that closes a screen without saving the changes
+#: some text
+msgid "discard"
+msgstr "discard"
+
+#. Label on button that keeps the user on an edit screen
+#: some text
+msgid "keep_editing"
+msgstr "keep_editing"
+
+#. Toast about wrong time selection when end time of event is wrongly nbefore the start time
+#: some text
+msgid "end_time_cannot"
+msgstr "end_time_cannot"
+
+#. Label of a screen to see calendar accounts of the user
+#: some text
+msgid "visible_calendars"
+msgstr "visible_calendars"
+
+#. Toast when you try to edit something on non-editable event
+#: some text
+msgid "readOnly"
+msgstr "readOnly"
+
+#. Label indicating time before an event for a reminder; Example: "2 days before at 2pm"
+#: some text
+msgid "all_day_reminder"
+msgstr "all_day_reminder"
+
+#. Label for reminder if its 1 day before
+#: some text
+msgid "the_day_before"
+msgstr "the_day_before"
+
+#. Label for reminder if more than 1 day before; Example: "2 days before"
+#: some text
+msgid "the_days_before"
+msgstr "the_days_before"
+
+#. Label for all day reminder in the list in event details screen
+#: some text
+msgid "reminder_at"
+msgstr "reminder_at"
+
+#. Label for notification which indicates that event will go on the day
+#: some text
+msgid "on_the_day"
+msgstr "on_the_day"
+
+#. Label for type of event recurrence - Day
+#: some text
+msgid "every_day"
+msgstr "every_day"
+
+#. Label for type of event recurrence - Week
+#: some text
+msgid "every_week"
+msgstr "every_week"
+
+#. Label for type of event recurrence - Month
+#: some text
+msgid "every_month"
+msgstr "every_month"
+
+#. Label for type of event recurrence - Year
+#: some text
+msgid "every_year"
+msgstr "every_year"
+
+#. Label for choosing recurrence type in a dropdown
+#: some text
+msgid "repeat_daily"
+msgstr "repeat_daily"
+
+#. Label for choosing recurrence type in a dropdown
+#: some text
+msgid "repeat_weekly"
+msgstr "repeat_weekly"
+
+#. Label for choosing recurrence type in a dropdown
+#: some text
+msgid "repeat_monthly"
+msgstr "repeat_monthly"
+
+#. Label for choosing recurrence type in a dropdown
+#: some text
+msgid "repeat_yearly"
+msgstr "repeat_yearly"
+
+#. Label for number of occurences of event. Will have the number of recurrences comgin after; Exmaple: "Every 2 days"
+#: some text
+msgid "every"
+msgstr "every"
+
+#. label on button to indicate applying changes only to this event and not to the entire event series
+#: some text
+msgid "this_event"
+msgstr "this_event"
+
+#. label on button to indicate applying changes only to this event and the ones coming after in a series
+#: some text
+msgid "this_and_following"
+msgstr "this_and_following"
+
+#. Label for changing all events in a series
+#: some text
+msgid "all_events"
+msgstr "all_events"
+
+#. Title for dialog when saving recurrent event
+#: some text
+msgid "save_recurring_event"
+msgstr "save_recurring_event"
+
+#. Title for dialog when deleting recurrent event
+#: some text
+msgid "delete_recurring_event"
+msgstr "delete_recurring_event"
+

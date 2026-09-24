@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFAudioRecordView-version5"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version5"
+msgid "Renew now, every month: %1 , and every month thereafter: %2."
+msgstr "Renew now, every month: %1 , and every month thereafter: %2."
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version5"
+msgid "Renew now, every year: %1 , and every year thereafter: %2."
+msgstr "Renew now, every year: %1 , and every year thereafter: %2."
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version5"
+msgid "Terms of use"
+msgstr "Terms of use"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version5"
+msgid "Re-subscribe now"
+msgstr "Re-subscribe now"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version5"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FFDiscountPurchaseDialog-version5"
+msgid "Give up"
+msgstr "Give up"
+
+#: 
+msgctxt "FMediaFolderEditWidget-version5"
+msgid "Add a new Folder (%1)"
+msgstr "Add a new Folder (%1)"
+
+#: 
+msgctxt "FMediaFolderEditWidget-version5"
+msgid "Delete Folder (%1)"
+msgstr "Delete Folder (%1)"
+
+#: 
+msgctxt "FFSpeechServicePanel-version5"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FFSpeechServicePanel-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFSpeechServicePanel-version5"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Silent loading"
+msgstr "Silent loading"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Cancel loading tip"
+msgstr "Cancel loading tip"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Load File"
+msgstr "Load File"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Are you sure you want to cancel the load? If you cancel, you need to load the file again to open it."
+msgstr "Are you sure you want to cancel the load? If you cancel, you need to load the file again to open it."
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+msgctxt "FFCloudDiskDownloadDialog-version5"
+msgid "Loading file. Please wait..."
+msgstr "Loading file. Please wait..."
+
+#: 
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version5"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version5"
+msgid "Analysing motion track..."
+msgstr "Analysing motion track..."
+
+#: 
+msgctxt "FilmoraTitleBar-version5"
+msgid "Processing complete."
+msgstr "Processing complete."
+
+#: 
+msgctxt "FilmoraTitleBar-version5"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraTitleBar-version5"
+msgid "Automatically save to local"
+msgstr "Automatically save to local"
+
+#: 
+msgctxt "FilmoraTitleBar-version5"
+msgid "Wondershare Filmora 13 Beta"
+msgstr "Wondershare Filmora 13 Beta"
+
+#: 
+msgctxt "FTimelinePlayheadWidget-version5"
+msgid "Click to split"
+msgstr "Click to split"
+
+#: 
+msgctxt "FTimelinePlayheadWidget-version5"
+msgid "Drag to Move playhead"
+msgstr "Drag to Move playhead"
+
+#: 
+msgctxt "FManageEffectPacksDialog-version5"
+msgid "Manage Effects"
+msgstr "Manage Effects"
+
+#: 
+msgctxt "FManageEffectPacksDialog-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FManageEffectPacksDialog-version5"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FPropertyProjectInfoWidget-version5"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidget-version5"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FPhotoInfoPage-version5"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FPhotoInfoPage-version5"
+msgid "Exposure Time:"
+msgstr "Exposure Time:"
+
+#: 
+msgctxt "FPhotoInfoPage-version5"
+msgid "Image Info"
+msgstr "Image Info"
+
+#: 
+msgctxt "FPhotoInfoPage-version5"
+msgid "Camera Maker:"
+msgstr "Camera Maker:"
+
+#: 
+msgctxt "FPhotoInfoPage-version5"
+msgid "Camera Model:"
+msgstr "Camera Model:"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Transfer Characteristics"
+msgstr "Transfer Characteristics"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Video Info"
+msgstr "Video Info"
+
+#: 
+msgctxt "FVideoInfoPage-version5"
+msgid "Transfer Characteristics:"
+msgstr "Transfer Characteristics:"
+
+#: 
+msgctxt "FCloudProjectLoadingPage-version5"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FCloudProjectLoadingPage-version5"
+msgid "Pulling the cloud disk information, please wait..."
+msgstr "Pulling the cloud disk information, please wait..."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version5"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version5"
+msgid "Failed to rename."
+msgstr "Failed to rename."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version5"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+msgctxt "FCloudMediaRenameDialog-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudProjectLoadErrorPage-version5"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version5"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFCloudDiskRemoveDialog-version5"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+msgctxt "FPreviewErrorPromptWidget-version5"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+msgctxt "FPreviewErrorPromptWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version5"
+msgid "Cleaning up, please wait..."
+msgstr "Cleaning up, please wait..."
+
+#: 
+msgctxt "FSettingMediaCachePanel-version5"
+msgid "Automatically delete render file when closing a project file"
+msgstr "Automatically delete render file when closing a project file"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version5"
+msgid "Automatically delete temporary files earlier than"
+msgstr "Automatically delete temporary files earlier than"
+
+#: 
+msgctxt "FSettingMediaCachePanel-version5"
+msgid "Automatically delete proxies when a project is closed."
+msgstr "Automatically delete proxies when a project is closed."
+
+#: 
+msgctxt "FSettingMediaCachePanel-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version5"
+msgid "Start cloning your voice"
+msgstr "Start cloning your voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyTextToSpeechVoicesListView-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FErrorPromptHelper-version5"
+msgid "Download limit exceeded"
+msgstr "Download limit exceeded"
+
+#: 
+msgctxt "FErrorPromptHelper-version5"
+msgid "Please modify the default file path under \"Preferences > Folder\""
+msgstr "Please modify the default file path under \"Preferences > Folder\""
+
+#: 
+msgctxt "FErrorPromptHelper-version5"
+msgid "Network Restricted"
+msgstr "Network Restricted"
+
+#: 
+msgctxt "FErrorPromptHelper-version5"
+msgid "Today's music downloads have reached the maximum number"
+msgstr "Today's music downloads have reached the maximum number"
+
+#: 
+msgctxt "FErrorPromptHelper-version5"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+msgctxt "FErrorPromptHelper-version5"
+msgid "Today's new studio downloads have reached the maximum number"
+msgstr "Today's new studio downloads have reached the maximum number"
+
+#: 
+msgctxt "FAIImageStartView-version5"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+msgctxt "FAIImageStartView-version5"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+msgctxt "UpgradePage-version5"
+msgid "Upgrade completed"
+msgstr "Upgrade completed"
+
+#: 
+msgctxt "UpgradePage-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "UpgradePage-version5"
+msgid "Launch"
+msgstr "Launch"
+
+#: 
+msgctxt "UpgradePage-version5"
+msgid "The new version is more stable and faster!"
+msgstr "The new version is more stable and faster!"
+
+#: 
+msgctxt "UpgradePage-version5"
+msgid "Upgrading, please wait..."
+msgstr "Upgrading, please wait..."
+
+#: 
+msgctxt "UpgradePage-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FLaunchTestDialog-version5"
+msgid "Environment testing"
+msgstr "Environment testing"
+
+#: 
+msgctxt "FLaunchTestDialog-version5"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FCardLabel-version5"
+msgid "All content copied to clipboard."
+msgstr "All content copied to clipboard."
+
+#: 
+msgctxt "FCardLabel-version5"
+msgid "Selected content copied to clipboard."
+msgstr "Selected content copied to clipboard."
+
+#: 
+msgctxt "FPropertyCloudResListView-version5"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "FPropertyCloudResListView-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyCloudResListView-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FPropertyCloudResListView-version5"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FPropertyCloudResListView-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FSpeedPresetList-version5"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "FHighLightPresenter-version5"
+msgid "Only clips under 5 hours can be analyzed by this tool."
+msgstr "Only clips under 5 hours can be analyzed by this tool."
+
+#: 
+msgctxt "FHighLightPresenter-version5"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+msgctxt "FSafeModeDlg-version5"
+msgid "Your computer dose not seem to meet the "
+msgstr "Your computer dose not seem to meet the "
+
+#: 
+msgctxt "FSafeModeDlg-version5"
+msgid "Update your driver"
+msgstr "Update your driver"
+
+#: 
+msgctxt "FSafeModeDlg-version5"
+msgid "Continue"
+msgstr "Continue"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Toast when  trying to add event without OS calendars in phone
+#: some text
+msgid "no_calendars"
+msgstr "no_calendars"
+
+#. Label for event repetition type
+#: some text
+msgid "months"
+msgstr "months"
+
+#. Label for event repetition type
+#: some text
+msgid "years"
+msgstr "years"
+
+#. Button to repeat event forever without an end date
+#: some text
+msgid "forever"
+msgstr "forever"
+
+#. Button to repeat event until a date
+#: some text
+msgid "until_a_date"
+msgstr "until_a_date"
+
+#. Button to repeat event for a number of times
+#: some text
+msgid "for_a_number"
+msgstr "for_a_number"
+
+#. Label for recurrent dialog for monthly type of recurrent to determine on which day need to occur
+#: some text
+msgid "monthly_condition"
+msgstr "monthly_condition"
+
+#. Label for recurrent dialog for monthly type to indicate when the event is recurrning; Exmaple: "Monthly on the second Monday"
+#: some text
+msgid "monthly_condition_actual_day"
+msgstr "monthly_condition_actual_day"
+
+#. Week number on the month for recurrent event
+#: some text
+msgid "first"
+msgstr "first"
+
+#. Week number on the month for recurrent event
+#: some text
+msgid "second"
+msgstr "second"
+
+#. Week number on the month for recurrent event
+#: some text
+msgid "third"
+msgstr "third"
+
+#. Week number on the month for recurrent event
+#: some text
+msgid "fourth"
+msgstr "fourth"
+
+#. Week number on the month for recurrent event
+#: some text
+msgid "fifth"
+msgstr "fifth"
+
+#. Plural label for event
+#: some text
+msgid "events"
+msgstr "events"
+
+#. Label for repeating condition; Exmaple: "Repeats every month"
+#: some text
+msgid "repeats_every"
+msgstr "repeats_every"
+
+#. Label for repeating condition if it repeats only on weekdays
+#: some text
+msgid "week_days"
+msgstr "week_days"
+
+#. Label for repeating rule before days on which this rule happening (for week repeating)
+#: some text
+msgid "on"
+msgstr "on"
+
+#. Label indicating how an event repeats; Example: "on every 1st Sunday"
+#: some text
+msgid "on_every_month"
+msgstr "on_every_month"
+
+#. Label before until date in recurrence screen
+#: some text
+msgid "until"
+msgstr "until"
+
+#. Label until what time the event; Exmaple: "Until 2pm"
+#: some text
+msgid "until_agenda"
+msgstr "until_agenda"
+
+#. Label for plural recurrence showing how many time the event will repeat; Exmaple: "for 3 times"
+#: some text
+msgid "for_times"
+msgstr "for_times"
+
+#. Label for singular recurrence showing how many time the event will repeat; Exmaple: "for 1 time"
+#: some text
+msgid "for_time"
+msgstr "for_time"
+
+#. Label opening a dialog to choose for how many times and event will repeat; Exmaple: "For 2 events"
+#: some text
+msgid "for_a"
+msgstr "for_a"
+
+#. Label on button opening a diaplog to choose until what date an event repeats
+#: some text
+msgid "until_big"
+msgstr "until_big"
+
+#. Label for repeating rule in event details screen if it repeats only on weekends
+#: some text
+msgid "weekends"
+msgstr "weekends"
+
+#. Label for availability of event
+#: some text
+msgid "available"
+msgstr "available"
+
+#. Label for a dialog where the user can choose to show an event as busy or avilable
+#: some text
+msgid "show_as"
+msgstr "show_as"
+
+#. Title of menu item refresh
+#: some text
+msgid "refresh"
+msgstr "refresh"
+
+#. Type of calendar view of type Agenda
+#: some text
+msgid "agenda"
+msgstr "agenda"
+
+#. Label for a button to dismiss a notification
+#: some text
+msgid "dismiss"
+msgstr "dismiss"
+
+#. Label for current day in agenda if there are no events for current day
+#: some text
+msgid "agenda_event_no_events"
+msgstr "agenda_event_no_events"
+
+#. Button on signup screen
+#: some text
+msgid "lets_start"
+msgstr "lets_start"
+
+#. Label for logout button
+#: some text
+msgid "logout"
+msgstr "logout"
+
+#. Title for logout dialog
+#: some text
+msgid "confirm_logout"
+msgstr "confirm_logout"
+
+#. Message for logout dialog
+#: some text
+msgid "are_you_sure_logout"
+msgstr "are_you_sure_logout"
+
+#. Error message if login failed
+#: some text
+msgid "error_occured"
+msgstr "error_occured"
+
+#. Title for no internet dialog
+#: some text
+msgid "no_internet"
+msgstr "no_internet"
+
+#. Message for no internet dialog
+#: some text
+msgid "no_internet_message"
+msgstr "no_internet_message"
+
+#. Title for choose photo dialog
+#: some text
+msgid "choose_photo"
+msgstr "choose_photo"
+
+#. label on button to choose a photo from camera (and not from gallery)
+#: some text
+msgid "from_camera"
+msgstr "from_camera"
+
+#. label on button to choose a photo from gallery
+#: some text
+msgid "from_gallery"
+msgstr "from_gallery"
+
+#. Hint for input field in search screen
+#: some text
+msgid "search_hint"
+msgstr "search_hint"
+
+#. Title for error dialog
+#: some text
+msgid "request_error_title"
+msgstr "request_error_title"
+
+#. Message for error dialog
+#: some text
+msgid "request_error_message"
+msgstr "request_error_message"
+
+#. Snackbar message about where the event was moved to; Example: "Moved event to 2pm"
+#: some text
+msgid "moved_event_to"
+msgstr "moved_event_to"
+
+#. Button to undo
+#: some text
+msgid "undo"
+msgstr "undo"
+
+#. Message for dialog
+#: some text
+msgid "event_unsynced"
+msgstr "event_unsynced"
+
+#. Label on calendar to show the end of calendar
+#: some text
+msgid "end_of_calendar"
+msgstr "end_of_calendar"
+
+#. Title of weeks on calendar; Example: "Week of January 23"
+#: some text
+msgid "agenda_week_of"
+msgstr "agenda_week_of"
+
+#. Name of calendar view of type Month
+#: some text
+msgid "month"
+msgstr "month"
+
+#. Toast after event adding
+#: some text
+msgid "event_added"
+msgstr "event_added"
+
+#. Label for nunbmer of weeks; Exmaple: "3 weeks"
+#: some text
+msgid "weeks_reminder"
+msgstr "weeks_reminder"
+
+#. Plurals for minutes values
+#: some text
+msgid "duration_minutes"
+msgstr "duration_minutes"
+
+#. Plurals for hours values
+#: some text
+msgid "duration_hours"
+msgstr "duration_hours"
+
+#. Plurals for days values
+#: some text
+msgid "duration_days"
+msgstr "duration_days"
+
+#. Title in the group selection screen
+#: some text
+msgid "calendars"
+msgstr "calendars"
+
+#. Title for all calendars item in the group list
+#: some text
+msgid "all_calendars"
+msgstr "all_calendars"
+
+#. Toast when you press on empty cell, press on plus button
+#: some text
+msgid "read_only_group_action"
+msgstr "read_only_group_action"
+
+#. Toast when long press on existing event (for drag) or press on plus button
+#: some text
+msgid "read_only_move_action"
+msgstr "read_only_move_action"
+
+#. Title for creation of new group
+#: some text
+msgid "new_group"
+msgstr "new_group"
+
+#. Button for creation of new group
+#: some text
+msgid "create"
+msgstr "create"
+
+#. Label for type of group
+#: some text
+msgid "private_str"
+msgstr "private_str"
+
+#. Label for type of group
+#: some text
+msgid "public_str"
+msgstr "public_str"
+
+#. Hint for input field of group name
+#: some text
+msgid "enter_group_name"
+msgstr "enter_group_name"
+
+#. Label when you pressing on empty cell in weekview
+#: some text
+msgid "pending_event"
+msgstr "pending_event"
+
+#. Label for screen which shown if user deny calendar access
+#: some text
+msgid "cant_access_calendar"
+msgstr "cant_access_calendar"
+
+#. Explanation of need of calendar access
+#: some text
+msgid "need_calendar_permission"
+msgstr "need_calendar_permission"
+
+#. Label for button which allows access to calendar
+#: some text
+msgid "allow_calendar_access"
+msgstr "allow_calendar_access"
+
+#. Title for selection source of photo (camera, gallery)
+#: some text
+msgid "select_one_of"
+msgstr "select_one_of"
+
+#. Title for extended choose photo dialog to show photo
+#: some text
+msgid "show_photo"
+msgstr "show_photo"
+
+#. Title for extended choose photo dialog to remove photo
+#: some text
+msgid "remove_photo"
+msgstr "remove_photo"
+
+#. Button for publish changes for group
+#: some text
+msgid "share"
+msgstr "share"
+
+#. Title for section on group details screen
+#: some text
+msgid "pending_participants"
+msgstr "pending_participants"
+
+#. Title for button which opens screen for contacts selection
+#: some text
+msgid "add_participants"
+msgstr "add_participants"
+
+#. Variant in dialog when pressing on participant in group
+#: some text
+msgid "remove_admin_permissions"
+msgstr "remove_admin_permissions"
+
+#. Variant in dialog when pressing on participant in group
+#: some text
+msgid "remove_from_group"
+msgstr "remove_from_group"
+
+#. Variant in dialog when pressing on participant in group
+#: some text
+msgid "make_admin"
+msgstr "make_admin"
+
+#. Participant label in group details if its you
+#: some text
+msgid "you"
+msgstr "you"
+
+#. Label for indicating participant as admin in participants list
+#: some text
+msgid "admin"
+msgstr "admin"
+
+#. Label for group settings about possibility of participants to add events
+#: some text
+msgid "group_settings_add_events"
+msgstr "group_settings_add_events"
+
+#. Label for group settings about possibility of participants to edit group info
+#: some text
+msgid "group_settings_edit_group_info"
+msgstr "group_settings_edit_group_info"
+
+#. Label for group settings about possibility of participants to add new participants
+#: some text
+msgid "group_settings_add_new_participants"
+msgstr "group_settings_add_new_participants"
+
+#. Label for group settings section in group info screen
+#: some text
+msgid "participants_can"
+msgstr "participants_can"
+
+#. Message which shown if user tries add event without any account on phone
+#: some text
+msgid "you_do_not_have_calendar_accounts"
+msgstr "you_do_not_have_calendar_accounts"
+
+#. Title for dialog about deleting of groupcal event
+#: some text
+msgid "delete_groupcal_event"
+msgstr "delete_groupcal_event"
+
+#. Title for variant removing this event for all users
+#: some text
+msgid "remove_for_all"
+msgstr "remove_for_all"
+
+#. Title for variant removing this event only for current user
+#: some text
+msgid "remove_for_me"
+msgstr "remove_for_me"
+
+#. Title for dialog of deleting recurrent event
+#: some text
+msgid "apply_your_response"
+msgstr "apply_your_response"
+
+#. Label for message when you input wrong format of email
+#: some text
+msgid "email_not_valid"
+msgstr "email_not_valid"
+
+#. Button on rate app dialog indicating user is not so much happy about the app
+#: some text
+msgid "not_much"
+msgstr "not_much"
+
+#. Button on rate app dialog indicating user is very happy about the app
+#: some text
+msgid "very_happy"
+msgstr "very_happy"
+
+#. Asking the user whether she is happy about [App Name]
+#: some text
+msgid "are_you_happy"
+msgstr "are_you_happy"
+
+#. -Title in dialog asking the user to provide feedback about [App Name]
+#: some text
+msgid "app_feedback"
+msgstr "app_feedback"
+
+#. Asking the user for feedback about [App Name]
+#: some text
+msgid "how_can_we_make"
+msgstr "how_can_we_make"
+
+#. Button allowing the user to say not now for providing feedback about the app
+#: some text
+msgid "not_now"
+msgstr "not_now"
+
+#. Button allowing the user to provide feedback about the app
+#: some text
+msgid "send_feedback"
+msgstr "send_feedback"
+
+#. Label to notify user that he was removed from group
+#: some text
+msgid "you_removed_from"
+msgstr "you_removed_from"
+
+#. Shorter label to notify user that he removed from group
+#: some text
+msgid "you_removed"
+msgstr "you_removed"
+
+#. Error label for groups which were not created successfully
+#: some text
+msgid "error_group_upload"
+msgstr "error_group_upload"
+
+#. Label while group uploading to server
+#: some text
+msgid "creating_your_group"
+msgstr "creating_your_group"
+

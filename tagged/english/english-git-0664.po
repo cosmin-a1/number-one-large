@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyBaseWidget-version5"
+msgid "Corrupted file, function not available"
+msgstr "Corrupted file, function not available"
+
+#: 
+msgctxt "FTimelineClipVisibleActionPresenter-version5"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+msgctxt "FTimelineClipVisibleActionPresenter-version5"
+msgid "Disable Clip"
+msgstr "Disable Clip"
+
+#: 
+msgctxt "FAccountCenterUserInfoWidget-version5"
+msgid "Please Login"
+msgstr "Please Login"
+
+#: 
+msgctxt "FAccountCenterUserInfoWidget-version5"
+msgid "Refresh Authorization"
+msgstr "Refresh Authorization"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Only translate text"
+msgstr "Only translate text"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Translate voice and text"
+msgstr "Translate voice and text"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Select Language"
+msgstr "Select Language"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Target Language:"
+msgstr "Target Language:"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Translation Type:"
+msgstr "Translation Type:"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+msgctxt "FFAITranslateParamPanel-version5"
+msgid "Source Language:"
+msgstr "Source Language:"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version5"
+msgid "Adjust Level"
+msgstr "Adjust Level"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version5"
+msgid "Device Model"
+msgstr "Device Model"
+
+#: 
+msgctxt "FPropertyAutoCorrectionWidget-version5"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "FilmoraCN Download Center"
+msgstr "FilmoraCN Download Center"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Effect Store"
+msgstr "Effect Store"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+msgstr "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid " resource special effects package? Local resources are not deleted."
+msgstr " resource special effects package? Local resources are not deleted."
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Do you want to delete the task of the resource special effects package of "
+msgstr "Do you want to delete the task of the resource special effects package of "
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Do you want to delete the download record of "
+msgstr "Do you want to delete the download record of "
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid "Minimize windows"
+msgstr "Minimize windows"
+
+#: 
+msgctxt "FResourceDownloadCenterDlg-version5"
+msgid " ? After deletion, you need to download it from the resource store again."
+msgstr " ? After deletion, you need to download it from the resource store again."
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version5"
+msgid "Track Setting"
+msgstr "Track Setting"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version5"
+msgid "Click to start Motion Track"
+msgstr "Click to start Motion Track"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanelClass-version5"
+msgid "Link Element"
+msgstr "Link Element"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version5"
+msgid "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+msgstr "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version5"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version5"
+msgid "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+msgstr "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version5"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version5"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+msgctxt "FFAccountBalanceFMWidget-version5"
+msgid "Conversion Rules"
+msgstr "Conversion Rules"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version5"
+msgid "Layer panel:"
+msgstr "Layer panel:"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version5"
+msgid "I know"
+msgstr "I know"
+
+#: 
+msgctxt "FTemplateUserTipWidget-version5"
+msgid "customize text and effect \n"
+"in a scene"
+msgstr "customize text and effect \n"
+"in a scene"
+
+#: 
+msgctxt "FEnterAdvancedEditRefreshDialog-version5"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FTryLimitRefreshDialog-version5"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+msgctxt "FTryLimitRefreshDialog-version5"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version5"
+msgid "Filename too long"
+msgstr "Filename too long"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version5"
+msgid "Set as the default address"
+msgstr "Set as the default address"
+
+#: 
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version5"
+msgid "The file name is too long may cause the file cannot be opened after downloading"
+msgstr "The file name is too long may cause the file cannot be opened after downloading"
+
+#: 
+msgctxt "FFTimelinePresenter-version5"
+msgid "Please select the clip with audio in the timeline."
+msgstr "Please select the clip with audio in the timeline."
+
+#: 
+msgctxt "FFTimelinePresenter-version5"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+msgctxt "FFTimelinePresenter-version5"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+msgctxt "FFTimelinePresenter-version5"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+
+#: 
+msgctxt "FFTimelinePresenter-version5"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+msgctxt "FVoiceCloneMainWidget-version5"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+msgctxt "FVoiceCloneMainWidget-version5"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FElementModeBar-version5"
+msgid "Search stickers"
+msgstr "Search stickers"
+
+#: 
+msgctxt "FElementModeBar-version5"
+msgid "Search my favorite stickers"
+msgstr "Search my favorite stickers"
+
+#: 
+msgctxt "FElementModeBar-version5"
+msgid "Search your generated AI Sticker."
+msgstr "Search your generated AI Sticker."
+
+#: 
+msgctxt "FElementModeBar-version5"
+msgid "Search downloaded stickers"
+msgstr "Search downloaded stickers"
+
+#: 
+msgctxt "MainWindow-version5"
+msgid "Wondershare Filmora Uninstaller"
+msgstr "Wondershare Filmora Uninstaller"
+
+#: 
+msgctxt "MainWindow-version5"
+msgid "Install failed."
+msgstr "Install failed."
+
+#: 
+msgctxt "MainWindow-version5"
+msgid "You are already the latest version!"
+msgstr "You are already the latest version!"
+
+#: 
+msgctxt "MainWindow-version5"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+msgctxt "MainWindow-version5"
+msgid "Failed to check update!"
+msgstr "Failed to check update!"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version5"
+msgid "File Path"
+msgstr "File Path"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version5"
+msgid "Rename files"
+msgstr "Rename files"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version5"
+msgid "The file name exceeds the length limit, will be renamed to:"
+msgstr "The file name exceeds the length limit, will be renamed to:"
+
+#: 
+msgctxt "FRenameLengthLimitExceededMediasPanel-version5"
+msgid "New Name"
+msgstr "New Name"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version5"
+msgid "Replace it"
+msgstr "Replace it"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version5"
+msgid "Replace watermarked footages"
+msgstr "Replace watermarked footages"
+
+#: 
+msgctxt "FVCGQueryReplaceMessageDialog-version5"
+msgid "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+msgstr "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+
+#: 
+msgctxt "FFTextModifiedTimelineEffectWidget-version5"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "FPropertyTextFillImageWidget-version5"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "When you click Confirm, you will be redirected to the third-party web page."
+msgstr "When you click Confirm, you will be redirected to the third-party web page."
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "After clicking OK, the asset will be migrated to Media-Global meidia"
+msgstr "After clicking OK, the asset will be migrated to Media-Global meidia"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "Migrating files"
+msgstr "Migrating files"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "External Website Redirect"
+msgstr "External Website Redirect"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "Notification of asset migration"
+msgstr "Notification of asset migration"
+
+#: 
+msgctxt "StockMediaHandlerAspect-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPreviewBottomPanel-version5"
+msgid "Use this Template"
+msgstr "Use this Template"
+
+#: 
+msgctxt "FFontComboBox-version5"
+msgid "Click here to quickly return to the recently used list."
+msgstr "Click here to quickly return to the recently used list."
+
+#: 
+msgctxt "FFontComboBox-version5"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontComboBox-version5"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontComboBox-version5"
+msgid "Click here to quickly return to the favorites list."
+msgstr "Click here to quickly return to the favorites list."
+
+#: 
+msgctxt "FPropertyMaskDrawMaskWidget-version5"
+msgid "Drag area to generate keyframes"
+msgstr "Drag area to generate keyframes"
+
+#: 
+msgctxt "FTracksManageToolbar-version5"
+msgid "Close Auto Ripple"
+msgstr "Close Auto Ripple"
+
+#: 
+msgctxt "FTracksManageToolbar-version5"
+msgid "Manage tracks"
+msgstr "Manage tracks"
+
+#: 
+msgctxt "FTracksManageToolbar-version5"
+msgid "Open Auto Ripple"
+msgstr "Open Auto Ripple"
+
+#: 
+msgctxt "FTracksManageToolbar-version5"
+msgid "Sort track"
+msgstr "Sort track"
+
+#: 
+msgctxt "FFilmoStcokToast-version5"
+msgid "Didn't find satifying ones? %1 Search more on!"
+msgstr "Didn't find satifying ones? %1 Search more on!"
+
+#: 
+msgctxt "FFilmoStcokToast-version5"
+msgid "Didn't find satifying ones? Search more on"
+msgstr "Didn't find satifying ones? Search more on"
+

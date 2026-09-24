@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Title preset"
+msgstr "Title preset"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "2. Text, template and adjustment layer presets are automatically synchronized, which is easier and more efficient."
+msgstr "2. Text, template and adjustment layer presets are automatically synchronized, which is easier and more efficient."
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Multi-terminal collaboration, real-time creation"
+msgstr "Multi-terminal collaboration, real-time creation"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Finished Video"
+msgstr "Finished Video"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "There are currently no synced preset files"
+msgstr "There are currently no synced preset files"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Custom preset files support automatic synchronization and can be used across devices after synchronization."
+msgstr "Custom preset files support automatic synchronization and can be used across devices after synchronization."
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Project"
+msgstr "Project"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "No results found."
+msgstr "No results found."
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Adjustment layer"
+msgstr "Adjustment layer"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Go to sync"
+msgstr "Go to sync"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FCloudSpaceContent-version5"
+msgid "Switch to thumbnail mode"
+msgstr "Switch to thumbnail mode"
+
+#: 
+msgctxt "FCloudSpaceUploadMenu-version5"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FCloudSpaceUploadMenu-version5"
+msgid "Project"
+msgstr "Project"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version5"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version5"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version5"
+msgid "Folder \"%1\" is already in this location. Do you want to merge all files to it?"
+msgstr "Folder \"%1\" is already in this location. Do you want to merge all files to it?"
+
+#: 
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version5"
+msgid "Keep Both"
+msgstr "Keep Both"
+
+#: 
+msgctxt "FDynamicTextPopupMenu-version5"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FDynamicTextPopupMenu-version5"
+msgid "Emphasis"
+msgstr "Emphasis"
+
+#: 
+msgctxt "FFMasterVolumeDisplayButton-version5"
+msgid "Meter"
+msgstr "Meter"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Mode:"
+msgstr "Mode:"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Light Stream"
+msgstr "Light Stream"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Keep Audio pitch"
+msgstr "Keep Audio pitch"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Repeat"
+msgstr "Repeat"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Frame Blending"
+msgstr "Frame Blending"
+
+#: 
+msgctxt "FSpeedAndDurationPanel-version5"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+
+#: 
+msgctxt "FPropertyHumanSegmentationWidget-version5"
+msgid "Model"
+msgstr "Model"
+
+#: 
+msgctxt "FPropertyHumanSegmentationWidget-version5"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "FPropertyHumanSegmentationWidget-version5"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Folder Name:"
+msgstr "Folder Name:"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FAutoReframeExportDlg-version5"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Pond5"
+msgstr "Pond5"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Date Created:"
+msgstr "Date Created:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Media Created:"
+msgstr "Media Created:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Commercial Info"
+msgstr "Commercial Info"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "New Studio"
+msgstr "New Studio"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Material Source:"
+msgstr "Material Source:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Location:"
+msgstr "Location:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Keyword:"
+msgstr "Keyword:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Format:"
+msgstr "Format:"
+
+#: 
+msgctxt "FCommonInfoPage-version5"
+msgid "Date Imported:"
+msgstr "Date Imported:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FFSilenceDetectionExportDialog-version5"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+msgctxt "FAudioFilterBar-version5"
+msgid "Music"
+msgstr "Music"
+
+#: 
+msgctxt "FAudioFilterBar-version5"
+msgid "Sound Effect"
+msgstr "Sound Effect"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "New and trendy style"
+msgstr "New and trendy style"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Great detail"
+msgstr "Great detail"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Clear edges"
+msgstr "Clear edges"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Style is not popular enough"
+msgstr "Style is not popular enough"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Unclear edges"
+msgstr "Unclear edges"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Subject looks good and natural"
+msgstr "Subject looks good and natural"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Insufficient detail"
+msgstr "Insufficient detail"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Blurry subject"
+msgstr "Blurry subject"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Thanks for your feedback"
+msgstr "Thanks for your feedback"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Ugly color"
+msgstr "Ugly color"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Does not match prompt"
+msgstr "Does not match prompt"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Be more specific?"
+msgstr "Be more specific?"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Great color combination"
+msgstr "Great color combination"
+
+#: 
+msgctxt "FAIGenerateItemFeedBackWidget-version5"
+msgid "Matches prompt"
+msgstr "Matches prompt"
+
+#: 
+msgctxt "FSchemePurchaseItemWidget-version5"
+msgid "Offer"
+msgstr "Offer"
+
+#: 
+msgctxt "FSchemePurchaseItemWidget-version5"
+msgid "Open vip"
+msgstr "Open vip"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Open file local location"
+msgstr "Open file local location"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FCloudDiskTaskItemWidget-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+

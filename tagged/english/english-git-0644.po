@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version5"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version5"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version5"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyVideoFillWidget-version5"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "your operation is too frequent"
+msgstr "your operation is too frequent"
+
+#: 
+msgctxt "FAIMusicToast-version5"
+msgid "Downloaded music will be displayed in \"AI Music > Generated\""
+msgstr "Downloaded music will be displayed in \"AI Music > Generated\""
+
+#: 
+msgctxt "FAIToolLevelWidget-version5"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FAIToolLevelWidget-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FAIToolLevelWidget-version5"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FAIToolLevelWidget-version5"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version5"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version5"
+msgid "Click to start analysis"
+msgstr "Click to start analysis"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version5"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version5"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version5"
+msgid "Click to start analysis again"
+msgstr "Click to start analysis again"
+
+#: 
+msgctxt "FPropertyStabilizationWidget-version5"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FPropertyAudioRippleWidget-version5"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: 
+msgctxt "FUseResourceGuideWidget-version5"
+msgid "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+msgstr "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+
+#: 
+msgctxt "FUseResourceGuideWidget-version5"
+msgid "Add Effects"
+msgstr "Add Effects"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "days"
+msgstr "days"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Proxy Files:"
+msgstr "Proxy Files:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Installed Effect:"
+msgstr "Installed Effect:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "AI Tools:"
+msgstr "AI Tools:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Preview Render files folder:"
+msgstr "Preview Render files folder:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "Cache Management:"
+msgstr "Cache Management:"
+
+#: 
+msgctxt "FSettingMediaCachePanelClass-version5"
+msgid "FSettingMediaCachePanel"
+msgstr "FSettingMediaCachePanel"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version5"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version5"
+msgid "Progress"
+msgstr "Progress"
+
+#: 
+msgctxt "FAutoReframeExportTaskListDelegate-version5"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "characters"
+msgstr "characters"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version5"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "TransCoding"
+msgstr "TransCoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Transcoding"
+msgstr "Transcoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version5"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Success"
+msgstr "Success"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "frequency"
+msgstr "frequency"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version5"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FAIGenerateToast-version5"
+msgid "view"
+msgstr "view"
+
+#: 
+msgctxt "FAIGenerateToast-version5"
+msgid "Image downloaded to directory Stock Media - AI Image - Downloads"
+msgstr "Image downloaded to directory Stock Media - AI Image - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version5"
+msgid "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+msgstr "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+

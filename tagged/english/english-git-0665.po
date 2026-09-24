@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFilmoStcokToast-version5"
+msgid "Wondershare Filmstock"
+msgstr "Wondershare Filmstock"
+
+#: 
+msgctxt "FFileCountAndSizeLabel-version5"
+msgid "Total %1 files, %2 %3"
+msgstr "Total %1 files, %2 %3"
+
+#: 
+msgctxt "FTransitionModeBar-version5"
+msgid "Search downloaded transitions"
+msgstr "Search downloaded transitions"
+
+#: 
+msgctxt "FTransitionModeBar-version5"
+msgid "Search my favorite transitions"
+msgstr "Search my favorite transitions"
+
+#: 
+msgctxt "FTransitionModeBar-version5"
+msgid "Search transitions"
+msgstr "Search transitions"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version5"
+msgid "Version Update Notice"
+msgstr "Version Update Notice"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version5"
+msgid "Synchronizing data, please wait."
+msgstr "Synchronizing data, please wait."
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version5"
+msgid "Insufficient disk space. Please clean up the disk space and try again."
+msgstr "Insufficient disk space. Please clean up the disk space and try again."
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version5"
+msgid "You can fully enjoy the new version after restarting the program!"
+msgstr "You can fully enjoy the new version after restarting the program!"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version5"
+msgid "Data synchronization successfully!"
+msgstr "Data synchronization successfully!"
+
+#: 
+msgctxt "FTransferMacToQtNoticeDailog-version5"
+msgid "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+msgstr "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+
+#: 
+msgctxt "FFErrorWebStateWidget-version5"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFErrorWebStateWidget-version5"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithGIF-version5"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFPromptsWithGIF-version5"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FFPromptsWithGIF-version5"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FFPromptsWithGIF-version5"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithGIF-version5"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+msgctxt "FFPromptsWithGIF-version5"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version5"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version5"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+msgctxt "FPurchaseWebLoadFaildWidget-version5"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version5"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FWebLoadFaildWidget2-version5"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FEmptyProjectWidget-version5"
+msgid "Recent Project."
+msgstr "Recent Project."
+
+#: 
+msgctxt "FEmptyProjectWidget-version5"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+msgctxt "FCustomerServiceDialog-version5"
+msgid "Customer Service"
+msgstr "Customer Service"
+
+#: 
+msgctxt "FTimelineEnterTextShapeModelActionPresenter-version5"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+msgctxt "FRefreshDialog-version5"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+msgctxt "FRefreshDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FRefreshDialog-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FRefreshDialog-version5"
+msgid "Already purchased? Try refreshing your account info."
+msgstr "Already purchased? Try refreshing your account info."
+
+#: 
+msgctxt "FTutorialPage-version5"
+msgid "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+msgstr "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+
+#: 
+msgctxt "FTutorialPage-version5"
+msgid "Wondershare Miaoying"
+msgstr "Wondershare Miaoying"
+
+#: 
+msgctxt "FTutorialPage-version5"
+msgid "Click 'Timeline' to take full control over your video."
+msgstr "Click 'Timeline' to take full control over your video."
+
+#: 
+msgctxt "FTutorialPage-version5"
+msgid "%1 is editing your clips and adding video effects."
+msgstr "%1 is editing your clips and adding video effects."
+
+#: 
+msgctxt "FTutorialPage-version5"
+msgid "Want to learn more about editing with %1?"
+msgstr "Want to learn more about editing with %1?"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version5"
+msgid "TransferCenter Uploading"
+msgstr "TransferCenter Uploading"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version5"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version5"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+msgctxt "FFTransferCenterTabBar-version5"
+msgid "TransferCenter Done"
+msgstr "TransferCenter Done"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version5"
+msgid "Confirm Close?"
+msgstr "Confirm Close?"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version5"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedBackUnitDialog-version5"
+msgid "Closing the pop-up will not save the entered content."
+msgstr "Closing the pop-up will not save the entered content."
+
+#: 
+msgctxt "FAIGCImageAspectRatioWidget-version5"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "3:4 (Business)"
+msgstr "3:4 (Business)"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "4:5 (Vertical)"
+msgstr "4:5 (Vertical)"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "4:3 (Standard)"
+msgstr "4:3 (Standard)"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (Widescreen)"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "21:9 (Cinema)"
+msgstr "21:9 (Cinema)"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+msgctxt "FProjectWidget-version5"
+msgid "9:16 (Portrait)"
+msgstr "9:16 (Portrait)"
+
+#: 
+msgctxt "LosslessMerger-version5"
+msgid "Total Duration:"
+msgstr "Total Duration:"
+
+#: 
+msgctxt "LosslessMerger-version5"
+msgid "Drag file to start merging"
+msgstr "Drag file to start merging"
+
+#: 
+msgctxt "LosslessMerger-version5"
+msgid "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+msgstr "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+
+#: 
+msgctxt "LosslessMerger-version5"
+msgid "Oops! Failed to merge video file."
+msgstr "Oops! Failed to merge video file."
+
+#: 
+msgctxt "FCreatorHubWidget-version5"
+msgid "Join the Latest Creative Campaigns"
+msgstr "Join the Latest Creative Campaigns"
+
+#: 
+msgctxt "FCreatorHubWidget-version5"
+msgid "Explore Fun and Useful Video Creation Guides"
+msgstr "Explore Fun and Useful Video Creation Guides"
+
+#: 
+msgctxt "FCreatorHubWidget-version5"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: 
+msgctxt "FCreatorHubWidget-version5"
+msgid "Beginner"
+msgstr "Beginner"
+
+#: 
+msgctxt "FCreatorHubWidget-version5"
+msgid "Learn from Other Creators"
+msgstr "Learn from Other Creators"
+
+#: 
+msgctxt "FCreatorHubWidget-version5"
+msgid "Tips & Tricks"
+msgstr "Tips & Tricks"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Start Recording"
+msgstr "Start Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Stop Recording"
+msgstr "Stop Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Quit recorder"
+msgstr "Quit recorder"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Show Camera Footage"
+msgstr "Show Camera Footage"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Resume Recording"
+msgstr "Resume Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Pause Recording"
+msgstr "Pause Recording"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Hide Camera Footage"
+msgstr "Hide Camera Footage"
+
+#: 
+msgctxt "FFSysTrayIcon-version5"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+msgctxt "FPurchaseRefreshDialogPrivate-version5"
+msgid "No authorization information found"
+msgstr "No authorization information found"
+
+#: 
+msgctxt "FPurchaseRefreshDialogPrivate-version5"
+msgid "Refresh Success"
+msgstr "Refresh Success"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "Are you sure you want to close it?"
+msgstr "Are you sure you want to close it?"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "Select Files"
+msgstr "Select Files"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "There is currently tasks in progress, closing it will clear the task list."
+msgstr "There is currently tasks in progress, closing it will clear the task list."
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "File not found"
+msgstr "File not found"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "Logout Successful Tip"
+msgstr "Logout Successful Tip"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "You have successfully logged out."
+msgstr "You have successfully logged out."
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "Download List"
+msgstr "Download List"
+
+#: 
+msgctxt "FCloudDiskManageDialog-version5"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+msgctxt "FCopyProxyFileDlg-version5"
+msgid "Copying file "
+msgstr "Copying file "
+
+#: 
+msgctxt "FCopyProxyFileDlg-version5"
+msgid "copy files "
+msgstr "copy files "
+
+#: 
+msgctxt "FFolderItemMenu-version5"
+msgid "Add a New Folder"
+msgstr "Add a New Folder"
+
+#: 
+msgctxt "FFolderItemMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FFolderItemMenu-version5"
+msgid "Delete Folder"
+msgstr "Delete Folder"
+
+#: 
+msgctxt "FVoiceCloningWidget-version5"
+msgid "Cloning your voice… Please ensure that your network connection is stable."
+msgstr "Cloning your voice… Please ensure that your network connection is stable."
+
+#: 
+msgctxt "FVoiceCloningWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FRecordMenu-version5"
+msgid "Record PC Screen"
+msgstr "Record PC Screen"
+
+#: 
+msgctxt "FRecordMenu-version5"
+msgid "Record from Webcam"
+msgstr "Record from Webcam"
+
+#: 
+msgctxt "FRecordMenu-version5"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+msgctxt "FCheckDiskPanel-version5"
+msgid "Media Cache"
+msgstr "Media Cache"
+

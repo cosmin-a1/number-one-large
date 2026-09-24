@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFAITranslateParamDialog-version5"
+msgid "AI Translation——Translate voice and text"
+msgstr "AI Translation——Translate voice and text"
+
+#: 
+msgctxt "FFAITranslateParamDialog-version5"
+msgid "Effortlessly translate audio and text within videos into a variety of global languages!"
+msgstr "Effortlessly translate audio and text within videos into a variety of global languages!"
+
+#: 
+msgctxt "FStoryboardPanel-version5"
+msgid "Drag or add 5-50 media to the storyboard"
+msgstr "Drag or add 5-50 media to the storyboard"
+
+#: 
+msgctxt "FStoryboardPanel-version5"
+msgid "Add all media clips to the storyboard"
+msgstr "Add all media clips to the storyboard"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version5"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version5"
+msgid "Overlap"
+msgstr "Overlap"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version5"
+msgid "Include Trimed Fames"
+msgstr "Include Trimed Fames"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version5"
+msgid "Postfix"
+msgstr "Postfix"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version5"
+msgid "Transition Mode"
+msgstr "Transition Mode"
+
+#: 
+msgctxt "FPropertyCustomPresetControl-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyCustomPresetControl-version5"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+msgctxt "FPropertyListViewWidget-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyListViewWidget-version5"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyProjectCoverPresetControl-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyProjectCoverPresetControl-version5"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+msgctxt "FPropertyTextPresetControl-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FSavePresetNamePanel-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FSavePresetNamePanel-version5"
+msgid "Preset Name"
+msgstr "Preset Name"
+
+#: 
+msgctxt "FGraphicsTrackPainter-version5"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+msgctxt "FTimelineEmptyWidget-version5"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+msgctxt "FPresetTextWidget-version5"
+msgid "Press the button, then clearly read out the following script"
+msgstr "Press the button, then clearly read out the following script"
+
+#: 
+msgctxt "FImportProjectDialog-version5"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FImportProjectDialog-version5"
+msgid "Please try again later."
+msgstr "Please try again later."
+
+#: 
+msgctxt "FCurvedSpeedPresetMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FLabelEditor-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FTimelineClipRenameActionPresenter-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVoiceCloneMainDialog-version5"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FFUpgradeGuideDialog-version5"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FilmoraTitleBarPresenter-version5"
+msgid "Saved!"
+msgstr "Saved!"
+
+#: 
+msgctxt "FilmoraTitleBarPresenter-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version5"
+msgid "Scale:"
+msgstr "Scale:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version5"
+msgid "Opacity:"
+msgstr "Opacity:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version5"
+msgid "Rotate:"
+msgstr "Rotate:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version5"
+msgid "Position:"
+msgstr "Position:"
+
+#: 
+msgctxt "FMediaPageTitleBar-version5"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version5"
+msgid "Secure"
+msgstr "Secure"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version5"
+msgid "Money-Back Guarantee"
+msgstr "Money-Back Guarantee"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version5"
+msgid "Support Service"
+msgstr "Support Service"
+
+#: 
+msgctxt "FFMediaItemManagerPresenterPrivate-version5"
+msgid "Are you sure you want to delete the selected item?"
+msgstr "Are you sure you want to delete the selected item?"
+
+#: 
+msgctxt "FFMediaItemManagerPresenterPrivate-version5"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version5"
+msgid "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+msgstr "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version5"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version5"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version5"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+msgctxt "FFAudioMixerSoundCtrl-version5"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FFAudioMixerSoundCtrl-version5"
+msgid "Surround"
+msgstr "Surround"
+
+#: 
+msgctxt "FFeedbackDialog-version5"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FFeedbackDialog-version5"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedbackDialog-version5"
+msgid "Could you please specify which aspects of the feature you are not satisfied with?"
+msgstr "Could you please specify which aspects of the feature you are not satisfied with?"
+
+#: 
+msgctxt "FFeedbackDialog-version5"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FShortcutSwitchButton-version5"
+msgid "Switch"
+msgstr "Switch"
+
+#: 
+msgctxt "FFCloudDiskTask-version5"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraApp-version5"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraApp-version5"
+msgid "File Name:"
+msgstr "File Name:"
+
+#: 
+msgctxt "FPropertyCustomMaskManager-version5"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyCustomMaskManager-version5"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FTrimControl-version5"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+msgctxt "FTrimControl-version5"
+msgid "Current:"
+msgstr "Current:"
+
+#: 
+msgctxt "FAudioVolumeToolTip-version5"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FPropertySplitWidget-version5"
+msgid "Split Screen Animation"
+msgstr "Split Screen Animation"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version5"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version5"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version5"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version5"
+msgid "AI Text-to-Video"
+msgstr "AI Text-to-Video"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version5"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FRenewalInAdvanceBtn-version5"
+msgid "Renew your Filmora Plan"
+msgstr "Renew your Filmora Plan"
+
+#: 
+msgctxt "FThemeMediaRollWidget-version5"
+msgid "FThemeMediaRollWidget"
+msgstr "FThemeMediaRollWidget"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "Start Time:"
+msgstr "Start Time:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "End Time:"
+msgstr "End Time:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "Removing objects (Task %1)"
+msgstr "Removing objects (Task %1)"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "Audio Transitions"
+msgstr "Audio Transitions"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FGraphicsToolTipService-version5"
+msgid "Constant Gain"
+msgstr "Constant Gain"
+
+#: 
+msgctxt "FAIGCBasePresenter-version5"
+msgid "Download failed. Please try again."
+msgstr "Download failed. Please try again."
+
+#: 
+msgctxt "FAIGCBasePresenter-version5"
+msgid "The resource has expired."
+msgstr "The resource has expired."
+
+#: 
+msgctxt "FFMediaPlayerEditorPresenter-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FThirdPartyLoginWidget-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FThirdPartyLoginWidget-version5"
+msgid "or login with"
+msgstr "or login with"
+
+#: 
+msgctxt "FTrialAuthenticationDialog-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFontTable-version5"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+msgctxt "FFontTable-version5"
+msgid "Commercial use, click to view detailed commercial scope."
+msgstr "Commercial use, click to view detailed commercial scope."
+
+#: 
+msgctxt "FFontTable-version5"
+msgid "Please check your network connection and try again."
+msgstr "Please check your network connection and try again."
+
+#: 
+msgctxt "FUserLabelsPaneWidget-version5"
+msgid "Collapse"
+msgstr "Collapse"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidget-version5"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FAdvanceTextCustomizeBackgroundWidget-version5"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyBackgroundTypePresenter-version5"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version5"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version5"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeWidget-version5"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyShapeFillTypeWidget-version5"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version5"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version5"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+msgctxt "FPropertyTextFillTypeSelectWidget-version5"
+msgid "Image Fill"
+msgstr "Image Fill"
+
+#: 
+msgctxt "FPropertyDynamicEffect-version5"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+msgctxt "FPropertyUniversalAudioDynamicEffectWidget-version5"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+msgctxt "FPropertyTextBaiscEditComponent-version5"
+msgid "Text Color"
+msgstr "Text Color"
+

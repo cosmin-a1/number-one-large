@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FClipperTextEdit-version5"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FClipperTextEdit-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FClipperTextEdit-version5"
+msgid "No content to be removed!"
+msgstr "No content to be removed!"
+
+#: 
+msgctxt "FClipperTextEdit-version5"
+msgid "The search field is empty, please re-enter the content you want to search for."
+msgstr "The search field is empty, please re-enter the content you want to search for."
+
+#: 
+msgctxt "FFTextEdit-version5"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "FFTextEdit-version5"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFTextEdit-version5"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FFTextEdit-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFTextEdit-version5"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "QCocoaMenuItem-version5"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "QCocoaMenuItem-version5"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "QCocoaMenuItem-version5"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "QCocoaMenuItem-version5"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "FFCropEditView-version5"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FFCropEditView-version5"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyDoubleColorSelectorComponent-version5"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FPropertyDoubleColorSelectorComponent-version5"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version5"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version5"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version5"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version5"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version5"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version5"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version5"
+msgid "Face"
+msgstr "Face"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version5"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version5"
+msgid "Beauty"
+msgstr "Beauty"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Pan"
+msgstr "Pan"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Toggle Transparency Grid"
+msgstr "Toggle Transparency Grid"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Toggle Alpha"
+msgstr "Toggle Alpha"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Toggle Transparency Black"
+msgstr "Toggle Transparency Black"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Eraser"
+msgstr "Eraser"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Toggle Alpha Overlay"
+msgstr "Toggle Alpha Overlay"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Mask Areas to Remove"
+msgstr "Mask Areas to Remove"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Zoom Level - Fit:"
+msgstr "Zoom Level - Fit:"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Mask Areas to Keep"
+msgstr "Mask Areas to Keep"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Preview Mode"
+msgstr "Preview Mode"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version5"
+msgid "Overlay Color"
+msgstr "Overlay Color"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "LUT"
+msgstr "LUT"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "List"
+msgstr "List"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Tone"
+msgstr "Tone"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Light"
+msgstr "Light"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Active Words"
+msgstr "Active Words"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+msgstr "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Adjust"
+msgstr "Adjust"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Border"
+msgstr "Border"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Ripple"
+msgstr "Ripple"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "White Balance"
+msgstr "White Balance"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Text Layer"
+msgstr "Text Layer"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Denoise"
+msgstr "Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Key Words"
+msgstr "Key Words"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Adjustment"
+msgstr "Adjustment"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FPropertyGroup-version5"
+msgid "Vignette"
+msgstr "Vignette"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyHeader-version5"
+msgid "Video"
+msgstr "Video"
+

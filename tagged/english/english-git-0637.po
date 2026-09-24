@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FViewTabBar-version5"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version5"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version5"
+msgid "Update Reminder"
+msgstr "Update Reminder"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version5"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version5"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version5"
+msgid "The Normal Denoise feature has been upgraded, do you want to update the effect?"
+msgstr "The Normal Denoise feature has been upgraded, do you want to update the effect?"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version5"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version5"
+msgid "It is detected that your default storage location maybe under the drive, which may cause slow editing. It's better to change to another local path."
+msgstr "It is detected that your default storage location maybe under the drive, which may cause slow editing. It's better to change to another local path."
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version5"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version5"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version5"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "Update Reminder"
+msgstr "Update Reminder"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "Stabilization failed."
+msgstr "Stabilization failed."
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "Stabilization successful."
+msgstr "Stabilization successful."
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version5"
+msgid "The video stabilization has been upgraded, do you want to update the effect?"
+msgstr "The video stabilization has been upgraded, do you want to update the effect?"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version5"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version5"
+msgid "FILE SIZE"
+msgstr "FILE SIZE"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version5"
+msgid "Delete unused effects packs to free up disk space. You can download them again later from the Effects Store."
+msgstr "Delete unused effects packs to free up disk space. You can download them again later from the Effects Store."
+
+#: 
+msgctxt "FManageEffectPacksPanel-version5"
+msgid "This change will take effect after clicking \"Apply\" and restarting the program."
+msgstr "This change will take effect after clicking \"Apply\" and restarting the program."
+
+#: 
+msgctxt "FGraphicsTextEditTextClipPainter-version5"
+msgid "Line"
+msgstr "Line"
+
+#: 
+msgctxt "FFConvertSelectPanel-version5"
+msgid "Load"
+msgstr "Load"
+
+#: 
+msgctxt "FFConvertSelectPanel-version5"
+msgid "It is detected that the old version of the preset needs to be loaded before editing. Loading will not affect the original preset data, please feel free to load."
+msgstr "It is detected that the old version of the preset needs to be loaded before editing. Loading will not affect the original preset data, please feel free to load."
+
+#: 
+msgctxt "FFConvertSelectPanel-version5"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+msgctxt "FFConvertSelectPanel-version5"
+msgid "Load Later"
+msgstr "Load Later"
+
+#: 
+msgctxt "FIntroFilterBar-version5"
+msgid "Logo"
+msgstr "Logo"
+
+#: 
+msgctxt "FIntroFilterBar-version5"
+msgid "Intro"
+msgstr "Intro"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Love"
+msgstr "Love"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Star"
+msgstr "Star"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Width"
+msgstr "Width"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Height"
+msgstr "Height"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Linear"
+msgstr "Linear"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Parallel Lines"
+msgstr "Parallel Lines"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version5"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: 
+msgctxt "FPropertyEffectCustomMaskManager-version5"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FPropertyEffectCustomMaskManager-version5"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FAiMusicTagsWidget-version5"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version5"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version5"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version5"
+msgid "Try again."
+msgstr "Try again."
+
+#: 
+msgctxt "FAiMusicTagsWidget-version5"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FAiMusicTagsWidget-version5"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FFSelectTagWidget-version5"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+msgctxt "FFSelectTagWidget-version5"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+msgctxt "FFSelectTagWidget-version5"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+msgctxt "FFSelectTagWidget-version5"
+msgid "Please select the music tag, such as happy, game, popular."
+msgstr "Please select the music tag, such as happy, game, popular."
+
+#: 
+msgctxt "FFMarkerEditPanel-version5"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FFMarkerEditPanel-version5"
+msgid "Time"
+msgstr "Time"
+
+#: 
+msgctxt "FFMarkerEditPanel-version5"
+msgid "Marker Color"
+msgstr "Marker Color"
+
+#: 
+msgctxt "FFMarkerEditPanel-version5"
+msgid "Add your comments here"
+msgstr "Add your comments here"
+
+#: 
+msgctxt "FFMarkerEditPanel-version5"
+msgid "Comment"
+msgstr "Comment"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Thumbnail View"
+msgstr "Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Date Added"
+msgstr "Date Added"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Camera Name"
+msgstr "Camera Name"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Category"
+msgstr "Category"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Media Created"
+msgstr "Media Created"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Group by"
+msgstr "Group by"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "List View"
+msgstr "List View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Sort by"
+msgstr "Sort by"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Date Used"
+msgstr "Date Used"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Middle Thumbnail View"
+msgstr "Middle Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Updated Time"
+msgstr "Updated Time"
+
+#: 
+msgctxt "FMediaViewModeMenu-version5"
+msgid "Date Imported"
+msgstr "Date Imported"
+
+#: 
+msgctxt "FTimelineSharedClipPresenterPrivate-version5"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FTimelineSharedClipPresenterPrivate-version5"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFFunctionTipWidget-version5"
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgctxt "FFFunctionTipWidget-version5"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgctxt "FFFunctionTipWidget-version5"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFFunctionTipWidget-version5"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version5"
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version5"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version5"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version5"
+msgid "Save thumbnail as template"
+msgstr "Save thumbnail as template"
+

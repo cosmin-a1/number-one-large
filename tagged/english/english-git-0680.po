@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Title for a button on toolbar when user long clicks on calendar, to mark all events as seen
+#: some text
+msgid "mark_as_read"
+msgstr "mark_as_read"
+
+#. Title for a button on toolbar when user long clicks on calendar, to mark all events as unseen
+#: some text
+msgid "mark_as_unread"
+msgstr "mark_as_unread"
+
+#. Title for a notification channel in notification section of application settings
+#: some text
+msgid "offers_channel_name"
+msgstr "offers_channel_name"
+
+#. Sub-Title for a dark theme toggle in settings when device dark theme enabled
+#: some text
+msgid "dark_mode_device_on"
+msgstr "dark_mode_device_on"
+
+#. Sub-Title for a dark theme toggle in settings when device dark theme enabled
+#: some text
+msgid "dark_mode_device_off"
+msgstr "dark_mode_device_off"
+
+#. Title for a dialog in 24me app when user click on attached photo as note
+#: some text
+msgid "cannot_show_photo"
+msgstr "cannot_show_photo"
+
+#. Description for a dialog in 24me app when user click on attached photo as note
+#: some text
+msgid "cannot_show_photo_desc"
+msgstr "cannot_show_photo_desc"
+
+#. Title for a dialog when user tries drag n drop unsynced recurrent event
+#: some text
+msgid "dirty_recurrent_event"
+msgstr "dirty_recurrent_event"
+
+#. Label for a button which opens sms app to send message to all participants of event
+#: some text
+msgid "text_all_participants"
+msgstr "text_all_participants"
+
+#. Label for a button which opens email app to send message to all participants of event
+#: some text
+msgid "email_all_participants"
+msgstr "email_all_participants"
+
+#. Hint for input field where user types his phone number
+#: some text
+msgid "phone_number"
+msgstr "phone_number"
+
+#. TItle for a button which sends SMS auth code to user
+#: some text
+msgid "resend_sms_with_code"
+msgstr "resend_sms_with_code"
+
+#. TItle for a button which sends SMS auth code to user
+#: some text
+msgid "send_sms_with_code"
+msgstr "send_sms_with_code"
+
+#. Error message for input field indication that field cannot be empty
+#: some text
+msgid "cannot_be_empty"
+msgstr "cannot_be_empty"
+
+#. Error message when user types wrong code
+#: some text
+msgid "verification_code_not_valid_message"
+msgstr "verification_code_not_valid_message"
+
+#. Title for timer which allows user to resend the code. Example: "Resend SMS with code in 00:27"
+#: some text
+msgid "resend_code_timer"
+msgstr "resend_code_timer"
+
+#. Title for timer which allows user to resend the code. Example: "Call again with code in 00:27"
+#: some text
+msgid "resend_code_timer_landline"
+msgstr "resend_code_timer_landline"
+
+#. Title for a button which allows user to share this event to other calendars
+#: some text
+msgid "forward"
+msgstr "forward"
+
+#. Title for a message on calendar list item when user forwarding event to a calendar, but its already forwarded
+#: some text
+msgid "event_already_forwarded"
+msgstr "event_already_forwarded"
+
+#. Title for a message on calendar list item when user forwarding event to a calendar and user able to select this calendar
+#: some text
+msgid "tap_select"
+msgstr "tap_select"
+
+#. Title for a message on calendar list item when user forwarding event to a calendar and user not able to select this calendar
+#: some text
+msgid "you_dont_have_permissions_to_add"
+msgstr "you_dont_have_permissions_to_add"
+
+#. Title for a message in group list screen for a regular calendar which converted to shared calendar
+#: some text
+msgid "you_synced_group"
+msgstr "you_synced_group"
+
+#. Title for a search screen where user select groups to which will forward event
+#: some text
+msgid "forward_to"
+msgstr "forward_to"
+
+#. Hint for a search bar in search screen
+#: some text
+msgid "search_calendars"
+msgstr "search_calendars"
+
+#. Label for a toast which is shown when user tries to select more than 10 sharec calendars to forward to
+#: some text
+msgid "you_can_forward"
+msgstr "you_can_forward"
+
+#. Title for a section in application settings to select default calendar to add events to
+#: some text
+msgid "default_calendar"
+msgstr "default_calendar"
+
+#. Title for a message row on calendar list screen where user selecting to which calendar forward event
+#: some text
+msgid "cant_forward_events"
+msgstr "cant_forward_events"
+
+#. Title for a row on shared calendar details screen
+#: some text
+msgid "calendar_color"
+msgstr "calendar_color"
+
+#. Title for a toast which appears after user tries to change converted regular calendar name
+#: some text
+msgid "not_possible_change_name"
+msgstr "not_possible_change_name"
+
+#. Subtitle in dialog when user creates meet event and user has email address or location in user contact details. Example: "Add Dmytro as a participant?"
+#: some text
+msgid "add_participants_to_event"
+msgstr "add_participants_to_event"
+
+#. Subtitle in dialog when user creates meet event and user has email address or location in user contact details. Example: "Add Dmytro address to the event?"
+#: some text
+msgid "add_location_to_event"
+msgstr "add_location_to_event"
+
+#. Title for a button in settings screen to allow users to delete their account
+#: some text
+msgid "delete_account"
+msgstr "delete_account"
+
+#. Title for a dialog to ask user about account deletion
+#: some text
+msgid "dialog_delete_account_title"
+msgstr "dialog_delete_account_title"
+
+#. Message for a dialog to ask user about account deletion
+#: some text
+msgid "dialog_delete_account_message"
+msgstr "dialog_delete_account_message"
+
+#. Title for a explanation how to delete account
+#: some text
+msgid "verify_your_identity"
+msgstr "verify_your_identity"
+
+#. Title for a toggle for google tasks integration
+#: some text
+msgid "sync_with_google_tasks"
+msgstr "sync_with_google_tasks"
+
+#. Title for a approve button on dialog which appears after pressing on google tasks toggle button press
+#: some text
+msgid "remove"
+msgstr "remove"
+
+#. Title for a cancel button on dialog which appears after pressing on google tasks toggle button press
+#: some text
+msgid "keep_tasks"
+msgstr "keep_tasks"
+
+#. Title for a dialog which appears after disabling synchronization with google tasks
+#: some text
+msgid "would_you_like"
+msgstr "would_you_like"
+
+#. Title for a google tasks list which will be created for 24me tasks
+#: some text
+msgid "empty_google_tasks_list"
+msgstr "empty_google_tasks_list"
+
+#. Title for an explanation what google tasks synchronization doing
+#: some text
+msgid "google_tasks_explanation"
+msgstr "google_tasks_explanation"
+
+#. Title for a message when user tries to add non google label to the google task
+#: some text
+msgid "google_list_multiple_error"
+msgstr "google_list_multiple_error"
+
+#. Title for a message when user tries to add google task label to a task with non-google task event
+#: some text
+msgid "google_list_multiple_error_only_one"
+msgstr "google_list_multiple_error_only_one"
+
+#. such as deny access to calendar data in the app
+#: some text
+msgid "deny"
+msgstr "deny"
+
+#. such as deny access to calendar and don't show again the dialog that requests that
+#: some text
+msgid "deny_and_dont_show_again"
+msgstr "deny_and_dont_show_again"
+
+#. Menu item name which opens weekly represented appointments
+#: some text
+msgid "week"
+msgstr "week"
+
+#. Title for a section in visible calendars screen, where user selects default calendar
+#: some text
+msgid "shared_calendars"
+msgstr "shared_calendars"
+
+#. Message for an error which appears when user tries to select shared calendar as default calendar, but does not have rights to do so.
+#: some text
+msgid "default_calendar_shared"
+msgstr "default_calendar_shared"
+
+#. Title for and edit something action. For example edit name/note content.
+#: some text
+msgid "edit"
+msgstr "edit"
+
+#. Title for a button which initiate print action to print calendar schedule
+#: some text
+msgid "print"
+msgstr "print"
+
+#. Title for a snackbar which explains how to print selected calendar view
+#: some text
+msgid "print_explanation"
+msgstr "print_explanation"
+
+#. Title for a label on a purchase pro screen, for printing functionality
+#: some text
+msgid "print_your_calendar"
+msgstr "print_your_calendar"
+
+#. Title for a settings row for app appearance selection (dark/light) theme
+#: some text
+msgid "app_appearance"
+msgstr "app_appearance"
+
+#. Title for a message in case user device not support printing
+#: some text
+msgid "not_support_printing"
+msgstr "not_support_printing"
+
+#. Title for a theme variant in dialog to follow system selection of appearance (dark/light)
+#: some text
+msgid "system_appearance"
+msgstr "system_appearance"
+
+#. Title for a theme variant in dialog to set app to light theme
+#: some text
+msgid "light"
+msgstr "light"
+
+#. Title for a button under settings which enable/disable dark theme
+#: some text
+msgid "dark"
+msgstr "dark"
+
+#. Title for a code receive with missed call
+#: some text
+msgid "landline_description"
+msgstr "landline_description"
+
+#. Title for a dialog which shows after user tries to sign in with land line without pro. Example: "Signing is only possible with a Business+"
+#: some text
+msgid "only_pro_can_use_landline"
+msgstr "only_pro_can_use_landline"
+
+#. Title for a screen to puchase groupcal business
+#: some text
+msgid "groupcal_business"
+msgstr "groupcal_business"
+
+#. Title for a button with free tier of groupcal pro
+#: some text
+msgid "free"
+msgstr "free"
+
+#. Title for a button with business tier of groupcal pro
+#: some text
+msgid "business"
+msgstr "business"
+
+#. Title for a button with business plus tier of groupcal pro
+#: some text
+msgid "business_plus"
+msgstr "business_plus"
+
+#. Title of a groupcal pro feature which gives access to have certain number of calendars
+#: some text
+msgid "pro_number_of_calendars"
+msgstr "pro_number_of_calendars"
+
+#. Title of a groupcal pro feature which gives access to have certain number of admins
+#: some text
+msgid "pro_number_of_admins"
+msgstr "pro_number_of_admins"
+
+#. Title of a groupcal pro feature which gives access to have permission management (allow other to add events/people)
+#: some text
+msgid "pro_permission_managment"
+msgstr "pro_permission_managment"
+
+#. Title of a groupcal pro feature which gives access to request confirmation about receive of event from users
+#: some text
+msgid "pro_request_rsvp"
+msgstr "pro_request_rsvp"
+
+#. Title of a groupcal pro feature which gives access to have priority support in terms of zendesk
+#: some text
+msgid "pro_priority_support"
+msgstr "pro_priority_support"
+
+#. Title of a groupcal pro feature which gives access to be able to use landline numbers in order to sign in
+#: some text
+msgid "pro_landline_number"
+msgstr "pro_landline_number"
+
+#. Title of a groupcal pro feature which gives access to have a business page url in the calendar info screen
+#: some text
+msgid "pro_business_page"
+msgstr "pro_business_page"
+
+#. Title of a groupcal pro feature which gives access to have a checkmark on calendar (same as verified instagram profiles)
+#: some text
+msgid "pro_verified_calendar"
+msgstr "pro_verified_calendar"
+
+#. Title for a dialog which asks user about correct number
+#: some text
+msgid "number_confirmation"
+msgstr "number_confirmation"
+
+#. Body for a dialog which asks user about correct number. Example: "+380931234567" 
+#. 
+#. Is your phone number above correct?
+#: some text
+msgid "is_your_phone_number_correct"
+msgstr "is_your_phone_number_correct"
+
+#. Title for a screen which explains user why he needs to type in his phone number
+#: some text
+msgid "enter_your_phone_num"
+msgstr "enter_your_phone_num"
+
+#. Title for a label which explains user the reason of entering his phone number. "
+#: some text
+msgid "enter_your_phone_num_landline"
+msgstr "enter_your_phone_num_landline"
+
+#. Title for a button which initiates call to user with code to auth by typing last 4 digits from a call
+#: some text
+msgid "missed_call_verification"
+msgstr "missed_call_verification"
+
+#. Title for a message once user typed not valid phone
+#: some text
+msgid "phone_provided_are_not_valid"
+msgstr "phone_provided_are_not_valid"
+
+#. Title for a paid tier, such as Business Business+ Pro
+#: some text
+msgid "pro"
+msgstr "pro"
+
+#. Title for a dialog when user tries to do paid action without rights to do so. Example: "GroupCal Pro Plan"
+#: some text
+msgid "pro_tier_dialog_title_correct"
+msgstr "pro_tier_dialog_title_correct"
+
+#. Body for a dialog which explains that feature needs more permissions. Example: GroupCal Pro supports up to 1 admin/s. Please upgrade to allow more calendar admins."
+#: some text
+msgid "pro_tier_dialog_body_correct"
+msgstr "pro_tier_dialog_body_correct"
+
+#. Title for a button in dialog to open purhcases screen
+#: some text
+msgid "upgrade"
+msgstr "upgrade"
+
+#. Title for a description label which explains that user should await for incoming SMS
+#: some text
+msgid "enter_the_code"
+msgstr "enter_the_code"
+
+#. Title for a purchase pro screen
+#: some text
+msgid "get_groupcal_business"
+msgstr "get_groupcal_business"
+
+#. Label for a discount price. Example: "33% off"
+#: some text
+msgid "discount_groupcal"
+msgstr "discount_groupcal"
+
+#. Label for a feature table which indicates that feature has unlimited amount
+#: some text
+msgid "unlimited"
+msgstr "unlimited"
+
+#. Label for a purcahse screen which indicates current using plan
+#: some text
+msgid "current_plan"
+msgstr "current_plan"
+
+#. Label for a button which starts trial period of using pro version. Example: "Try 7 days for free. Cancel Anytime."
+#: some text
+msgid "try_for_free_groupcal"
+msgstr "try_for_free_groupcal"
+
+#. Title for a section inside group details screen. Example: "About Students Group"
+#: some text
+msgid "about_group"
+msgstr "about_group"
+
+#. Placeholder text for a business description inside of group details screen
+#: some text
+msgid "enter_text_here"
+msgstr "enter_text_here"
+
+#. Title for a dialog which shown after successful purchase. Example: "GroupCal Business+ is activated"
+#: some text
+msgid "tier_activated"
+msgstr "tier_activated"
+
+#. Message for a dialog which shown after successful purchase. Example: "All the features of GroupCal Business+ are activated"
+#: some text
+msgid "all_the_features"
+msgstr "all_the_features"
+
+#. Title for a dialog which explains the issue with a current tier. Example: "Groupcal Business Plan Issue."
+#: some text
+msgid "plan_issue"
+msgstr "plan_issue"
+
+#. Message for a dialog which explains the issue when user signed in with land line but can't use app anymore because of subscription"
+#: some text
+msgid "signed_with_a_landline"
+msgstr "signed_with_a_landline"
+
+#. Title for a button in dialog which leads to phone number screen login
+#: some text
+msgid "change_to_mob"
+msgstr "change_to_mob"
+
+#. Title for a dialog which explains user why shared calendar is blocked
+#: some text
+msgid "features_not_supported"
+msgstr "features_not_supported"
+
+#. Title for a dialog which explains user why shared calendar is blocked. Example: "You can either upgrade to the required plan, or have GroupCal downgrade this calendar by removing the exceeding features from this shared calendar."
+#: some text
+msgid "you_can_either"
+msgstr "you_can_either"
+
+#. Title for a button which downgrades (removes features which are not supported because of new tier) calendar
+#: some text
+msgid "downgrade_calendar"
+msgstr "downgrade_calendar"
+
+#. Title for a message when user tries to update his phone number to the already existing.
+#: some text
+msgid "phone_already_in_use"
+msgstr "phone_already_in_use"
+
+#. Title for a setting which toggles showing of tasks on calendar screens
+#: some text
+msgid "show_tasks_on_calendar"
+msgstr "show_tasks_on_calendar"
+
+#. Sub title for a members section, which initiates a dialog for contacts permission
+#: some text
+msgid "tap_to_connect"
+msgstr "tap_to_connect"
+

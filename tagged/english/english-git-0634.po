@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAnimationModel-version5"
+msgid "Fade Slide 4"
+msgstr "Fade Slide 4"
+
+#: 
+msgctxt "FAnimationModel-version5"
+msgid "Zoom in to the left"
+msgstr "Zoom in to the left"
+
+#: 
+msgctxt "FAnimationModel-version5"
+msgid "Zoom out 1"
+msgstr "Zoom out 1"
+
+#: 
+msgctxt "FAnimationModel-version5"
+msgid "Zoom out 2"
+msgstr "Zoom out 2"
+
+#: 
+msgctxt "FAnimationModel-version5"
+msgid "Zoom out 3"
+msgstr "Zoom out 3"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "Set Thumbnail"
+msgstr "Set Thumbnail"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "Current Thumbnail"
+msgstr "Current Thumbnail"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "From Local"
+msgstr "From Local"
+
+#: 
+msgctxt "FCoverSettingDialog-version5"
+msgid "From Video"
+msgstr "From Video"
+
+#: 
+msgctxt "FEffectBaseItemHeaderWidget-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FEffectBaseItemHeaderWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FEffectBaseItemHeaderWidget-version5"
+msgid "Show layer"
+msgstr "Show layer"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version5"
+msgid "Add the thumbnail to the beginning"
+msgstr "Add the thumbnail to the beginning"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version5"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version5"
+msgid "Cannot set thumbnail"
+msgstr "Cannot set thumbnail"
+
+#: 
+msgctxt "FFMenuBar-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FFMenuBar-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FGraphicsTemplateEditButtonItem-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FGraphicsTemplateEditButtonItem-version5"
+msgid "Click to replace material"
+msgstr "Click to replace material"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version5"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version5"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Project Files Location:"
+msgstr "Project Files Location:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Color Space:"
+msgstr "Color Space:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Project Name:"
+msgstr "Project Name:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Color Space"
+msgstr "Color Space"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Project Files Location"
+msgstr "Project Files Location"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version5"
+msgid "Project Name"
+msgstr "Project Name"
+
+#: 
+msgctxt "FStoryItem-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FStoryItem-version5"
+msgid "Mute Import Media"
+msgstr "Mute Import Media"
+
+#: 
+msgctxt "FStoryItem-version5"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FStoryItem-version5"
+msgid "Unmute Import Media"
+msgstr "Unmute Import Media"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Smart Object Remover\n"
+"(Supports clips under 1 minute)"
+msgstr "Smart Object Remover\n"
+"(Supports clips under 1 minute)"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Delete selected media on timeline"
+msgstr "Delete selected media on timeline"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Automatic conversion of video and audio files with audio to srt subtitle files."
+msgstr "Automatic conversion of video and audio files with audio to srt subtitle files."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Split"
+msgstr "Split"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Recognize text to automatically generate real voice, support male and female voices and other timbres"
+msgstr "Recognize text to automatically generate real voice, support male and female voices and other timbres"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Intelligently recognize speech and quickly generate corresponding text subtitles"
+msgstr "Intelligently recognize speech and quickly generate corresponding text subtitles"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Extend or reduce the duration of your media."
+msgstr "Extend or reduce the duration of your media."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Adjust the speed of your media or play it backwards."
+msgstr "Adjust the speed of your media or play it backwards."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Automatic conversion of text to voice."
+msgstr "Automatic conversion of text to voice."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Choose a smaller section of your image to keep."
+msgstr "Choose a smaller section of your image to keep."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Match the selection's color to a reference frame."
+msgstr "Match the selection's color to a reference frame."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+msgstr "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+msgstr "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Find additional editing options like opacity, rotation, motion, and more."
+msgstr "Find additional editing options like opacity, rotation, motion, and more."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Supports translating voices and texts in audio and video into multiple languages around the world"
+msgstr "Supports translating voices and texts in audio and video into multiple languages around the world"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+msgstr "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "AI Matting Tools"
+msgstr "AI Matting Tools"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Enable Timeline Snap"
+msgstr "Enable Timeline Snap"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Select a video with audio for automatic cutting based on its sound level."
+msgstr "Select a video with audio for automatic cutting based on its sound level."
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Show more features"
+msgstr "Show more features"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Trim the replaced clip"
+msgstr "Trim the replaced clip"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Quickly add text subtitles with one click"
+msgstr "Quickly add text subtitles with one click"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Keyframing"
+msgstr "Keyframing"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+msgctxt "FTimelineToolBarData-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+

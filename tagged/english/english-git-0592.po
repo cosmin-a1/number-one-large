@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Noise Blur"
+msgstr "Noise Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cloud 02 Gray"
+msgstr "Cloud 02 Gray"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Source within System"
+msgstr "Source within System"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Opacity Under Floor"
+msgstr "Opacity Under Floor"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L1 Spot Angle"
+msgstr "L1 Spot Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Ice Fall"
+msgstr "Ice Fall"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Use Mask"
+msgstr "Use Mask"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Mirror Right Flip"
+msgstr "Mirror Right Flip"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Flicker Speed"
+msgstr "Flicker Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Source as Gradient: Top to Bottom"
+msgstr "Source as Gradient: Top to Bottom"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "EBU 103"
+msgstr "EBU 103"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Field Of View"
+msgstr "Field Of View"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Field of View"
+msgstr "Field of View"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Removal Method"
+msgstr "Removal Method"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Black N White"
+msgstr "Black N White"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Texture Radius"
+msgstr "Texture Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Mask Feather"
+msgstr "Mask Feather"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Randomize FPS"
+msgstr "Randomize FPS"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sampler"
+msgstr "Sampler"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Samples"
+msgstr "Samples"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Diffraction Type"
+msgstr "Diffraction Type"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Disappear"
+msgstr "Disappear"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "1.66 Super16"
+msgstr "1.66 Super16"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Diffraction Glow"
+msgstr "Diffraction Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "FG Shadow Color Blue"
+msgstr "FG Shadow Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Cartoon"
+msgstr "Cartoon"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Particle Start Color"
+msgstr "Particle Start Color"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Rule of Thirds"
+msgstr "Rule of Thirds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Synchronize Axes"
+msgstr "Synchronize Axes"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Turquoise"
+msgstr "Turquoise"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Save..."
+msgstr "Save..."
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Grain in Brights"
+msgstr "Grain in Brights"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Custom Start Color Green"
+msgstr "Custom Start Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Gaussian Medium"
+msgstr "Gaussian Medium"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "FX Browser"
+msgstr "FX Browser"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Framed Reflection"
+msgstr "Framed Reflection"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Use Shape 1 for All"
+msgstr "Use Shape 1 for All"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Scale X"
+msgstr "BG Scale X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Scale Y"
+msgstr "BG Scale Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BCC Fast Lens Blur"
+msgstr "BCC Fast Lens Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Arrow Up"
+msgstr "Arrow Up"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Corrosion"
+msgstr "Corrosion"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Scale Z"
+msgstr "Scale Z"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Scaling"
+msgstr "Scaling"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Calibration Scope"
+msgstr "Calibration Scope"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "System Pos-Z Use Pixel Units"
+msgstr "System Pos-Z Use Pixel Units"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Trigger Center Intensity"
+msgstr "Trigger Center Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Wiggly Amount"
+msgstr "Wiggly Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Punch Pink"
+msgstr "Punch Pink"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Outer Color Red"
+msgstr "Outer Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Yellow Silhouette"
+msgstr "Yellow Silhouette"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Use PC Layer and Pixel Choice"
+msgstr "Use PC Layer and Pixel Choice"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sharpen Clamp"
+msgstr "Sharpen Clamp"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bloomin' Blue"
+msgstr "Bloomin' Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest Z 1"
+msgstr "Interest Z 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest Z 2"
+msgstr "Interest Z 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Interest Z 3"
+msgstr "Interest Z 3"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Absolute"
+msgstr "Absolute"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Texture Offset"
+msgstr "Texture Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Card Tumble with Propagation"
+msgstr "Card Tumble with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "BG Glow Intensity"
+msgstr "BG Glow Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "EFFECTS"
+msgstr "EFFECTS"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Abstract"
+msgstr "Abstract"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Starting X"
+msgstr "Starting X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Starting Y"
+msgstr "Starting Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Accurate"
+msgstr "Accurate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Replace Whites"
+msgstr "Replace Whites"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Sideways Cone"
+msgstr "Sideways Cone"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Monochrome Madness"
+msgstr "Monochrome Madness"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Birthrate"
+msgstr "Birthrate"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Particles"
+msgstr "Particles"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Red Sharpen"
+msgstr "Red Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Fiery Glow"
+msgstr "Fiery Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Edge Color Red"
+msgstr "Edge Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "L1 Position XY"
+msgstr "L1 Position XY"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer A Rotation X"
+msgstr "Layer A Rotation X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer A Rotation Y"
+msgstr "Layer A Rotation Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Layer A Rotation Z"
+msgstr "Layer A Rotation Z"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Contracted Strings"
+msgstr "Contracted Strings"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Particle End Opacity"
+msgstr "Particle End Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Overlapping Cutout"
+msgstr "Overlapping Cutout"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Bubbles"
+msgstr "Bubbles"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Temporal Smoothing"
+msgstr "Temporal Smoothing"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Preserve Motion"
+msgstr "Preserve Motion"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "2 Seconds"
+msgstr "2 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "5 Seconds"
+msgstr "5 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "15 Seconds"
+msgstr "15 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "10 Seconds"
+msgstr "10 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Glow Highlights"
+msgstr "Glow Highlights"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Position XY - IP X"
+msgstr "Position XY - IP X"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Position XY - IP Y"
+msgstr "Position XY - IP Y"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Offset X 1"
+msgstr "Offset X 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Offset X 2"
+msgstr "Offset X 2"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Offset Y 1"
+msgstr "Offset Y 1"
+
+#: 
+msgctxt "FFOpenFXTr-version5"
+msgid "Offset Y 2"
+msgstr "Offset Y 2"
+

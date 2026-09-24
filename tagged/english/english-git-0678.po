@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. Title for explanation dialog when you chaning type of calendar item from event to task/note and back
+#: some text
+msgid "change_event_type"
+msgstr "change_event_type"
+
+#. Title for button which approves change of calendar item
+#: some text
+msgid "change"
+msgstr "change"
+
+#. Title for dialog which shows after you changing calendar item type from note to task or event
+#: some text
+msgid "you_lost_note"
+msgstr "you_lost_note"
+
+#. Message for note content, when note doesn't contain text
+#: some text
+msgid "add_content_to_your_note"
+msgstr "add_content_to_your_note"
+
+#. Message on group list screen, when you are not participant of any group
+#: some text
+msgid "no_active_groups"
+msgstr "no_active_groups"
+
+#. Label for input field for calendar item, when type of calendar item is note
+#: some text
+msgid "note_title"
+msgstr "note_title"
+
+#. Title for a screen, which shows booking hotel content
+#: some text
+msgid "book_a_hotel"
+msgstr "book_a_hotel"
+
+#. Title of section in smart alerts screen
+#: some text
+msgid "help_with_tasks"
+msgstr "help_with_tasks"
+
+#. Label for button, which enables procrastination assistant
+#: some text
+msgid "enable_procrastination"
+msgstr "enable_procrastination"
+
+#. Contnet of notofication about procrastination, how many late tasks user have. Example: "You have 6 late tasks"
+#: some text
+msgid "you_have_late_tasks"
+msgstr "you_have_late_tasks"
+
+#. Title of notification which explains user that user have time to close late tasks
+#: some text
+msgid "looks_like_open_slot"
+msgstr "looks_like_open_slot"
+
+#. Title for user name when user entered as a guest
+#: some text
+msgid "guest"
+msgstr "guest"
+
+#. Title for phonenumber field when user entered as a guest
+#: some text
+msgid "tap_to_sign_in"
+msgstr "tap_to_sign_in"
+
+#. Label for a sample group in a group list screen
+#: some text
+msgid "sample_group"
+msgstr "sample_group"
+
+#. Label which explains user that something loading in background
+#: some text
+msgid "loading"
+msgstr "loading"
+
+#. Plurals for procrastination notification. Example 1: "Get rid of that 1 late task you have on your list!". Example 2: "Get rid of those 7 late task you have on your list!"
+#: some text
+msgid "get_rid_of"
+msgstr "get_rid_of"
+
+#. Label for a button on default reminder screen, which opens dialog to set default reminder for calendar item. Example: "Default reminder for note"
+#: some text
+msgid "default_reminder_for"
+msgstr "default_reminder_for"
+
+#. Label for a button in settings screen which opens degree units dialog
+#: some text
+msgid "temperature_units"
+msgstr "temperature_units"
+
+#. Label for a button in settings screen which show explanation dialog about creation tasks from email
+#: some text
+msgid "creating_tasks_from_emails"
+msgstr "creating_tasks_from_emails"
+
+#. Label for a description in explanation dialog about creation tasks from email
+#: some text
+msgid "forward_emails_create_task"
+msgstr "forward_emails_create_task"
+
+#. Label for a section in settings screen
+#: some text
+msgid "account"
+msgstr "account"
+
+#. Label for a button which enable/disable screen lock when user leaving app
+#: some text
+msgid "password_lock"
+msgstr "password_lock"
+
+#. Label for a button which enable/disable sound effects on calendar item deletion, task complete/uncomplete
+#: some text
+msgid "sound_effects"
+msgstr "sound_effects"
+
+#. Label for a button which opens default reminder time
+#: some text
+msgid "default_reminder_hint"
+msgstr "default_reminder_hint"
+
+#. Name of predefined group which added to new created user
+#: some text
+msgid "work_calendar"
+msgstr "work_calendar"
+
+#. Name of predefined group which added to new created user
+#: some text
+msgid "family_calendar"
+msgstr "family_calendar"
+
+#. Name of predefined group which added to new created user
+#: some text
+msgid "vacation_schedule"
+msgstr "vacation_schedule"
+
+#. Title for a dialog which appears after enabling screen lock
+#: some text
+msgid "passcode_enabled"
+msgstr "passcode_enabled"
+
+#. Message for a dialog which appears after enabling screen lock
+#: some text
+msgid "passcode_enabled_desc"
+msgstr "passcode_enabled_desc"
+
+#. Title for a button which shows dialog to select default reminder time for all day event
+#: some text
+msgid "default_reminder_time_allday"
+msgstr "default_reminder_time_allday"
+
+#. Label for a button on top bar for add group screens. Tap on button shows next screen
+#: some text
+msgid "next"
+msgstr "next"
+
+#. Label for a button in help center screen. Tap on it opens user email client on phone
+#: some text
+msgid "priority_support"
+msgstr "priority_support"
+
+#. Label for a button which opens dialog for selection type of application homescreen icon badge
+#: some text
+msgid "app_icon_notification"
+msgstr "app_icon_notification"
+
+#. Label for a button which disable application icon badge
+#: some text
+msgid "no_badge"
+msgstr "no_badge"
+
+#. Label for a button which enable application icon badge. Badge will reflect amount of tasks for today
+#: some text
+msgid "tasks_for_today"
+msgstr "tasks_for_today"
+
+#. Label for a button which enable application icon badge. Badge will reflect todays date
+#: some text
+msgid "todays_date"
+msgstr "todays_date"
+
+#. Label for a button which enable application icon badge. Badge will reflect number of notifications(calendar item reminders) while user wasnt in app
+#: some text
+msgid "number_of_notifs"
+msgstr "number_of_notifs"
+
+#. Label for a button which enable application icon badge. Badge will reflect unseen calendar items from other groups
+#: some text
+msgid "unread_updates"
+msgstr "unread_updates"
+
+#. Title for a create new shared calendar screen
+#: some text
+msgid "new_shared_calendar"
+msgstr "new_shared_calendar"
+
+#. Hint for a input field of shared calendar on create shared calendar screen
+#: some text
+msgid "enter_calendar_name"
+msgstr "enter_calendar_name"
+
+#. Explanation label in add shared calendar screen
+#: some text
+msgid "add_group_desc"
+msgstr "add_group_desc"
+
+#. Counter of selected participants. Example: "Participants: 122 / 255"
+#: some text
+msgid "participants_of"
+msgstr "participants_of"
+
+#. Label for a button which creates copy of event
+#: some text
+msgid "duplicate"
+msgstr "duplicate"
+
+#. Title for a button which sets reminder for an all-day calendar item
+#: some text
+msgid "on_time_midnight"
+msgstr "on_time_midnight"
+
+#. Title for a tooltip which appears after duplication of calendar item
+#: some text
+msgid "you_duplicated_item"
+msgstr "you_duplicated_item"
+
+#. Description for a tooltip which appears after duplication of calendar item
+#: some text
+msgid "once_duplicated_you_can"
+msgstr "once_duplicated_you_can"
+
+#. Title for a button which opens select reminder sound dialog
+#: some text
+msgid "reminder_sounds"
+msgstr "reminder_sounds"
+
+#. Title for section when to remind inside select reminder dialog
+#: some text
+msgid "reminder_when"
+msgstr "reminder_when"
+
+#. Title for section when to nag inside select reminder dialog
+#: some text
+msgid "nag"
+msgstr "nag"
+
+#. Title for a button which determines how often to remind. Example: "Every 5 min"
+#: some text
+msgid "everyNumber"
+msgstr "everyNumber"
+
+#. Title for a button which determines how often to nag. Example: "Nag every 5 min"
+#: some text
+msgid "nag_every"
+msgstr "nag_every"
+
+#. Title for a purchases screen which appears on first launch of app
+#: some text
+msgid "try_premium"
+msgstr "try_premium"
+
+#. Label with amount of yearly subscription. Example: "then $35.99 billed yearly"
+#: some text
+msgid "then_billed"
+msgstr "then_billed"
+
+#. Label for a button which starts trial period of using pro version. Example: "Try 7 days for free"
+#: some text
+msgid "try_for_free"
+msgstr "try_for_free"
+
+#. Label for a pro feature which will be available after purchase
+#: some text
+msgid "customized_label_colors"
+msgstr "customized_label_colors"
+
+#. Label for a pro feature which will be available after purchase
+#: some text
+msgid "nag_alerts"
+msgstr "nag_alerts"
+
+#. Label for a pro feature which will be available after purchase
+#: some text
+msgid "font_customization"
+msgstr "font_customization"
+
+#. Label for a pro feature which will be available after purchase
+#: some text
+msgid "time_zone_support"
+msgstr "time_zone_support"
+
+#. Label for a pro feature which will be available after purchase
+#: some text
+msgid "notification_sounds_package"
+msgstr "notification_sounds_package"
+
+#. Label for a pro feature which will be available after purchase
+#: some text
+msgid "duplicate_calendar_events"
+msgstr "duplicate_calendar_events"
+
+#. label for button which starts 7 day trial
+#: some text
+msgid "start_trial"
+msgstr "start_trial"
+
+#. Label on purchases screen which explains that user will be charged after trial
+#: some text
+msgid "payment_will_be_charged"
+msgstr "payment_will_be_charged"
+
+#. Label for a custom reminder. Example: "Custom 13 min"
+#: some text
+msgid "custom_reminder"
+msgstr "custom_reminder"
+
+#. Label for a section in select reminder for calendar item
+#: some text
+msgid "reminder_me"
+msgstr "reminder_me"
+
+#. Title in purchahses screen after clicking on pro feature, while user doesn't have pro access
+#: some text
+msgid "unlock_this_feature"
+msgstr "unlock_this_feature"
+
+#. Subtitle in purchahses screen after clicking on pro feature, while user doesn't have pro access
+#: some text
+msgid "get_pro"
+msgstr "get_pro"
+
+#. Title for a purchases screen
+#: some text
+msgid "get_premium"
+msgstr "get_premium"
+
+#. Label for button attached to yearly subscription button
+#: some text
+msgid "special_offer"
+msgstr "special_offer"
+
+#. Label for a special offer discount
+#: some text
+msgid "save_fifty"
+msgstr "save_fifty"
+
+#. Label for a monthly subscription button
+#: some text
+msgid "purchase_monthly"
+msgstr "purchase_monthly"
+
+#. Label for a yearly subscription button
+#: some text
+msgid "purchase_yearly"
+msgstr "purchase_yearly"
+
+#. Label for a forever pro access button
+#: some text
+msgid "purchase_forever"
+msgstr "purchase_forever"
+
+#. Label which shows how much user will be charged per month. Example: "then $45.99 per month"
+#: some text
+msgid "then_per_month"
+msgstr "then_per_month"
+
+#. Label for a trial duration in days. Example: "7-days trial"
+#: some text
+msgid "day_trial"
+msgstr "day_trial"
+
+#. Label for a week trial purchase variant
+#: some text
+msgid "week_trial"
+msgstr "week_trial"
+
+#. Label for a button on purcahses screen, when you selected one of subscription variants
+#: some text
+msgid "title_continue"
+msgstr "title_continue"
+
+#. Part of group message on group list screen which indicates that permissions changed. Example: "Group permissions changed"
+#: some text
+msgid "permissions"
+msgstr "permissions"
+
+#. Title for a group message on group selection screen. Example: "Dima signed in to Groupcal and joined this group"
+#: some text
+msgid "became_active"
+msgstr "became_active"
+
+#. Label of yearly price purchase variant. Example: "$45.99/year"
+#: some text
+msgid "yearly_price"
+msgstr "yearly_price"
+
+#. Title for a dialog when user purchased pro. Example: "Groupcal Pro Activated!"
+#: some text
+msgid "product_activated"
+msgstr "product_activated"
+
+#. Title for a message which appears when user taps on a color in event details screen
+#: some text
+msgid "groupcal_event_explain_calendar"
+msgstr "groupcal_event_explain_calendar"
+
+#. Label which indicates that group is archived
+#: some text
+msgid "archived"
+msgstr "archived"
+
+#. Label for a button which creates new regular event from recurrence instance
+#: some text
+msgid "this_event_desc"
+msgstr "this_event_desc"
+
+#. Label for a button which create new recurrent event from recurrent instance
+#: some text
+msgid "this_and_following_desc"
+msgstr "this_and_following_desc"
+
+#. Title for a message in group selection screen. Example: "You declined an event: Meet John"
+#: some text
+msgid "you_declined_event"
+msgstr "you_declined_event"
+
+#. Title for a notification of tomorrow agenda. Example: "You have 3 events and 2 tasks, starting at 01:30 PM.
+#: some text
+msgid "you_have_agenda_items"
+msgstr "you_have_agenda_items"
+
+#. Title for a notification of tomorrow agenda. Example: "You have 3 events.
+#: some text
+msgid "general_agenda_message"
+msgstr "general_agenda_message"
+
+#. Title for a notification of agenda. Example: "You have 3 events and 5 tasks.
+#: some text
+msgid "general_agenda_message_with_tasks"
+msgstr "general_agenda_message_with_tasks"
+
+#. Title for a tooltip of group list screen after application install
+#: some text
+msgid "showcase_home_screen_title"
+msgstr "showcase_home_screen_title"
+
+#. Title for a tooltip of group list screen after application install
+#: some text
+msgid "showcase_shared_calendar_title"
+msgstr "showcase_shared_calendar_title"
+
+#. Title for tooltip when you open group for the first time
+#: some text
+msgid "showcase_shared_calendar_screen_title"
+msgstr "showcase_shared_calendar_screen_title"
+
+#. Title for tooltip which points to add group button
+#: some text
+msgid "showcase_add_calendar_title"
+msgstr "showcase_add_calendar_title"
+
+#. Title for tooltip which points to all calendars button
+#: some text
+msgid "showcase_all_calender_title"
+msgstr "showcase_all_calender_title"
+
+#. Description for tooltip which points to all calendars button
+#: some text
+msgid "showcase_all_calendar_desc"
+msgstr "showcase_all_calendar_desc"
+
+#. Title for tooltip about shared calendars
+#: some text
+msgid "showcase_shared_calendar_info_title"
+msgstr "showcase_shared_calendar_info_title"
+
+#. Explanation message for showcase for group row on all groups list screen
+#: some text
+msgid "showcase_shared_calendar_info_desc"
+msgstr "showcase_shared_calendar_info_desc"
+
+#. Message on list with all groups, for group to which you were added by someone
+#: some text
+msgid "you_added_to_group"
+msgstr "you_added_to_group"
+
+#. Label for amount of tasks. Example: 3 tasks
+#: some text
+msgid "tasks_plurals"
+msgstr "tasks_plurals"
+
+#. Title for a dialog about update application
+#: some text
+msgid "cannot_sign_in"
+msgstr "cannot_sign_in"
+
+#. Label for a message when user dragged calendar item with type: note to other date. Example: "Moved note to 2PM"
+#: some text
+msgid "moved_note_to_time"
+msgstr "moved_note_to_time"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version5"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version5"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version5"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version5"
+msgid "Creating:"
+msgstr "Creating:"
+
+#: 
+msgctxt "FFSilenceDetectionExportProgressDialog-version5"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FPropertyViewClass-version5"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Improvement program:"
+msgstr "Improvement program:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "User Interface:"
+msgstr "User Interface:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+msgstr "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+msgstr "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Launch:"
+msgstr "Launch:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Check for updates automatically:"
+msgstr "Check for updates automatically:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Message Center:"
+msgstr "Message Center:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Language:"
+msgstr "Language:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Help us to improve Wondershare Filmora"
+msgstr "Help us to improve Wondershare Filmora"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Reset all program warnings:"
+msgstr "Reset all program warnings:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Appearance:"
+msgstr "Appearance:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Miscellaneous:"
+msgstr "Miscellaneous:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Project Library Window at Startup:"
+msgstr "Project Library Window at Startup:"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Every Week"
+msgstr "Every Week"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "System Default"
+msgstr "System Default"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Show this Startup window when Filmora launches"
+msgstr "Show this Startup window when Filmora launches"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Read Our Privacy Policy"
+msgstr "Read Our Privacy Policy"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Every Day"
+msgstr "Every Day"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Don't show messages automatically"
+msgstr "Don't show messages automatically"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "Light Mode"
+msgstr "Light Mode"
+
+#: 
+msgctxt "FSettingGeneralPanel-version5"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "What type of text are you going to do?"
+msgstr "What type of text are you going to do?"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "Product coverage"
+msgstr "Product coverage"
+
+#: 
+msgctxt "FAIGeneratedTextWidget-version5"
+msgid "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+msgstr "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Too much paid content"
+msgstr "Too much paid content"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Content not wanted"
+msgstr "Content not wanted"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Poor quality of content"
+msgstr "Poor quality of content"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Unclear catalog classification"
+msgstr "Unclear catalog classification"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Unclear resource naming"
+msgstr "Unclear resource naming"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+msgctxt "FDissatisfiedFeedbackDialog-version5"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Search for hot terms popular"
+msgstr "Search for hot terms popular"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Good quality of search results"
+msgstr "Good quality of search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Search for hot terms liked"
+msgstr "Search for hot terms liked"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackWidget-version5"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Automatic splitting"
+msgstr "Automatic splitting"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+msgstr "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Copy generation failed, please try again later."
+msgstr "Copy generation failed, please try again later."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Type or paste text here, or use AI to generate text."
+msgstr "Type or paste text here, or use AI to generate text."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FTextToSpeechGenerateTextWidget-version5"
+msgid "Replace Text"
+msgstr "Replace Text"
+

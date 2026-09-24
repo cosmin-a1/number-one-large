@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTrialVerificationView-version5"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FTrialVerificationView-version5"
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Backup project"
+msgstr "Backup project"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Default Storage Location:"
+msgstr "Default Storage Location:"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "This change will take effect after clicking \"Apply\" and restarting the program."
+msgstr "This change will take effect after clicking \"Apply\" and restarting the program."
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Backup Settings:"
+msgstr "Backup Settings:"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "Proxy Files"
+msgstr "Proxy Files"
+
+#: 
+msgctxt "FSettingFoldersPanelClass-version5"
+msgid "FSettingFoldersPanel"
+msgstr "FSettingFoldersPanel"
+
+#: 
+msgctxt "FSettingSavePanel-version5"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "FSettingSavePanel-version5"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+msgctxt "FSettingSavePanel-version5"
+msgid "BROWSE"
+msgstr "BROWSE"
+
+#: 
+msgctxt "FSettingSavePanel-version5"
+msgid "Backup Project file to:"
+msgstr "Backup Project file to:"
+
+#: 
+msgctxt "FSettingSavePanel-version5"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+msgctxt "FSettingSavePanel-version5"
+msgid "Default Project location:"
+msgstr "Default Project location:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "GPU:"
+msgstr "GPU:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Start/Stop Hotkey:"
+msgstr "Start/Stop Hotkey:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "The computer screen and camera footage are merged into a single track."
+msgstr "The computer screen and camera footage are merged into a single track."
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Play Mouse Click Sound"
+msgstr "Play Mouse Click Sound"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Show Mouse Clicks in Recording"
+msgstr "Show Mouse Clicks in Recording"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "59.94 fps"
+msgstr "59.94 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "23.97 fps"
+msgstr "23.97 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "29.97 fps"
+msgstr "29.97 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Camera Screen Splitting"
+msgstr "Camera Screen Splitting"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Recording Mode:"
+msgstr "Recording Mode:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "12 fps"
+msgstr "12 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "15 fps"
+msgstr "15 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "20 fps"
+msgstr "20 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "24 fps"
+msgstr "24 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "25 fps"
+msgstr "25 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "30 fps"
+msgstr "30 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "50 fps"
+msgstr "50 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "60 fps"
+msgstr "60 fps"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Mouse:"
+msgstr "Mouse:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Hide mouse gesture"
+msgstr "Hide mouse gesture"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Count Down:"
+msgstr "Count Down:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Frame rate:"
+msgstr "Frame rate:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Save To:"
+msgstr "Save To:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Enable GPU acceleration"
+msgstr "Enable GPU acceleration"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Stop Recording after"
+msgstr "Stop Recording after"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Camera Screen Merging"
+msgstr "Camera Screen Merging"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Pause/Resume Hotkey:"
+msgstr "Pause/Resume Hotkey:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Please make sure that your system audio is turned on."
+msgstr "Please make sure that your system audio is turned on."
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "The computer screen and camera footage are placed on separate tracks, allowing for separate editing."
+msgstr "The computer screen and camera footage are placed on separate tracks, allowing for separate editing."
+
+#: 
+msgctxt "FFRecorderSetting-version5"
+msgid "Record Timer:"
+msgstr "Record Timer:"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version5"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version5"
+msgid "Freeze Time"
+msgstr "Freeze Time"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version5"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FFreezeTimeSetDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Create Intro"
+msgstr "Create Intro"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Select"
+msgstr "Select"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Create Logo Reveal"
+msgstr "Create Logo Reveal"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "The Intro has been changed. Do you want to save your changes?"
+msgstr "The Intro has been changed. Do you want to save your changes?"
+
+#: 
+msgctxt "FIntroEditDialog-version5"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+msgctxt "FGraphicsTimelineSceneTipHelper-version5"
+msgid "Press and hold down the \"Alt\" key while you drag the media file here to replace the Preset template clip quickly."
+msgstr "Press and hold down the \"Alt\" key while you drag the media file here to replace the Preset template clip quickly."
+
+#: 
+msgctxt "FPropertyImageControl-version5"
+msgid "Select Resolution"
+msgstr "Select Resolution"
+
+#: 
+msgctxt "FPropertyImageControl-version5"
+msgid "Select Profile"
+msgstr "Select Profile"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Please enter the replacement content"
+msgstr "Please enter the replacement content"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Find next"
+msgstr "Find next"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Find last"
+msgstr "Find last"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Please enter the search content"
+msgstr "Please enter the search content"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Replace All"
+msgstr "Replace All"
+
+#: 
+msgctxt "FAdvanceSubtitleSearchReplaceWidget-version5"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FNothingMatchedView-version5"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FNothingMatchedView-version5"
+msgid "Nothing Matched"
+msgstr "Nothing Matched"
+
+#: 
+msgctxt "FTemplatePropertyBaseView-version5"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FTemplatePropertyBaseView-version5"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Find next"
+msgstr "Find next"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Find last"
+msgstr "Find last"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Please enter the search content"
+msgstr "Please enter the search content"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Delete all silent clips"
+msgstr "Delete all silent clips"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Remove all spoken words"
+msgstr "Remove all spoken words"
+
+#: 
+msgctxt "FTextSearchDeleteWidget-version5"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FThemeInfoView-version5"
+msgid "Back"
+msgstr "Back"
+

@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Category:"
+msgstr "Category:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportYouTubePanel-version5"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FFAccountBalanceCloseCheckFilter-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFAccountBalanceCloseCheckFilter-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Audio Device"
+msgstr "Audio Device"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Mute Project"
+msgstr "Mute Project"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Count Down"
+msgstr "Count Down"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Input Audio"
+msgstr "Input Audio"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Please check whether you have permission to write or read on the path, or choose other path to create."
+msgstr "Please check whether you have permission to write or read on the path, or choose other path to create."
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Start (%1)"
+msgstr "Start (%1)"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Save to"
+msgstr "Save to"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Audio device %1 connection lost."
+msgstr "Audio device %1 connection lost."
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Your audio has been added to the timeline and media library."
+msgstr "Your audio has been added to the timeline and media library."
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "There is only %1MB space in the specified output directory, Would you choose another directory?"
+msgstr "There is only %1MB space in the specified output directory, Would you choose another directory?"
+
+#: 
+msgctxt "FFAudioRecordPanel-version5"
+msgid "Refresh Device"
+msgstr "Refresh Device"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "Authorization failed, please click authorization again!"
+msgstr "Authorization failed, please click authorization again!"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "Wondershare Privacy Policy"
+msgstr "Wondershare Privacy Policy"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "I accept"
+msgstr "I accept"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "Open cloud storage and get cloud space for free."
+msgstr "Open cloud storage and get cloud space for free."
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "End User License Agreement"
+msgstr "End User License Agreement"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version5"
+msgid "Please Agree to Our Policy First"
+msgstr "Please Agree to Our Policy First"
+
+#: 
+msgctxt "FFColorMatchWidget-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFColorMatchWidget-version5"
+msgid "Match"
+msgstr "Match"
+
+#: 
+msgctxt "FFColorMatchWidget-version5"
+msgid "Select to a frame here to match to"
+msgstr "Select to a frame here to match to"
+
+#: 
+msgctxt "FFColorMatchWidget-version5"
+msgid "Current"
+msgstr "Current"
+
+#: 
+msgctxt "FFColorMatchWidget-version5"
+msgid "Reference"
+msgstr "Reference"
+
+#: 
+msgctxt "FFColorMatchWidget-version5"
+msgid "Matching..."
+msgstr "Matching..."
+
+#: 
+msgctxt "FFCommonTipDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFGuideLineSetDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFGuideLineSetDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Automatically close the window after 3 seconds"
+msgstr "Automatically close the window after 3 seconds"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Logging in..."
+msgstr "Logging in..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Checking Device Authorization..."
+msgstr "Checking Device Authorization..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Account administrator changes"
+msgstr "Account administrator changes"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Enterprise member: only one device can be bound and can be contacted"
+msgstr "Enterprise member: only one device can be bound and can be contacted"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Login Failed!"
+msgstr "Login Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version5"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FFRenameDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFRenameDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFRenameDialog-version5"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFResourceConvertingPanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFResourceConvertingPanel-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFResourceConvertingPanel-version5"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFResourceConvertingPanel-version5"
+msgid "Loading failed? %1 to contact us"
+msgstr "Loading failed? %1 to contact us"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version5"
+msgid "This name is already in use. Do you want to overwrite the existing preset?"
+msgstr "This name is already in use. Do you want to overwrite the existing preset?"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version5"
+msgid "Preset Dialog"
+msgstr "Preset Dialog"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version5"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFSilenceDetectionQuickTourPanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSilenceDetectionQuickTourPanel-version5"
+msgid "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+msgstr "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "Remember my choice"
+msgstr "Remember my choice"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version5"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "The add-collection has been failed locally."
+msgstr "The add-collection has been failed locally."
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "The un-collection has been failed locally"
+msgstr "The un-collection has been failed locally"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "The un-collection has been failed. please retry"
+msgstr "The un-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "The add-collection has been failed. please retry"
+msgstr "The add-collection has been failed. please retry"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Voice Name: "
+msgstr "Voice Name: "
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version5"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+

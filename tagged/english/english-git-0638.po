@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version5"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version5"
+msgid "Copy right to left"
+msgstr "Copy right to left"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version5"
+msgid "Copy left to right"
+msgstr "Copy left to right"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version5"
+msgid "Flip left-right"
+msgstr "Flip left-right"
+
+#: 
+msgctxt "FPropertyColorBasicPresetWidget-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version5"
+msgid "Click Start Tracking"
+msgstr "Click Start Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version5"
+msgid "Add a mosaic"
+msgstr "Add a mosaic"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version5"
+msgid "Import from computer."
+msgstr "Import from computer."
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version5"
+msgid "Hide Target Box"
+msgstr "Hide Target Box"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version5"
+msgid "Show Target Box"
+msgstr "Show Target Box"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Zoom Away"
+msgstr "Zoom Away"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Twisty Ribbons"
+msgstr "Twisty Ribbons"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down and Rotate X"
+msgstr "3D Fly Down and Rotate X"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down and Rotate Y"
+msgstr "3D Fly Down and Rotate Y"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down and Rotate Z"
+msgstr "3D Fly Down and Rotate Z"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down and Rotate Random"
+msgstr "3D Fly Down and Rotate Random"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Back Flip"
+msgstr "Back Flip"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down and Rotate Y Random"
+msgstr "3D Fly Down and Rotate Y Random"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Jetstream"
+msgstr "Jetstream"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Somersault"
+msgstr "Somersault"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down 01"
+msgstr "3D Fly Down 01"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "3D Fly Down 02"
+msgstr "3D Fly Down 02"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Character Shuffle In"
+msgstr "Character Shuffle In"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Sequential Jump"
+msgstr "Sequential Jump"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Zoom Away and Rotate Y"
+msgstr "Zoom Away and Rotate Y"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version5"
+msgid "Zoom Away and Rotate Z"
+msgstr "Zoom Away and Rotate Z"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Items Selected"
+msgstr "Items Selected"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Layers Selected"
+msgstr "Layers Selected"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version5"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Instant Mode Projects"
+msgstr "Instant Mode Projects"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Open File Location"
+msgstr "Open File Location"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Click to quickly share files"
+msgstr "Click to quickly share files"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Are you sure to delete the project?"
+msgstr "Are you sure to delete the project?"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Click to manage cloud storage files"
+msgstr "Click to manage cloud storage files"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Local Projects"
+msgstr "Local Projects"
+
+#: 
+msgctxt "FProjectLibraryWidget-version5"
+msgid "Switch to thumbnail mode"
+msgstr "Switch to thumbnail mode"
+
+#: 
+msgctxt "FRecentProjectListItem-version5"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+msgctxt "FRecentProjectListItem-version5"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+msgctxt "FRecentProjectListItem-version5"
+msgid "Are you sure to delete the project?"
+msgstr "Are you sure to delete the project?"
+
+#: 
+msgctxt "FBackupProjectDialog-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FBackupProjectDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FBackupProjectDialog-version5"
+msgid "Project Backups"
+msgstr "Project Backups"
+
+#: 
+msgctxt "FCloudSpaceProjectDataPresenter-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FCloudSpaceProjectDataPresenter-version5"
+msgid "Cannot open project. "
+msgstr "Cannot open project. "
+
+#: 
+msgctxt "FCoverFromLocalView-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FCoverFromLocalView-version5"
+msgid "Choose location"
+msgstr "Choose location"
+
+#: 
+msgctxt "FFTaskItemWidget-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FFTaskItemWidget-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFTaskItemWidget-version5"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FFTaskItemWidget-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFTaskItemWidget-version5"
+msgid "Delete Progress"
+msgstr "Delete Progress"
+
+#: 
+msgctxt "FFTaskItemWidget-version5"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "download template failed,pleace check your network or proxy server settings."
+msgstr "download template failed,pleace check your network or proxy server settings."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Save the Project"
+msgstr "Save the Project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "AI model is being upgraded,please wait…"
+msgstr "AI model is being upgraded,please wait…"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "download template resource..."
+msgstr "download template resource..."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "(copy)"
+msgstr "(copy)"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Open project"
+msgstr "Open project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Failed to save project file. You may choose a new path, fix the write permission or free up some disk space and try again."
+msgstr "Failed to save project file. You may choose a new path, fix the write permission or free up some disk space and try again."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Insufficient local disk space"
+msgstr "Insufficient local disk space"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "This project file was saved from a older version of Filmora and must be converted. The original project file will not be changed."
+msgstr "This project file was saved from a older version of Filmora and must be converted. The original project file will not be changed."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "There is no enough space on the disk, please free up some disk space and try again."
+msgstr "There is no enough space on the disk, please free up some disk space and try again."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Open mobile project"
+msgstr "Open mobile project"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "If you want to change it, you can reset warnings in Preferences."
+msgstr "If you want to change it, you can reset warnings in Preferences."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Failed to back up."
+msgstr "Failed to back up."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "The project file was saved with a newer version of Filmora, there may have incompatibility issues. We suggest you to use the latest version."
+msgstr "The project file was saved with a newer version of Filmora, there may have incompatibility issues. We suggest you to use the latest version."
+
+#: 
+msgctxt "FProjectDocProxy-version5"
+msgid "AI model updated successfully!"
+msgstr "AI model updated successfully!"
+

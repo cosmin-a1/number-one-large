@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Backup to cloud disk"
+msgstr "Backup to cloud disk"
+
+#: 
+msgctxt "FTemplateSplitContentMenu-version5"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Play"
+msgstr "Play"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Audio Track"
+msgstr "Audio Track"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Append"
+msgstr "Append"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Create Proxy file"
+msgstr "Create Proxy file"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Download Other Resolution"
+msgstr "Download Other Resolution"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Delete File"
+msgstr "Delete File"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Cancel Proxy"
+msgstr "Cancel Proxy"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Add to Template"
+msgstr "Add to Template"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Set as thumbnail"
+msgstr "Set as thumbnail"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Delete Record"
+msgstr "Delete Record"
+
+#: 
+msgctxt "FVCGMediaContentMenu-version5"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Split"
+msgstr "Split"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Invisible(N)"
+msgstr "Invisible(N)"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Invisible"
+msgstr "Invisible"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Visible"
+msgstr "Visible"
+
+#: 
+msgctxt "FFSilenceDetectionToolbar-version5"
+msgid "Visible(Y)"
+msgstr "Visible(Y)"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Aspect Ratio"
+msgstr "Aspect Ratio"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Redo (%1)"
+msgstr "Redo (%1)"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Undo (%1)"
+msgstr "Undo (%1)"
+
+#: 
+msgctxt "FQuickEditPlayerToolBar-version5"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "FUndoRedoPresenter-version5"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FUndoRedoPresenter-version5"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FUndoRedoPresenter-version5"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+msgctxt "FUndoRedoPresenter-version5"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+msgctxt "AntiPiracyHelper-version5"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "AntiPiracyHelper-version5"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "AntiPiracyHelper-version5"
+msgid "Internet connection is required to activate the software. Please check your network or contact your IT administrator."
+msgstr "Internet connection is required to activate the software. Please check your network or contact your IT administrator."
+
+#: 
+msgctxt "AntiPiracyHelper-version5"
+msgid "Your activation code could not be validated.\n"
+"It might be activated on the maximum number of devices permitted or have expired.\n"
+"Please contact our Customer Support with your purchase record."
+msgstr "Your activation code could not be validated.\n"
+"It might be activated on the maximum number of devices permitted or have expired.\n"
+"Please contact our Customer Support with your purchase record."
+
+#: 
+msgctxt "AntiPiracyHelper-version5"
+msgid "An error occurred when validating your Filmora account (Wondershare ID) or license.\n"
+"Please relaunch Filmora and try again later."
+msgstr "An error occurred when validating your Filmora account (Wondershare ID) or license.\n"
+"Please relaunch Filmora and try again later."
+
+#: 
+msgctxt "AntiPiracyHelper-version5"
+msgid "Your application appears to be damaged, please reinstall the application."
+msgstr "Your application appears to be damaged, please reinstall the application."
+
+#: 
+msgctxt "FAITextClipperMainDialog-version5"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version5"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+msgctxt "FAITextClipperMainDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version5"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version5"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FAITextClipperMainDialog-version5"
+msgid "There are unsaved changes. Are you sure you want to quit?"
+msgstr "There are unsaved changes. Are you sure you want to quit?"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Are you sure to quit the automatic highlight video generation?"
+msgstr "Are you sure to quit the automatic highlight video generation?"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Analyzing and extracting highlight..."
+msgstr "Analyzing and extracting highlight..."
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Auto Highlight"
+msgstr "Auto Highlight"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Occur error, please try again!"
+msgstr "Occur error, please try again!"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Success! Highlight video created!"
+msgstr "Success! Highlight video created!"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Generating video..."
+msgstr "Generating video..."
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "You can enter it again on the Filmora export page."
+msgstr "You can enter it again on the Filmora export page."
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+msgctxt "FExportAutoHighlightDlg-version5"
+msgid "highlight"
+msgstr "highlight"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "BiliBili"
+msgstr "BiliBili"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "XiGua"
+msgstr "XiGua"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "YouKu"
+msgstr "YouKu"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "iQiYi"
+msgstr "iQiYi"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Failed to export %1. Do you want to retry?"
+msgstr "Failed to export %1. Do you want to retry?"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Converted Successfully"
+msgstr "Converted Successfully"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "DouYin"
+msgstr "DouYin"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Share2"
+msgstr "Share2"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "AI title and description for social media"
+msgstr "AI title and description for social media"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Your export is incomplete. Do you want to abort?"
+msgstr "Your export is incomplete. Do you want to abort?"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Remaining pieces:"
+msgstr "Remaining pieces:"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Export Paused"
+msgstr "Export Paused"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Tencent"
+msgstr "Tencent"
+
+#: 
+msgctxt "FExportProgressDialog-version5"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+

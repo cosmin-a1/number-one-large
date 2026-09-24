@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version5"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version5"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version5"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version5"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version5"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version5"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Remaining :"
+msgstr "Remaining :"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Text to Speech"
+msgstr "Text to Speech"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Sticker"
+msgstr "AI Sticker"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Voice Clone"
+msgstr "AI Voice Clone"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Speech to Text"
+msgstr "Speech to Text"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "AI Text Clipper credit"
+msgstr "AI Text Clipper credit"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version5"
+msgid "Remaining times:"
+msgstr "Remaining times:"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Select a preset style to instantly apply it to your video."
+msgstr "Select a preset style to instantly apply it to your video."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Exported videos are uncompressed, ensuring high quality."
+msgstr "Exported videos are uncompressed, ensuring high quality."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Instant Cutter"
+msgstr "Instant Cutter"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Use AI to quickly write video scripts and titles."
+msgstr "Use AI to quickly write video scripts and titles."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Describe your desired video, and it'll be generated automatically."
+msgstr "Describe your desired video, and it'll be generated automatically."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Record screen images and sound."
+msgstr "Record screen images and sound."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Smartly adapt videos to various ratios and swiftly distribute them to multiple platforms."
+msgstr "Smartly adapt videos to various ratios and swiftly distribute them to multiple platforms."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "More Tools"
+msgstr "More Tools"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "After selecting a template, upload the materials to create the video."
+msgstr "After selecting a template, upload the materials to create the video."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Import video and audio for automatic rhythm-based marking."
+msgstr "Import video and audio for automatic rhythm-based marking."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Edit videos easily by transcribing them into text and modifying the script."
+msgstr "Edit videos easily by transcribing them into text and modifying the script."
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "AI Stylizer"
+msgstr "AI Stylizer"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FToolsWidget-version5"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Close Editor"
+msgstr "Close Editor"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Effect not supported for the current clip"
+msgstr "Effect not supported for the current clip"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "No clip selected."
+msgstr "No clip selected."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "To apply the transition effect, please select a clip with an audio track."
+msgstr "To apply the transition effect, please select a clip with an audio track."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Failed to apply effect. Please try again later."
+msgstr "Failed to apply effect. Please try again later."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Sorry, no clips support this transition effect."
+msgstr "Sorry, no clips support this transition effect."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Voice effect applied."
+msgstr "Voice effect applied."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "There are unfinished AI tasks in progress. Opening other projects will cancel these tasks. Open another project?"
+msgstr "There are unfinished AI tasks in progress. Opening other projects will cancel these tasks. Open another project?"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Create New Project"
+msgstr "Create New Project"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "To apply the transition effect, please select a clip from the video track."
+msgstr "To apply the transition effect, please select a clip from the video track."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "There are unfinished AI tasks in progress. Closing the Editor will cancel these tasks. Close Editor?"
+msgstr "There are unfinished AI tasks in progress. Closing the Editor will cancel these tasks. Close Editor?"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Failed to remove object from video."
+msgstr "Failed to remove object from video."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Open Another Project"
+msgstr "Open Another Project"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "There are unfinished AI tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+msgstr "There are unfinished AI tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Sorry, the transition effect cannot be applied to this audio clip. Please select a clip from the video track to apply the effect."
+msgstr "Sorry, the transition effect cannot be applied to this audio clip. Please select a clip from the video track to apply the effect."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "There are unfinished AI tasks in progress. Creating new projects will cancel these tasks. Create another project?"
+msgstr "There are unfinished AI tasks in progress. Creating new projects will cancel these tasks. Create another project?"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Apply to all clips successfully"
+msgstr "Apply to all clips successfully"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Select clip error, please select again"
+msgstr "Select clip error, please select again"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Cancel Task"
+msgstr "Cancel Task"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Successfully removed object (Task %1)"
+msgstr "Successfully removed object (Task %1)"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "You do not have enough AI Credits. Get more credits by purchasing a Wondershare Filmora membership."
+msgstr "You do not have enough AI Credits. Get more credits by purchasing a Wondershare Filmora membership."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Cancel Export"
+msgstr "Cancel Export"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Sorry, the transition effect cannot be applied to the clip selected."
+msgstr "Sorry, the transition effect cannot be applied to the clip selected."
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FTimelinePresenter-version5"
+msgid "Smart Object Removal is in progress. No other tasks can be performed on this clip right now."
+msgstr "Smart Object Removal is in progress. No other tasks can be performed on this clip right now."
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Import Media Files"
+msgstr "Import Media Files"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Import Media Folder"
+msgstr "Import Media Folder"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Import with Instant Cutter Tool"
+msgstr "Import with Instant Cutter Tool"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "One Drive"
+msgstr "One Drive"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Import from Camera or Phone"
+msgstr "Import from Camera or Phone"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Import with Auto Beat Sync"
+msgstr "Import with Auto Beat Sync"
+
+#: 
+msgctxt "FMediaImportMenu-version5"
+msgid "Import from other Apps"
+msgstr "Import from other Apps"
+
+#: 
+msgctxt "FFAITranslationWidget-version5"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFAITranslationWidget-version5"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FFAITranslationWidget-version5"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFAITranslationWidget-version5"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "remainder time"
+msgstr "remainder time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+msgstr "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+
+#: 
+msgctxt "FFSpeechToTextWidget-version5"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version5"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version5"
+msgid "The number of sentences"
+msgstr "The number of sentences"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version5"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
