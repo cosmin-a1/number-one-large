@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "\"round1\""
+msgid "repeat_weekends"
+msgstr "repeat_weekends"
+
+#: some text
+msgctxt "\"round1\""
+msgid "unable_to_receive_photo"
+msgstr "unable_to_receive_photo"
+
+#: some text
+msgctxt "\"round1\""
+msgid "show_events_on"
+msgstr "show_events_on"
+
+#: some text
+msgctxt "\"round1\""
+msgid "get_reminders_for_events"
+msgstr "get_reminders_for_events"
+
+#: some text
+msgctxt "\"round1\""
+msgid "set_reminder_error_title"
+msgstr "set_reminder_error_title"
+
+#: some text
+msgctxt "\"round1\""
+msgid "set_reminder_error_message"
+msgstr "set_reminder_error_message"
+
+#: some text
+msgctxt "\"round1\""
+msgid "on_your_device"
+msgstr "on_your_device"
+
+#: some text
+msgctxt "\"round1\""
+msgid "request_participation"
+msgstr "request_participation"
+
+#: some text
+msgctxt "\"round1\""
+msgid "save_with_percent"
+msgstr "save_with_percent"
+
+#: some text
+msgctxt "\"round1\""
+msgid "special_sale"
+msgstr "special_sale"
+
+#: some text
+msgctxt "\"round1\""
+msgid "ends_in"
+msgstr "ends_in"
+
+#: some text
+msgctxt "\"round1\""
+msgid "buy_now_one_time"
+msgstr "buy_now_one_time"
+
+#: some text
+msgctxt "\"round1\""
+msgid "less_than_annual"
+msgstr "less_than_annual"
+
+#: some text
+msgctxt "\"round1\""
+msgid "no_access_to_your"
+msgstr "no_access_to_your"
+
+#: some text
+msgctxt "\"round1\""
+msgid "close"
+msgstr "close"
+
+#: some text
+msgctxt "\"round1\""
+msgid "fix"
+msgstr "fix"
+
+#: some text
+msgctxt "\"round1\""
+msgid "monthly_price"
+msgstr "monthly_price"
+
+#: some text
+msgctxt "\"round1\""
+msgid "billed_yearly"
+msgstr "billed_yearly"
+
+#: some text
+msgctxt "\"round1\""
+msgid "set_as_public"
+msgstr "set_as_public"
+
+#: some text
+msgctxt "\"round1\""
+msgid "public_group_desc"
+msgstr "public_group_desc"
+
+#: some text
+msgctxt "\"round1\""
+msgid "public_calendars"
+msgstr "public_calendars"
+
+#: some text
+msgctxt "\"round1\""
+msgid "join"
+msgstr "join"
+
+#: some text
+msgctxt "\"round1\""
+msgid "join_group_capaciy_error"
+msgstr "join_group_capaciy_error"
+
+#: some text
+msgctxt "\"round1\""
+msgid "join_group_error_title"
+msgstr "join_group_error_title"
+
+#: some text
+msgctxt "\"round1\""
+msgid "guest_mode"
+msgstr "guest_mode"
+
+#: some text
+msgctxt "\"round1\""
+msgid "guest_user_message_badge"
+msgstr "guest_user_message_badge"
+
+#: some text
+msgctxt "\"round1\""
+msgid "welcome_24me"
+msgstr "welcome_24me"
+
+#: some text
+msgctxt "\"round1\""
+msgid "your_calendar_todo_list"
+msgstr "your_calendar_todo_list"
+
+#: some text
+msgctxt "\"round1\""
+msgid "cancel_any_time"
+msgstr "cancel_any_time"
+
+#: some text
+msgctxt "\"round1\""
+msgid "all_pro_functionalities"
+msgstr "all_pro_functionalities"
+
+#: some text
+msgctxt "\"round1\""
+msgid "have_an_account"
+msgstr "have_an_account"
+
+#: some text
+msgctxt "\"round1\""
+msgid "removed_items"
+msgstr "removed_items"
+
+#: some text
+msgctxt "\"round1\""
+msgid "clear_all"
+msgstr "clear_all"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dateless_tasks"
+msgstr "dateless_tasks"
+
+#: some text
+msgctxt "\"round1\""
+msgid "recurring_tasks"
+msgstr "recurring_tasks"
+
+#: some text
+msgctxt "\"round1\""
+msgid "clear_all_removed_tasks"
+msgstr "clear_all_removed_tasks"
+
+#: some text
+msgctxt "\"round1\""
+msgid "remove_all_explain"
+msgstr "remove_all_explain"
+
+#: some text
+msgctxt "\"round1\""
+msgid "week_number"
+msgstr "week_number"
+
+#: some text
+msgctxt "\"round1\""
+msgid "week_numbers"
+msgstr "week_numbers"
+
+#: some text
+msgctxt "\"round1\""
+msgid "mark_as_read"
+msgstr "mark_as_read"
+
+#: some text
+msgctxt "\"round1\""
+msgid "mark_as_unread"
+msgstr "mark_as_unread"
+
+#: some text
+msgctxt "\"round1\""
+msgid "offers_channel_name"
+msgstr "offers_channel_name"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dark_mode_device_on"
+msgstr "dark_mode_device_on"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dark_mode_device_off"
+msgstr "dark_mode_device_off"
+
+#: some text
+msgctxt "\"round1\""
+msgid "cannot_show_photo"
+msgstr "cannot_show_photo"
+
+#: some text
+msgctxt "\"round1\""
+msgid "cannot_show_photo_desc"
+msgstr "cannot_show_photo_desc"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dirty_recurrent_event"
+msgstr "dirty_recurrent_event"
+
+#: some text
+msgctxt "\"round1\""
+msgid "text_all_participants"
+msgstr "text_all_participants"
+
+#: some text
+msgctxt "\"round1\""
+msgid "email_all_participants"
+msgstr "email_all_participants"
+
+#: some text
+msgctxt "\"round1\""
+msgid "phone_number"
+msgstr "phone_number"
+
+#: some text
+msgctxt "\"round1\""
+msgid "resend_sms_with_code"
+msgstr "resend_sms_with_code"
+
+#: some text
+msgctxt "\"round1\""
+msgid "send_sms_with_code"
+msgstr "send_sms_with_code"
+
+#: some text
+msgctxt "\"round1\""
+msgid "cannot_be_empty"
+msgstr "cannot_be_empty"
+
+#: some text
+msgctxt "\"round1\""
+msgid "verification_code_not_valid_message"
+msgstr "verification_code_not_valid_message"
+
+#: some text
+msgctxt "\"round1\""
+msgid "resend_code_timer"
+msgstr "resend_code_timer"
+
+#: some text
+msgctxt "\"round1\""
+msgid "resend_code_timer_landline"
+msgstr "resend_code_timer_landline"
+
+#: some text
+msgctxt "\"round1\""
+msgid "forward"
+msgstr "forward"
+
+#: some text
+msgctxt "\"round1\""
+msgid "event_already_forwarded"
+msgstr "event_already_forwarded"
+
+#: some text
+msgctxt "\"round1\""
+msgid "tap_select"
+msgstr "tap_select"
+
+#: some text
+msgctxt "\"round1\""
+msgid "you_dont_have_permissions_to_add"
+msgstr "you_dont_have_permissions_to_add"
+
+#: some text
+msgctxt "\"round1\""
+msgid "you_synced_group"
+msgstr "you_synced_group"
+
+#: some text
+msgctxt "\"round1\""
+msgid "forward_to"
+msgstr "forward_to"
+
+#: some text
+msgctxt "\"round1\""
+msgid "search_calendars"
+msgstr "search_calendars"
+
+#: some text
+msgctxt "\"round1\""
+msgid "you_can_forward"
+msgstr "you_can_forward"
+
+#: some text
+msgctxt "\"round1\""
+msgid "default_calendar"
+msgstr "default_calendar"
+
+#: some text
+msgctxt "\"round1\""
+msgid "cant_forward_events"
+msgstr "cant_forward_events"
+
+#: some text
+msgctxt "\"round1\""
+msgid "calendar_color"
+msgstr "calendar_color"
+
+#: some text
+msgctxt "\"round1\""
+msgid "not_possible_change_name"
+msgstr "not_possible_change_name"
+
+#: some text
+msgctxt "\"round1\""
+msgid "add_participants_to_event"
+msgstr "add_participants_to_event"
+
+#: some text
+msgctxt "\"round1\""
+msgid "add_location_to_event"
+msgstr "add_location_to_event"
+
+#: some text
+msgctxt "\"round1\""
+msgid "delete_account"
+msgstr "delete_account"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dialog_delete_account_title"
+msgstr "dialog_delete_account_title"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dialog_delete_account_message"
+msgstr "dialog_delete_account_message"
+
+#: some text
+msgctxt "\"round1\""
+msgid "verify_your_identity"
+msgstr "verify_your_identity"
+
+#: some text
+msgctxt "\"round1\""
+msgid "sync_with_google_tasks"
+msgstr "sync_with_google_tasks"
+
+#: some text
+msgctxt "\"round1\""
+msgid "remove"
+msgstr "remove"
+
+#: some text
+msgctxt "\"round1\""
+msgid "keep_tasks"
+msgstr "keep_tasks"
+
+#: some text
+msgctxt "\"round1\""
+msgid "would_you_like"
+msgstr "would_you_like"
+
+#: some text
+msgctxt "\"round1\""
+msgid "empty_google_tasks_list"
+msgstr "empty_google_tasks_list"
+
+#: some text
+msgctxt "\"round1\""
+msgid "google_tasks_explanation"
+msgstr "google_tasks_explanation"
+
+#: some text
+msgctxt "\"round1\""
+msgid "google_list_multiple_error"
+msgstr "google_list_multiple_error"
+
+#: some text
+msgctxt "\"round1\""
+msgid "google_list_multiple_error_only_one"
+msgstr "google_list_multiple_error_only_one"
+
+#: some text
+msgctxt "\"round1\""
+msgid "deny"
+msgstr "deny"
+
+#: some text
+msgctxt "\"round1\""
+msgid "deny_and_dont_show_again"
+msgstr "deny_and_dont_show_again"
+
+#: some text
+msgctxt "\"round1\""
+msgid "week"
+msgstr "week"
+
+#: some text
+msgctxt "\"round1\""
+msgid "shared_calendars"
+msgstr "shared_calendars"
+
+#: some text
+msgctxt "\"round1\""
+msgid "default_calendar_shared"
+msgstr "default_calendar_shared"
+
+#: some text
+msgctxt "\"round1\""
+msgid "edit"
+msgstr "edit"
+
+#: some text
+msgctxt "\"round1\""
+msgid "print"
+msgstr "print"
+
+#: some text
+msgctxt "\"round1\""
+msgid "print_explanation"
+msgstr "print_explanation"
+
+#: some text
+msgctxt "\"round1\""
+msgid "print_your_calendar"
+msgstr "print_your_calendar"
+
+#: some text
+msgctxt "\"round1\""
+msgid "app_appearance"
+msgstr "app_appearance"
+
+#: some text
+msgctxt "\"round1\""
+msgid "not_support_printing"
+msgstr "not_support_printing"
+
+#: some text
+msgctxt "\"round1\""
+msgid "system_appearance"
+msgstr "system_appearance"
+
+#: some text
+msgctxt "\"round1\""
+msgid "light"
+msgstr "light"
+
+#: some text
+msgctxt "\"round1\""
+msgid "dark"
+msgstr "dark"
+
+#: some text
+msgctxt "\"round1\""
+msgid "landline_description"
+msgstr "landline_description"
+
+#: some text
+msgctxt "\"round1\""
+msgid "only_pro_can_use_landline"
+msgstr "only_pro_can_use_landline"
+
+#: some text
+msgctxt "\"round1\""
+msgid "groupcal_business"
+msgstr "groupcal_business"
+
+#: some text
+msgctxt "\"round1\""
+msgid "free"
+msgstr "free"
+
