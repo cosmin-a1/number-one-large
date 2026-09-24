@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "The content cannot contain any of the following characters:< >"
+msgstr "The content cannot contain any of the following characters:< >"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Public"
+msgstr "Public"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Private"
+msgstr "Private"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Privacy:"
+msgstr "Privacy:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Category:"
+msgstr "Category:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportYouTubePanel-version4"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FFAccountBalanceCloseCheckFilter-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFAccountBalanceCloseCheckFilter-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Audio Device"
+msgstr "Audio Device"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Mute Project"
+msgstr "Mute Project"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Count Down"
+msgstr "Count Down"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Input Audio"
+msgstr "Input Audio"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Please check whether you have permission to write or read on the path, or choose other path to create."
+msgstr "Please check whether you have permission to write or read on the path, or choose other path to create."
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Start (%1)"
+msgstr "Start (%1)"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Save to"
+msgstr "Save to"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Audio device %1 connection lost."
+msgstr "Audio device %1 connection lost."
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Your audio has been added to the timeline and media library."
+msgstr "Your audio has been added to the timeline and media library."
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "There is only %1MB space in the specified output directory, Would you choose another directory?"
+msgstr "There is only %1MB space in the specified output directory, Would you choose another directory?"
+
+#: 
+msgctxt "FFAudioRecordPanel-version4"
+msgid "Refresh Device"
+msgstr "Refresh Device"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "Authorization failed, please click authorization again!"
+msgstr "Authorization failed, please click authorization again!"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "Wondershare Privacy Policy"
+msgstr "Wondershare Privacy Policy"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "I accept"
+msgstr "I accept"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "Open cloud storage and get cloud space for free."
+msgstr "Open cloud storage and get cloud space for free."
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "End User License Agreement"
+msgstr "End User License Agreement"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version4"
+msgid "Please Agree to Our Policy First"
+msgstr "Please Agree to Our Policy First"
+
+#: 
+msgctxt "FFColorMatchWidget-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFColorMatchWidget-version4"
+msgid "Match"
+msgstr "Match"
+
+#: 
+msgctxt "FFColorMatchWidget-version4"
+msgid "Select to a frame here to match to"
+msgstr "Select to a frame here to match to"
+
+#: 
+msgctxt "FFColorMatchWidget-version4"
+msgid "Current"
+msgstr "Current"
+
+#: 
+msgctxt "FFColorMatchWidget-version4"
+msgid "Reference"
+msgstr "Reference"
+
+#: 
+msgctxt "FFColorMatchWidget-version4"
+msgid "Matching..."
+msgstr "Matching..."
+
+#: 
+msgctxt "FFCommonTipDialog-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFGuideLineSetDialog-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFGuideLineSetDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Automatically close the window after 3 seconds"
+msgstr "Automatically close the window after 3 seconds"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Logging in..."
+msgstr "Logging in..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Checking Device Authorization..."
+msgstr "Checking Device Authorization..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Account administrator changes"
+msgstr "Account administrator changes"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Enterprise member: only one device can be bound and can be contacted"
+msgstr "Enterprise member: only one device can be bound and can be contacted"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Login Failed!"
+msgstr "Login Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version4"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FFRenameDialog-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFRenameDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFRenameDialog-version4"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFResourceConvertingPanel-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFResourceConvertingPanel-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFResourceConvertingPanel-version4"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FFResourceConvertingPanel-version4"
+msgid "Loading failed? %1 to contact us"
+msgstr "Loading failed? %1 to contact us"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version4"
+msgid "This name is already in use. Do you want to overwrite the existing preset?"
+msgstr "This name is already in use. Do you want to overwrite the existing preset?"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version4"
+msgid "Preset Dialog"
+msgstr "Preset Dialog"
+
+#: 
+msgctxt "FFSaveTextPresetDialog-version4"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FFSilenceDetectionQuickTourPanel-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSilenceDetectionQuickTourPanel-version4"
+msgid "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+msgstr "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "Remember my choice"
+msgstr "Remember my choice"
+
+#: 
+msgctxt "FFSnapshotFormatDialog-version4"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFTextToSpeechParamFilmoraPanel-version4"
+msgid "Low"
+msgstr "Low"
+

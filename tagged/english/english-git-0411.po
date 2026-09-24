@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "QObject-version4"
+msgid "PropertyConfig"
+msgstr "PropertyConfig"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Focus Color"
+msgstr "Focus Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Up Insert"
+msgstr "Up Insert"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Invert"
+msgstr "Invert"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Italic"
+msgstr "Italic"
+
+#: 
+msgctxt "QObject-version4"
+msgid "File Name_1"
+msgstr "File Name_1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "The effect Pack can't be deleted because it is opened in Filmora."
+msgstr "The effect Pack can't be deleted because it is opened in Filmora."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Philtrum Length"
+msgstr "Philtrum Length"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Move to right"
+msgstr "Move to right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "The audio duration is too short, please re-select the audio of 0.5s or more for beat detection."
+msgstr "The audio duration is too short, please re-select the audio of 0.5s or more for beat detection."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Jumper"
+msgstr "Jumper"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Jungle"
+msgstr "Jungle"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Zoom out to the right"
+msgstr "Zoom out to the right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sun Kissed"
+msgstr "Sun Kissed"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Italian (Italy)"
+msgstr "Italian (Italy)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Portuguese (Brazil)"
+msgstr "Portuguese (Brazil)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Quit AI Voice Cloning"
+msgstr "Quit AI Voice Cloning"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Linear"
+msgstr "Linear"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "QObject-version4"
+msgid "My Mask 1"
+msgstr "My Mask 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Editing Timeline"
+msgstr "Editing Timeline"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Minute"
+msgstr "Minute"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Japanese (Japan)"
+msgstr "Japanese (Japan)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Unable to recognize text content"
+msgstr "Unable to recognize text content"
+
+#: 
+msgctxt "QObject-version4"
+msgid "vtChildVoice"
+msgstr "vtChildVoice"
+
+#: 
+msgctxt "QObject-version4"
+msgid "No Motion"
+msgstr "No Motion"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lord Kelvin"
+msgstr "Lord Kelvin"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Align Justified"
+msgstr "Align Justified"
+
+#: 
+msgctxt "QObject-version4"
+msgid "MiaoYing ZhiHu HomePage"
+msgstr "MiaoYing ZhiHu HomePage"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Counter clockwise rotate"
+msgstr "Counter clockwise rotate"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Outter Ring Color"
+msgstr "Outter Ring Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Number"
+msgstr "Number"
+
+#: 
+msgctxt "QObject-version4"
+msgid "X Offset"
+msgstr "X Offset"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Y Offset"
+msgstr "Y Offset"
+
+#: 
+msgctxt "QObject-version4"
+msgid "End Number"
+msgstr "End Number"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Chin Length"
+msgstr "Chin Length"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+msgctxt "QObject-version4"
+msgid "No search results yet."
+msgstr "No search results yet."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Next Marker"
+msgstr "Next Marker"
+
+#: 
+msgctxt "QObject-version4"
+msgid "The style of Title will be reset after conversion to SRT."
+msgstr "The style of Title will be reset after conversion to SRT."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Photos"
+msgstr "Photos"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Player"
+msgstr "Player"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Zoom in to the right"
+msgstr "Zoom in to the right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upgrade your license to enjoy unlimited equity."
+msgstr "Upgrade your license to enjoy unlimited equity."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Nose Length"
+msgstr "Nose Length"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Whiten Teeth"
+msgstr "Whiten Teeth"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Random"
+msgstr "Random"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Create Proxy File"
+msgstr "Create Proxy File"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Redden"
+msgstr "Redden"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Redeem"
+msgstr "Redeem"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Renew 1 year at %1 off"
+msgstr "Renew 1 year at %1 off"
+
+#: 
+msgctxt "QObject-version4"
+msgid "rotate_frame_count"
+msgstr "rotate_frame_count"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "QObject-version4"
+msgid "PC Screen"
+msgstr "PC Screen"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Second"
+msgstr "Second"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Select"
+msgstr "Select"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Processor"
+msgstr "Processor"
+
+#: 
+msgctxt "QObject-version4"
+msgid "TVwall"
+msgstr "TVwall"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Transcribe"
+msgstr "Transcribe"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Transcode failure"
+msgstr "Transcode failure"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade Zoom In"
+msgstr "Fade Zoom In"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Are you sure you want to delete the selected item?"
+msgstr "Are you sure you want to delete the selected item?"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Smooth"
+msgstr "Smooth"
+
+#: 
+msgctxt "QObject-version4"
+msgid "distortion_density"
+msgstr "distortion_density"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Spin 1"
+msgstr "Spin 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Spin 2"
+msgstr "Spin 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Spin 3"
+msgstr "Spin 3"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Spin 4"
+msgstr "Spin 4"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Square"
+msgstr "Square"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Unkown error"
+msgstr "Unkown error"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Start:"
+msgstr "Start:"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Techno"
+msgstr "Techno"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sunset"
+msgstr "Sunset"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Interval"
+msgstr "Interval"
+
+#: 
+msgctxt "QObject-version4"
+msgid "interval"
+msgstr "interval"
+
+#: 
+msgctxt "QObject-version4"
+msgid "MiaoYing DouYin HomePage"
+msgstr "MiaoYing DouYin HomePage"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Character Page Roll-out"
+msgstr "Character Page Roll-out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Use Original Media When Paused"
+msgstr "Use Original Media When Paused"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Type Writer"
+msgstr "Type Writer"
+
+#: 
+msgctxt "QObject-version4"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Tiny zoom"
+msgstr "Tiny zoom"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Click to download the online content"
+msgstr "Click to download the online content"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fantasy, 1 girl, holding, eyeball scepter, blue sky, clouds, trees, green leaves, bead necklace, sitting, levitating, brown dress, brown boots, brown hair, meditation, forest, sunny day, anthropomorphism, nature"
+msgstr "Fantasy, 1 girl, holding, eyeball scepter, blue sky, clouds, trees, green leaves, bead necklace, sitting, levitating, brown dress, brown boots, brown hair, meditation, forest, sunny day, anthropomorphism, nature"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Same Series"
+msgstr "Same Series"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Unknow"
+msgstr "Unknow"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Unlike"
+msgstr "Unlike"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Unmute"
+msgstr "Unmute"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Angle Y"
+msgstr "Angle Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Inv Green"
+msgstr "Inv Green"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Inspect Total Image"
+msgstr "Inspect Total Image"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Render Over Black"
+msgstr "Render Over Black"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Texture Detail"
+msgstr "Texture Detail"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitter Offset"
+msgstr "Glitter Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L126 Mauve"
+msgstr "L126 Mauve"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC Spray Paint Noise"
+msgstr "BCC Spray Paint Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "V Shear"
+msgstr "V Shear"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "16 Sides"
+msgstr "16 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "6 Sides"
+msgstr "6 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Translate"
+msgstr "Translate"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mix w Original"
+msgstr "Mix w Original"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Diff Scale"
+msgstr "Diff Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shape Animation"
+msgstr "Shape Animation"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Bird Girl"
+msgstr "Bird Girl"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Hard Clip"
+msgstr "Hard Clip"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Heat Lamp"
+msgstr "Heat Lamp"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Preserve Card Orientation"
+msgstr "Preserve Card Orientation"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Antialiased"
+msgstr "Antialiased"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Use Particle Intersection"
+msgstr "Use Particle Intersection"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Back & Forth Loop"
+msgstr "Back & Forth Loop"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "NTSC with no Setup"
+msgstr "NTSC with no Setup"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Reverse Colors"
+msgstr "Reverse Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "StarGazer"
+msgstr "StarGazer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "YZ Alpha Inverse"
+msgstr "YZ Alpha Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "XY Alpha Inverse"
+msgstr "XY Alpha Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "XZ Alpha Inverse"
+msgstr "XZ Alpha Inverse"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gel-Matte Layer"
+msgstr "Gel-Matte Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Texture Aspect"
+msgstr "Texture Aspect"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L026 Bright Red"
+msgstr "L026 Bright Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Zoom-Rotation Center"
+msgstr "Zoom-Rotation Center"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Share Link"
+msgstr "Share Link"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glare Ring Red Amount"
+msgstr "Glare Ring Red Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Left + Right"
+msgstr "Left + Right"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pre Blur"
+msgstr "Pre Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fire Glow"
+msgstr "Fire Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Tube Time"
+msgstr "Tube Time"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue to Green"
+msgstr "Blue to Green"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Light Squeeze"
+msgstr "Light Squeeze"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L120 Deep Blue"
+msgstr "L120 Deep Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Apply 1"
+msgstr "Apply 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Apply 2"
+msgstr "Apply 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Interaction Layer"
+msgstr "Interaction Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Tobacco 1"
+msgstr "Tobacco 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Tobacco 2"
+msgstr "Tobacco 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Tobacco 3"
+msgstr "Tobacco 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Backlit"
+msgstr "Backlit"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gradient"
+msgstr "Gradient"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-B1"
+msgstr "Brady-B1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-B2"
+msgstr "Brady-B2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-B3"
+msgstr "Brady-B3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-A1"
+msgstr "Brady-A1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-A2"
+msgstr "Brady-A2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-A3"
+msgstr "Brady-A3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-C1"
+msgstr "Brady-C1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-C2"
+msgstr "Brady-C2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Brady-C3"
+msgstr "Brady-C3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Camera Spin"
+msgstr "Camera Spin"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Camera View"
+msgstr "Camera View"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "D1/DV NTSC Widescreen (1.2)"
+msgstr "D1/DV NTSC Widescreen (1.2)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Camera Zoom"
+msgstr "Camera Zoom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Attractors"
+msgstr "Attractors"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Coral 1/2"
+msgstr "Coral 1/2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Coral 1/4"
+msgstr "Coral 1/4"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Coral 1/8"
+msgstr "Coral 1/8"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Extract On"
+msgstr "Extract On"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Heated Vission"
+msgstr "Heated Vission"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Trails 1"
+msgstr "Trails 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Trails 2"
+msgstr "Trails 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Trails 3"
+msgstr "Trails 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Trails 4"
+msgstr "Trails 4"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Balance"
+msgstr "Balance"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Front to Back"
+msgstr "Front to Back"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cranberry 1"
+msgstr "Cranberry 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cranberry 2"
+msgstr "Cranberry 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cranberry 3"
+msgstr "Cranberry 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dramatic"
+msgstr "Dramatic"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Banding"
+msgstr "Banding"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mask-Key Combine"
+msgstr "Mask-Key Combine"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Parabola"
+msgstr "Parabola"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Character"
+msgstr "Character"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Parallel"
+msgstr "Parallel"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Parasite"
+msgstr "Parasite"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Acceleration Type"
+msgstr "Acceleration Type"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gray Fog"
+msgstr "Gray Fog"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cards 3D"
+msgstr "Cards 3D"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Topagraphic Map"
+msgstr "Topagraphic Map"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Battery"
+msgstr "Battery"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Jumping Image"
+msgstr "Jumping Image"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Tile Vertically"
+msgstr "Tile Vertically"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Lock to Core Scale X"
+msgstr "Lock to Core Scale X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dark Sky"
+msgstr "Dark Sky"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target 1"
+msgstr "Target 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target 2"
+msgstr "Target 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target 3"
+msgstr "Target 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target X"
+msgstr "Target X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target Y"
+msgstr "Target Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target Z"
+msgstr "Target Z"
+

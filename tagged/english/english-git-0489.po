@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "View options"
+msgstr "View options"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Filter by file type"
+msgstr "Filter by file type"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Sort by"
+msgstr "Sort by"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Middle Thumbnail View"
+msgstr "Middle Thumbnail View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "All Templates"
+msgstr "All Templates"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version4"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Standard"
+msgstr "Standard"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version4"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Desktop && Mobile"
+msgstr "Desktop && Mobile"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Giphy"
+msgstr "Giphy"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Smart"
+msgstr "Smart"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "View options"
+msgstr "View options"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Three clients"
+msgstr "Three clients"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Import media to library"
+msgstr "Import media to library"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Record"
+msgstr "Record"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Record a video"
+msgstr "Record a video"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Filter by file type"
+msgstr "Filter by file type"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+msgctxt "FMediaViewModeBar-version4"
+msgid "Desktop && Tablet"
+msgstr "Desktop && Tablet"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version4"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version4"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version4"
+msgid "Paid"
+msgstr "Paid"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version4"
+msgid "Commercial"
+msgstr "Commercial"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version4"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version4"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version4"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version4"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "ProductPage-version4"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "ProductPage-version4"
+msgid "More Apps You Might Like"
+msgstr "More Apps You Might Like"
+
+#: 
+msgctxt "ProductPage-version4"
+msgid "Creativity"
+msgstr "Creativity"
+
+#: 
+msgctxt "ProductPage-version4"
+msgid "Utility"
+msgstr "Utility"
+
+#: 
+msgctxt "ProductPage-version4"
+msgid "Productivity"
+msgstr "Productivity"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Big"
+msgstr "Big"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Delete All Markers"
+msgstr "Delete All Markers"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Small_FTracksManageContextMenu"
+msgstr "Small_FTracksManageContextMenu"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Adjust Track Height"
+msgstr "Adjust Track Height"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Add Video Track"
+msgstr "Add Video Track"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Add Audio Track"
+msgstr "Add Audio Track"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "TrackHeight_Normal"
+msgstr "TrackHeight_Normal"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Delete Empty Tracks"
+msgstr "Delete Empty Tracks"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Lock All Tracks"
+msgstr "Lock All Tracks"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Delete Selected Track"
+msgstr "Delete Selected Track"
+
+#: 
+msgctxt "FTracksManageContextMenu-version4"
+msgid "Open Track Manager"
+msgstr "Open Track Manager"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "DVD"
+msgstr "DVD"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "Local"
+msgstr "Local"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "YouTube"
+msgstr "YouTube"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "Device"
+msgstr "Device"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "TikTok"
+msgstr "TikTok"
+
+#: 
+msgctxt "FExportModuleBar-version4"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Upload media files to the cloud for backup and sharing after logging in."
+msgstr "Upload media files to the cloud for backup and sharing after logging in."
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Get free cloud capacity for a limited time!"
+msgstr "Get free cloud capacity for a limited time!"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Get space"
+msgstr "Get space"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FCloudMediaStatePages-version4"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "No files have been backed up yet, go to %1 to back them up"
+msgstr "No files have been backed up yet, go to %1 to back them up"
+
+#: 
+msgctxt "FCloudProjectStatePage-version4"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+

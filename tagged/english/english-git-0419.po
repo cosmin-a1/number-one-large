@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Go to \"Media Cache\""
+msgstr "Go to \"Media Cache\""
+
+#: 
+msgctxt "QObject-version4"
+msgid "Clockwise rotate"
+msgstr "Clockwise rotate"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Main Timeline"
+msgstr "Main Timeline"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Free Plan Right 1"
+msgstr "Free Plan Right 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Are you sure to continue?"
+msgstr "Are you sure to continue?"
+
+#: 
+msgctxt "QObject-version4"
+msgid "vtGeneral"
+msgstr "vtGeneral"
+
+#: 
+msgctxt "QObject-version4"
+msgid "General"
+msgstr "General"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ring Color 1"
+msgstr "Ring Color 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ring Color 2"
+msgstr "Ring Color 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Stretch to right"
+msgstr "Stretch to right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "There are contents on the selected track, deleting the track will remove all contents as well, do you wish to continue?"
+msgstr "There are contents on the selected track, deleting the track will remove all contents as well, do you wish to continue?"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade2 Transition"
+msgstr "Fade2 Transition"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Smooth Strength"
+msgstr "Smooth Strength"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Screen zoom ratio change detected. In order not to affect the user experience, please restart the program and try again."
+msgstr "Screen zoom ratio change detected. In order not to affect the user experience, please restart the program and try again."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Right Rotation Disappears"
+msgstr "Right Rotation Disappears"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Media can be split multiple times at the dotted line position"
+msgstr "Media can be split multiple times at the dotted line position"
+
+#: 
+msgctxt "QObject-version4"
+msgid "The position of the main track cannot be changed."
+msgstr "The position of the main track cannot be changed."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Bad TV Signal"
+msgstr "Bad TV Signal"
+
+#: 
+msgctxt "QObject-version4"
+msgid "The target inside the tracking box must be visible 100% of the time it is being tracked."
+msgstr "The target inside the tracking box must be visible 100% of the time it is being tracked."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Chinese (HK)"
+msgstr "Chinese (HK)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Chinese (TW)"
+msgstr "Chinese (TW)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Bright Eye"
+msgstr "Bright Eye"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Add to Project"
+msgstr "Add to Project"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Black&White"
+msgstr "Black&White"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Typewriter Pops Away"
+msgstr "Typewriter Pops Away"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Chinese (Cantonese Simplified)"
+msgstr "Chinese (Cantonese Simplified)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Align Left"
+msgstr "Align Left"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Align down"
+msgstr "Align down"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lower-left Rotation Disappears"
+msgstr "Lower-left Rotation Disappears"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Down Up 1"
+msgstr "Down Up 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Down Up 2"
+msgstr "Down Up 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Down Roll"
+msgstr "Down Roll"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Give Up"
+msgstr "Give Up"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Closing this dialog now will stop your current download. Are you sure to continue?"
+msgstr "Closing this dialog now will stop your current download. Are you sure to continue?"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Are you sure you want to delete the selected item? This will delete the scene detection folder."
+msgstr "Are you sure you want to delete the selected item? This will delete the scene detection folder."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Increase Buffer"
+msgstr "Increase Buffer"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Big architecture, tilt-shift photography, tree, rock, water"
+msgstr "Big architecture, tilt-shift photography, tree, rock, water"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cannot download media to &\"path name\"& because Filmora does not have permission to save files to this folder"
+msgstr "Cannot download media to &\"path name\"& because Filmora does not have permission to save files to this folder"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Show Curve Panel"
+msgstr "Show Curve Panel"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Exceeds 50,000 character limit per task."
+msgstr "Exceeds 50,000 character limit per task."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Insufficient time interval to insert a new subtitle between the current one and the next one in the list"
+msgstr "Insufficient time interval to insert a new subtitle between the current one and the next one in the list"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Background Luminance"
+msgstr "Background Luminance"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fun Stickers"
+msgstr "Fun Stickers"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Delete Audio Stretch"
+msgstr "Delete Audio Stretch"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Gradient Color"
+msgstr "Gradient Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Z_Offset_start"
+msgstr "Z_Offset_start"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Delete Keyframe"
+msgstr "Delete Keyframe"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Brighten Eye"
+msgstr "Brighten Eye"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Add to Template"
+msgstr "Add to Template"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Renew 1 month at %1 off"
+msgstr "Renew 1 month at %1 off"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Continuous Curve"
+msgstr "Continuous Curve"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ball Color"
+msgstr "Ball Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Bell Color"
+msgstr "Bell Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Enlarge and Pop Out"
+msgstr "Enlarge and Pop Out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Rock'n'Roll"
+msgstr "Rock'n'Roll"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Technical Support"
+msgstr "Technical Support"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Align Vertical"
+msgstr "Align Vertical"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Send Backward"
+msgstr "Send Backward"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "QObject-version4"
+msgid "%1  sync success, %2 sync  failure"
+msgstr "%1  sync success, %2 sync  failure"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Project Backups"
+msgstr "Project Backups"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Shadow X"
+msgstr "Shadow X"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Shadow Y"
+msgstr "Shadow Y"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Shadow A"
+msgstr "Shadow A"
+
+#: 
+msgctxt "QObject-version4"
+msgid "VCG Plan Name"
+msgstr "VCG Plan Name"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Disappear Verbatim"
+msgstr "Disappear Verbatim"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 1"
+msgstr "Cinematic Flares 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 2"
+msgstr "Cinematic Flares 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 3"
+msgstr "Cinematic Flares 3"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 4"
+msgstr "Cinematic Flares 4"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 5"
+msgstr "Cinematic Flares 5"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 6"
+msgstr "Cinematic Flares 6"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinematic Flares 7"
+msgstr "Cinematic Flares 7"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upgrading"
+msgstr "Upgrading"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Import with Auto Beat Sync"
+msgstr "Import with Auto Beat Sync"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Export to timeline"
+msgstr "Export to timeline"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Please contact Customer Support or your local network administrator for assistance."
+msgstr "Please contact Customer Support or your local network administrator for assistance."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Not connected to network"
+msgstr "Not connected to network"
+
+#: 
+msgctxt "QObject-version4"
+msgid "transfer failed"
+msgstr "transfer failed"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+msgctxt "QObject-version4"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Export without watermark"
+msgstr "Export without watermark"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Expand template"
+msgstr "Expand template"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Limited-Time Free Asset"
+msgstr "Limited-Time Free Asset"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Detach Audio"
+msgstr "Detach Audio"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Vignette Classic"
+msgstr "Vignette Classic"
+
+#: 
+msgctxt "QObject-version4"
+msgid "VIP Plan Name"
+msgstr "VIP Plan Name"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Digital Clock or Not"
+msgstr "Digital Clock or Not"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade Slide 1"
+msgstr "Fade Slide 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade Slide 2"
+msgstr "Fade Slide 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade Slide 3"
+msgstr "Fade Slide 3"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade Slide 4"
+msgstr "Fade Slide 4"
+

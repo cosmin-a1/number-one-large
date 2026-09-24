@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportInternetPanel-version3"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FFDropDialog-version3"
+msgid "Wondershare Filmora 13 Beta"
+msgstr "Wondershare Filmora 13 Beta"
+
+#: 
+msgctxt "FEffectWidgetHeader-version3"
+msgid "Not all of the selected clips are enabled."
+msgstr "Not all of the selected clips are enabled."
+
+#: 
+msgctxt "FProductName-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FUserTagCollecterCefView-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FUserTagCollecterDialog-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FVCGMediaResolutionSelectDialog-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FVCGVIPGuideDialog-version3"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FItemDelegate-version3"
+msgid "Check All"
+msgstr "Check All"
+
+#: 
+msgctxt "QWidget-version3"
+msgid "Setting_1"
+msgstr "Setting_1"
+
+#: 
+msgctxt "QWidget-version3"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+
+#: 
+msgctxt "QWidget-version3"
+msgid "Material_1"
+msgstr "Material_1"
+
+#: 
+msgctxt "FMediaItemIconDelegate-version3"
+msgid "Click to clear template effect"
+msgstr "Click to clear template effect"
+
+#: 
+msgctxt "FIntroLogoTitleBar-version3"
+msgid "Add Your Logo"
+msgstr "Add Your Logo"
+
+#: 
+msgctxt "FFUpgradeMultiElementDialog-version3"
+msgid "Download Tips"
+msgstr "Download Tips"
+
+#: 
+msgctxt "FFUpgradeMultiElementDialog-version3"
+msgid "Installation Tips"
+msgstr "Installation Tips"
+
+#: 
+msgctxt "FTimelineItemWidget-version3"
+msgid "Element"
+msgstr "Element"
+
+#: 
+msgctxt "FFResourceConvertItem-version3"
+msgid "Your source projects are damaged"
+msgstr "Your source projects are damaged"
+
+#: 
+msgctxt "FFMissingResourceDownloadMgr-version3"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+msgctxt "FImportMaterialPage-version3"
+msgid "All Templates"
+msgstr "All Templates"
+
+#: 
+msgctxt "FImportMaterialPage-version3"
+msgid "Import your media"
+msgstr "Import your media"
+
+#: 
+msgctxt "FTitleBarBuyBtn-version3"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: 
+msgctxt "FTitleBarBuyBtn-version3"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+msgctxt "FTimelineAudioRecorderActionPresenter-version3"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+msgctxt "FFVoicePanel-version3"
+msgid "There is currently no collection, go and collect your favorite vocalist!"
+msgstr "There is currently no collection, go and collect your favorite vocalist!"
+
+#: 
+msgctxt "FFPlaySettingWidget-version3"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FFTransferCenterDlg-version3"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "BorisFXUnActivationDialog-version3"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+msgctxt "FCheckSchemePlanFailedWebStateWidget-version3"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+msgctxt "FCloudMediaNavigationBar-version3"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+msgctxt "FCloudProjectWidget-version3"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+msgctxt "FFDrawMaskGuideWidget-version3"
+msgid "Brush over an area to begin Smart Cutout."
+msgstr "Brush over an area to begin Smart Cutout."
+
+#: 
+msgctxt "FNothingFindWid-version3"
+msgid "No results matched the searching keywords."
+msgstr "No results matched the searching keywords."
+
+#: 
+msgctxt "FPropertyMaskAIMaskWidgetClass-version3"
+msgid "FPropertyMaskAIMaskWidget"
+msgstr "FPropertyMaskAIMaskWidget"
+
+#: 
+msgctxt "FBackupProjectDetailWidget-version3"
+msgid "All Projects"
+msgstr "All Projects"
+
+#: 
+msgctxt "FGraphicsVideoClipPainter-version3"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FGraphicsVideoClipPainter-version3"
+msgid "Removing object (Task %1)"
+msgstr "Removing object (Task %1)"
+
+#: 
+msgctxt "FUserLabelToast-version3"
+msgid "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+msgstr "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+
+#: 
+msgctxt "FTimelineZoomToFitActionPresenter-version3"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+msgctxt "FInstantModeWidget-version3"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+msgctxt "FInstantModeWidget-version3"
+msgid "Create your own videos from templates"
+msgstr "Create your own videos from templates"
+
+#: 
+msgctxt "FInstantModeWidget-version3"
+msgid "Get Filmora Cloud"
+msgstr "Get Filmora Cloud"
+
+#: 
+msgctxt "FFMenu-version3"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FFTabWidget-version3"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+msgctxt "FFTransferCenterLimitItemWidget-version3"
+msgid "*Up to 200 transmission history records"
+msgstr "*Up to 200 transmission history records"
+
+#: 
+msgctxt "FFWebcamRecordView-version3"
+msgid "Capture Video"
+msgstr "Capture Video"
+
+#: 
+msgctxt "FExportPurchaseTimingWidget-version3"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+msgctxt "FFCropAndZoomDialog-version3"
+msgid "Crop and Zoom"
+msgstr "Crop and Zoom"
+
+#: 
+msgctxt "FFUpgradeMultiElementWidget-version3"
+msgid "All Features"
+msgstr "All Features"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version3"
+msgid "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+msgstr "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version3"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskGroupWidgetClass-version3"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+msgctxt "FTTSCustomAddVoiceComponent-version3"
+msgid "Use Voice Clone to create your custom voice"
+msgstr "Use Voice Clone to create your custom voice"
+
+#: 
+msgctxt "FFNoNetworkWebStateWidget-version3"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+msgctxt "FCloudDiskBottomBar-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFCloudDiskCheckDiskInfoDialog-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FKOCVideosItemWidget-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FTutorialVideosItemWidget-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "ProductItem-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FTTSNoFavoriteComponent-version3"
+msgid "There is currently no collection, go and collect your favorite voice!"
+msgstr "There is currently no collection, go and collect your favorite voice!"
+
+#: 
+msgctxt "FQuickEditProcessMask-version3"
+msgid "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+
+#: 
+msgctxt "FFSimpleProgressPanel-version3"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+msgctxt "FTimelineQuick3DTextActionPresenter-version3"
+msgid "Quick 3D Text"
+msgstr "Quick 3D Text"
+
+#: 
+msgctxt "FRenewDialog-version3"
+msgid "If you have renewed Filmora, you can now export without a watermark!"
+msgstr "If you have renewed Filmora, you can now export without a watermark!"
+
+#: 
+msgctxt "FPropertyColorCurvePane-version3"
+msgid "The curve control point has reached the upper limit"
+msgstr "The curve control point has reached the upper limit"
+
+#: 
+msgctxt "FAISmartEditorSelectDlg-version3"
+msgid "AI Text Based Editing ( Silence Detection )"
+msgstr "AI Text Based Editing ( Silence Detection )"
+
+#: 
+msgctxt "someContext-version3"
+msgid "Some term"
+msgstr "Some term"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "."
+msgstr "."
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Please enter your email"
+msgstr "Please enter your email"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Enter your password"
+msgstr "Enter your password"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Create a Wondershare ID"
+msgstr "Create a Wondershare ID"
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "By clicking Create account, I agree that I have read and accepted the "
+msgstr "By clicking Create account, I agree that I have read and accepted the "
+
+#: 
+msgctxt "FUserRegisterPage-version4"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid ":"
+msgstr ":"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Transition Duration:"
+msgstr "Transition Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Pan & Zoom"
+msgstr "Pan & Zoom"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Photo Placement:"
+msgstr "Photo Placement:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Effect Duration:"
+msgstr "Effect Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Insert Mode:"
+msgstr "Insert Mode:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Split Button:"
+msgstr "Split Button:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Default Duration:"
+msgstr "Default Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Freeze Duration:"
+msgstr "Freeze Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Show the split button on timeline playhead"
+msgstr "Show the split button on timeline playhead"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Timeline Edit:"
+msgstr "Timeline Edit:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Split a single track"
+msgstr "Split a single track"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Split all tracks"
+msgstr "Split all tracks"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Quick Title Duration"
+msgstr "Quick Title Duration"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Click on the blank area to jump to the cursor position"
+msgstr "Click on the blank area to jump to the cursor position"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Cursor jump method:"
+msgstr "Cursor jump method:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Photo Duration:"
+msgstr "Photo Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version4"
+msgid "Filter Duration"
+msgstr "Filter Duration"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version4"
+msgid "L"
+msgstr "L"
+

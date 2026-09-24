@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version4"
+msgid "R"
+msgstr "R"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version4"
+msgid "L"
+msgstr "L"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version4"
+msgid "R"
+msgstr "R"
+
+#: 
+msgctxt "FFPositionEffectWidget-version4"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FFPositionEffectWidget-version4"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version4"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version4"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version4"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version4"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "QObject-version4"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "QObject-version4"
+msgid "TV"
+msgstr "TV"
+
+#: 
+msgctxt "QObject-version4"
+msgid "70s"
+msgstr "70s"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ads"
+msgstr "Ads"
+
+#: 
+msgctxt "QObject-version4"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Day"
+msgstr "Day"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "QObject-version4"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "QObject-version4"
+msgid "RAM"
+msgstr "RAM"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Red"
+msgstr "Red"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+msgctxt "QObject-version4"
+msgid "VCG"
+msgstr "VCG"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Top"
+msgstr "Top"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "QObject-version4"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "QObject-version4"
+msgid "dot"
+msgstr "dot"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Insect Eye Vision"
+msgstr "Insect Eye Vision"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cool"
+msgstr "Cool"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Drop"
+msgstr "Drop"
+
+#: 
+msgctxt "QObject-version4"
+msgid "End:"
+msgstr "End:"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Epic"
+msgstr "Epic"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Face"
+msgstr "Face"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade"
+msgstr "Fade"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Full"
+msgstr "Full"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Hour"
+msgstr "Hour"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Left"
+msgstr "Left"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Like"
+msgstr "Like"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lomo"
+msgstr "Lomo"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Love"
+msgstr "Love"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "QObject-version4"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Mute"
+msgstr "Mute"
+
+#: 
+msgctxt "QObject-version4"
+msgid "News"
+msgstr "News"
+
+#: 
+msgctxt "QObject-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Push"
+msgstr "Push"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Star"
+msgstr "Star"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Tile"
+msgstr "Tile"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Tilt"
+msgstr "Tilt"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sync"
+msgstr "Sync"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Tips"
+msgstr "Tips"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Twrl"
+msgstr "Twrl"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Warm"
+msgstr "Warm"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Wide"
+msgstr "Wide"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Year"
+msgstr "Year"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Clear In and Out"
+msgstr "Clear In and Out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "dist"
+msgstr "dist"
+
+#: 
+msgctxt "QObject-version4"
+msgid "zoom"
+msgstr "zoom"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Appearing Verbatim"
+msgstr "Appearing Verbatim"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Generation failed,"
+msgstr "Generation failed,"
+
+#: 
+msgctxt "QObject-version4"
+msgid "A woman in a white suit standing in a room with lights on the ceiling and a circular light behind her, freckles, crossed arms, masterpiece, best quality"
+msgstr "A woman in a white suit standing in a room with lights on the ceiling and a circular light behind her, freckles, crossed arms, masterpiece, best quality"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Insufficient disk space in the new file storage location."
+msgstr "Insufficient disk space in the new file storage location."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Align Right"
+msgstr "Align Right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Teal && Orange"
+msgstr "Teal && Orange"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Align Center"
+msgstr "Align Center"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Doomo Design"
+msgstr "Doomo Design"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Import Media Files"
+msgstr "Import Media Files"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Human Noise"
+msgstr "Human Noise"
+
+#: 
+msgctxt "QObject-version4"
+msgid "login error"
+msgstr "login error"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Save Project As Template"
+msgstr "Save Project As Template"
+
+#: 
+msgctxt "QObject-version4"
+msgid "If you agree, click OK to continue."
+msgstr "If you agree, click OK to continue."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Display full clip"
+msgstr "Display full clip"
+

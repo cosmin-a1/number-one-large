@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowWidget-version3"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FAdvancedPropertySubtitlePresetWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version3"
+msgid "Replace Thumbnail"
+msgstr "Replace Thumbnail"
+
+#: 
+msgctxt "FCoverMediaPlayerToolBar-version3"
+msgid "Reselect a thumbnail from video or local"
+msgstr "Reselect a thumbnail from video or local"
+
+#: 
+msgctxt "FCoverTemplateContentMenu-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FCoverTemplateContentMenu-version3"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FDeleteClipPresenter-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FDeleteClipPresenter-version3"
+msgid "Delete selected media"
+msgstr "Delete selected media"
+
+#: 
+msgctxt "FFreezeFrameContextMenu-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFreezeFrameContextMenu-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FGuideLineMenu-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FGuideLineMenu-version3"
+msgid "Add Guide"
+msgstr "Add Guide"
+
+#: 
+msgctxt "FMaskItemList-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMaskItemList-version3"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FMaskItemList-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FMaskItemList-version3"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FMaskItemList-version3"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FPropertyTitlePresetWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FPropertyTitlePresetWidget-version3"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+msgctxt "FUserLabelManageListWidget-version3"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FUserLabelManageListWidget-version3"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FUserLabelManageListWidget-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version3"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version3"
+msgid "Please enter a valid name"
+msgstr "Please enter a valid name"
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version3"
+msgid "Tip: The recording time must be between  <b>%1 20 s and 1 min %2</b>. Emotions, accents, etc. will be recorded and used in voice cloning."
+msgstr "Tip: The recording time must be between  <b>%1 20 s and 1 min %2</b>. Emotions, accents, etc. will be recorded and used in voice cloning."
+
+#: 
+msgctxt "FVoiceCloneRecordWidget-version3"
+msgid "Tip: The recording time must be between <b>%1 10s and 1min%2</b>. To ensure the success of subsequent voice cloning, the person performing the voice cloning operation must accurately read the text and record the audio."
+msgstr "Tip: The recording time must be between <b>%1 10s and 1min%2</b>. To ensure the success of subsequent voice cloning, the person performing the voice cloning operation must accurately read the text and record the audio."
+
+#: 
+msgctxt "FPropertyVideoControl-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyVideoControl-version3"
+msgid "Adjustment Layer Preset Saved!"
+msgstr "Adjustment Layer Preset Saved!"
+
+#: 
+msgctxt "FTextPresetPanel-version3"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FTextPresetPanel-version3"
+msgid "Name your custom text preset. It will be saved under Custom in the Titles menu."
+msgstr "Name your custom text preset. It will be saved under Custom in the Titles menu."
+
+#: 
+msgctxt "FTextPresetPanel-version3"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FTopGridWidget-version3"
+msgid "Device"
+msgstr "Device"
+
+#: 
+msgctxt "FTopGridWidget-version3"
+msgid "Voice Name"
+msgstr "Voice Name"
+
+#: 
+msgctxt "FTextOptionsWidget-version3"
+msgid "Line Height"
+msgstr "Line Height"
+
+#: 
+msgctxt "FTextOptionsWidget-version3"
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: 
+msgctxt "FTextOptionsWidget-version3"
+msgid "Alignment"
+msgstr "Alignment"
+
+#: 
+msgctxt "FPropertyStabilizationPanelClass-version3"
+msgid "Edge Processing"
+msgstr "Edge Processing"
+
+#: 
+msgctxt "FPropertyStabilizationPanelClass-version3"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+msgctxt "FAIQueueProcessButton-version3"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FAIQueueProcessButton-version3"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FAIQueueProcessButton-version3"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FAIQueueProcessButton-version3"
+msgid "Processing in queue"
+msgstr "Processing in queue"
+
+#: 
+msgctxt "FAccountCenterBottomWidget-version3"
+msgid "User Center"
+msgstr "User Center"
+
+#: 
+msgctxt "FAccountCenterBottomWidget-version3"
+msgid "Logout"
+msgstr "Logout"
+
+#: 
+msgctxt "FAccountCenterBottomWidget-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFavoritedGroupTagMenu-version3"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FFavoritedGroupTagMenu-version3"
+msgid "Add tag"
+msgstr "Add tag"
+
+#: 
+msgctxt "FFavoritedGroupTagMenu-version3"
+msgid "Manage tags"
+msgstr "Manage tags"
+
+#: 
+msgctxt "FSatisfactionDialog-version3"
+msgid "Neutral"
+msgstr "Neutral"
+
+#: 
+msgctxt "FSatisfactionDialog-version3"
+msgid "How do you like the video generated from text?"
+msgstr "How do you like the video generated from text?"
+
+#: 
+msgctxt "FSatisfactionDialog-version3"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSatisfactionDialog-version3"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FCloudSpaceWidget-version3"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudSpaceWidget-version3"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FCloudSpaceWidget-version3"
+msgid "Share Space"
+msgstr "Share Space"
+
+#: 
+msgctxt "FCloudSpaceWidget-version3"
+msgid "Click to open cloud space"
+msgstr "Click to open cloud space"
+
+#: 
+msgctxt "FCloudSpaceWidget-version3"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FCloudSpaceWidget-version3"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+msgctxt "FAdvancedEditingToolBar-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportModuleDlg-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FExportModuleDlg-version3"
+msgid "There are unfinished render tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+msgstr "There are unfinished render tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+
+#: 
+msgctxt "FExportModuleDlg-version3"
+msgid "Export selected clips"
+msgstr "Export selected clips"
+
+#: 
+msgctxt "FExportModuleDlg-version3"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+msgctxt "LosslessBase-version3"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "LosslessBase-version3"
+msgid "Add Segment"
+msgstr "Add Segment"
+
+#: 
+msgctxt "LosslessBase-version3"
+msgid "Open File"
+msgstr "Open File"
+
+#: 
+msgctxt "LosslessBase-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version3"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version3"
+msgid "View what's new of previous versions"
+msgstr "View what's new of previous versions"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version3"
+msgid "Next Feature"
+msgstr "Next Feature"
+
+#: 
+msgctxt "FFUpgradeGuideWidget-version3"
+msgid "Try Now"
+msgstr "Try Now"
+
+#: 
+msgctxt "FTimerDurationView-version3"
+msgid "Frames"
+msgstr "Frames"
+
+#: 
+msgctxt "FTimerDurationView-version3"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FMediaMaterialManagerWidget-version3"
+msgid "Auto Create"
+msgstr "Auto Create"
+
+#: 
+msgctxt "FFStepFunctionTipWidget-version3"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Filmora AI Credits"
+msgstr "Filmora AI Credits"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Usage Rules"
+msgstr "Usage Rules"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Filmora Cloud Drive"
+msgstr "Filmora Cloud Drive"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FFSinglePurchaseDialog-version3"
+msgid "Pick a plan to improve your efficiency"
+msgstr "Pick a plan to improve your efficiency"
+
+#: 
+msgctxt "FAIImageViewDelegate-version3"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIImageViewDelegate-version3"
+msgid "Describe the image you want to generate"
+msgstr "Describe the image you want to generate"
+
+#: 
+msgctxt "FAIImageViewDelegate-version3"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIImageViewDelegate-version3"
+msgid "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+msgstr "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+
+#: 
+msgctxt "FMediaBlankContentMenu-version3"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaBlankContentMenu-version3"
+msgid "Remove unused media"
+msgstr "Remove unused media"
+
+#: 
+msgctxt "FMediaImportHelper-version3"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaImportHelper-version3"
+msgid "%1 is importing now, %2 files left."
+msgstr "%1 is importing now, %2 files left."
+
+#: 
+msgctxt "FMediaImportHelper-version3"
+msgid "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+msgstr "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+
+#: 
+msgctxt "FFColorPickPartsCtrlPrivate-version3"
+msgid "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+msgstr "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+
+#: 
+msgctxt "FCommercialButtonWidget-version3"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+msgctxt "FCommercialButtonWidget-version3"
+msgid "Non-Commercial Use"
+msgstr "Non-Commercial Use"
+
+#: 
+msgctxt "FHomePageFeatureIntroWidget-version3"
+msgid "No data"
+msgstr "No data"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version3"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version3"
+msgid "Account"
+msgstr "Account"
+
+#: 
+msgctxt "FMiaoyingLoginAccountBtn-version3"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Weirdish"
+msgstr "Weirdish"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Warping Chaser"
+msgstr "Warping Chaser"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Optimize Algorithm"
+msgstr "Optimize Algorithm"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Enable Fractional Radius"
+msgstr "Enable Fractional Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Remap Blue to Blue"
+msgstr "Remap Blue to Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Center XY X"
+msgstr "Center XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Center XY Y"
+msgstr "Center XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Texture Amplitude"
+msgstr "Texture Amplitude"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Center Bias"
+msgstr "Center Bias"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cascading Down"
+msgstr "Cascading Down"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Animate Production Boundary"
+msgstr "Animate Production Boundary"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Faded Primary Colors"
+msgstr "Faded Primary Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Num Particles"
+msgstr "Num Particles"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "EXTERNAL FORCES"
+msgstr "EXTERNAL FORCES"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Vertical Twitch"
+msgstr "Vertical Twitch"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Screen Tumble"
+msgstr "Screen Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Resampling Quality"
+msgstr "Resampling Quality"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Membership expired. Space capacity has been returned to %d MB"
+msgstr "Membership expired. Space capacity has been returned to %d MB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Camera Rotate"
+msgstr "Camera Rotate"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Subtract Difference"
+msgstr "Subtract Difference"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Master Size"
+msgstr "Master Size"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Rotate Speed Random (%)"
+msgstr "Rotate Speed Random (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Washer Suds"
+msgstr "Washer Suds"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Random Bursts"
+msgstr "Random Bursts"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue Key Ghostly Aura"
+msgstr "Blue Key Ghostly Aura"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L247 Minus Green"
+msgstr "L247 Minus Green"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Instant Portrait"
+msgstr "Instant Portrait"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Random Choice"
+msgstr "Random Choice"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "HDV 1080 (1440x1080)"
+msgstr "HDV 1080 (1440x1080)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "HDTV 1080 (1920x1080)"
+msgstr "HDTV 1080 (1920x1080)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitch Duration"
+msgstr "Glitch Duration"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Omit Lower Left"
+msgstr "Omit Lower Left"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Omit Upper Left"
+msgstr "Omit Upper Left"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Smooth Large Details"
+msgstr "Smooth Large Details"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Deep Grit"
+msgstr "Deep Grit"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blur Quality"
+msgstr "Blur Quality"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Star Caustic"
+msgstr "Star Caustic"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Orange and Teal"
+msgstr "Orange and Teal"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Accelerate"
+msgstr "Accelerate"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L281 Threequarters C.T.B."
+msgstr "L281 Threequarters C.T.B."
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start position"
+msgstr "Start position"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L141 Bright Blue"
+msgstr "L141 Bright Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Side by Side"
+msgstr "Side by Side"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Side By Side"
+msgstr "Side By Side"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Red/Blue Shift"
+msgstr "Red/Blue Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Colored Chalk"
+msgstr "Colored Chalk"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Element"
+msgstr "Element"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Remove Area"
+msgstr "Remove Area"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Remove Blue"
+msgstr "Remove Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC DV Fixer"
+msgstr "BCC DV Fixer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Colored Blobs"
+msgstr "Colored Blobs"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "3D Slice Resolution"
+msgstr "3D Slice Resolution"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Modulation"
+msgstr "Modulation"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Color 4 Green"
+msgstr "Color 4 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Popularity"
+msgstr "Popularity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dull Day"
+msgstr "Dull Day"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Traverse Top"
+msgstr "Traverse Top"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Offset XY X"
+msgstr "Offset XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Offset XY Y"
+msgstr "Offset XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Inherit Color (%)"
+msgstr "Inherit Color (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L797 Deep Purple"
+msgstr "L797 Deep Purple"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Luma Gel"
+msgstr "Luma Gel"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Luma Inv"
+msgstr "Luma Inv"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Luma Key"
+msgstr "Luma Key"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Luma Map"
+msgstr "Luma Map"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Yellow 1"
+msgstr "Yellow 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Yellow 2"
+msgstr "Yellow 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Yellow 3"
+msgstr "Yellow 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Yellow 4"
+msgstr "Yellow 4"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Yellow 5"
+msgstr "Yellow 5"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Active Zoom"
+msgstr "Active Zoom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Composite Mode"
+msgstr "Composite Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Lava Lamp"
+msgstr "Lava Lamp"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Velocity"
+msgstr "Velocity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "White Color Blue"
+msgstr "White Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Max Horiz. Displacement"
+msgstr "Max Horiz. Displacement"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Top One Third"
+msgstr "Top One Third"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Camera Tumble"
+msgstr "Camera Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitter Ray Color Variance"
+msgstr "Glitter Ray Color Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Multiply"
+msgstr "Multiply"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Beat Reactor"
+msgstr "Beat Reactor"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Rocket Ship"
+msgstr "Rocket Ship"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Stretch to Fit"
+msgstr "Stretch to Fit"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Screen Rotate"
+msgstr "Screen Rotate"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sunset Cast"
+msgstr "Sunset Cast"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Onion Spheres"
+msgstr "Onion Spheres"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Search Radius"
+msgstr "Search Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target XY X"
+msgstr "Target XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target XY Y"
+msgstr "Target XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target XY 1"
+msgstr "Target XY 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target XY 2"
+msgstr "Target XY 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Target XY 3"
+msgstr "Target XY 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L176 Loving Amber"
+msgstr "L176 Loving Amber"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitter Ray Counts"
+msgstr "Glitter Ray Counts"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Inner Tint"
+msgstr "Inner Tint"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Emitter"
+msgstr "Emitter"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Outer Tint"
+msgstr "Outer Tint"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "After Dark"
+msgstr "After Dark"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "After Life"
+msgstr "After Life"
+

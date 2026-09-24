@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowPanel-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowPanel-version4"
+msgid "Distance"
+msgstr "Distance"
+
+#: 
+msgctxt "FAdvanceTextCustomizeShadowPanel-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyBackgroundTypeListPresenter-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FPropertyBackgroundTypeListPresenter-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyBackgroundTypeListPresenter-version4"
+msgid "Pattern"
+msgstr "Pattern"
+
+#: 
+msgctxt "FPropertyBorderEffectWidget-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FPropertyBorderEffectWidget-version4"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FPropertyBorderEffectWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Tiled"
+msgstr "Tiled"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Distance"
+msgstr "Distance"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Projection"
+msgstr "Projection"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyDropShadowWidget-version4"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FPropertyShapeBasicBorderWidget-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FPropertyShapeBasicBorderWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyShapeBasicBorderWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyShapeBasicBorderWidget-version4"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgctxt "FPropertyTextFillWidget-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FPropertyTextFillWidget-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyTextFillWidget-version4"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyTextFillWidget-version4"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+msgctxt "FPropertyTextFillWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Align Right"
+msgstr "Align Right"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Align Center"
+msgstr "Align Center"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Color:"
+msgstr "Color:"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Italic"
+msgstr "Italic"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Align Justified"
+msgstr "Align Justified"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Scale:"
+msgstr "Scale:"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Rotate:"
+msgstr "Rotate:"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Position:"
+msgstr "Position:"
+
+#: 
+msgctxt "FTemplatePropertyTextPanel-version4"
+msgid "Align Left"
+msgstr "Align Left"
+
+#: 
+msgctxt "FFAITranslationHelper-version4"
+msgid "Clip"
+msgstr "Clip"
+
+#: 
+msgctxt "FFAITranslationHelper-version4"
+msgid "clip"
+msgstr "clip"
+
+#: 
+msgctxt "FFAITranslationHelper-version4"
+msgid "Material"
+msgstr "Material"
+
+#: 
+msgctxt "FFAITranslationHelper-version4"
+msgid "Sequence"
+msgstr "Sequence"
+
+#: 
+msgctxt "FFAITranslationHelper-version4"
+msgid "sequence"
+msgstr "sequence"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "Clip"
+msgstr "Clip"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "clip"
+msgstr "clip"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "Translate"
+msgstr "Translate"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "Material"
+msgstr "Material"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "Sequence"
+msgstr "Sequence"
+
+#: 
+msgctxt "FFSpeechToTextHelper-version4"
+msgid "sequence"
+msgstr "sequence"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "What are you going to write?"
+msgstr "What are you going to write?"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "No network currently, please check the network and try again！"
+msgstr "No network currently, please check the network and try again！"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Historical results will appear here."
+msgstr "Historical results will appear here."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Summarize your video content and type here."
+msgstr "Summarize your video content and type here."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Are you sure to quit AI Copywriting Generation?"
+msgstr "Are you sure to quit AI Copywriting Generation?"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Video Chapter Titles"
+msgstr "Video Chapter Titles"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Video Oral Script"
+msgstr "Video Oral Script"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Clear History"
+msgstr "Clear History"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Type your video topic here."
+msgstr "Type your video topic here."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Youtube Video Ideas"
+msgstr "Youtube Video Ideas"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Youtube Video Titles"
+msgstr "Youtube Video Titles"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "All historical results will be permanently deleted and cannot be recovered."
+msgstr "All historical results will be permanently deleted and cannot be recovered."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Youtube Video Descriptions"
+msgstr "Youtube Video Descriptions"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Results"
+msgstr "Results"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Knowledge Introduction Article"
+msgstr "Knowledge Introduction Article"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "What is your video about?"
+msgstr "What is your video about?"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Due to policy restrictions in your region, it is temporarily unavailable."
+msgstr "Due to policy restrictions in your region, it is temporarily unavailable."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "AI Copywriting(Beta)"
+msgstr "AI Copywriting(Beta)"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Output Language"
+msgstr "Output Language"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "AI is generating results…"
+msgstr "AI is generating results…"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Results generated by AI will appear here. "
+msgstr "Results generated by AI will appear here. "
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Number of Results "
+msgstr "Number of Results "
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Advanced Options"
+msgstr "Advanced Options"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Sorry, the AI server crashed."
+msgstr "Sorry, the AI server crashed."
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "Video Topic (ai copywriting)"
+msgstr "Video Topic (ai copywriting)"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "History"
+msgstr "History"
+
+#: 
+msgctxt "FAIWritingDialog-version4"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FEffectMaskPathMenu-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FEffectMaskPathMenu-version4"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FEffectMaskPathMenu-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FEffectMaskPathMenu-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Link:"
+msgstr "Link:"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Click \"Copy\" to quickly copy the link and share it with others!"
+msgstr "Click \"Copy\" to quickly copy the link and share it with others!"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Shared link and password have been copied"
+msgstr "Shared link and password have been copied"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Password:"
+msgstr "Password:"
+
+#: 
+msgctxt "FFCloudDiskShareLinkDialog-version4"
+msgid "Extraction code"
+msgstr "Extraction code"
+
+#: 
+msgctxt "FFFile-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFFile-version4"
+msgid "Allow"
+msgstr "Allow"
+
+#: 
+msgctxt "FFFile-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FCropClipPresenter-version4"
+msgid "Crop"
+msgstr "Crop"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "Scroll Up/Down"
+msgstr "Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "⌘+Scroll Up/Down"
+msgstr "⌘+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "⇧+Scroll Up/Down"
+msgstr "⇧+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "⌥+Scroll Up/Down"
+msgstr "⌥+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "Shift+Scroll Up/Down"
+msgstr "Shift+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "Alt+Mouse Drag"
+msgstr "Alt+Mouse Drag"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "Ctrl+Scroll Up/Down"
+msgstr "Ctrl+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "Ctrl+Left Click"
+msgstr "Ctrl+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version4"
+msgid "⌥+Mouse Drag"
+msgstr "⌥+Mouse Drag"
+
+#: 
+msgctxt "FClipperTextEdit-version4"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "FClipperTextEdit-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FClipperTextEdit-version4"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FClipperTextEdit-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FClipperTextEdit-version4"
+msgid "No content to be removed!"
+msgstr "No content to be removed!"
+
+#: 
+msgctxt "FClipperTextEdit-version4"
+msgid "The search field is empty, please re-enter the content you want to search for."
+msgstr "The search field is empty, please re-enter the content you want to search for."
+
+#: 
+msgctxt "FFTextEdit-version4"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "FFTextEdit-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFTextEdit-version4"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FFTextEdit-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFTextEdit-version4"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "QCocoaMenuItem-version4"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "QCocoaMenuItem-version4"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "QCocoaMenuItem-version4"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "QCocoaMenuItem-version4"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "FFCropEditView-version4"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FFCropEditView-version4"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyDoubleColorSelectorComponent-version4"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FPropertyDoubleColorSelectorComponent-version4"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version4"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version4"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version4"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version4"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version4"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version4"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version4"
+msgid "Face"
+msgstr "Face"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version4"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version4"
+msgid "Beauty"
+msgstr "Beauty"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Pan"
+msgstr "Pan"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Toggle Transparency Grid"
+msgstr "Toggle Transparency Grid"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Toggle Alpha"
+msgstr "Toggle Alpha"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Toggle Transparency Black"
+msgstr "Toggle Transparency Black"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Eraser"
+msgstr "Eraser"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Toggle Alpha Overlay"
+msgstr "Toggle Alpha Overlay"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Mask Areas to Remove"
+msgstr "Mask Areas to Remove"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Zoom Level - Fit:"
+msgstr "Zoom Level - Fit:"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Mask Areas to Keep"
+msgstr "Mask Areas to Keep"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Preview Mode"
+msgstr "Preview Mode"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version4"
+msgid "Overlay Color"
+msgstr "Overlay Color"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "LUT"
+msgstr "LUT"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "List"
+msgstr "List"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Tone"
+msgstr "Tone"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Light"
+msgstr "Light"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Active Words"
+msgstr "Active Words"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+msgstr "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Adjust"
+msgstr "Adjust"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Border"
+msgstr "Border"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Ripple"
+msgstr "Ripple"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "White Balance"
+msgstr "White Balance"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Text Layer"
+msgstr "Text Layer"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Denoise"
+msgstr "Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Key Words"
+msgstr "Key Words"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Adjustment"
+msgstr "Adjustment"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FPropertyGroup-version4"
+msgid "Vignette"
+msgstr "Vignette"
+
+#: 
+msgctxt "FPropertyHeader-version4"
+msgid "HSL"
+msgstr "HSL"
+

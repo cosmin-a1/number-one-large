@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dim"
+msgstr "Dim"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "FPS"
+msgstr "FPS"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dot"
+msgstr "Dot"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fat"
+msgstr "Fat"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fog"
+msgstr "Fog"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "HSI"
+msgstr "HSI"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "HSP"
+msgstr "HSP"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "HSV"
+msgstr "HSV"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gel"
+msgstr "Gel"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Hot"
+msgstr "Hot"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ice"
+msgstr "Ice"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ink"
+msgstr "Ink"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "LCD"
+msgstr "LCD"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Key"
+msgstr "Key"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Map"
+msgstr "Map"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Max"
+msgstr "Max"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Min"
+msgstr "Min"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mix"
+msgstr "Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "PAL"
+msgstr "PAL"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mud"
+msgstr "Mud"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Off"
+msgstr "Off"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Oil"
+msgstr "Oil"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pan"
+msgstr "Pan"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pin"
+msgstr "Pin"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Red"
+msgstr "Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Top"
+msgstr "Top"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "XYZ"
+msgstr "XYZ"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "XZY"
+msgstr "XZY"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "YXZ"
+msgstr "YXZ"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "YZX"
+msgstr "YZX"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "ZXY"
+msgstr "ZXY"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "ZYX"
+msgstr "ZYX"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Bright Lighting"
+msgstr "Bright Lighting"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "PC Intensity"
+msgstr "PC Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L776 Nectarine"
+msgstr "L776 Nectarine"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Grain Size"
+msgstr "Grain Size"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Destination"
+msgstr "Destination"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Scale Screen"
+msgstr "Scale Screen"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "1 GB"
+msgstr "1 GB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "2 GB"
+msgstr "2 GB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "4 GB"
+msgstr "4 GB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "32nd"
+msgstr "32nd"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "6 GB"
+msgstr "6 GB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "64th"
+msgstr "64th"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "8 GB"
+msgstr "8 GB"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "TV In Space"
+msgstr "TV In Space"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Centered Square"
+msgstr "Centered Square"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "CMYK"
+msgstr "CMYK"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Aqua"
+msgstr "Aqua"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Auto"
+msgstr "Auto"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Boat"
+msgstr "Boat"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Both"
+msgstr "Both"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cafe"
+msgstr "Cafe"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cape"
+msgstr "Cape"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cave"
+msgstr "Cave"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Claw"
+msgstr "Claw"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Clay"
+msgstr "Clay"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cold"
+msgstr "Cold"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cool"
+msgstr "Cool"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dark"
+msgstr "Dark"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dawn"
+msgstr "Dawn"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dest"
+msgstr "Dest"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cyan"
+msgstr "Cyan"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Disc"
+msgstr "Disc"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Draw"
+msgstr "Draw"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Edge"
+msgstr "Edge"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dull"
+msgstr "Dull"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dusk"
+msgstr "Dusk"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fade"
+msgstr "Fade"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fall"
+msgstr "Fall"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fire"
+msgstr "Fire"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Flag"
+msgstr "Flag"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Flat"
+msgstr "Flat"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gain"
+msgstr "Gain"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Freq"
+msgstr "Freq"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "From"
+msgstr "From"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Full"
+msgstr "Full"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gels"
+msgstr "Gels"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glam"
+msgstr "Glam"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Floor Color Blue"
+msgstr "Floor Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gobo"
+msgstr "Gobo"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gold"
+msgstr "Gold"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Half"
+msgstr "Half"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Halo"
+msgstr "Halo"
+

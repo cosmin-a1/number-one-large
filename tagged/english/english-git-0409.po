@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Gradient Color1"
+msgstr "Gradient Color1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Gradient Color2"
+msgstr "Gradient Color2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Scatter and Fly out"
+msgstr "Scatter and Fly out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Preview rendered files for the current project file will not be deleted."
+msgstr "Preview rendered files for the current project file will not be deleted."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Enterprise Plan Name"
+msgstr "Enterprise Plan Name"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Are you sure to delete all material?"
+msgstr "Are you sure to delete all material?"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Loading"
+msgstr "Loading"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "QObject-version4"
+msgid "uploading"
+msgstr "uploading"
+
+#: 
+msgctxt "QObject-version4"
+msgid "transcode failed"
+msgstr "transcode failed"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Log Out"
+msgstr "Log Out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "You've chosen the same aspect ratio as the original video. Please select a different aspect ratio."
+msgstr "You've chosen the same aspect ratio as the original video. Please select a different aspect ratio."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Luma Sharp"
+msgstr "Luma Sharp"
+
+#: 
+msgctxt "QObject-version4"
+msgid "5 ~ 30 min"
+msgstr "5 ~ 30 min"
+
+#: 
+msgctxt "QObject-version4"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Blur Center X"
+msgstr "Blur Center X"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Blur Center Y"
+msgstr "Blur Center Y"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Follow the"
+msgstr "Follow the"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Flame Size"
+msgstr "Flame Size"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Flame Type"
+msgstr "Flame Type"
+
+#: 
+msgctxt "QObject-version4"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "QObject-version4"
+msgid "3D LUT"
+msgstr "3D LUT"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Cinema 21:9"
+msgstr "Cinema 21:9"
+
+#: 
+msgctxt "QObject-version4"
+msgid "uSinRadius"
+msgstr "uSinRadius"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Please free up space or adjust the Media Cache settings."
+msgstr "Please free up space or adjust the Media Cache settings."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Submitted successfully."
+msgstr "Submitted successfully."
+
+#: 
+msgctxt "QObject-version4"
+msgid "There is too much text you entered, please enter it in multiple text boxes."
+msgstr "There is too much text you entered, please enter it in multiple text boxes."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Spanish (Panama)"
+msgstr "Spanish (Panama)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+msgctxt "QObject-version4"
+msgid "BBlurIntension"
+msgstr "BBlurIntension"
+
+#: 
+msgctxt "QObject-version4"
+msgid "GBlurIntension"
+msgstr "GBlurIntension"
+
+#: 
+msgctxt "QObject-version4"
+msgid "RBlurIntension"
+msgstr "RBlurIntension"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Properties Panel"
+msgstr "Properties Panel"
+
+#: 
+msgctxt "QObject-version4"
+msgid "You are welcome to try out the English version of the Avatar Presentation plugin."
+msgstr "You are welcome to try out the English version of the Avatar Presentation plugin."
+
+#: 
+msgctxt "QObject-version4"
+msgid "30 ~ 60 min"
+msgstr "30 ~ 60 min"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ultra-clear Screen Recording"
+msgstr "Ultra-clear Screen Recording"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Click to login"
+msgstr "Click to login"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: 
+msgctxt "QObject-version4"
+msgid "About Wondershare ID"
+msgstr "About Wondershare ID"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Zoom in and out"
+msgstr "Zoom in and out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Center Gradually Appears"
+msgstr "Center Gradually Appears"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Making changes in Uniform Speed will override the changes made in Speed Ramping."
+msgstr "Making changes in Uniform Speed will override the changes made in Speed Ramping."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Roll clockwise"
+msgstr "Roll clockwise"
+
+#: 
+msgctxt "QObject-version4"
+msgid ". You can change this app's authority to access your Google Account via"
+msgstr ". You can change this app's authority to access your Google Account via"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Activate Wondershare Filmora X"
+msgstr "Activate Wondershare Filmora X"
+
+#: 
+msgctxt "QObject-version4"
+msgid "GreenScreen"
+msgstr "GreenScreen"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Please make sure the output folder has the read and write permission."
+msgstr "Please make sure the output folder has the read and write permission."
+
+#: 
+msgctxt "QObject-version4"
+msgid "\"&&__&&\" download failed, please try again later!"
+msgstr "\"&&__&&\" download failed, please try again later!"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Select all Keyframes"
+msgstr "Select all Keyframes"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Clear All KeyFrames"
+msgstr "Clear All KeyFrames"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Failed. Please try again."
+msgstr "Failed. Please try again."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Stretch to left"
+msgstr "Stretch to left"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sorry, the item you choose has been taken down by the supplier.You could download other items.Thanks for your comprehension."
+msgstr "Sorry, the item you choose has been taken down by the supplier.You could download other items.Thanks for your comprehension."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Special Offer!"
+msgstr "Special Offer!"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Select All Text in Text Template"
+msgstr "Select All Text in Text Template"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Drag to the timeline to apply"
+msgstr "Drag to the timeline to apply"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Delete Voice"
+msgstr "Delete Voice"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Import with Instant Cutter Tool"
+msgstr "Import with Instant Cutter Tool"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Create Video"
+msgstr "Create Video"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Filmora does not have access to your Camera or Microphone."
+msgstr "Filmora does not have access to your Camera or Microphone."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Trimming the clip now will remove any speed adjustments you made earlier."
+msgstr "Trimming the clip now will remove any speed adjustments you made earlier."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Filmora Facebook"
+msgstr "Filmora Facebook"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Renew 1 quarter at %1 off"
+msgstr "Renew 1 quarter at %1 off"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Change Project Aspect Ratio"
+msgstr "Change Project Aspect Ratio"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Hindi (India)"
+msgstr "Hindi (India)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Network error. Please try again later."
+msgstr "Network error. Please try again later."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Color Drift"
+msgstr "Color Drift"
+
+#: 
+msgctxt "QObject-version4"
+msgid "AI Translate"
+msgstr "AI Translate"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upper Right"
+msgstr "Upper Right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lower Right"
+msgstr "Lower Right"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Get Availabel Time Error"
+msgstr "Get Availabel Time Error"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Open VIP you can enjoy vip feature now!"
+msgstr "Open VIP you can enjoy vip feature now!"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upload failed. Please try again."
+msgstr "Upload failed. Please try again."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+msgstr "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Random Flashing Out"
+msgstr "Random Flashing Out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Online Help"
+msgstr "Online Help"
+
+#: 
+msgctxt "QObject-version4"
+msgid "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+msgstr "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Expand Now."
+msgstr "Expand Now."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Indonesian (Indonesia)"
+msgstr "Indonesian (Indonesia)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Process Ring BG Color"
+msgstr "Process Ring BG Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Downloading AI Drawing image:"
+msgstr "Downloading AI Drawing image:"
+
+#: 
+msgctxt "QObject-version4"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Random Flashing In"
+msgstr "Random Flashing In"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Welcome to try Filmora 13 Beta"
+msgstr "Welcome to try Filmora 13 Beta"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Proxy files currently being used will not be deleted."
+msgstr "Proxy files currently being used will not be deleted."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Don't remind me again"
+msgstr "Don't remind me again"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Black && White 1"
+msgstr "Black && White 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Black && White 2"
+msgstr "Black && White 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Black && White 3"
+msgstr "Black && White 3"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Black && White 4"
+msgstr "Black && White 4"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Black && White 5"
+msgstr "Black && White 5"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Remove Nasolabial Folds"
+msgstr "Remove Nasolabial Folds"
+

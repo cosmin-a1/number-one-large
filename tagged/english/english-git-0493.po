@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Select Voice"
+msgstr "Select Voice"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FPropertyTextToSpeechWidgetClass-version4"
+msgid "Language"
+msgstr "Language"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version4"
+msgid "OFF"
+msgstr "OFF"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version4"
+msgid "Re-subscribe to explore more!"
+msgstr "Re-subscribe to explore more!"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version4"
+msgid "Yearly fee"
+msgstr "Yearly fee"
+
+#: 
+msgctxt "FFDiscountPurchaseComponent-version4"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version4"
+msgid "OFF"
+msgstr "OFF"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version4"
+msgid "month"
+msgstr "month"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version4"
+msgid "ReNew user first order SUPER VALUE Offer"
+msgstr "ReNew user first order SUPER VALUE Offer"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version4"
+msgid "New customers will get a discount on their first purchase and continue to subscribe next month at"
+msgstr "New customers will get a discount on their first purchase and continue to subscribe next month at"
+
+#: 
+msgctxt "FFReNewPurchaseComponent-version4"
+msgid "Monthly fee"
+msgstr "Monthly fee"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Old"
+msgstr "Old"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Calm"
+msgstr "Calm"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Deep"
+msgstr "Deep"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Wise"
+msgstr "Wise"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Adult"
+msgstr "Adult"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Crisp"
+msgstr "Crisp"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Hyped"
+msgstr "Hyped"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Sassy"
+msgstr "Sassy"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Intense"
+msgstr "Intense"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Sweet"
+msgstr "Sweet"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Young"
+msgstr "Young"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Pleasant"
+msgstr "Pleasant"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Classy"
+msgstr "Classy"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Confident"
+msgstr "Confident"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Formal"
+msgstr "Formal"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Mature"
+msgstr "Mature"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Strict"
+msgstr "Strict"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Powerful"
+msgstr "Powerful"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Clear_TTS"
+msgstr "Clear_TTS"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Excited"
+msgstr "Excited"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Childish"
+msgstr "Childish"
+
+#: 
+msgctxt "FFTTSConfigs-version4"
+msgid "Professional"
+msgstr "Professional"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version4"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version4"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version4"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+msgctxt "FFBeatVideoEffectPresenter-version4"
+msgid "Video Wall"
+msgstr "Video Wall"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Owl"
+msgstr "Owl"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Globe"
+msgstr "Globe"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Vintage Typewriter"
+msgstr "Vintage Typewriter"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Strawberry Cream Cake"
+msgstr "Strawberry Cream Cake"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Avocado"
+msgstr "Avocado"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Shining Diamond"
+msgstr "Shining Diamond"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Lively Dolphin"
+msgstr "Lively Dolphin"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Pretty Bow"
+msgstr "Pretty Bow"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Describe the sticker you want to generate"
+msgstr "Describe the sticker you want to generate"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Jack O’Lantern"
+msgstr "Jack O’Lantern"
+
+#: 
+msgctxt "FAIStickerViewDelegate-version4"
+msgid "Describe the sticker you want to generate, e.g., a pretty bow."
+msgstr "Describe the sticker you want to generate, e.g., a pretty bow."
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Blues"
+msgstr "Blues"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Dance"
+msgstr "Dance"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Techno"
+msgstr "Techno"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Low Bass"
+msgstr "Low Bass"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Hard Rock"
+msgstr "Hard Rock"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Sparkle"
+msgstr "Sparkle"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Country"
+msgstr "Country"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Acoustic"
+msgstr "Acoustic"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FPropertyAudioEqualizerPresenter-version4"
+msgid "Rock'n'Roll"
+msgstr "Rock'n'Roll"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "TAG"
+msgstr "TAG"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "SIZE"
+msgstr "SIZE"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "TYPE"
+msgstr "TYPE"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "USED"
+msgstr "USED"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "IN POINT"
+msgstr "IN POINT"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "FRAME RATE"
+msgstr "FRAME RATE"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "RESOLUTION"
+msgstr "RESOLUTION"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "OUT POINT"
+msgstr "OUT POINT"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "MEDIA CREATED"
+msgstr "MEDIA CREATED"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "DATE IMPORTED"
+msgstr "DATE IMPORTED"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "DURATION"
+msgstr "DURATION"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "View More"
+msgstr "View More"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "UPDATED TIME"
+msgstr "UPDATED TIME"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "DATE CREATED"
+msgstr "DATE CREATED"
+
+#: 
+msgctxt "FFMediaItemModel-version4"
+msgid "AUDIO INFO"
+msgstr "AUDIO INFO"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "SRT"
+msgstr "SRT"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Select the file to be converted: "
+msgstr "Select the file to be converted: "
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Clip selection"
+msgstr "Clip selection"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+msgstr "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Language of the audio to be transcribed:"
+msgstr "Language of the audio to be transcribed:"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Language to be translated to:"
+msgstr "Language to be translated to:"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+msgctxt "FFSpeechToTextParamPanel-version4"
+msgid "Choosing a language for translation will generate two files——transcript and translated files."
+msgstr "Choosing a language for translation will generate two files——transcript and translated files."
+

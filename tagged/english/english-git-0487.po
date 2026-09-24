@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFEnterAdvancedEditLicenseDlg-version4"
+msgid "Don't miss this chance to learn about how designers create stories.You can customize templates with advanced features and effects in timeline mode."
+msgstr "Don't miss this chance to learn about how designers create stories.You can customize templates with advanced features and effects in timeline mode."
+
+#: 
+msgctxt "FFEnterAdvancedEditLicenseDlg-version4"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+msgctxt "FFEnterAdvancedEditLicenseDlg-version4"
+msgid "Save current project(caution: you will not be able to open it again in instant mode switching to to timeline mode)"
+msgstr "Save current project(caution: you will not be able to open it again in instant mode switching to to timeline mode)"
+
+#: 
+msgctxt "FFEnterAdvancedEditLicenseDlg-version4"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: 
+msgctxt "FFEnterAdvancedEditLicenseDlg-version4"
+msgid "Customize saved location:"
+msgstr "Customize saved location:"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Unable to locate file. Click 'RELOCATE' to try importing the file again, or 'IGNORE' to abort this operation."
+msgstr "Unable to locate file. Click 'RELOCATE' to try importing the file again, or 'IGNORE' to abort this operation."
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Unable to locate file. Click 'RELOCATE' to try importing the file again, 'DELETE' to delete it, or 'IGNORE' to abort this operation."
+msgstr "Unable to locate file. Click 'RELOCATE' to try importing the file again, 'DELETE' to delete it, or 'IGNORE' to abort this operation."
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Import Failed"
+msgstr "Import Failed"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "DELETE"
+msgstr "DELETE"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "IGNORE"
+msgstr "IGNORE"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "After the audio and video are synced, the audio and video will be added to the timeline simultaneously. Do you want to mute the original audio within the video file automatically?"
+msgstr "After the audio and video are synced, the audio and video will be added to the timeline simultaneously. Do you want to mute the original audio within the video file automatically?"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Relink"
+msgstr "Relink"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Incompatible File"
+msgstr "Incompatible File"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "The specified proxy file storage location does not have enough space. Please select another location.\n"
+"Disc Space needed: %1 MB, remaining: %2 MB."
+msgstr "The specified proxy file storage location does not have enough space. Please select another location.\n"
+"Disc Space needed: %1 MB, remaining: %2 MB."
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "RELOCATE"
+msgstr "RELOCATE"
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "The selected file's duration is different from the clip you used in project and may cause issues, please reselect another file with the same duration."
+msgstr "The selected file's duration is different from the clip you used in project and may cause issues, please reselect another file with the same duration."
+
+#: 
+msgctxt "FFMediaItemManagerPresenter-version4"
+msgid "The selected clips cannot be synchronized, please select file with a length range of more than 1 second and less than 1 hour."
+msgstr "The selected clips cannot be synchronized, please select file with a length range of more than 1 second and less than 1 hour."
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "Yes. Quit."
+msgstr "Yes. Quit."
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "Quit AI Video Generation"
+msgstr "Quit AI Video Generation"
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "The video is being generated…"
+msgstr "The video is being generated…"
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "Are you sure you wish to cancel generating the video?"
+msgstr "Are you sure you wish to cancel generating the video?"
+
+#: 
+msgctxt "FFTextToVideoProgressDlg-version4"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Install"
+msgstr "Install"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Checking the version."
+msgstr "Checking the version."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "If you don't update, you will no longer be able to continue using Filmora."
+msgstr "If you don't update, you will no longer be able to continue using Filmora."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Your current version is the latest version!"
+msgstr "Your current version is the latest version!"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Installation failed"
+msgstr "Installation failed"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "An unexpected error has interrupted the installation process. Please try to update again."
+msgstr "An unexpected error has interrupted the installation process. Please try to update again."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "If you don't install, you will no longer be able to use Filmora."
+msgstr "If you don't install, you will no longer be able to use Filmora."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Upgrade completed. Click Yes to restart the new version immediately. Click Cancel to start the next time."
+msgstr "Upgrade completed. Click Yes to restart the new version immediately. Click Cancel to start the next time."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Free Update"
+msgstr "Free Update"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Install Filmora"
+msgstr "Install Filmora"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Download completed. Please click Install to install the new version."
+msgstr "Download completed. Please click Install to install the new version."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Filmora is being updated, the process will be interrupted if you close the window. Do you want to exit?"
+msgstr "Filmora is being updated, the process will be interrupted if you close the window. Do you want to exit?"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "The installation package appears to be corrupted. Please attempt to download the update once more."
+msgstr "The installation package appears to be corrupted. Please attempt to download the update once more."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Download completed. Click Yes to install new version. Click Cancel to close Filmora."
+msgstr "Download completed. Click Yes to install new version. Click Cancel to close Filmora."
+
+#: 
+msgctxt "FFUpgradeModule-version4"
+msgid "Failed to check update!"
+msgstr "Failed to check update!"
+
+#: 
+msgctxt "FFilmStockServiceDialog-version4"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FFilmStockServiceDialog-version4"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "FFilmStockServiceDialog-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FFilmStockServiceDialog-version4"
+msgid "Your effects are downloading,want stop and quit now?"
+msgstr "Your effects are downloading,want stop and quit now?"
+
+#: 
+msgctxt "FFilmStockServiceDialog-version4"
+msgid "Filmora Effects Store"
+msgstr "Filmora Effects Store"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "ADVANCED"
+msgstr "ADVANCED"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Keyframe Panel"
+msgstr "Keyframe Panel"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Project Info"
+msgstr "Project Info"
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "The current screen resolution is too low to display the Keyframe Panel. You can switch the Filmora interface to Classic mode to use it."
+msgstr "The current screen resolution is too low to display the Keyframe Panel. You can switch the Filmora interface to Classic mode to use it."
+
+#: 
+msgctxt "FPropertyView-version4"
+msgid "Timeline Info"
+msgstr "Timeline Info"
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "If you have made any purchase, please log in to activate the authorization."
+msgstr "If you have made any purchase, please log in to activate the authorization."
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+msgctxt "FPurchaseDialog-version4"
+msgid "If you have purchased Filmora X, you can now export without a watermark!"
+msgstr "If you have purchased Filmora X, you can now export without a watermark!"
+
+#: 
+msgctxt "FTextToVideoVoiceRenameDlg-version4"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "FTextToVideoVoiceRenameDlg-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTextToVideoVoiceRenameDlg-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVCGMediaFilterDialog-version4"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "FVCGMediaFilterDialog-version4"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFAudioAdjusterCtrl-version4"
+msgid "dB"
+msgstr "dB"
+
+#: 
+msgctxt "FFMasterAudioAdjustCtrl-version4"
+msgid "dB"
+msgstr "dB"
+
+#: 
+msgctxt "FFMasterAudioAdjustCtrl-version4"
+msgid "Master"
+msgstr "Master"
+
+#: 
+msgctxt "FFTimeView-version4"
+msgid "hr"
+msgstr "hr"
+
+#: 
+msgctxt "FFTimeView-version4"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "FFTimeView-version4"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FCommonInfoPageManager-version4"
+msgid "on"
+msgstr "on"
+
+#: 
+msgctxt "FCommonInfoPageManager-version4"
+msgid "Shot by"
+msgstr "Shot by"
+
+#: 
+msgctxt "FCommonInfoPageManager-version4"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+msgctxt "FCommonInfoPageManager-version4"
+msgid "Photo by"
+msgstr "Photo by"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "or"
+msgstr "or"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Didn't find the right music? I want to %1 or try %2!"
+msgstr "Didn't find the right music? I want to %1 or try %2!"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Didn't find the right Stickers?"
+msgstr "Didn't find the right Stickers?"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Didn't find the right music?"
+msgstr "Didn't find the right music?"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "AI Sticker"
+msgstr "AI Sticker"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Make a suggestion"
+msgstr "Make a suggestion"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "I want to"
+msgstr "I want to"
+
+#: 
+msgctxt "FDemandToast-version4"
+msgid "Can't find the resources you want?"
+msgstr "Can't find the resources you want?"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version4"
+msgid "or"
+msgstr "or"
+

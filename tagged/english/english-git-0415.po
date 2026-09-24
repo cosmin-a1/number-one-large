@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version4"
+msgid "the file is not VideoAudio or Audio"
+msgstr "the file is not VideoAudio or Audio"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Hebrew (Israel)"
+msgstr "Hebrew (Israel)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Import Mask"
+msgstr "Import Mask"
+
+#: 
+msgctxt "QObject-version4"
+msgid "You are temporarily unable to continue downloading new songs. The download limit for songs will be reset tomorrow. For now, you can continue to listen or collect your favorite music."
+msgstr "You are temporarily unable to continue downloading new songs. The download limit for songs will be reset tomorrow. For now, you can continue to listen or collect your favorite music."
+
+#: 
+msgctxt "QObject-version4"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Chinese (Mandarin)"
+msgstr "Chinese (Mandarin)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Start My Free Trial"
+msgstr "Start My Free Trial"
+
+#: 
+msgctxt "QObject-version4"
+msgid "BG Color"
+msgstr "BG Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Previous Second"
+msgstr "Previous Second"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Urdu (India)"
+msgstr "Urdu (India)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ring Color"
+msgstr "Ring Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Special Effects Text"
+msgstr "Special Effects Text"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "QObject-version4"
+msgid "B&&W Noise"
+msgstr "B&&W Noise"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upload to YouTube"
+msgstr "Upload to YouTube"
+
+#: 
+msgctxt "QObject-version4"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "VCG Media"
+msgstr "VCG Media"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Complete Your Wondershare ID Now!"
+msgstr "Complete Your Wondershare ID Now!"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Show Track"
+msgstr "Show Track"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Microphone"
+msgstr "Microphone"
+
+#: 
+msgctxt "QObject-version4"
+msgid "AI Music Generator"
+msgstr "AI Music Generator"
+
+#: 
+msgctxt "QObject-version4"
+msgid "About..."
+msgstr "About..."
+
+#: 
+msgctxt "QObject-version4"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Quickly create popular intros"
+msgstr "Quickly create popular intros"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Failed to record. Ensure your recording matches the script, and record again."
+msgstr "Failed to record. Ensure your recording matches the script, and record again."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Spanish (Uruguay)"
+msgstr "Spanish (Uruguay)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Blur Intensity"
+msgstr "Blur Intensity"
+
+#: 
+msgctxt "QObject-version4"
+msgid "To the Right 1"
+msgstr "To the Right 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "To the Right 2"
+msgstr "To the Right 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Clockwise rotate to zoom in 1"
+msgstr "Clockwise rotate to zoom in 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Clockwise rotate to zoom in 2"
+msgstr "Clockwise rotate to zoom in 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Narration"
+msgstr "Narration"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fly in and Fly out"
+msgstr "Fly in and Fly out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Add Animation"
+msgstr "Add Animation"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upload failed. Network connection problems."
+msgstr "Upload failed. Network connection problems."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Left Dir Insert"
+msgstr "Left Dir Insert"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Clip is too short to add animation."
+msgstr "Clip is too short to add animation."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Network failed, please retry"
+msgstr "Network failed, please retry"
+
+#: 
+msgctxt "QObject-version4"
+msgid "ADVANCED"
+msgstr "ADVANCED"
+
+#: 
+msgctxt "QObject-version4"
+msgid "network error"
+msgstr "network error"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Vortex In"
+msgstr "Vortex In"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Try Free"
+msgstr "Try Free"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Quick Split Mode"
+msgstr "Quick Split Mode"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Shrink and Pop Away"
+msgstr "Shrink and Pop Away"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Stretch in and zoom in 1"
+msgstr "Stretch in and zoom in 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Stretch in and zoom in 2"
+msgstr "Stretch in and zoom in 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Upper-left Flip Appears"
+msgstr "Upper-left Flip Appears"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Segment"
+msgstr "Segment"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+msgctxt "QObject-version4"
+msgid "It is detected that importing large files may cause lag."
+msgstr "It is detected that importing large files may cause lag."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Turkish (Turkey)"
+msgstr "Turkish (Turkey)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Only 1 hour file can be transcribed in a single task."
+msgstr "Only 1 hour file can be transcribed in a single task."
+
+#: 
+msgctxt "QObject-version4"
+msgid "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+msgstr "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Only VIP can use this resource"
+msgstr "Only VIP can use this resource"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Block Size"
+msgstr "Block Size"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Previous Marker"
+msgstr "Previous Marker"
+
+#: 
+msgctxt "QObject-version4"
+msgid "glow_intensity"
+msgstr "glow_intensity"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Shine B"
+msgstr "Shine B"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Chinese"
+msgstr "Chinese"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Download MobileMiaoYing"
+msgstr "Download MobileMiaoYing"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Selected Clip End"
+msgstr "Selected Clip End"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Open External Canthus"
+msgstr "Open External Canthus"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Are you sure you want to delete the selected folder"
+msgstr "Are you sure you want to delete the selected folder"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lens Flare 1"
+msgstr "Lens Flare 1"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lens Flare 2"
+msgstr "Lens Flare 2"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lens Flare 3"
+msgstr "Lens Flare 3"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lens Flare 4"
+msgstr "Lens Flare 4"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Lens Flare 5"
+msgstr "Lens Flare 5"
+
+#: 
+msgctxt "QObject-version4"
+msgid "MaskRatio"
+msgstr "MaskRatio"
+
+#: 
+msgctxt "QObject-version4"
+msgid "isUpdateColor"
+msgstr "isUpdateColor"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Switching mouse status"
+msgstr "Switching mouse status"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Recording failed. Microphone connection error."
+msgstr "Recording failed. Microphone connection error."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fade Zoom Out"
+msgstr "Fade Zoom Out"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Length Philtrum"
+msgstr "Length Philtrum"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Fluctuation Period"
+msgstr "Fluctuation Period"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Eclosion"
+msgstr "Eclosion"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Malay (Malaysia)"
+msgstr "Malay (Malaysia)"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Box Color"
+msgstr "Box Color"
+
+#: 
+msgctxt "QObject-version4"
+msgid "privacy policies"
+msgstr "privacy policies"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Select All Forward/Backward"
+msgstr "Select All Forward/Backward"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Mix Ratio"
+msgstr "Mix Ratio"
+
+#: 
+msgctxt "QObject-version4"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for downloaded files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for downloaded files."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Install computer audio driver successful! Restart your computer to continue."
+msgstr "Install computer audio driver successful! Restart your computer to continue."
+
+#: 
+msgctxt "QObject-version4"
+msgid "Select All Backward"
+msgstr "Select All Backward"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgctxt "QObject-version4"
+msgid "List View"
+msgstr "List View"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Sparkle"
+msgstr "Sparkle"
+
+#: 
+msgctxt "QObject-version4"
+msgid "Country"
+msgstr "Country"
+

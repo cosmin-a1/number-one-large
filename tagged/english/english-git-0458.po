@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "5 Seconds"
+msgstr "5 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "15 Seconds"
+msgstr "15 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "10 Seconds"
+msgstr "10 Seconds"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glow Highlights"
+msgstr "Glow Highlights"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Position XY - IP X"
+msgstr "Position XY - IP X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Position XY - IP Y"
+msgstr "Position XY - IP Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Offset X 1"
+msgstr "Offset X 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Offset X 2"
+msgstr "Offset X 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Offset Y 1"
+msgstr "Offset Y 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Offset Y 2"
+msgstr "Offset Y 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Position XY - SP X"
+msgstr "Position XY - SP X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Position XY - SP Y"
+msgstr "Position XY - SP Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Impressionist"
+msgstr "Impressionist"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Layer B Rotation X"
+msgstr "Layer B Rotation X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Layer B Rotation Y"
+msgstr "Layer B Rotation Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Layer B Rotation Z"
+msgstr "Layer B Rotation Z"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Position XY - LT X"
+msgstr "Position XY - LT X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Position XY - LT Y"
+msgstr "Position XY - LT Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Layer Map Threshold"
+msgstr "Layer Map Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "View Opacity Ease Curve"
+msgstr "View Opacity Ease Curve"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Turbulence"
+msgstr "Turbulence"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Modified Palette"
+msgstr "Modified Palette"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ceramic"
+msgstr "Ceramic"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Curvature"
+msgstr "Curvature"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Searchlight"
+msgstr "Searchlight"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Buttery"
+msgstr "Buttery"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Interference"
+msgstr "Interference"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Combustion"
+msgstr "Combustion"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Highlight Intensity"
+msgstr "Highlight Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sub Scaling"
+msgstr "Sub Scaling"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start position X"
+msgstr "Start position X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start position Y"
+msgstr "Start position Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Red Choke 1"
+msgstr "Red Choke 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Red Choke 2"
+msgstr "Red Choke 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L079 Just Blue"
+msgstr "L079 Just Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Black Halo"
+msgstr "Black Halo"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Black Hole"
+msgstr "Black Hole"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Block Seed"
+msgstr "Block Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Block Skin"
+msgstr "Block Skin"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Block Size"
+msgstr "Block Size"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Block Wall"
+msgstr "Block Wall"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Clock Wipe"
+msgstr "Clock Wipe"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glow from Alpha"
+msgstr "Glow from Alpha"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mask Center X"
+msgstr "Mask Center X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mask Center Y"
+msgstr "Mask Center Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue Post Blur"
+msgstr "Blue Post Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Back Face"
+msgstr "Back Face"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Air Brushed"
+msgstr "Air Brushed"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Lock Bias"
+msgstr "Lock Bias"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Lock Blur"
+msgstr "Lock Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mask Size"
+msgstr "Mask Size"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pick Tint"
+msgstr "Pick Tint"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "2.35 Panavision/Cinescope"
+msgstr "2.35 Panavision/Cinescope"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pick tint"
+msgstr "Pick tint"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shift Peak Position"
+msgstr "Shift Peak Position"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cartoon Matte"
+msgstr "Cartoon Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shimmer Seed"
+msgstr "Shimmer Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Intensity Random"
+msgstr "Intensity Random"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 6 Settings"
+msgstr "Point 6 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 7 Settings"
+msgstr "Point 7 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Central Radius"
+msgstr "Central Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 8 Settings"
+msgstr "Point 8 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 9 Settings"
+msgstr "Point 9 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 2 Settings"
+msgstr "Point 2 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 3 Settings"
+msgstr "Point 3 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 4 Settings"
+msgstr "Point 4 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 5 Settings"
+msgstr "Point 5 Settings"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Num Cards X"
+msgstr "Num Cards X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Num Cards Y"
+msgstr "Num Cards Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Num Cards Z"
+msgstr "Num Cards Z"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shake Peak Position"
+msgstr "Shake Peak Position"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ripple Scale X"
+msgstr "Ripple Scale X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ripple Scale Y"
+msgstr "Ripple Scale Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L343 Special Medium Lavender"
+msgstr "L343 Special Medium Lavender"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Extended Bloom"
+msgstr "Extended Bloom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shading"
+msgstr "Shading"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shadows"
+msgstr "Shadows"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shake X"
+msgstr "Shake X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shake Y"
+msgstr "Shake Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mechanize"
+msgstr "Mechanize"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC Particle Illusion"
+msgstr "BCC Particle Illusion"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Z Channel"
+msgstr "Z Channel"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Channel"
+msgstr "Channel"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sharper"
+msgstr "Sharper"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sharpen"
+msgstr "Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L354 Special Steel Blue"
+msgstr "L354 Special Steel Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shuffled Parts"
+msgstr "Shuffled Parts"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Multi Flashes"
+msgstr "Multi Flashes"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shear X"
+msgstr "Shear X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shear Y"
+msgstr "Shear Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Preview Area"
+msgstr "Preview Area"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glow Intensity"
+msgstr "Glow Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sampling Bot-Right X"
+msgstr "Sampling Bot-Right X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sampling Bot-Right Y"
+msgstr "Sampling Bot-Right Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Preview Mode"
+msgstr "Preview Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shift X"
+msgstr "Shift X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shift Y"
+msgstr "Shift Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shift Z"
+msgstr "Shift Z"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Draw Trigger Edge Area"
+msgstr "Draw Trigger Edge Area"
+

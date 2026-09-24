@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTimelineAddMarkerActionPresenter-version3"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+msgctxt "FNewFollowUsWidget-version3"
+msgid "Follow us for more tutorials."
+msgstr "Follow us for more tutorials."
+
+#: 
+msgctxt "IFFScrollTipPainter-version3"
+msgid "Scroll to continue to the next category"
+msgstr "Scroll to continue to the next category"
+
+#: 
+msgctxt "IFFScrollTipPainter-version3"
+msgid "No more result"
+msgstr "No more result"
+
+#: 
+msgctxt "FFVoiceStackedWidget-version3"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+msgctxt "FFVoiceStackedWidget-version3"
+msgid "Sorry about the failure, please check the network and click Refresh to try again"
+msgstr "Sorry about the failure, please check the network and click Refresh to try again"
+
+#: 
+msgctxt "FTTSLoadingVoiceComponent-version3"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+msgctxt "FFilterNewModeBar-version3"
+msgid "Search my favorite filters"
+msgstr "Search my favorite filters"
+
+#: 
+msgctxt "FFilterNewModeBar-version3"
+msgid "Search downloaded filters"
+msgstr "Search downloaded filters"
+
+#: 
+msgctxt "FFilterNewModeBar-version3"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+msgctxt "FMigrationDialog-version3"
+msgid "File migration success"
+msgstr "File migration success"
+
+#: 
+msgctxt "FMigrationDialog-version3"
+msgid "Files are being transferred to a new storage location..."
+msgstr "Files are being transferred to a new storage location..."
+
+#: 
+msgctxt "FMigrationDialog-version3"
+msgid "Tips: Please do not close during the process"
+msgstr "Tips: Please do not close during the process"
+
+#: 
+msgctxt "FMigrationDialog-version3"
+msgid "New Location:"
+msgstr "New Location:"
+
+#: 
+msgctxt "FPropertyDirectionBlurEffectWidget-version3"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version3"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version3"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version3"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version3"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version3"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+msgctxt "FSearchEvaluateFeedbackDialog-version3"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+msgctxt "FPropertyCloudResListViewPrivate-version3"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FFAITranslateParamDialog-version3"
+msgid "AI Translation——Translate voice and text"
+msgstr "AI Translation——Translate voice and text"
+
+#: 
+msgctxt "FFAITranslateParamDialog-version3"
+msgid "Effortlessly translate audio and text within videos into a variety of global languages!"
+msgstr "Effortlessly translate audio and text within videos into a variety of global languages!"
+
+#: 
+msgctxt "FStoryboardPanel-version3"
+msgid "Drag or add 5-50 media to the storyboard"
+msgstr "Drag or add 5-50 media to the storyboard"
+
+#: 
+msgctxt "FStoryboardPanel-version3"
+msgid "Add all media clips to the storyboard"
+msgstr "Add all media clips to the storyboard"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version3"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version3"
+msgid "Overlap"
+msgstr "Overlap"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version3"
+msgid "Include Trimed Fames"
+msgstr "Include Trimed Fames"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version3"
+msgid "Postfix"
+msgstr "Postfix"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version3"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyTransitionsBasicWidget-version3"
+msgid "Transition Mode"
+msgstr "Transition Mode"
+
+#: 
+msgctxt "FPropertyCustomPresetControl-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyCustomPresetControl-version3"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+msgctxt "FPropertyListViewWidget-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyListViewWidget-version3"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyProjectCoverPresetControl-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyProjectCoverPresetControl-version3"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+msgctxt "FPropertyTextPresetControl-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FSavePresetNamePanel-version3"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FSavePresetNamePanel-version3"
+msgid "Preset Name"
+msgstr "Preset Name"
+
+#: 
+msgctxt "FGraphicsTrackPainter-version3"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+msgctxt "FTimelineEmptyWidget-version3"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+msgctxt "FPresetTextWidget-version3"
+msgid "Press the button, then clearly read out the following script"
+msgstr "Press the button, then clearly read out the following script"
+
+#: 
+msgctxt "FImportProjectDialog-version3"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+msgctxt "FImportProjectDialog-version3"
+msgid "Please try again later."
+msgstr "Please try again later."
+
+#: 
+msgctxt "FCurvedSpeedPresetMenu-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FLabelEditor-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FTimelineClipRenameActionPresenter-version3"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVoiceCloneMainDialog-version3"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FFUpgradeGuideDialog-version3"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+msgctxt "FilmoraTitleBarPresenter-version3"
+msgid "Saved!"
+msgstr "Saved!"
+
+#: 
+msgctxt "FilmoraTitleBarPresenter-version3"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version3"
+msgid "Scale:"
+msgstr "Scale:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version3"
+msgid "Opacity:"
+msgstr "Opacity:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version3"
+msgid "Rotate:"
+msgstr "Rotate:"
+
+#: 
+msgctxt "FTemplatePropertyStickerPanel-version3"
+msgid "Position:"
+msgstr "Position:"
+
+#: 
+msgctxt "FMediaPageTitleBar-version3"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version3"
+msgid "Secure"
+msgstr "Secure"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version3"
+msgid "Money-Back Guarantee"
+msgstr "Money-Back Guarantee"
+
+#: 
+msgctxt "FInAppBuyPageDialog-version3"
+msgid "Support Service"
+msgstr "Support Service"
+
+#: 
+msgctxt "FFMediaItemManagerPresenterPrivate-version3"
+msgid "Are you sure you want to delete the selected item?"
+msgstr "Are you sure you want to delete the selected item?"
+
+#: 
+msgctxt "FFMediaItemManagerPresenterPrivate-version3"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version3"
+msgid "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+msgstr "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version3"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version3"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version3"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FAutoCreateErrorPromptWidget-version3"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+msgctxt "FFAudioMixerSoundCtrl-version3"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FFAudioMixerSoundCtrl-version3"
+msgid "Surround"
+msgstr "Surround"
+
+#: 
+msgctxt "FFeedbackDialog-version3"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FFeedbackDialog-version3"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "FFeedbackDialog-version3"
+msgid "Could you please specify which aspects of the feature you are not satisfied with?"
+msgstr "Could you please specify which aspects of the feature you are not satisfied with?"
+
+#: 
+msgctxt "FFeedbackDialog-version3"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+msgctxt "FShortcutSwitchButton-version3"
+msgid "Switch"
+msgstr "Switch"
+
+#: 
+msgctxt "FFCloudDiskTask-version3"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraApp-version3"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FilmoraApp-version3"
+msgid "File Name:"
+msgstr "File Name:"
+
+#: 
+msgctxt "FPropertyCustomMaskManager-version3"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyCustomMaskManager-version3"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FTrimControl-version3"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+msgctxt "FTrimControl-version3"
+msgid "Current:"
+msgstr "Current:"
+
+#: 
+msgctxt "FAudioVolumeToolTip-version3"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+msgctxt "FPropertySplitWidget-version3"
+msgid "Split Screen Animation"
+msgstr "Split Screen Animation"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version3"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version3"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version3"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version3"
+msgid "AI Text-to-Video"
+msgstr "AI Text-to-Video"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version3"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFPurchasePreviewCreditsWidget-version3"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FRenewalInAdvanceBtn-version3"
+msgid "Renew your Filmora Plan"
+msgstr "Renew your Filmora Plan"
+
+#: 
+msgctxt "FThemeMediaRollWidget-version3"
+msgid "FThemeMediaRollWidget"
+msgstr "FThemeMediaRollWidget"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "Start Time:"
+msgstr "Start Time:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "End Time:"
+msgstr "End Time:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "Removing objects (Task %1)"
+msgstr "Removing objects (Task %1)"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "Audio Transitions"
+msgstr "Audio Transitions"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FGraphicsToolTipService-version3"
+msgid "Constant Gain"
+msgstr "Constant Gain"
+
+#: 
+msgctxt "FAIGCBasePresenter-version3"
+msgid "Download failed. Please try again."
+msgstr "Download failed. Please try again."
+

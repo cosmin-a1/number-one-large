@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Edge Bloom"
+msgstr "Edge Bloom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue Color"
+msgstr "Blue Color"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Edge Color"
+msgstr "Edge Color"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue Noise"
+msgstr "Blue Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Light Target 1"
+msgstr "Light Target 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Light Target 2"
+msgstr "Light Target 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Light Target 3"
+msgstr "Light Target 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Size Noise"
+msgstr "Size Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start Width 1"
+msgstr "Start Width 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start Width 2"
+msgstr "Start Width 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start Width 3"
+msgstr "Start Width 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Burnt Peephole"
+msgstr "Burnt Peephole"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Light Intensity"
+msgstr "Light Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Angle Tracks Center"
+msgstr "Angle Tracks Center"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Use Matte"
+msgstr "Use Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Disable Animation"
+msgstr "Disable Animation"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC Broadcast Safe"
+msgstr "BCC Broadcast Safe"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC Rain"
+msgstr "BCC Rain"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC Snow"
+msgstr "BCC Snow"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fire Light"
+msgstr "Fire Light"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Edge Layer"
+msgstr "Edge Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Line Matte"
+msgstr "Line Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Time Limit"
+msgstr "Time Limit"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Wipe Progress (Size)"
+msgstr "Wipe Progress (Size)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Wave Width"
+msgstr "Wave Width"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Tile Width"
+msgstr "Tile Width"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Line Width"
+msgstr "Line Width"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Wipe Progress"
+msgstr "Wipe Progress"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cone Width"
+msgstr "Cone Width"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "15 Sides"
+msgstr "15 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "5 Sides"
+msgstr "5 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Spot Light 1"
+msgstr "Spot Light 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Spot Light 2"
+msgstr "Spot Light 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Spot Light 3"
+msgstr "Spot Light 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ambient Follow"
+msgstr "Ambient Follow"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Time Scale"
+msgstr "Time Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "EndPoint 1"
+msgstr "EndPoint 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "EndPoint 2"
+msgstr "EndPoint 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Blue Range"
+msgstr "Blue Range"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Core Scale"
+msgstr "Core Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fade Start"
+msgstr "Fade Start"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Line Style"
+msgstr "Line Style"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC+Glow"
+msgstr "BCC+Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point X"
+msgstr "Point X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point Y"
+msgstr "Point Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 1"
+msgstr "Point 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 2"
+msgstr "Point 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 3"
+msgstr "Point 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 4"
+msgstr "Point 4"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 5"
+msgstr "Point 5"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 6"
+msgstr "Point 6"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 7"
+msgstr "Point 7"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 8"
+msgstr "Point 8"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Point 9"
+msgstr "Point 9"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Enhanced Blue Sky"
+msgstr "Enhanced Blue Sky"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "BCC+Rays"
+msgstr "BCC+Rays"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Green Sharpen"
+msgstr "Green Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Polygon"
+msgstr "Polygon"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Bad Smog"
+msgstr "Bad Smog"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Diagonal Ripples"
+msgstr "Diagonal Ripples"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Halovision Plus"
+msgstr "Halovision Plus"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shape - Oval"
+msgstr "Shape - Oval"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Scale - Gang"
+msgstr "Scale - Gang"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Transform - Pins"
+msgstr "Transform - Pins"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cropped In"
+msgstr "Cropped In"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "FG Brightness"
+msgstr "FG Brightness"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Emitter Offset X"
+msgstr "Emitter Offset X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Emitter Offset Y"
+msgstr "Emitter Offset Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitter Offset X"
+msgstr "Glitter Offset X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitter Offset Y"
+msgstr "Glitter Offset Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Outside Glow Color 3 Green"
+msgstr "Outside Glow Color 3 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Apply To"
+msgstr "Apply To"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shape - Egg"
+msgstr "Shape - Egg"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Broadcast Standard"
+msgstr "Broadcast Standard"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Lock to Core Scale"
+msgstr "Lock to Core Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Broadcast Standards"
+msgstr "Broadcast Standards"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Line Apply Mix"
+msgstr "Line Apply Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glowing Edges"
+msgstr "Glowing Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Hue Threshold"
+msgstr "Hue Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Crisp the Lows"
+msgstr "Crisp the Lows"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Green Choke 1"
+msgstr "Green Choke 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Green Choke 2"
+msgstr "Green Choke 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glare Ray Color Green"
+msgstr "Glare Ray Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Flicker Minimum Intensity"
+msgstr "Flicker Minimum Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Velocity Limit"
+msgstr "Velocity Limit"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "PreBlur"
+msgstr "PreBlur"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L113 Magenta"
+msgstr "L113 Magenta"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Presets"
+msgstr "Presets"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "PARTICLES"
+msgstr "PARTICLES"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L2 Color Red"
+msgstr "L2 Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Stabilize"
+msgstr "Stabilize"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L3 Color Red"
+msgstr "L3 Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Color 1 Blue"
+msgstr "Color 1 Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shadow Sharpen"
+msgstr "Shadow Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Process"
+msgstr "Process"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L1 Color Red"
+msgstr "L1 Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Place Mat"
+msgstr "Place Mat"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Build Up to Max"
+msgstr "Build Up to Max"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L174 Dark Steel Blue"
+msgstr "L174 Dark Steel Blue"
+

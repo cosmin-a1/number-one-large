@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTimelineSharedClipPresenterPrivate-version4"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FTimelineSharedClipPresenterPrivate-version4"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFFunctionTipWidget-version4"
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgctxt "FFFunctionTipWidget-version4"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgctxt "FFFunctionTipWidget-version4"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFFunctionTipWidget-version4"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version4"
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version4"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version4"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version4"
+msgid "Save thumbnail as template"
+msgstr "Save thumbnail as template"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version4"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version4"
+msgid "Copy right to left"
+msgstr "Copy right to left"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version4"
+msgid "Copy left to right"
+msgstr "Copy left to right"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version4"
+msgid "Flip left-right"
+msgstr "Flip left-right"
+
+#: 
+msgctxt "FPropertyColorBasicPresetWidget-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version4"
+msgid "Click Start Tracking"
+msgstr "Click Start Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version4"
+msgid "Add a mosaic"
+msgstr "Add a mosaic"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version4"
+msgid "Import from computer."
+msgstr "Import from computer."
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version4"
+msgid "Hide Target Box"
+msgstr "Hide Target Box"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version4"
+msgid "Show Target Box"
+msgstr "Show Target Box"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Zoom Away"
+msgstr "Zoom Away"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Twisty Ribbons"
+msgstr "Twisty Ribbons"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down and Rotate X"
+msgstr "3D Fly Down and Rotate X"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down and Rotate Y"
+msgstr "3D Fly Down and Rotate Y"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down and Rotate Z"
+msgstr "3D Fly Down and Rotate Z"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down and Rotate Random"
+msgstr "3D Fly Down and Rotate Random"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Back Flip"
+msgstr "Back Flip"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down and Rotate Y Random"
+msgstr "3D Fly Down and Rotate Y Random"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Jetstream"
+msgstr "Jetstream"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Somersault"
+msgstr "Somersault"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down 01"
+msgstr "3D Fly Down 01"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "3D Fly Down 02"
+msgstr "3D Fly Down 02"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Character Shuffle In"
+msgstr "Character Shuffle In"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Sequential Jump"
+msgstr "Sequential Jump"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Zoom Away and Rotate Y"
+msgstr "Zoom Away and Rotate Y"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version4"
+msgid "Zoom Away and Rotate Z"
+msgstr "Zoom Away and Rotate Z"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Items Selected"
+msgstr "Items Selected"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Layers Selected"
+msgstr "Layers Selected"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version4"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Instant Mode Projects"
+msgstr "Instant Mode Projects"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Open File Location"
+msgstr "Open File Location"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Click to quickly share files"
+msgstr "Click to quickly share files"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Are you sure to delete the project?"
+msgstr "Are you sure to delete the project?"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Click to manage cloud storage files"
+msgstr "Click to manage cloud storage files"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Local Projects"
+msgstr "Local Projects"
+
+#: 
+msgctxt "FProjectLibraryWidget-version4"
+msgid "Switch to thumbnail mode"
+msgstr "Switch to thumbnail mode"
+
+#: 
+msgctxt "FRecentProjectListItem-version4"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+msgctxt "FRecentProjectListItem-version4"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+msgctxt "FRecentProjectListItem-version4"
+msgid "Are you sure to delete the project?"
+msgstr "Are you sure to delete the project?"
+
+#: 
+msgctxt "FBackupProjectDialog-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FBackupProjectDialog-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FBackupProjectDialog-version4"
+msgid "Project Backups"
+msgstr "Project Backups"
+
+#: 
+msgctxt "FCloudSpaceProjectDataPresenter-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FCloudSpaceProjectDataPresenter-version4"
+msgid "Cannot open project. "
+msgstr "Cannot open project. "
+
+#: 
+msgctxt "FCoverFromLocalView-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FCoverFromLocalView-version4"
+msgid "Choose location"
+msgstr "Choose location"
+
+#: 
+msgctxt "FFTaskItemWidget-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FFTaskItemWidget-version4"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FFTaskItemWidget-version4"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FFTaskItemWidget-version4"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFTaskItemWidget-version4"
+msgid "Delete Progress"
+msgstr "Delete Progress"
+
+#: 
+msgctxt "FFTaskItemWidget-version4"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "download template failed,pleace check your network or proxy server settings."
+msgstr "download template failed,pleace check your network or proxy server settings."
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Save the Project"
+msgstr "Save the Project"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "AI model is being upgraded,please wait…"
+msgstr "AI model is being upgraded,please wait…"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "download template resource..."
+msgstr "download template resource..."
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "(copy)"
+msgstr "(copy)"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Open project"
+msgstr "Open project"
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Failed to save project file. You may choose a new path, fix the write permission or free up some disk space and try again."
+msgstr "Failed to save project file. You may choose a new path, fix the write permission or free up some disk space and try again."
+
+#: 
+msgctxt "FProjectDocProxy-version4"
+msgid "Insufficient local disk space"
+msgstr "Insufficient local disk space"
+

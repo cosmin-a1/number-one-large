@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cutoff"
+msgstr "Cutoff"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cutout"
+msgstr "Cutout"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Wandering"
+msgstr "Wandering"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sampling Top-Left"
+msgstr "Sampling Top-Left"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Time Format"
+msgstr "Time Format"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Golden Dream"
+msgstr "Golden Dream"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Key Color Red"
+msgstr "Key Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cyan 1"
+msgstr "Cyan 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cyan 2"
+msgstr "Cyan 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cyan 3"
+msgstr "Cyan 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cyan 4"
+msgstr "Cyan 4"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cyan 5"
+msgstr "Cyan 5"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cycles"
+msgstr "Cycles"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dimmed"
+msgstr "Dimmed"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ending X"
+msgstr "Ending X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ending Y"
+msgstr "Ending Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Link Images"
+msgstr "Link Images"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Bounce Friction"
+msgstr "Bounce Friction"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Invert Gradient"
+msgstr "Invert Gradient"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L019 Fire"
+msgstr "L019 Fire"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Golden Light"
+msgstr "Golden Light"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "View Ground"
+msgstr "View Ground"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Wave Height"
+msgstr "Wave Height"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Randomize"
+msgstr "Randomize"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Attractor 1 Power"
+msgstr "Attractor 1 Power"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Jack Hammer"
+msgstr "Jack Hammer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dreamy"
+msgstr "Dreamy"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dreary"
+msgstr "Dreary"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Smooth Largest Details"
+msgstr "Smooth Largest Details"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "B&W Ink"
+msgstr "B&W Ink"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Harden Matte"
+msgstr "Harden Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Golden Wheat"
+msgstr "Golden Wheat"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Eighth"
+msgstr "Eighth"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Corner 2 X"
+msgstr "Corner 2 X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Corner 2 Y"
+msgstr "Corner 2 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Corner 1 X"
+msgstr "Corner 1 X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Corner 1 Y"
+msgstr "Corner 1 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Corner Pin"
+msgstr "Corner Pin"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Block Damage Intensity"
+msgstr "Block Damage Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Emboss"
+msgstr "Emboss"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Enable"
+msgstr "Enable"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ending"
+msgstr "Ending"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Enigma"
+msgstr "Enigma"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Custom Midpoint Color Red"
+msgstr "Custom Midpoint Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Facets"
+msgstr "Facets"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Glitter On Alpha Layer Only"
+msgstr "Glitter On Alpha Layer Only"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Mask Center"
+msgstr "Mask Center"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Etched"
+msgstr "Etched"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Lens Center"
+msgstr "Lens Center"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Neutral"
+msgstr "Neutral"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "DVCPRO HD 1080 (1.5)"
+msgstr "DVCPRO HD 1080 (1.5)"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Evolve"
+msgstr "Evolve"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sine Cannon"
+msgstr "Sine Cannon"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "String Seed"
+msgstr "String Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Particles Only"
+msgstr "Particles Only"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Shift FX Layer"
+msgstr "Shift FX Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Filter"
+msgstr "Filter"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ectoplasmic Accents"
+msgstr "Ectoplasmic Accents"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Near Corner"
+msgstr "Near Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Flower"
+msgstr "Flower"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ring Aspect"
+msgstr "Ring Aspect"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Twist : Disperse : Noise : Shift"
+msgstr "Twist : Disperse : Noise : Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Ink Blue"
+msgstr "Ink Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "L143 Pale Navy Blue"
+msgstr "L143 Pale Navy Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pink Haze"
+msgstr "Pink Haze"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Sink Pull"
+msgstr "Sink Pull"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Layered Tiles"
+msgstr "Layered Tiles"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pink Wash"
+msgstr "Pink Wash"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fog On"
+msgstr "Fog On"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Soften Iterations"
+msgstr "Soften Iterations"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Pink Tone"
+msgstr "Pink Tone"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Start Color Source"
+msgstr "Start Color Source"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Forces"
+msgstr "Forces"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Restore Highlights"
+msgstr "Restore Highlights"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Dark Blight"
+msgstr "Dark Blight"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Framed"
+msgstr "Framed"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Frames"
+msgstr "Frames"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Freq X"
+msgstr "Freq X"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Freq Y"
+msgstr "Freq Y"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Freq Z"
+msgstr "Freq Z"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Fright"
+msgstr "Fright"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Frozen"
+msgstr "Frozen"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Floor and Attractors: Draft Only"
+msgstr "Floor and Attractors: Draft Only"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cool Blue 1"
+msgstr "Cool Blue 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cool Blue 2"
+msgstr "Cool Blue 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cool Blue 3"
+msgstr "Cool Blue 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cool Blue 4"
+msgstr "Cool Blue 4"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Cool Blue 5"
+msgstr "Cool Blue 5"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Trigger Edge Distance"
+msgstr "Trigger Edge Distance"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "From Bottom"
+msgstr "From Bottom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gear 1"
+msgstr "Gear 1"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gear 2"
+msgstr "Gear 2"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gear 3"
+msgstr "Gear 3"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Gentle"
+msgstr "Gentle"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Clip Bottom"
+msgstr "Clip Bottom"
+
+#: 
+msgctxt "FFOpenFXTr-version4"
+msgid "Layered Noise"
+msgstr "Layered Noise"
+
