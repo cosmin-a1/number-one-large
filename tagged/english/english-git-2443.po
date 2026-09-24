@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "enter_calendar_name"
+msgstr "enter_calendar_name"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "add_group_desc"
+msgstr "add_group_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "participants_of"
+msgstr "participants_of"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "duplicate"
+msgstr "duplicate"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "on_time_midnight"
+msgstr "on_time_midnight"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_duplicated_item"
+msgstr "you_duplicated_item"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "once_duplicated_you_can"
+msgstr "once_duplicated_you_can"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "reminder_sounds"
+msgstr "reminder_sounds"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "reminder_when"
+msgstr "reminder_when"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "nag"
+msgstr "nag"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "everyNumber"
+msgstr "everyNumber"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "nag_every"
+msgstr "nag_every"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "try_premium"
+msgstr "try_premium"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "then_billed"
+msgstr "then_billed"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "try_for_free"
+msgstr "try_for_free"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "customized_label_colors"
+msgstr "customized_label_colors"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "nag_alerts"
+msgstr "nag_alerts"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "font_customization"
+msgstr "font_customization"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "time_zone_support"
+msgstr "time_zone_support"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "notification_sounds_package"
+msgstr "notification_sounds_package"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "duplicate_calendar_events"
+msgstr "duplicate_calendar_events"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "start_trial"
+msgstr "start_trial"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "payment_will_be_charged"
+msgstr "payment_will_be_charged"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "custom_reminder"
+msgstr "custom_reminder"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "reminder_me"
+msgstr "reminder_me"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "unlock_this_feature"
+msgstr "unlock_this_feature"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "get_pro"
+msgstr "get_pro"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "get_premium"
+msgstr "get_premium"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "special_offer"
+msgstr "special_offer"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "save_fifty"
+msgstr "save_fifty"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "purchase_monthly"
+msgstr "purchase_monthly"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "purchase_yearly"
+msgstr "purchase_yearly"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "purchase_forever"
+msgstr "purchase_forever"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "then_per_month"
+msgstr "then_per_month"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "day_trial"
+msgstr "day_trial"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "week_trial"
+msgstr "week_trial"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "title_continue"
+msgstr "title_continue"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "permissions"
+msgstr "permissions"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "became_active"
+msgstr "became_active"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "yearly_price"
+msgstr "yearly_price"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "product_activated"
+msgstr "product_activated"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "groupcal_event_explain_calendar"
+msgstr "groupcal_event_explain_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "archived"
+msgstr "archived"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "this_event_desc"
+msgstr "this_event_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "this_and_following_desc"
+msgstr "this_and_following_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_declined_event"
+msgstr "you_declined_event"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_have_agenda_items"
+msgstr "you_have_agenda_items"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "general_agenda_message"
+msgstr "general_agenda_message"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "general_agenda_message_with_tasks"
+msgstr "general_agenda_message_with_tasks"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_home_screen_title"
+msgstr "showcase_home_screen_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_shared_calendar_title"
+msgstr "showcase_shared_calendar_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_shared_calendar_screen_title"
+msgstr "showcase_shared_calendar_screen_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_add_calendar_title"
+msgstr "showcase_add_calendar_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_all_calender_title"
+msgstr "showcase_all_calender_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_all_calendar_desc"
+msgstr "showcase_all_calendar_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_shared_calendar_info_title"
+msgstr "showcase_shared_calendar_info_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_shared_calendar_info_desc"
+msgstr "showcase_shared_calendar_info_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_added_to_group"
+msgstr "you_added_to_group"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "tasks_plurals"
+msgstr "tasks_plurals"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "cannot_sign_in"
+msgstr "cannot_sign_in"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "moved_note_to_time"
+msgstr "moved_note_to_time"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "grouping_someday_tasks_label"
+msgstr "grouping_someday_tasks_label"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "terms_and_privacy_label"
+msgstr "terms_and_privacy_label"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "group_settings_edit_name_photo_label"
+msgstr "group_settings_edit_name_photo_label"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "all_features_enabled_pro"
+msgstr "all_features_enabled_pro"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_can_add_up_to_participants_shared"
+msgstr "you_can_add_up_to_participants_shared"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "need_update_app_message"
+msgstr "need_update_app_message"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "add_recurrence"
+msgstr "add_recurrence"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "your_contact_list"
+msgstr "your_contact_list"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "desc_contact_list"
+msgstr "desc_contact_list"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "a_link_share"
+msgstr "a_link_share"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "a_link_share_desc"
+msgstr "a_link_share_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "share_with"
+msgstr "share_with"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "join_by_link_message"
+msgstr "join_by_link_message"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "share_calendar_with_link"
+msgstr "share_calendar_with_link"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "disable_existing_link"
+msgstr "disable_existing_link"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "join_shared_calendar"
+msgstr "join_shared_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "groups_updates_channel_name"
+msgstr "groups_updates_channel_name"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "groups_updates_channel_desc"
+msgstr "groups_updates_channel_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "events_updates_channel_name"
+msgstr "events_updates_channel_name"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "events_updates_channel_desc"
+msgstr "events_updates_channel_desc"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_were_invited"
+msgstr "you_were_invited"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "invited_you_to"
+msgstr "invited_you_to"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "cannot_join_calendar"
+msgstr "cannot_join_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "disabled_link"
+msgstr "disabled_link"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "you_joined_shared_calendar"
+msgstr "you_joined_shared_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "other_joined_shared_calendar"
+msgstr "other_joined_shared_calendar"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "tap_here_for_calendar_info"
+msgstr "tap_here_for_calendar_info"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "invited_to_groupcal"
+msgstr "invited_to_groupcal"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "add_participants_with"
+msgstr "add_participants_with"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "tap_to_add"
+msgstr "tap_to_add"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "updated_events"
+msgstr "updated_events"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "look_of"
+msgstr "look_of"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "groupcal_app_title"
+msgstr "groupcal_app_title"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "open_settings_to_allow"
+msgstr "open_settings_to_allow"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "no_contacts_found_empty"
+msgstr "no_contacts_found_empty"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_home_screen_description_upd"
+msgstr "showcase_home_screen_description_upd"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_shared_calendar_description"
+msgstr "showcase_shared_calendar_description"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "showcase_shared_calendar_screen_description"
+msgstr "showcase_shared_calendar_screen_description"
+
+#: some text
+msgctxt "ct-\"round4\".\"version8\""
+msgid "permission_grant_title"
+msgstr "permission_grant_title"
+
