@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMagnifyEffectWidget-version2"
+msgid "CenterX"
+msgstr "CenterX"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMagnifyEffectWidget-version2"
+msgid "CenterY"
+msgstr "CenterY"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMagnifyEffectWidget-version2"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSBottomBtnGroup-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSBottomBtnGroup-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSBottomBtnGroup-version2"
+msgid "Fit split screen duration on the main timeline"
+msgstr "Fit split screen duration on the main timeline"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextBottomBtnGroup-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextBottomBtnGroup-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextBottomBtnGroup-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FAudioContentMenu-version2"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Append"
+msgstr "Append"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Random to Selected Clips"
+msgstr "Random to Selected Clips"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "View Download History"
+msgstr "View Download History"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+#, fuzzy
+msgctxt "FEffectContentMenu-version2"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+#, fuzzy
+msgctxt "FEqualizerDlg-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FEqualizerDlg-version2"
+msgid "Customize Equalizer"
+msgstr "Customize Equalizer"
+
+#: 
+#, fuzzy
+msgctxt "FEqualizerDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerPanel-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerPanel-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerPanel-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerPanel-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomPanelPrivate-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomPanelPrivate-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomPanelPrivate-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomPanelPrivate-version2"
+msgid "Switch"
+msgstr "Switch"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAdvanceSSColorLutWidget-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAdvanceSSColorLutWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAdvanceSSColorLutWidget-version2"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAdvanceSSColorLutWidget-version2"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAdvanceSSColorLutWidget-version2"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationListView-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "Media Cache"
+msgstr "Media Cache"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "Performance"
+msgstr "Performance"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "Editing"
+msgstr "Editing"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "Preferences"
+msgstr "Preferences"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "Folders"
+msgstr "Folders"
+
+#: 
+#, fuzzy
+msgctxt "FSettingDialogPrivate-version2"
+msgid "General"
+msgstr "General"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTableItemPainter-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTableItemPainter-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTableItemPainter-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTableItemPainter-version2"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTableItemPainter-version2"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTableItemPainter-version2"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Other"
+msgstr "Other"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Reference attached"
+msgstr "Reference attached"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Upload failed, please retry"
+msgstr "Upload failed, please retry"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Tell us what you need"
+msgstr "Tell us what you need"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Upload failed, the selected file exceeds 1G."
+msgstr "Upload failed, the selected file exceeds 1G."
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "I need \"Glitch Effects\" to make my dance video, please refer to the related link for the effects https://xxx.xxx.xxx"
+msgstr "I need \"Glitch Effects\" to make my dance video, please refer to the related link for the effects https://xxx.xxx.xxx"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Contact you with"
+msgstr "Contact you with"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "What type of resources are you giving feedback about?*"
+msgstr "What type of resources are you giving feedback about?*"
+
+#: 
+#, fuzzy
+msgctxt "FDemandCollectionDialog-version2"
+msgid "Describe the resources you need*"
+msgstr "Describe the resources you need*"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "other"
+msgstr "other"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "protocol errors"
+msgstr "protocol errors"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "content errors"
+msgstr "content errors"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "proxy errors"
+msgstr "proxy errors"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Request pack detail error"
+msgstr "Request pack detail error"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Server side errors"
+msgstr "Server side errors"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Disk space is not enough"
+msgstr "Disk space is not enough"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Effects"
+msgstr "Effects"
+

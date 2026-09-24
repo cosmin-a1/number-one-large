@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "RetryCompound"
+msgstr "RetryCompound"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "Video language to be transcribed:"
+msgstr "Video language to be transcribed:"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "Text-based editing"
+msgstr "Text-based editing"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "You can delete the clips you want to remove based on the sound level of the video."
+msgstr "You can delete the clips you want to remove based on the sound level of the video."
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "Sound-based editing"
+msgstr "Sound-based editing"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "You can delete the clips you want to remove based on the text converted from the video."
+msgstr "You can delete the clips you want to remove based on the text converted from the video."
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectPanel-version2"
+msgid "Please choose the editing method:"
+msgstr "Please choose the editing method:"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperDlg-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperDlg-version2"
+msgid "You can delete the clips you want to remove based on the text converted from the video."
+msgstr "You can delete the clips you want to remove based on the text converted from the video."
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperDlg-version2"
+msgid "Please choose a language that matches the content of the file for transcription:"
+msgstr "Please choose a language that matches the content of the file for transcription:"
+
+#: 
+#, fuzzy
+msgctxt "FAbnormalDownloadPromptDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FAbnormalDownloadPromptDlg-version2"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+#, fuzzy
+msgctxt "FAbnormalDownloadPromptDlg-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FArchiveProjectPathPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FArchiveProjectPathPanel-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FArchiveProjectPathPanel-version2"
+msgid "BROWSE"
+msgstr "BROWSE"
+
+#: 
+#, fuzzy
+msgctxt "FArchiveProjectPathPanel-version2"
+msgid "The remaining disk space is:"
+msgstr "The remaining disk space is:"
+
+#: 
+#, fuzzy
+msgctxt "FArchiveProjectPathPanel-version2"
+msgid "Select a folder to exact file from archived project"
+msgstr "Select a folder to exact file from archived project"
+
+#: 
+#, fuzzy
+msgctxt "FAudioUnifyProgressDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FAudioUnifyProgressDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAudioUnifyProgressDlg-version2"
+msgid "Please wait, audio normalization is progress..."
+msgstr "Please wait, audio normalization is progress..."
+
+#: 
+#, fuzzy
+msgctxt "FAudioUnifyProgressDlg-version2"
+msgid "Audio Normalization needs to be done again after closing,please confirm whether to close."
+msgstr "Audio Normalization needs to be done again after closing,please confirm whether to close."
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "Beats"
+msgstr "Beats"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "Model"
+msgstr "Model"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "beats"
+msgstr "beats"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "No beat"
+msgstr "No beat"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "Mark highlight beats only"
+msgstr "Mark highlight beats only"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "Highlight offset"
+msgstr "Highlight offset"
+
+#: 
+#, fuzzy
+msgctxt "FBeatInfoSetting-version2"
+msgid "Highlight every"
+msgstr "Highlight every"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version2"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version2"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version2"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version2"
+msgid "Enterprise member: only one device can be bound and can be contacted"
+msgstr "Enterprise member: only one device can be bound and can be contacted"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "Date Created:"
+msgstr "Date Created:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "Date Updated:"
+msgstr "Date Updated:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaPropertyDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetNameDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetNameDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetNameDlg-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetNameDlg-version2"
+msgid "preset"
+msgstr "preset"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetNameDlg-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadProgressDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadProgressDlg-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadProgressDlg-version2"
+msgid "Downloading Online Content"
+msgstr "Downloading Online Content"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadProgressDlg-version2"
+msgid "Download_1"
+msgstr "Download_1"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadProgressDlg-version2"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Step: Converting..."
+msgstr "Step: Converting..."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "PAUSE"
+msgstr "PAUSE"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "RESUME"
+msgstr "RESUME"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Convert"
+msgstr "Convert"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Remove Watermark"
+msgstr "Remove Watermark"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDProgressDialog-version2"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Your upload to TikTok has failed, but the video has saved succssfuly in hard disk.  Please log in your TikTok account again and try to upload again."
+msgstr "Your upload to TikTok has failed, but the video has saved succssfuly in hard disk.  Please log in your TikTok account again and try to upload again."
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Please click the \"Sign in\" button to access your TikTok account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your TikTok account before you upload the video."
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Public"
+msgstr "Public"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Private"
+msgstr "Private"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Video Upload Requirements:"
+msgstr "Video Upload Requirements:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "You can upload this video to TikTok"
+msgstr "You can upload this video to TikTok"
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "1.The size of the uploaded video file must be less than or equal to 4GB.\n"
+"2.The duration of the video file must be at least 3 seconds and shorter than or equal to 10 minutes."
+msgstr "1.The size of the uploaded video file must be less than or equal to 4GB.\n"
+"2.The duration of the video file must be at least 3 seconds and shorter than or equal to 10 minutes."
+
+#: 
+#, fuzzy
+msgctxt "FExportTikTokPanel-version2"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Tags:"
+msgstr "Tags:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "People I follow on Vimeo"
+msgstr "People I follow on Vimeo"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Please click the \"Sign in\" button to access your Vimeo account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your Vimeo account before you upload the video."
+

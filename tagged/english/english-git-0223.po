@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Noise Volume"
+msgstr "Noise Volume"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Hum Removal"
+msgstr "Hum Removal"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "DeReverb"
+msgstr "DeReverb"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "AI Speech Enhancement"
+msgstr "AI Speech Enhancement"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Normal Denoise"
+msgstr "Normal Denoise"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Hiss Removal"
+msgstr "Hiss Removal"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Wind Removal"
+msgstr "Wind Removal"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Denoise Level"
+msgstr "Denoise Level"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Low"
+msgstr "Low"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "High"
+msgstr "High"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Select Voice"
+msgstr "Select Voice"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidget-version2"
+msgid "Language"
+msgstr "Language"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Low"
+msgstr "Low"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Form"
+msgstr "Form"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "High"
+msgstr "High"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Select Voice"
+msgstr "Select Voice"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechWidgetClass-version2"
+msgid "Language"
+msgstr "Language"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseComponent-version2"
+msgid "OFF"
+msgstr "OFF"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseComponent-version2"
+msgid "Re-subscribe to explore more!"
+msgstr "Re-subscribe to explore more!"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseComponent-version2"
+msgid "Yearly fee"
+msgstr "Yearly fee"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseComponent-version2"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+#, fuzzy
+msgctxt "FFReNewPurchaseComponent-version2"
+msgid "OFF"
+msgstr "OFF"
+
+#: 
+#, fuzzy
+msgctxt "FFReNewPurchaseComponent-version2"
+msgid "month"
+msgstr "month"
+
+#: 
+#, fuzzy
+msgctxt "FFReNewPurchaseComponent-version2"
+msgid "ReNew user first order SUPER VALUE Offer"
+msgstr "ReNew user first order SUPER VALUE Offer"
+
+#: 
+#, fuzzy
+msgctxt "FFReNewPurchaseComponent-version2"
+msgid "New customers will get a discount on their first purchase and continue to subscribe next month at"
+msgstr "New customers will get a discount on their first purchase and continue to subscribe next month at"
+
+#: 
+#, fuzzy
+msgctxt "FFReNewPurchaseComponent-version2"
+msgid "Monthly fee"
+msgstr "Monthly fee"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Old"
+msgstr "Old"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Calm"
+msgstr "Calm"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Deep"
+msgstr "Deep"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Wise"
+msgstr "Wise"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Adult"
+msgstr "Adult"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Crisp"
+msgstr "Crisp"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Hyped"
+msgstr "Hyped"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Sassy"
+msgstr "Sassy"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Intense"
+msgstr "Intense"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Sweet"
+msgstr "Sweet"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Young"
+msgstr "Young"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Pleasant"
+msgstr "Pleasant"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Classy"
+msgstr "Classy"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Confident"
+msgstr "Confident"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Formal"
+msgstr "Formal"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Mature"
+msgstr "Mature"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Strict"
+msgstr "Strict"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Powerful"
+msgstr "Powerful"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Clear_TTS"
+msgstr "Clear_TTS"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Excited"
+msgstr "Excited"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Childish"
+msgstr "Childish"
+
+#: 
+#, fuzzy
+msgctxt "FFTTSConfigs-version2"
+msgid "Professional"
+msgstr "Professional"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatVideoEffectPresenter-version2"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatVideoEffectPresenter-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatVideoEffectPresenter-version2"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatVideoEffectPresenter-version2"
+msgid "Video Wall"
+msgstr "Video Wall"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Owl"
+msgstr "Owl"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Globe"
+msgstr "Globe"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Vintage Typewriter"
+msgstr "Vintage Typewriter"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Strawberry Cream Cake"
+msgstr "Strawberry Cream Cake"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Avocado"
+msgstr "Avocado"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Shining Diamond"
+msgstr "Shining Diamond"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Lively Dolphin"
+msgstr "Lively Dolphin"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Pretty Bow"
+msgstr "Pretty Bow"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Describe the sticker you want to generate"
+msgstr "Describe the sticker you want to generate"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Jack O’Lantern"
+msgstr "Jack O’Lantern"
+
+#: 
+#, fuzzy
+msgctxt "FAIStickerViewDelegate-version2"
+msgid "Describe the sticker you want to generate, e.g., a pretty bow."
+msgstr "Describe the sticker you want to generate, e.g., a pretty bow."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Blues"
+msgstr "Blues"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Dance"
+msgstr "Dance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Techno"
+msgstr "Techno"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Low Bass"
+msgstr "Low Bass"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Hard Rock"
+msgstr "Hard Rock"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Sparkle"
+msgstr "Sparkle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Country"
+msgstr "Country"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Acoustic"
+msgstr "Acoustic"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Default"
+msgstr "Default"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioEqualizerPresenter-version2"
+msgid "Rock'n'Roll"
+msgstr "Rock'n'Roll"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "TAG"
+msgstr "TAG"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "SIZE"
+msgstr "SIZE"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "TYPE"
+msgstr "TYPE"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "USED"
+msgstr "USED"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "IN POINT"
+msgstr "IN POINT"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "FRAME RATE"
+msgstr "FRAME RATE"
+

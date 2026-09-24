@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskGroupWidget-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskGroupWidget-version2"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskGroupWidget-version2"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskGroupWidget-version2"
+msgid "Add a New Draw Mask"
+msgstr "Add a New Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingWidget-version2"
+msgid "In order to apply motion tracking any keyframing, animations, or pan & zoom motions will be removed. Do you want to continue?"
+msgstr "In order to apply motion tracking any keyframing, animations, or pan & zoom motions will be removed. Do you want to continue?"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingWidget-version2"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingWidget-version2"
+msgid "Unchecking the box next to Motion Tracking will clear all motion tracking data. Do you want to continue?"
+msgstr "Unchecking the box next to Motion Tracking will clear all motion tracking data. Do you want to continue?"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Product Features"
+msgstr "Product Features"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Effects & Services"
+msgstr "Effects & Services"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Payment will be charged to your Apple ID account upon the confirmation of your purchase. If you purchase the Annual Subscription it will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings in the App Store after purchase."
+msgstr "Payment will be charged to your Apple ID account upon the confirmation of your purchase. If you purchase the Annual Subscription it will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings in the App Store after purchase."
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "SUBSCRIPTION BENEFITS"
+msgstr "SUBSCRIPTION BENEFITS"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+#, fuzzy
+msgctxt "FFResourcePackPurchaseDialog-version2"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "You can browse the generation records for the past 30 days."
+msgstr "You can browse the generation records for the past 30 days."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Start generating your own stickers today!"
+msgstr "Start generating your own stickers today!"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Spark your creativity with just one click"
+msgstr "Spark your creativity with just one click"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCWidget-version2"
+msgid "Generate AI Sticker"
+msgstr "Generate AI Sticker"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version2"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version2"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version2"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedTextPropertyPanelWidget-version2"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedTextPropertyPanelWidget-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedTextPropertyPanelWidget-version2"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextAnimationControl-version2"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+#, fuzzy
+msgctxt "FMultipleSelectOperationWidget-version2"
+msgid "Selected %1 bar"
+msgstr "Selected %1 bar"
+
+#: 
+#, fuzzy
+msgctxt "FMultipleSelectOperationWidget-version2"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+#, fuzzy
+msgctxt "FMultipleSelectOperationWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FMultipleSelectOperationWidget-version2"
+msgid "Select all"
+msgstr "Select all"
+
+#: 
+#, fuzzy
+msgctxt "FStoryEditToolBar-version2"
+msgid "Timeline"
+msgstr "Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FStoryEditToolBar-version2"
+msgid "Effect Control"
+msgstr "Effect Control"
+
+#: 
+#, fuzzy
+msgctxt "FStoryEditToolBar-version2"
+msgid "Global Setting"
+msgstr "Global Setting"
+
+#: 
+#, fuzzy
+msgctxt "FStoryEditToolBar-version2"
+msgid "Music Setting"
+msgstr "Music Setting"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabWidget-version2"
+msgid "Try it out!"
+msgstr "Try it out!"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabWidget-version2"
+msgid "Filmora Cloud is here."
+msgstr "Filmora Cloud is here."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabWidget-version2"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeMaskWidget-version2"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeMaskWidget-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeMaskWidget-version2"
+msgid "Drag or import a video here to start reframing"
+msgstr "Drag or import a video here to start reframing"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeProgressDialog-version2"
+msgid "Downloading filmora"
+msgstr "Downloading filmora"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeProgressDialog-version2"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeProgressDialog-version2"
+msgid "Upgrading..."
+msgstr "Upgrading..."
+
+#: 
+#, fuzzy
+msgctxt "FLoginSuccessfulWebStateWidget-version2"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+#, fuzzy
+msgctxt "FLoginSuccessfulWebStateWidget-version2"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWaitPage-version2"
+msgid "We opened a new browser tab, you can log in in the new tab"
+msgstr "We opened a new browser tab, you can log in in the new tab"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWaitPage-version2"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWaitPage-version2"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWaitPage-version2"
+msgid "click here"
+msgstr "click here"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWaitPage-version2"
+msgid "Waiting..."
+msgstr "Waiting..."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWaitPage-version2"
+msgid "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+msgstr "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+
+#: 
+#, fuzzy
+msgctxt "FFColorCompareMaskWidget-version2"
+msgid "After"
+msgstr "After"
+
+#: 
+#, fuzzy
+msgctxt "FFColorCompareMaskWidget-version2"
+msgid "Before"
+msgstr "Before"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomPlayer-version2"
+msgid "After"
+msgstr "After"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomPlayer-version2"
+msgid "Before"
+msgstr "Before"
+
+#: 
+#, fuzzy
+msgctxt "FImportFailDialog-version2"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+#, fuzzy
+msgctxt "FImportFailDialog-version2"
+msgid "Importing failed"
+msgstr "Importing failed"
+
+#: 
+#, fuzzy
+msgctxt "FImportFailDialog-version2"
+msgid "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+msgstr "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+
+#: 
+#, fuzzy
+msgctxt "FImportFailDialog-version2"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+#, fuzzy
+msgctxt "FUnsupportedFileDialog-version2"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+#, fuzzy
+msgctxt "FUnsupportedFileDialog-version2"
+msgid "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+msgstr "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+
+#: 
+#, fuzzy
+msgctxt "FUnsupportedFileDialog-version2"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+#, fuzzy
+msgctxt "FUnsupportedFileDialog-version2"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+#, fuzzy
+msgctxt "FAlertDialog-version2"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+#, fuzzy
+msgctxt "FEffectInstallerCommunicatorHelper-version2"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+#, fuzzy
+msgctxt "FEffectInstallerCommunicatorHelper-version2"
+msgid " has no permission."
+msgstr " has no permission."
+
+#: 
+#, fuzzy
+msgctxt "FEffectInstallerCommunicatorHelper-version2"
+msgid "The install directory "
+msgstr "The install directory "
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Align"
+msgstr "Align"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Go to"
+msgstr "Go to"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Unlock Guides"
+msgstr "Unlock Guides"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Compare Color Before/After"
+msgstr "Compare Color Before/After"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Hide Guides"
+msgstr "Hide Guides"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Guides"
+msgstr "Guides"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+#, fuzzy
+msgctxt "FMainPlayerContextMenu-version2"
+msgid "Zoom Level"
+msgstr "Zoom Level"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautySkinEffectWidget-version2"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautySkinEffectWidget-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautySkinEffectWidget-version2"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautySkinEffectWidget-version2"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomLutEffectWidget-version2"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomLutEffectWidget-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomLutEffectWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomLutEffectWidget-version2"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomLutEffectWidget-version2"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMagnifyEffectWidget-version2"
+msgid "Alpha"
+msgstr "Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMagnifyEffectWidget-version2"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMagnifyEffectWidget-version2"
+msgid "ZoomRate"
+msgstr "ZoomRate"
+

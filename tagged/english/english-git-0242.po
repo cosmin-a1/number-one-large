@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Cancel Task"
+msgstr "Cancel Task"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Successfully removed object (Task %1)"
+msgstr "Successfully removed object (Task %1)"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "You do not have enough AI Credits. Get more credits by purchasing a Wondershare Filmora membership."
+msgstr "You do not have enough AI Credits. Get more credits by purchasing a Wondershare Filmora membership."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Cancel Export"
+msgstr "Cancel Export"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Sorry, the transition effect cannot be applied to the clip selected."
+msgstr "Sorry, the transition effect cannot be applied to the clip selected."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Smart Object Removal is in progress. No other tasks can be performed on this clip right now."
+msgstr "Smart Object Removal is in progress. No other tasks can be performed on this clip right now."
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Import Media Files"
+msgstr "Import Media Files"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Import Media Folder"
+msgstr "Import Media Folder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Import with Instant Cutter Tool"
+msgstr "Import with Instant Cutter Tool"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "One Drive"
+msgstr "One Drive"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Import from Camera or Phone"
+msgstr "Import from Camera or Phone"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Import with Auto Beat Sync"
+msgstr "Import with Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportMenu-version2"
+msgid "Import from other Apps"
+msgstr "Import from other Apps"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationWidget-version2"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationWidget-version2"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationWidget-version2"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationWidget-version2"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "remainder time"
+msgstr "remainder time"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+msgstr "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextWidget-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechWidget-version2"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechWidget-version2"
+msgid "The number of sentences"
+msgstr "The number of sentences"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechWidget-version2"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechWidget-version2"
+msgid "frequence"
+msgstr "frequence"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechWidget-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechWidget-version2"
+msgid "Available Text:"
+msgstr "Available Text:"
+
+#: 
+#, fuzzy
+msgctxt "FFMontagePresenter-version2"
+msgid "Step 2: Automagically higlights and chooses the best moments from your footage, and mix them according to the beats of the background music."
+msgstr "Step 2: Automagically higlights and chooses the best moments from your footage, and mix them according to the beats of the background music."
+
+#: 
+#, fuzzy
+msgctxt "FFMontagePresenter-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FFMontagePresenter-version2"
+msgid "Step 1: Analyze the beats and rhythm of the background music."
+msgstr "Step 1: Analyze the beats and rhythm of the background music."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Save Project As Template"
+msgstr "Save Project As Template"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Sorry, the One Drive authorization failed."
+msgstr "Sorry, the One Drive authorization failed."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "There is not enough space available.Please free up some space or choose a new path and try again."
+msgstr "There is not enough space available.Please free up some space or choose a new path and try again."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Sorry, the Google Drive authorization failed."
+msgstr "Sorry, the Google Drive authorization failed."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Create Proxy File"
+msgstr "Create Proxy File"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Editing with smaller proxy clips will result in a faster, smoother, experience. When exporting, your projects will render with the full quality of the original media. To change this setting go to 'Performance' in the 'Preferences' menu."
+msgstr "Editing with smaller proxy clips will result in a faster, smoother, experience. When exporting, your projects will render with the full quality of the original media. To change this setting go to 'Performance' in the 'Preferences' menu."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Saving into custom clip %1, please wait…"
+msgstr "Saving into custom clip %1, please wait…"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Saving into project template \""
+msgstr "Saving into project template \""
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Sorry, the Dropbox authorization failed."
+msgstr "Sorry, the Dropbox authorization failed."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Saving under the \"Custom\" category under \"Edit Thumbnail.\" Please wait..."
+msgstr "Saving under the \"Custom\" category under \"Edit Thumbnail.\" Please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Authorize Google Drive"
+msgstr "Authorize Google Drive"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Saving..."
+msgstr "Saving..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Authorize Dropbox"
+msgstr "Authorize Dropbox"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "\", please waiting..."
+msgstr "\", please waiting..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Importing files"
+msgstr "Importing files"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Authorize One Drive"
+msgstr "Authorize One Drive"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemViewPrivate-version2"
+msgid "Please click to reauthorize."
+msgstr "Please click to reauthorize."
+
+#: 
+#, fuzzy
+msgctxt "FMatchProjectDialog-version2"
+msgid "Keep Project Settings"
+msgstr "Keep Project Settings"
+
+#: 
+#, fuzzy
+msgctxt "FMatchProjectDialog-version2"
+msgid "Match To Media"
+msgstr "Match To Media"
+
+#: 
+#, fuzzy
+msgctxt "FMatchProjectDialog-version2"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+#, fuzzy
+msgctxt "FMatchProjectDialog-version2"
+msgid "The resolution or frame rate of the media does not match the current project settings. Do you want to change your project settings to match?"
+msgstr "The resolution or frame rate of the media does not match the current project settings. Do you want to change your project settings to match?"
+
+#: 
+#, fuzzy
+msgctxt "FFBaseSettingWidget-version2"
+msgid "Edge Feather:"
+msgstr "Edge Feather:"
+
+#: 
+#, fuzzy
+msgctxt "FFBaseSettingWidget-version2"
+msgid "Edge Thickness:"
+msgstr "Edge Thickness:"
+
+#: 
+#, fuzzy
+msgctxt "FFBaseSettingWidget-version2"
+msgid "Brush Size:"
+msgstr "Brush Size:"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "The text has been modified, Do you want to save the changes?"
+msgstr "The text has been modified, Do you want to save the changes?"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Advanced Subtitle Edit"
+msgstr "Advanced Subtitle Edit"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Save as Preset Tip"
+msgstr "Save as Preset Tip"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Name your custom text style. It will be saved under Style in the Titles menu."
+msgstr "Name your custom text style. It will be saved under Style in the Titles menu."
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Unable to merge, only support continuous subtitle strip merging"
+msgstr "Unable to merge, only support continuous subtitle strip merging"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Unable to merge, already the last subtitle"
+msgstr "Unable to merge, already the last subtitle"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Edit Subtitle File"
+msgstr "Edit Subtitle File"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleEditDialog-version2"
+msgid "Subtitle text style templates will be saved in the preset category under \"Edit Subtitle File\""
+msgstr "Subtitle text style templates will be saved in the preset category under \"Edit Subtitle File\""
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextEditDialog-version2"
+msgid "The text has been modified, Do you want to save the changes?"
+msgstr "The text has been modified, Do you want to save the changes?"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextEditDialog-version2"
+msgid "Advanced Text Edit"
+msgstr "Advanced Text Edit"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextEditDialog-version2"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginErrorPage-version2"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginErrorPage-version2"
+msgid "Please go back and try again"
+msgstr "Please go back and try again"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginErrorPage-version2"
+msgid "Sorry, we could not sign you in"
+msgstr "Sorry, we could not sign you in"
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid " Then, log in with the Wondershare ID associated with your license."
+msgstr " Then, log in with the Wondershare ID associated with your license."
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "Activation failed. Here are some reasons this might have happened:"
+msgstr "Activation failed. Here are some reasons this might have happened:"
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "period"
+msgstr "period"
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "Click here to log out."
+msgstr "Click here to log out."
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "click here to buy Filmora9."
+msgstr "click here to buy Filmora9."
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "You could be experiencing a network delay. Wait a minute or two, then click 'Try Again'."
+msgstr "You could be experiencing a network delay. Wait a minute or two, then click 'Try Again'."
+
+#: 
+#, fuzzy
+msgctxt "FActivateFailedDlg-version2"
+msgid "You could be logged into a Wondershare ID different from the one you used to make your purchase. You are currently signed in as: "
+msgstr "You could be logged into a Wondershare ID different from the one you used to make your purchase. You are currently signed in as: "
+
+#: 
+#, fuzzy
+msgctxt "FSupportClientFilterMenu-version2"
+msgid "Desktop && Mobile"
+msgstr "Desktop && Mobile"
+
+#: 
+#, fuzzy
+msgctxt "FSupportClientFilterMenu-version2"
+msgid "Three clients"
+msgstr "Three clients"
+
+#: 
+#, fuzzy
+msgctxt "FSupportClientFilterMenu-version2"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: 
+#, fuzzy
+msgctxt "FSupportClientFilterMenu-version2"
+msgid "Desktop && Tablet"
+msgstr "Desktop && Tablet"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskGroupWidget-version2"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+

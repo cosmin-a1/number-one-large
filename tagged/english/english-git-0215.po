@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Bring to Front"
+msgstr "Bring to Front"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Mark Out"
+msgstr "Mark Out"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Subtitles"
+msgstr "Subtitles"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Quick Split Mode"
+msgstr "Quick Split Mode"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Command Custom Rule"
+msgstr "Command Custom Rule"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Alt+Mouse Drag"
+msgstr "Alt+Mouse Drag"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select Next"
+msgstr "Select Next"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select All Backward"
+msgstr "Select All Backward"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select Previous"
+msgstr "Select Previous"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Rotate 90 CCW"
+msgstr "Rotate 90 CCW"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Selected Clip End"
+msgstr "Go To Selected Clip End"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Project End"
+msgstr "Go To Project End"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Adjust the Bezier curve"
+msgstr "Adjust the Bezier curve"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Add To Favourite"
+msgstr "Add To Favourite"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Split (edited state)"
+msgstr "Split (edited state)"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Reverse Preview"
+msgstr "Reverse Preview"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Lock/Unlock Guides"
+msgstr "Lock/Unlock Guides"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Trim Start to Playhead"
+msgstr "Trim Start to Playhead"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Nudge Up"
+msgstr "Nudge Up"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Trim End to Playhead"
+msgstr "Trim End to Playhead"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "UnGroup"
+msgstr "UnGroup"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Play/Pause"
+msgstr "Play/Pause"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Previous Keyframe"
+msgstr "Previous Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Save Project As"
+msgstr "Save Project As"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Preferences"
+msgstr "Preferences"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Previous Second"
+msgstr "Go To Previous Second"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Yellow Marker"
+msgstr "Yellow Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Paste Effects"
+msgstr "Paste Effects"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Nudge Down"
+msgstr "Nudge Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Nudge Left"
+msgstr "Nudge Left"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Keyframing"
+msgstr "Keyframing"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Enable/Disable Clip"
+msgstr "Enable/Disable Clip"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Adobe Premiere Pro"
+msgstr "Adobe Premiere Pro"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Ripple Delete"
+msgstr "Ripple Delete"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Horizontal Scroll (Timeline)"
+msgstr "Horizontal Scroll (Timeline)"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Previous Marker"
+msgstr "Go To Previous Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Apple Final Cut Pro"
+msgstr "Apple Final Cut Pro"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Send Backward"
+msgstr "Send Backward"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Selected Clip Start"
+msgstr "Go To Selected Clip Start"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Playing Preview"
+msgstr "Playing Preview"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Zoom To Fit Timeline"
+msgstr "Zoom To Fit Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Show/Hide Guides"
+msgstr "Show/Hide Guides"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Detach Audio"
+msgstr "Detach Audio"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Crop and Zoom"
+msgstr "Crop and Zoom"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Copy Effects"
+msgstr "Copy Effects"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Merge up (cursor at the beginning of the sentence)"
+msgstr "Merge up (cursor at the beginning of the sentence)"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Timeline Snap"
+msgstr "Timeline Snap"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Full Screen/Restore"
+msgstr "Full Screen/Restore"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationDlg-version2"
+msgid "Custom Speed"
+msgstr "Custom Speed"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaDownloadView-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaDownloadView-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaDownloadView-version2"
+msgid "Choose a Size"
+msgstr "Choose a Size"
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetDlg-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetDlg-version2"
+msgid "Custom Text"
+msgstr "Custom Text"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "Generated by AI"
+msgstr "Generated by AI"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "Quit AI Text Generation"
+msgstr "Quit AI Text Generation"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "AI is generating video copywriting. Are you sure you want to close?"
+msgstr "AI is generating video copywriting. Are you sure you want to close?"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoDialog-version2"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Video Tracks"
+msgstr "Video Tracks"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Above Track_ja"
+msgstr "Above Track_ja"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Audio Tracks"
+msgstr "Audio Tracks"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "audio track(s)"
+msgstr "audio track(s)"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Below Track_ja"
+msgstr "Below Track_ja"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Above Track"
+msgstr "Above Track"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Placement"
+msgstr "Placement"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "video track(s)"
+msgstr "video track(s)"
+
+#: 
+#, fuzzy
+msgctxt "FTrackManagerPanel-version2"
+msgid "Below Track"
+msgstr "Below Track"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "Modified tag successfully"
+msgstr "Modified tag successfully"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "Successfully deleted label"
+msgstr "Successfully deleted label"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "Deleting tags does not affect specific files, but only removes the tags of the corresponding files."
+msgstr "Deleting tags does not affect specific files, but only removes the tags of the corresponding files."
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "Delete tag"
+msgstr "Delete tag"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelHelper-version2"
+msgid "Created a new tag successfully"
+msgstr "Created a new tag successfully"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "4K ultra definition"
+msgstr "4K ultra definition"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "HD high definition"
+msgstr "HD high definition"
+

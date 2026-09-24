@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Snapshot (%1)"
+msgstr "Snapshot (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineExportRangeWidget-version2"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineExportRangeWidget-version2"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+#, fuzzy
+msgctxt "RecordLoadingCtrl-version2"
+msgid "Press"
+msgstr "Press"
+
+#: 
+#, fuzzy
+msgctxt "RecordLoadingCtrl-version2"
+msgid "to stop recording"
+msgstr "to stop recording"
+
+#: 
+#, fuzzy
+msgctxt "RecordLoadingCtrl-version2"
+msgid "Start directly"
+msgstr "Start directly"
+
+#: 
+#, fuzzy
+msgctxt "RecordLoadingCtrl-version2"
+msgid "Preparing to record"
+msgstr "Preparing to record"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographWidget-version2"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographWidget-version2"
+msgid "The current media does not support displaying Video Scope waveforms"
+msgstr "The current media does not support displaying Video Scope waveforms"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographWidget-version2"
+msgid "Floating panel"
+msgstr "Floating panel"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographWindow-version2"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographWindow-version2"
+msgid "Embed player"
+msgstr "Embed player"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPlayerModuleWidget-version2"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPlayerModuleWidget-version2"
+msgid "Player"
+msgstr "Player"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPlayerModuleWidget-version2"
+msgid "Remove the watermark"
+msgstr "Remove the watermark"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Lifetime Plan"
+msgstr "Lifetime Plan"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Extend Plan"
+msgstr "Extend Plan"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "We are refreshing your account info now. It may take a few seconds."
+msgstr "We are refreshing your account info now. It may take a few seconds."
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Annual Plan"
+msgstr "Annual Plan"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Expires: %1"
+msgstr "Expires: %1"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "click here"
+msgstr "click here"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Expires: Unlimited"
+msgstr "Expires: Unlimited"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "Free Plan"
+msgstr "Free Plan"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "to refresh your authorization."
+msgstr "to refresh your authorization."
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoPanel-version2"
+msgid "If you have purchased a plan,"
+msgstr "If you have purchased a plan,"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "Insufficient space, please upgrade Filmora Cloud"
+msgstr "Insufficient space, please upgrade Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "Upload failed, please check the network and try again"
+msgstr "Upload failed, please check the network and try again"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "The space has expired, please renew Filmora Cloud"
+msgstr "The space has expired, please renew Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "Update"
+msgstr "Update"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePagePrivate-version2"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+#, fuzzy
+msgctxt "FSchemePlanItemWidget-version2"
+msgid "Renew"
+msgstr "Renew"
+
+#: 
+#, fuzzy
+msgctxt "FSchemePlanItemWidget-version2"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+#, fuzzy
+msgctxt "FSchemePlanItemWidget-version2"
+msgid "Unpaid user"
+msgstr "Unpaid user"
+
+#: 
+#, fuzzy
+msgctxt "FSchemePlanItemWidget-version2"
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version2"
+msgid "Click to copy"
+msgstr "Click to copy"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version2"
+msgid "Copied"
+msgstr "Copied"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateMediaListViewDelegateImpl-version2"
+msgid "Task is in progress,please wait."
+msgstr "Task is in progress,please wait."
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "The transcription failed, please re-select the file for transcription."
+msgstr "The transcription failed, please re-select the file for transcription."
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "The language in the video doesn't match the selected language. Please choose again."
+msgstr "The language in the video doesn't match the selected language. Please choose again."
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+msgstr "The maximum length of transcription is 3 hours，so please re-select the file for transcription."
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusPanel-version2"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FExportUploadDlg-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FExportUploadDlg-version2"
+msgid "Please wait for a few minutes, still processing."
+msgstr "Please wait for a few minutes, still processing."
+
+#: 
+#, fuzzy
+msgctxt "FExportUploadDlg-version2"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+#, fuzzy
+msgctxt "FExportUploadDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FExportUploadDlg-version2"
+msgid "Please check your connection and try again."
+msgstr "Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterUploadTaskItemWidget-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterUploadTaskItemWidget-version2"
+msgid "Start"
+msgstr "Start"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterUploadTaskItemWidget-version2"
+msgid "TransferCenter Waiting..."
+msgstr "TransferCenter Waiting..."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterUploadTaskItemWidget-version2"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterUploadTaskItemWidget-version2"
+msgid "Stopped"
+msgstr "Stopped"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterUploadTaskItemWidget-version2"
+msgid "TransferCenter Stop"
+msgstr "TransferCenter Stop"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeDownloadFailedDialog-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeDownloadFailedDialog-version2"
+msgid "to re-download a new copy of the installer for a fresh installation."
+msgstr "to re-download a new copy of the installer for a fresh installation."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeDownloadFailedDialog-version2"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeDownloadFailedDialog-version2"
+msgid "click here"
+msgstr "click here"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeDownloadFailedDialog-version2"
+msgid "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+msgstr "An error occurred while downloading the update. Please check your network and try again.If the problem persists, "
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeDownloadFailedDialog-version2"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+
+#: 
+#, fuzzy
+msgctxt "FOpenfxPackManagerDlg-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FOpenfxPackManagerDlg-version2"
+msgid "Please wait, it may take a while to download and install the effect plugin."
+msgstr "Please wait, it may take a while to download and install the effect plugin."
+
+#: 
+#, fuzzy
+msgctxt "FOpenfxPackManagerDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FOpenfxPackManagerDlg-version2"
+msgid "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+msgstr "The effect plugin installation is still in progress, canceling it now can cause some issues. Please wait until the progress is completed."
+
+#: 
+#, fuzzy
+msgctxt "FOpenfxPackManagerDlg-version2"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+#, fuzzy
+msgctxt "FOpenfxPackManagerDlg-version2"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+#, fuzzy
+msgctxt "FProgressTipsDialog-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FProgressTipsDialog-version2"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+#, fuzzy
+msgctxt "FProgressTipsDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FProgressTipsDialog-version2"
+msgid "Please wait a few minutes, download and install the plug-in."
+msgstr "Please wait a few minutes, download and install the plug-in."
+
+#: 
+#, fuzzy
+msgctxt "FProgressTipsDialog-version2"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+#, fuzzy
+msgctxt "FSFeedbackConfirmDlg-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FSFeedbackConfirmDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSFeedbackConfirmDlg-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FSmartEditExport-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FSmartEditExport-version2"
+msgid "Converting the %1/%2 video."
+msgstr "Converting the %1/%2 video."
+
+#: 
+#, fuzzy
+msgctxt "FSmartEditExport-version2"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+#, fuzzy
+msgctxt "FSmartEditExport-version2"
+msgid "Conversion of %1/%2 videos has been completed."
+msgstr "Conversion of %1/%2 videos has been completed."
+
+#: 
+#, fuzzy
+msgctxt "FExportTemplatesSettingDialog-version2"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+#, fuzzy
+msgctxt "FExportTemplatesSettingDialog-version2"
+msgid "Generate preview videos for mobile"
+msgstr "Generate preview videos for mobile"
+
+#: 
+#, fuzzy
+msgctxt "FExportTemplatesSettingDialog-version2"
+msgid "Explosive template"
+msgstr "Explosive template"
+
+#: 
+#, fuzzy
+msgctxt "FExportTemplatesSettingDialog-version2"
+msgid "Template Name:"
+msgstr "Template Name:"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAdvancedMosaicEffectWidget-version2"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBasicTransformWidget-version2"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBasicTransformWidget-version2"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBasicTransformWidget-version2"
+msgid "Position"
+msgstr "Position"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBasicTransformWidget-version2"
+msgid "Corner Radius"
+msgstr "Corner Radius"
+

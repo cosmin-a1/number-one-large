@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDynamicTextBottomView-version2"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDynamicTextBottomView-version2"
+msgid "If the number is large, applying the full effect to the dynamic text clip may require some waiting time."
+msgstr "If the number is large, applying the full effect to the dynamic text clip may require some waiting time."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDynamicTextBottomView-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDynamicTextBottomView-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FMusicSettingMenu-version2"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+#, fuzzy
+msgctxt "FMusicSettingMenu-version2"
+msgid "Music:"
+msgstr "Music:"
+
+#: 
+#, fuzzy
+msgctxt "FMusicSettingMenu-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FMusicSettingMenu-version2"
+msgid "Fade in:"
+msgstr "Fade in:"
+
+#: 
+#, fuzzy
+msgctxt "FMusicSettingMenu-version2"
+msgid "Fade out:"
+msgstr "Fade out:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessDialog-version2"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+#, fuzzy
+msgctxt "LosslessDialog-version2"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+#, fuzzy
+msgctxt "LosslessDialog-version2"
+msgid "Click here for turorials."
+msgstr "Click here for turorials."
+
+#: 
+#, fuzzy
+msgctxt "LosslessDialog-version2"
+msgid "Filmora Instant Cutter"
+msgstr "Filmora Instant Cutter"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version2"
+msgid "FAdvanceTextCustomizeBackgroundWidget"
+msgstr "FAdvanceTextCustomizeBackgroundWidget"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version2"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version2"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidgetClass-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBasicDropShadowWidgetClass-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleShapeContentWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleShapeContentWidget-version2"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version2"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version2"
+msgid "Spread"
+msgstr "Spread"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleTemplateBackgroundWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "When there are multiple media present in different tracks at the same time, only the video or picture media in the top track are applied. Do you want to apply?"
+msgstr "When there are multiple media present in different tracks at the same time, only the video or picture media in the top track are applied. Do you want to apply?"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Blur style"
+msgstr "Blur style"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidget-version2"
+msgid "Level of blur"
+msgstr "Level of blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoFillWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoFillWidget-version2"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoFillWidget-version2"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoFillWidget-version2"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "View"
+msgstr "View"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "your operation is too frequent"
+msgstr "your operation is too frequent"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicToast-version2"
+msgid "Downloaded music will be displayed in \"AI Music > Generated\""
+msgstr "Downloaded music will be displayed in \"AI Music > Generated\""
+
+#: 
+#, fuzzy
+msgctxt "FAIToolLevelWidget-version2"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolLevelWidget-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolLevelWidget-version2"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolLevelWidget-version2"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationWidget-version2"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationWidget-version2"
+msgid "Click to start analysis"
+msgstr "Click to start analysis"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationWidget-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationWidget-version2"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationWidget-version2"
+msgid "Click to start analysis again"
+msgstr "Click to start analysis again"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationWidget-version2"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioRippleWidget-version2"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: 
+#, fuzzy
+msgctxt "FUseResourceGuideWidget-version2"
+msgid "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+msgstr "Browse Music, Transitions, Titles, and other Effects in the Effect library, dragging it onto the timeline to apply it."
+
+#: 
+#, fuzzy
+msgctxt "FUseResourceGuideWidget-version2"
+msgid "Add Effects"
+msgstr "Add Effects"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "days"
+msgstr "days"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Proxy Files:"
+msgstr "Proxy Files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Installed Effect:"
+msgstr "Installed Effect:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "AI Tools:"
+msgstr "AI Tools:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Preview Render files folder:"
+msgstr "Preview Render files folder:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "Cache Management:"
+msgstr "Cache Management:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanelClass-version2"
+msgid "FSettingMediaCachePanel"
+msgstr "FSettingMediaCachePanel"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportTaskListDelegate-version2"
+msgid "name"
+msgstr "name"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportTaskListDelegate-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportTaskListDelegate-version2"
+msgid "Progress"
+msgstr "Progress"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportTaskListDelegate-version2"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "name"
+msgstr "name"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Status"
+msgstr "Status"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "operate"
+msgstr "operate"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "status"
+msgstr "status"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "characters"
+msgstr "characters"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "duration"
+msgstr "duration"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationTableDelegate-version2"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "name"
+msgstr "name"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Status"
+msgstr "Status"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "operate"
+msgstr "operate"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "status"
+msgstr "status"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "TransCoding"
+msgstr "TransCoding"
+

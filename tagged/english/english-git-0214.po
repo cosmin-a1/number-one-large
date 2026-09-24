@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadFailTipDialog-version2"
+msgid "Sorry, the following font(s) are missing and will be replaced with the default font."
+msgstr "Sorry, the following font(s) are missing and will be replaced with the default font."
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadFailTipDialog-version2"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsCustomDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsCustomDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsCustomDlg-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsCustomDlg-version2"
+msgid "Name your custom mask and find it in the Custom category."
+msgstr "Name your custom mask and find it in the Custom category."
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsCustomDlg-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsPresetDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsPresetDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsPresetDlg-version2"
+msgid "Name your custom color preset. It will be saved under the Custom category in Preset."
+msgstr "Name your custom color preset. It will be saved under the Custom category in Preset."
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsPresetDlg-version2"
+msgid "My Preset"
+msgstr "My Preset"
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsPresetDlg-version2"
+msgid "Invalid file name."
+msgstr "Invalid file name."
+
+#: 
+#, fuzzy
+msgctxt "FSaveAsPresetDlg-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectTemplateFailDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectTemplateFailDialog-version2"
+msgid "Oops, unable to save the custom template, please shorten the file name and try again."
+msgstr "Oops, unable to save the custom template, please shorten the file name and try again."
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectTemplateFailDialog-version2"
+msgid "Oops,unable to save the Custom Clip, please shorten the file name and try again."
+msgstr "Oops,unable to save the Custom Clip, please shorten the file name and try again."
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "File"
+msgstr "File"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Help"
+msgstr "Help"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Mute"
+msgstr "Mute"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Stop"
+msgstr "Stop"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "View"
+msgstr "View"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Clear In And Out"
+msgstr "Clear In And Out"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Import Media Files"
+msgstr "Import Media Files"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Group"
+msgstr "Group"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Ruler"
+msgstr "Ruler"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Split"
+msgstr "Split"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Tools"
+msgstr "Tools"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Cancel the selected range"
+msgstr "Cancel the selected range"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Send to Back"
+msgstr "Send to Back"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Remove Out Point"
+msgstr "Remove Out Point"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select All Forward"
+msgstr "Select All Forward"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Next Frame / Move Right"
+msgstr "Next Frame / Move Right"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Previous Edit Point/ Move Up"
+msgstr "Previous Edit Point/ Move Up"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Record Voice Over"
+msgstr "Record Voice Over"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Green Marker"
+msgstr "Green Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Merge selected subtitles (multi-select state)"
+msgstr "Merge selected subtitles (multi-select state)"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Rotate 90 CW"
+msgstr "Rotate 90 CW"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Add a New Folder"
+msgstr "Add a New Folder"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Mark In"
+msgstr "Mark In"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Vertical Scroll (Timeline)"
+msgstr "Vertical Scroll (Timeline)"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Orange Marker"
+msgstr "Orange Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Remove In Point"
+msgstr "Remove In Point"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Next Second"
+msgstr "Go To Next Second"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Reveal In Explorer"
+msgstr "Reveal In Explorer"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Purple Marker"
+msgstr "Purple Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Marker"
+msgstr "Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Alt+Left Click"
+msgstr "Alt+Left Click"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Red Marker"
+msgstr "Red Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select All Clips With Same Color Mark"
+msgstr "Select All Clips With Same Color Mark"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Blue Marker"
+msgstr "Blue Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Cyan Marker"
+msgstr "Cyan Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Edit Marker"
+msgstr "Edit Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Grey Marker"
+msgstr "Grey Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Select"
+msgstr "Select"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Next Marker"
+msgstr "Go To Next Marker"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Next Edit Point/ Move Down"
+msgstr "Next Edit Point/ Move Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Miscellaneous"
+msgstr "Miscellaneous"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Close Gap"
+msgstr "Close Gap"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Create Compound Clip"
+msgstr "Create Compound Clip"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Edit Properties"
+msgstr "Edit Properties"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Previous Frame / Move Left"
+msgstr "Previous Frame / Move Left"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Exit Audio Stretch"
+msgstr "Exit Audio Stretch"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Bring Forward"
+msgstr "Bring Forward"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Merge down subtitles (radio or edited state)"
+msgstr "Merge down subtitles (radio or edited state)"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Nudge Right"
+msgstr "Nudge Right"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Go To Project Beginning"
+msgstr "Go To Project Beginning"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Open Audio Stretch"
+msgstr "Open Audio Stretch"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Switch to other shortcut preset:"
+msgstr "Switch to other shortcut preset:"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Add Audio/Video Keyframes"
+msgstr "Add Audio/Video Keyframes"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSettingDialog-version2"
+msgid "Next Keyframe"
+msgstr "Next Keyframe"
+

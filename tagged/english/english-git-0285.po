@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Export without watermark"
+msgstr "Export without watermark"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Expand template"
+msgstr "Expand template"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Limited-Time Free Asset"
+msgstr "Limited-Time Free Asset"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Detach Audio"
+msgstr "Detach Audio"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Vignette Classic"
+msgstr "Vignette Classic"
+
+#: 
+msgctxt "QObject-version3"
+msgid "VIP Plan Name"
+msgstr "VIP Plan Name"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Digital Clock or Not"
+msgstr "Digital Clock or Not"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Fade Slide 1"
+msgstr "Fade Slide 1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Fade Slide 2"
+msgstr "Fade Slide 2"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Fade Slide 3"
+msgstr "Fade Slide 3"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Fade Slide 4"
+msgstr "Fade Slide 4"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Crop And Zoom"
+msgstr "Crop And Zoom"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Color Correction"
+msgstr "Color Correction"
+
+#: 
+msgctxt "QObject-version3"
+msgid "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's"
+msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Mosaic Full"
+msgstr "Mosaic Full"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Creative Assets"
+msgstr "Creative Assets"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Transition as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Transition as an example."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Copyrighted Music"
+msgstr "Copyrighted Music"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Skew right split"
+msgstr "Skew right split"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Purple Pops Out"
+msgstr "Purple Pops Out"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Deselect All"
+msgstr "Deselect All"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Drag or Double-click to Apply"
+msgstr "Drag or Double-click to Apply"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 1"
+msgstr "Text style 1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 2"
+msgstr "Text style 2"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 3"
+msgstr "Text style 3"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 4"
+msgstr "Text style 4"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 5"
+msgstr "Text style 5"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 6"
+msgstr "Text style 6"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 7"
+msgstr "Text style 7"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 8"
+msgstr "Text style 8"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 9"
+msgstr "Text style 9"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Align Horizontal"
+msgstr "Align Horizontal"
+
+#: 
+msgctxt "QObject-version3"
+msgid "German (Germany)"
+msgstr "German (Germany)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Reflection Heigth"
+msgstr "Reflection Heigth"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Product Page"
+msgstr "Product Page"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Filmora does not have access to your %1"
+msgstr "Filmora does not have access to your %1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+msgctxt "QObject-version3"
+msgid "uParticleSize_start"
+msgstr "uParticleSize_start"
+
+#: 
+msgctxt "QObject-version3"
+msgid "offsetHalfHuman"
+msgstr "offsetHalfHuman"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Are you sure you want to proceed without syncing? Not syncing data will cause the loss of your resources and custom preset data. "
+msgstr "Are you sure you want to proceed without syncing? Not syncing data will cause the loss of your resources and custom preset data. "
+
+#: 
+msgctxt "QObject-version3"
+msgid "Cinematic Filters"
+msgstr "Cinematic Filters"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Template/Title/Color/Adjustment Layer Custom Presets"
+msgstr "Template/Title/Color/Adjustment Layer Custom Presets"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Film Grain"
+msgstr "Film Grain"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Comic Book"
+msgstr "Comic Book"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Clear proxy files"
+msgstr "Clear proxy files"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom in to the left"
+msgstr "Zoom in to the left"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Film Stock"
+msgstr "Film Stock"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Right Roll"
+msgstr "Right Roll"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Only VIP can use this function"
+msgstr "Only VIP can use this function"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Spanish (United States)"
+msgstr "Spanish (United States)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Next Edit"
+msgstr "Next Edit"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Next Step"
+msgstr "Next Step"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Spanish (Colombia)"
+msgstr "Spanish (Colombia)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "ShortCut"
+msgstr "ShortCut"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom out 1"
+msgstr "Zoom out 1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom out 2"
+msgstr "Zoom out 2"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom out 3"
+msgstr "Zoom out 3"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Renew early at %1 off"
+msgstr "Renew early at %1 off"
+
+#: 
+msgctxt "QObject-version3"
+msgid "You are temporarily unable to continue downloading new studio media. The download limit for new studio media will be reset tomorrow. "
+msgstr "You are temporarily unable to continue downloading new studio media. The download limit for new studio media will be reset tomorrow. "
+
+#: 
+msgctxt "QObject-version3"
+msgid "Xpro II"
+msgstr "Xpro II"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Mobile downloads failed, please scan the code again for transmission."
+msgstr "Mobile downloads failed, please scan the code again for transmission."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Dialogue"
+msgstr "Dialogue"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Full Screen/Restore"
+msgstr "Full Screen/Restore"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Release Notes"
+msgstr "Release Notes"
+
+#: 
+msgctxt "QObject-version3"
+msgid "No WaterMark"
+msgstr "No WaterMark"
+
+#: 
+msgctxt "QObject-version3"
+msgid "RichTick"
+msgstr "RichTick"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Right Rotation Appears"
+msgstr "Right Rotation Appears"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Online Tutorial"
+msgstr "Online Tutorial"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Thumbnail changed."
+msgstr "Thumbnail changed."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Translation failed. Please retry later."
+msgstr "Translation failed. Please retry later."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Strong Vibration"
+msgstr "Strong Vibration"
+
+#: 
+msgctxt "QObject-version3"
+msgid "%1-Day Free Trial"
+msgstr "%1-Day Free Trial"
+
+#: 
+msgctxt "QObject-version3"
+msgid "segment_length"
+msgstr "segment_length"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text Position X"
+msgstr "Text Position X"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text Position Y"
+msgstr "Text Position Y"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Z_Offset_end"
+msgstr "Z_Offset_end"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Multi-selection editing will clear the speed parameters that have been set for the selected clips."
+msgstr "Multi-selection editing will clear the speed parameters that have been set for the selected clips."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Left Side Flips In"
+msgstr "Left Side Flips In"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Quick 3D Text"
+msgstr "Quick 3D Text"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Vertical Rotation Disappears"
+msgstr "Vertical Rotation Disappears"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Jigsaw A"
+msgstr "Jigsaw A"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Jigsaw B"
+msgstr "Jigsaw B"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Jigsaw C"
+msgstr "Jigsaw C"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Jigsaw D"
+msgstr "Jigsaw D"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Jigsaw E"
+msgstr "Jigsaw E"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Jigsaw F"
+msgstr "Jigsaw F"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Bokeh Paralax"
+msgstr "Bokeh Paralax"
+
+#: 
+msgctxt "QObject-version3"
+msgid "uCount_start"
+msgstr "uCount_start"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Image Sequence"
+msgstr "Image Sequence"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "QObject-version3"
+msgid "You are free to export this asset within %1."
+msgstr "You are free to export this asset within %1."
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "3D"
+msgstr "3D"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BW"
+msgstr "BW"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cb"
+msgstr "Cb"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cr"
+msgstr "Cr"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "No"
+msgstr "No"
+

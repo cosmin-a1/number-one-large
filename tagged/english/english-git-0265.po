@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "IFFUserScoreBarPainter-version2"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+#, fuzzy
+msgctxt "FOpenQuickStartAgainGuideWidget-version2"
+msgid "Filmora Walkthrough"
+msgstr "Filmora Walkthrough"
+
+#: 
+#, fuzzy
+msgctxt "FOpenQuickStartAgainGuideWidget-version2"
+msgid "Restart Filmora Walkthrough"
+msgstr "Restart Filmora Walkthrough"
+
+#: 
+#, fuzzy
+msgctxt "FAdjustLayerContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FAdjustLayerContentMenu-version2"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+#, fuzzy
+msgctxt "FAdjustLayerContentMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FAdjustLayerContentMenu-version2"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+#, fuzzy
+msgctxt "FAdjustLayerContentMenu-version2"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeOutlineWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeOutlineWidget-version2"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeShadowWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeShadowWidget-version2"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertySubtitlePresetWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FCoverMediaPlayerToolBar-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FCoverMediaPlayerToolBar-version2"
+msgid "Replace Thumbnail"
+msgstr "Replace Thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "FCoverMediaPlayerToolBar-version2"
+msgid "Reselect a thumbnail from video or local"
+msgstr "Reselect a thumbnail from video or local"
+
+#: 
+#, fuzzy
+msgctxt "FCoverTemplateContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FCoverTemplateContentMenu-version2"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+#, fuzzy
+msgctxt "FDeleteClipPresenter-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FDeleteClipPresenter-version2"
+msgid "Delete selected media"
+msgstr "Delete selected media"
+
+#: 
+#, fuzzy
+msgctxt "FFreezeFrameContextMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FFreezeFrameContextMenu-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FGuideLineMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FGuideLineMenu-version2"
+msgid "Add Guide"
+msgstr "Add Guide"
+
+#: 
+#, fuzzy
+msgctxt "FMaskItemList-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FMaskItemList-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FMaskItemList-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FMaskItemList-version2"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+#, fuzzy
+msgctxt "FMaskItemList-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitlePresetWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitlePresetWidget-version2"
+msgid "Delete All"
+msgstr "Delete All"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelManageListWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelManageListWidget-version2"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelManageListWidget-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneRecordWidget-version2"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneRecordWidget-version2"
+msgid "Please enter a valid name"
+msgstr "Please enter a valid name"
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneRecordWidget-version2"
+msgid "Tip: The recording time must be between  <b>%1 20 s and 1 min %2</b>. Emotions, accents, etc. will be recorded and used in voice cloning."
+msgstr "Tip: The recording time must be between  <b>%1 20 s and 1 min %2</b>. Emotions, accents, etc. will be recorded and used in voice cloning."
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneRecordWidget-version2"
+msgid "Tip: The recording time must be between <b>%1 10s and 1min%2</b>. To ensure the success of subsequent voice cloning, the person performing the voice cloning operation must accurately read the text and record the audio."
+msgstr "Tip: The recording time must be between <b>%1 10s and 1min%2</b>. To ensure the success of subsequent voice cloning, the person performing the voice cloning operation must accurately read the text and record the audio."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoControl-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoControl-version2"
+msgid "Adjustment Layer Preset Saved!"
+msgstr "Adjustment Layer Preset Saved!"
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetPanel-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetPanel-version2"
+msgid "Name your custom text preset. It will be saved under Custom in the Titles menu."
+msgstr "Name your custom text preset. It will be saved under Custom in the Titles menu."
+
+#: 
+#, fuzzy
+msgctxt "FTextPresetPanel-version2"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+#, fuzzy
+msgctxt "FTopGridWidget-version2"
+msgid "Device"
+msgstr "Device"
+
+#: 
+#, fuzzy
+msgctxt "FTopGridWidget-version2"
+msgid "Voice Name"
+msgstr "Voice Name"
+
+#: 
+#, fuzzy
+msgctxt "FTextOptionsWidget-version2"
+msgid "Line Height"
+msgstr "Line Height"
+
+#: 
+#, fuzzy
+msgctxt "FTextOptionsWidget-version2"
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: 
+#, fuzzy
+msgctxt "FTextOptionsWidget-version2"
+msgid "Alignment"
+msgstr "Alignment"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationPanelClass-version2"
+msgid "Edge Processing"
+msgstr "Edge Processing"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationPanelClass-version2"
+msgid "Smooth Level"
+msgstr "Smooth Level"
+
+#: 
+#, fuzzy
+msgctxt "FAIQueueProcessButton-version2"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+#, fuzzy
+msgctxt "FAIQueueProcessButton-version2"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+#, fuzzy
+msgctxt "FAIQueueProcessButton-version2"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+#, fuzzy
+msgctxt "FAIQueueProcessButton-version2"
+msgid "Processing in queue"
+msgstr "Processing in queue"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterBottomWidget-version2"
+msgid "User Center"
+msgstr "User Center"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterBottomWidget-version2"
+msgid "Logout"
+msgstr "Logout"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterBottomWidget-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFavoritedGroupTagMenu-version2"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+#, fuzzy
+msgctxt "FFavoritedGroupTagMenu-version2"
+msgid "Add tag"
+msgstr "Add tag"
+
+#: 
+#, fuzzy
+msgctxt "FFavoritedGroupTagMenu-version2"
+msgid "Manage tags"
+msgstr "Manage tags"
+
+#: 
+#, fuzzy
+msgctxt "FSatisfactionDialog-version2"
+msgid "Neutral"
+msgstr "Neutral"
+
+#: 
+#, fuzzy
+msgctxt "FSatisfactionDialog-version2"
+msgid "How do you like the video generated from text?"
+msgstr "How do you like the video generated from text?"
+
+#: 
+#, fuzzy
+msgctxt "FSatisfactionDialog-version2"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+#, fuzzy
+msgctxt "FSatisfactionDialog-version2"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceWidget-version2"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceWidget-version2"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceWidget-version2"
+msgid "Share Space"
+msgstr "Share Space"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceWidget-version2"
+msgid "Click to open cloud space"
+msgstr "Click to open cloud space"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceWidget-version2"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceWidget-version2"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedEditingToolBar-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleDlg-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleDlg-version2"
+msgid "There are unfinished render tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+msgstr "There are unfinished render tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleDlg-version2"
+msgid "Export selected clips"
+msgstr "Export selected clips"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleDlg-version2"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+#, fuzzy
+msgctxt "LosslessBase-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "LosslessBase-version2"
+msgid "Add Segment"
+msgstr "Add Segment"
+
+#: 
+#, fuzzy
+msgctxt "LosslessBase-version2"
+msgid "Open File"
+msgstr "Open File"
+
+#: 
+#, fuzzy
+msgctxt "LosslessBase-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeGuideWidget-version2"
+msgid "Finish"
+msgstr "Finish"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeGuideWidget-version2"
+msgid "View what's new of previous versions"
+msgstr "View what's new of previous versions"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeGuideWidget-version2"
+msgid "Next Feature"
+msgstr "Next Feature"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeGuideWidget-version2"
+msgid "Try Now"
+msgstr "Try Now"
+
+#: 
+#, fuzzy
+msgctxt "FTimerDurationView-version2"
+msgid "Frames"
+msgstr "Frames"
+
+#: 
+#, fuzzy
+msgctxt "FTimerDurationView-version2"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+#, fuzzy
+msgctxt "FMediaMaterialManagerWidget-version2"
+msgid "Auto Create"
+msgstr "Auto Create"
+
+#: 
+#, fuzzy
+msgctxt "FFStepFunctionTipWidget-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Filmora AI Credits"
+msgstr "Filmora AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Usage Rules"
+msgstr "Usage Rules"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Filmora Cloud Drive"
+msgstr "Filmora Cloud Drive"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+#, fuzzy
+msgctxt "FFSinglePurchaseDialog-version2"
+msgid "Pick a plan to improve your efficiency"
+msgstr "Pick a plan to improve your efficiency"
+
+#: 
+#, fuzzy
+msgctxt "FAIImageViewDelegate-version2"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+#, fuzzy
+msgctxt "FAIImageViewDelegate-version2"
+msgid "Describe the image you want to generate"
+msgstr "Describe the image you want to generate"
+
+#: 
+#, fuzzy
+msgctxt "FAIImageViewDelegate-version2"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+#, fuzzy
+msgctxt "FAIImageViewDelegate-version2"
+msgid "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+msgstr "Describe the image you want to generate. For example: a winter lake covered in snow, reflected in the sky, and shown through a wide-angle lens."
+
+#: 
+#, fuzzy
+msgctxt "FMediaBlankContentMenu-version2"
+msgid "Import"
+msgstr "Import"
+

@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Analyzing and extracting highlight..."
+msgstr "Analyzing and extracting highlight..."
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Auto Highlight"
+msgstr "Auto Highlight"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Occur error, please try again!"
+msgstr "Occur error, please try again!"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Success! Highlight video created!"
+msgstr "Success! Highlight video created!"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Generating video..."
+msgstr "Generating video..."
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "You can enter it again on the Filmora export page."
+msgstr "You can enter it again on the Filmora export page."
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "highlight"
+msgstr "highlight"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "BiliBili"
+msgstr "BiliBili"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "XiGua"
+msgstr "XiGua"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "YouKu"
+msgstr "YouKu"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "iQiYi"
+msgstr "iQiYi"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Failed to export %1. Do you want to retry?"
+msgstr "Failed to export %1. Do you want to retry?"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Converted Successfully"
+msgstr "Converted Successfully"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "DouYin"
+msgstr "DouYin"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Share2"
+msgstr "Share2"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "AI title and description for social media"
+msgstr "AI title and description for social media"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Your export is incomplete. Do you want to abort?"
+msgstr "Your export is incomplete. Do you want to abort?"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Remaining pieces:"
+msgstr "Remaining pieces:"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Export Paused"
+msgstr "Export Paused"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Tencent"
+msgstr "Tencent"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressDialog-version2"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSEditDialog-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSEditDialog-version2"
+msgid "Advanced Split Screen Edit"
+msgstr "Advanced Split Screen Edit"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSEditDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSEditDialog-version2"
+msgid "The split screen has been modified. Do you want to save the changes?"
+msgstr "The split screen has been modified. Do you want to save the changes?"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSEditDialog-version2"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version2"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version2"
+msgid "Successfully applied to all subtitle bars"
+msgstr "Successfully applied to all subtitle bars"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleBottomBtnGroup-version2"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingDlg-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingDlg-version2"
+msgid "Duration Setting"
+msgstr "Duration Setting"
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingSettingView-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingSettingView-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingSettingView-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFToolBarManagerPanel-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FFToolBarManagerPanel-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FFToolBarManagerPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFToolBarManagerPanel-version2"
+msgid "Drag the items you want to use into the toolbar..."
+msgstr "Drag the items you want to use into the toolbar..."
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Export Succeed. "
+msgstr "Export Succeed. "
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Edit Thumbnail"
+msgstr "Edit Thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "The thumbnail has been changed. Do you want to save your changes?"
+msgstr "The thumbnail has been changed. Do you want to save your changes?"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Export Failed."
+msgstr "Export Failed."
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Export to local"
+msgstr "Export to local"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Export Failed. Insufficient disk space. "
+msgstr "Export Failed. Insufficient disk space. "
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Applying template effects, please waiting..."
+msgstr "Applying template effects, please waiting..."
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverDialog-version2"
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FSavePreseNametDlg-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FSavePreseNametDlg-version2"
+msgid "This name is already in use. Do you want to overwrite the preset?"
+msgstr "This name is already in use. Do you want to overwrite the preset?"
+
+#: 
+#, fuzzy
+msgctxt "FSavePreseNametDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSavePreseNametDlg-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Send"
+msgstr "Send"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "We're Sorry!"
+msgstr "We're Sorry!"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+msgstr "Share all the details.The more we know,the better we can help you.Such as which editing steps caused the crash. Or your can share your ideas with us."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Please include a description of the issue under 'Feedback'."
+msgstr "Please include a description of the issue under 'Feedback'."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Please include a description of the issue or a Problem Log."
+msgstr "Please include a description of the issue or a Problem Log."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Please include you email and description."
+msgstr "Please include you email and description."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+msgstr "Wondershare Filmora had a problem.Would you like to send a report so we can fix the problem?"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "This is where we'll get back to you.Double check that it's right."
+msgstr "This is where we'll get back to you.Double check that it's right."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Sending"
+msgstr "Sending"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "E-mail format is incorret."
+msgstr "E-mail format is incorret."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "*Feedback"
+msgstr "*Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Network connection failed."
+msgstr "Network connection failed."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Thanks for contact us. Please submit your suggestions or requirements below."
+msgstr "Thanks for contact us. Please submit your suggestions or requirements below."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Please provide Email, description or log."
+msgstr "Please provide Email, description or log."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "*E-mail"
+msgstr "*E-mail"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "include program log"
+msgstr "include program log"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Please include your email."
+msgstr "Please include your email."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackPanel-version2"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileTableView-version2"
+msgid "Size"
+msgstr "Size"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileTableView-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileTableView-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileTableView-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileTableView-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileTableView-version2"
+msgid "File Type"
+msgstr "File Type"
+

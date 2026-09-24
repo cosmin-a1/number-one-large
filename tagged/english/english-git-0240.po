@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Transcoding"
+msgstr "Transcoding"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "duration"
+msgstr "duration"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextTableDelegate-version2"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "name"
+msgstr "name"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Status"
+msgstr "Status"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "operate"
+msgstr "operate"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "status"
+msgstr "status"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Success"
+msgstr "Success"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "frequency"
+msgstr "frequency"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableDelegate-version2"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateToast-version2"
+msgid "view"
+msgstr "view"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateToast-version2"
+msgid "Image downloaded to directory Stock Media - AI Image - Downloads"
+msgstr "Image downloaded to directory Stock Media - AI Image - Downloads"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateToast-version2"
+msgid "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+msgstr "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateToast-version2"
+msgid "Music downloaded to directory Audio - AI Music - Downloads"
+msgstr "Music downloaded to directory Audio - AI Music - Downloads"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "year"
+msgstr "year"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "month"
+msgstr "month"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "Yearly Plan"
+msgstr "Yearly Plan"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "Premium Month"
+msgstr "Premium Month"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "Premium Yearly"
+msgstr "Premium Yearly"
+
+#: 
+#, fuzzy
+msgctxt "FFPackPurchaseComponent-version2"
+msgid "Everything in standard plan effects"
+msgstr "Everything in standard plan effects"
+
+#: 
+#, fuzzy
+msgctxt "FIntelligenceRecognizeSearchBar-version2"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+#, fuzzy
+msgctxt "FIntelligenceRecognizeSearchBar-version2"
+msgid "Search file names, visuals, and dialogue"
+msgstr "Search file names, visuals, and dialogue"
+
+#: 
+#, fuzzy
+msgctxt "FIntelligenceRecognizeSearchBar-version2"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+#, fuzzy
+msgctxt "FIntelligenceRecognizeSearchBar-version2"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Search custom adjustment layer"
+msgstr "Search custom adjustment layer"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Search adjustment layer"
+msgstr "Search adjustment layer"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Search"
+msgstr "Search"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Search downloaded media"
+msgstr "Search downloaded media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaModeBar-version2"
+msgid "Search custom compound clip"
+msgstr "Search custom compound clip"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Giphy"
+msgstr "Giphy"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search images and videos"
+msgstr "Search images and videos"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search all the GIFs and Stickers"
+msgstr "Search all the GIFs and Stickers"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search Favorite Media"
+msgstr "Search Favorite Media"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search Downloaded Media"
+msgstr "Search Downloaded Media"
+
+#: 
+#, fuzzy
+msgctxt "FStockMediaModeBar-version2"
+msgid "Search free high-resolution photos"
+msgstr "Search free high-resolution photos"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search music"
+msgstr "Search music"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search my music"
+msgstr "Search my music"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search sound effects"
+msgstr "Search sound effects"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search downloaded music"
+msgstr "Search downloaded music"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search my favorite sound effects"
+msgstr "Search my favorite sound effects"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search downloaded sound effects"
+msgstr "Search downloaded sound effects"
+
+#: 
+#, fuzzy
+msgctxt "FAudioModeBar-version2"
+msgid "Search my favorite music"
+msgstr "Search my favorite music"
+
+#: 
+#, fuzzy
+msgctxt "FAudioInfoPage-version2"
+msgid "Audio Info"
+msgstr "Audio Info"
+
+#: 
+#, fuzzy
+msgctxt "FAudioInfoPage-version2"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FAudioInfoPage-version2"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+#, fuzzy
+msgctxt "FAudioInfoPage-version2"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FAudioInfoPage-version2"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+#, fuzzy
+msgctxt "FFRemainingWidget-version2"
+msgid "Remaining available characters: %1 "
+msgstr "Remaining available characters: %1 "
+
+#: 
+#, fuzzy
+msgctxt "FFRemainingWidget-version2"
+msgid "Time Remaining:"
+msgstr "Time Remaining:"
+
+#: 
+#, fuzzy
+msgctxt "FFRemainingWidget-version2"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+#, fuzzy
+msgctxt "FFRemainingWidget-version2"
+msgid "Purchase more characters"
+msgstr "Purchase more characters"
+
+#: 
+#, fuzzy
+msgctxt "FFRemainingWidget-version2"
+msgid "Purchase more"
+msgstr "Purchase more"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "Add Smart Brush"
+msgstr "Add Smart Brush"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "The longest only supports tracking for 20s."
+msgstr "The longest only supports tracking for 20s."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidget-version2"
+msgid "Add Mask"
+msgstr "Add Mask"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "(Estimated)"
+msgstr "(Estimated)"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "Size:"
+msgstr "Size:"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "EXPORT"
+msgstr "EXPORT"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+msgstr "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "When this setting is checked, each export will use the previous export settings by default"
+msgstr "When this setting is checked, each export will use the previous export settings by default"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "Use the most recent export settings"
+msgstr "Use the most recent export settings"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "Duration:"
+msgstr "Duration:"
+

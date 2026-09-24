@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FQuickTutorialReward-version2"
+msgid "Now export your own video without watermark! Offer expires in three days."
+msgstr "Now export your own video without watermark! Offer expires in three days."
+
+#: 
+#, fuzzy
+msgctxt "FQuickTutorialReward-version2"
+msgid "Click Here to Redeem"
+msgstr "Click Here to Redeem"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverPresenter-version2"
+msgid "Changing the template will clear the currently applied effect."
+msgstr "Changing the template will clear the currently applied effect."
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverPresenter-version2"
+msgid "Change template"
+msgstr "Change template"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverPresenter-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverPresenter-version2"
+msgid "Change"
+msgstr "Change"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverPresenter-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FProjectCoverPresenter-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Background Tasks"
+msgstr "Background Tasks"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Toolbox"
+msgstr "Toolbox"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Layout Mode"
+msgstr "Layout Mode"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleToolButtonWdg-version2"
+msgid "Shortcut"
+msgstr "Shortcut"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingSettingWidget-version2"
+msgid "Simple Mode"
+msgstr "Simple Mode"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingSettingWidget-version2"
+msgid "Advanced Mode"
+msgstr "Advanced Mode"
+
+#: 
+#, fuzzy
+msgctxt "FCreatePrjGuideWidget_Normal-version2"
+msgid "Click here to start your first video"
+msgstr "Click here to start your first video"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "100,000 Resources"
+msgstr "100,000 Resources"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: 
+#, fuzzy
+msgctxt "FExportProgressPurchaseWidget-version2"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineSpeedActionPresenter-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineSpeedActionPresenter-version2"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicStartView-version2"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicStartView-version2"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBaseWidget-version2"
+msgid "Corrupted file, function not available"
+msgstr "Corrupted file, function not available"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineClipVisibleActionPresenter-version2"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineClipVisibleActionPresenter-version2"
+msgid "Disable Clip"
+msgstr "Disable Clip"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterUserInfoWidget-version2"
+msgid "Please Login"
+msgstr "Please Login"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterUserInfoWidget-version2"
+msgid "Refresh Authorization"
+msgstr "Refresh Authorization"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Only translate text"
+msgstr "Only translate text"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Translate voice and text"
+msgstr "Translate voice and text"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Select Language"
+msgstr "Select Language"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Target Language:"
+msgstr "Target Language:"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Translation Type:"
+msgstr "Translation Type:"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamPanel-version2"
+msgid "Source Language:"
+msgstr "Source Language:"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAutoCorrectionWidget-version2"
+msgid "Adjust Level"
+msgstr "Adjust Level"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAutoCorrectionWidget-version2"
+msgid "Device Model"
+msgstr "Device Model"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAutoCorrectionWidget-version2"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "FilmoraCN Download Center"
+msgstr "FilmoraCN Download Center"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Effect Store"
+msgstr "Effect Store"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+msgstr "Resource package is being downloaded. Do you want to minimize the download center to continue downloading?"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid " resource special effects package? Local resources are not deleted."
+msgstr " resource special effects package? Local resources are not deleted."
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Do you want to delete the task of the resource special effects package of "
+msgstr "Do you want to delete the task of the resource special effects package of "
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Do you want to delete the download record of "
+msgstr "Do you want to delete the download record of "
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid "Minimize windows"
+msgstr "Minimize windows"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadCenterDlg-version2"
+msgid " ? After deletion, you need to download it from the resource store again."
+msgstr " ? After deletion, you need to download it from the resource store again."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanelClass-version2"
+msgid "Track Setting"
+msgstr "Track Setting"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanelClass-version2"
+msgid "Click to start Motion Track"
+msgstr "Click to start Motion Track"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanelClass-version2"
+msgid "Link Element"
+msgstr "Link Element"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceFMWidget-version2"
+msgid "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+msgstr "You are a Filmora subscription user, and you can enjoy unlimited %1 equity now."
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceFMWidget-version2"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceFMWidget-version2"
+msgid "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+msgstr "You have %1 AI Credits, with %2 Credits from the remaining Speech-to-Text or Text-to-Speech quota conversion in old version (%3).If you roll back, your original quota will be restored. "
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceFMWidget-version2"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceFMWidget-version2"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceFMWidget-version2"
+msgid "Conversion Rules"
+msgstr "Conversion Rules"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateUserTipWidget-version2"
+msgid "Layer panel:"
+msgstr "Layer panel:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateUserTipWidget-version2"
+msgid "I know"
+msgstr "I know"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateUserTipWidget-version2"
+msgid "customize text and effect \n"
+"in a scene"
+msgstr "customize text and effect \n"
+"in a scene"
+
+#: 
+#, fuzzy
+msgctxt "FEnterAdvancedEditRefreshDialog-version2"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+#, fuzzy
+msgctxt "FTryLimitRefreshDialog-version2"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+#, fuzzy
+msgctxt "FTryLimitRefreshDialog-version2"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version2"
+msgid "Filename too long"
+msgstr "Filename too long"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version2"
+msgid "Set as the default address"
+msgstr "Set as the default address"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudSpaceSelectDownloadAddressDialog-version2"
+msgid "The file name is too long may cause the file cannot be opened after downloading"
+msgstr "The file name is too long may cause the file cannot be opened after downloading"
+
+#: 
+#, fuzzy
+msgctxt "FFTimelinePresenter-version2"
+msgid "Please select the clip with audio in the timeline."
+msgstr "Please select the clip with audio in the timeline."
+
+#: 
+#, fuzzy
+msgctxt "FFTimelinePresenter-version2"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FFTimelinePresenter-version2"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+#, fuzzy
+msgctxt "FFTimelinePresenter-version2"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+
+#: 
+#, fuzzy
+msgctxt "FFTimelinePresenter-version2"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneMainWidget-version2"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneMainWidget-version2"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+#, fuzzy
+msgctxt "FElementModeBar-version2"
+msgid "Search stickers"
+msgstr "Search stickers"
+
+#: 
+#, fuzzy
+msgctxt "FElementModeBar-version2"
+msgid "Search my favorite stickers"
+msgstr "Search my favorite stickers"
+
+#: 
+#, fuzzy
+msgctxt "FElementModeBar-version2"
+msgid "Search your generated AI Sticker."
+msgstr "Search your generated AI Sticker."
+
+#: 
+#, fuzzy
+msgctxt "FElementModeBar-version2"
+msgid "Search downloaded stickers"
+msgstr "Search downloaded stickers"
+
+#: 
+#, fuzzy
+msgctxt "MainWindow-version2"
+msgid "Wondershare Filmora Uninstaller"
+msgstr "Wondershare Filmora Uninstaller"
+
+#: 
+#, fuzzy
+msgctxt "MainWindow-version2"
+msgid "Install failed."
+msgstr "Install failed."
+
+#: 
+#, fuzzy
+msgctxt "MainWindow-version2"
+msgid "You are already the latest version!"
+msgstr "You are already the latest version!"
+
+#: 
+#, fuzzy
+msgctxt "MainWindow-version2"
+msgid "Failed to download the update."
+msgstr "Failed to download the update."
+

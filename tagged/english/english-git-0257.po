@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServiceDialog-version2"
+msgid "List of voice-text services"
+msgstr "List of voice-text services"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServiceDialog-version2"
+msgid "Speech Service dialog"
+msgstr "Speech Service dialog"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServiceDialog-version2"
+msgid "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+msgstr "Close the dialog will stop not run task and running task. Are you sure you want to continue?"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServiceDialog-version2"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServiceDialog-version2"
+msgid "Are you sure to quit?"
+msgstr "Are you sure to quit?"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServiceDialog-version2"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedControl-version2"
+msgid "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+msgstr "Applying AI Frame Interpolation will automatically cancel the AI Portrait Cutout. Continue?"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedControl-version2"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedControl-version2"
+msgid "Preview the result by Export or Render Preview"
+msgstr "Preview the result by Export or Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedControl-version2"
+msgid "When multi-selection editing, ripple editing is forced to be enabled."
+msgstr "When multi-selection editing, ripple editing is forced to be enabled."
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerWidget-version2"
+msgid "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+msgstr "There is not enough disk space, please clean the disk or redirect the folder for snapshot files."
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerWidget-version2"
+msgid "Command + mouse wheel to zoom the player"
+msgstr "Command + mouse wheel to zoom the player"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerWidget-version2"
+msgid "Insufficient Disk Space"
+msgstr "Insufficient Disk Space"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerWidget-version2"
+msgid "Ctrl + mouse wheel to zoom the player"
+msgstr "Ctrl + mouse wheel to zoom the player"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "The download center is running. Only after it is closed can the resources be migrated."
+msgstr "The download center is running. Only after it is closed can the resources be migrated."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Disk space remaining %1 GB,space required %2 GB."
+msgstr "Disk space remaining %1 GB,space required %2 GB."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "After closing the program, it will start to migrate the files from the original storage path to the new path. When finished, the program will automatically restart for you."
+msgstr "After closing the program, it will start to migrate the files from the original storage path to the new path. When finished, the program will automatically restart for you."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "The default storage location includes render files, backup files, proxy files, downloaded files, recording files, etc. After changing the default file storage path, all the above files and any new files will be migrated to the new path."
+msgstr "The default storage location includes render files, backup files, proxy files, downloaded files, recording files, etc. After changing the default file storage path, all the above files and any new files will be migrated to the new path."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "The new storage location you selected matches the original file storage location. Please select a new one."
+msgstr "The new storage location you selected matches the original file storage location. Please select a new one."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Not enough disk space"
+msgstr "Not enough disk space"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "No Permission"
+msgstr "No Permission"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Restart the program now"
+msgstr "Restart the program now"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Close Download Center"
+msgstr "Close Download Center"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "No Migration"
+msgstr "No Migration"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanel-version2"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+#, fuzzy
+msgctxt "FLoadingNoNetworkPage-version2"
+msgid "You're not connected to the internet"
+msgstr "You're not connected to the internet"
+
+#: 
+#, fuzzy
+msgctxt "FLoadingNoNetworkPage-version2"
+msgid "Filmstock"
+msgstr "Filmstock"
+
+#: 
+#, fuzzy
+msgctxt "FLoadingNoNetworkPage-version2"
+msgid "Poor network. Cloud resources couldn't load."
+msgstr "Poor network. Cloud resources couldn't load."
+
+#: 
+#, fuzzy
+msgctxt "FLoadingNoNetworkPage-version2"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+#, fuzzy
+msgctxt "FLoadingNoNetworkPage-version2"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FLoadingNoNetworkPage-version2"
+msgid "You need internet access to visit %1. Please check your connection and try again."
+msgstr "You need internet access to visit %1. Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "Open VIP,export high quality videos without watermark"
+msgstr "Open VIP,export high quality videos without watermark"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "you can enjoy 14 privileges if you open VIP immediately!"
+msgstr "you can enjoy 14 privileges if you open VIP immediately!"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "Update VIP,export immediately"
+msgstr "Update VIP,export immediately"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "ReEdit"
+msgstr "ReEdit"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "export videos with watermark"
+msgstr "export videos with watermark"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "Update VIP+VCG Member,export immediately"
+msgstr "Update VIP+VCG Member,export immediately"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "You have used the following VIP resources!"
+msgstr "You have used the following VIP resources!"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "You have used the following VIP tools!"
+msgstr "You have used the following VIP tools!"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "You have used the following VIP and VCG resources!"
+msgstr "You have used the following VIP and VCG resources!"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "Open VIP,unlock exclusive rights"
+msgstr "Open VIP,unlock exclusive rights"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "Open VIP+VCG Member,export immediately"
+msgstr "Open VIP+VCG Member,export immediately"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "You have used the following VIP tools and resources!"
+msgstr "You have used the following VIP tools and resources!"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "Open VCG Member,export immediately"
+msgstr "Open VCG Member,export immediately"
+
+#: 
+#, fuzzy
+msgctxt "FMYLicenseExportDialog-version2"
+msgid "You have used the following VCG resources!"
+msgstr "You have used the following VCG resources!"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search downloaded effects"
+msgstr "Search downloaded effects"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search my favorite effects"
+msgstr "Search my favorite effects"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search NewBlue FX"
+msgstr "Search NewBlue FX"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search audio effects"
+msgstr "Search audio effects"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search effects & filters"
+msgstr "Search effects & filters"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search video effects"
+msgstr "Search video effects"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search overlay"
+msgstr "Search overlay"
+
+#: 
+#, fuzzy
+msgctxt "FEffectModeBar-version2"
+msgid "Search Boris FX"
+msgstr "Search Boris FX"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "Customer Support"
+msgstr "Customer Support"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "To remove this limitation, you can buy an authorized copy of Filmora."
+msgstr "To remove this limitation, you can buy an authorized copy of Filmora."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "If you have previously bought Filmora, you are seeing this warning in error."
+msgstr "If you have previously bought Filmora, you are seeing this warning in error."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "You are using an illegal copy"
+msgstr "You are using an illegal copy"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "We have detected that you may be the victim of software counterfeiting."
+msgstr "We have detected that you may be the victim of software counterfeiting."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "Please contact our "
+msgstr "Please contact our "
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid " with your purchase record."
+msgstr " with your purchase record."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyAbortDialog-version2"
+msgid "All Filmora features will be disabled and the application will be closed later."
+msgstr "All Filmora features will be disabled and the application will be closed later."
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStylizerListView-version2"
+msgid "Reminding times:%1"
+msgstr "Reminding times:%1"
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStylizerListView-version2"
+msgid "You can generate 20 times each day."
+msgstr "You can generate 20 times each day."
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStylizerListView-version2"
+msgid "AI Image has generated."
+msgstr "AI Image has generated."
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStylizerListView-version2"
+msgid "You have reached the daily limit of 20 generations. Try again tomorrow."
+msgstr "You have reached the daily limit of 20 generations. Try again tomorrow."
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStylizerListView-version2"
+msgid "Remaining times: %1"
+msgstr "Remaining times: %1"
+
+#: 
+#, fuzzy
+msgctxt "FEnterTimelineLicenseProxy-version2"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditWidget-version2"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditWidget-version2"
+msgid "Customize your highlight"
+msgstr "Customize your highlight"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditWidget-version2"
+msgid "Media pannel:"
+msgstr "Media pannel:"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditWidget-version2"
+msgid "Change template, music, text"
+msgstr "Change template, music, text"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditWidget-version2"
+msgid "Storyboard:"
+msgstr "Storyboard:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoTemplateTitleBar-version2"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FVideoTemplateTitleBar-version2"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+#, fuzzy
+msgctxt "FVideoTemplateTitleBar-version2"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+#, fuzzy
+msgctxt "FVideoTemplateTitleBar-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemWidget-version2"
+msgid "Resource name"
+msgstr "Resource name"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemWidget-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemWidget-version2"
+msgid "More than 1 video use"
+msgstr "More than 1 video use"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemWidget-version2"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemWidget-version2"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemWidget-version2"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "FEmptyResourceRecordWidget-version2"
+msgid "resource mall"
+msgstr "resource mall"
+
+#: 
+#, fuzzy
+msgctxt "FEmptyResourceRecordWidget-version2"
+msgid "There is no download record, you can go to the"
+msgstr "There is no download record, you can go to the"
+
+#: 
+#, fuzzy
+msgctxt "FEmptyResourceRecordWidget-version2"
+msgid "to select the resource special effects package."
+msgstr "to select the resource special effects package."
+
+#: 
+#, fuzzy
+msgctxt "FOpenFXDownloadPage-version2"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+#, fuzzy
+msgctxt "FOpenFXDownloadPage-version2"
+msgid "The effect plugin has been installed successfully! Please close and restart Filmora to load the new installed effects correctly."
+msgstr "The effect plugin has been installed successfully! Please close and restart Filmora to load the new installed effects correctly."
+
+#: 
+#, fuzzy
+msgctxt "FOpenFXDownloadPage-version2"
+msgid "Test Close"
+msgstr "Test Close"
+
+#: 
+#, fuzzy
+msgctxt "FOpenFXDownloadPage-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FOpenFXDownloadPage-version2"
+msgid "This project file uses one or more effect plugins which are not currently available on your computer. Please download and install the plugin(s) to restore the effect(s)."
+msgstr "This project file uses one or more effect plugins which are not currently available on your computer. Please download and install the plugin(s) to restore the effect(s)."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaContentMenu-version2"
+msgid "Go to Filmora Cloud"
+msgstr "Go to Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaContentMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+

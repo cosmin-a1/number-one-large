@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "Download high-resolution watermark-free footages"
+msgstr "Download high-resolution watermark-free footages"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "SD standard definition"
+msgstr "SD standard definition"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "The download speed for 4K materials is relatively slow, please choose carefully."
+msgstr "The download speed for 4K materials is relatively slow, please choose carefully."
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadResolutionSelectDialog-version2"
+msgid "There are multiple resolutions of the current footage, please select the resolution of the footages you want to replace and download"
+msgstr "There are multiple resolutions of the current footage, please select the resolution of the footages you want to replace and download"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "There are many kinds of definition in the current image, please select the definition you need to download"
+msgstr "There are many kinds of definition in the current image, please select the definition you need to download"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "WEB Web definition"
+msgstr "WEB Web definition"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "Reading information ..."
+msgstr "Reading information ..."
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "There are many kinds of definition in the current image, please select the definition you need to use"
+msgstr "There are many kinds of definition in the current image, please select the definition you need to use"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "HD high definition"
+msgstr "HD high definition"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "Remember my choice and no asking"
+msgstr "Remember my choice and no asking"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "loading download config"
+msgstr "loading download config"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "Downloading material(%1%)"
+msgstr "Downloading material(%1%)"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "4K 4K definition"
+msgstr "4K 4K definition"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "You can reset the pop-up window in preferences"
+msgstr "You can reset the pop-up window in preferences"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "Downloaded material(%1)"
+msgstr "Downloaded material(%1)"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "Connection timed out. Please wait for a while or check your network connection."
+msgstr "Connection timed out. Please wait for a while or check your network connection."
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "There are many kinds of definition in the current video, please select the definition you need to download"
+msgstr "There are many kinds of definition in the current video, please select the definition you need to download"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+msgstr "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "SD Standard definition"
+msgstr "SD Standard definition"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectPanel-version2"
+msgid "There are many kinds of definition in the current video, please select the definition you need to use"
+msgstr "There are many kinds of definition in the current video, please select the definition you need to use"
+
+#: 
+#, fuzzy
+msgctxt "FWCCAskBindDiscDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FWCCAskBindDiscDlg-version2"
+msgid "Size : %1"
+msgstr "Size : %1"
+
+#: 
+#, fuzzy
+msgctxt "FWCCAskBindDiscDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FWCCAskBindDiscDlg-version2"
+msgid "Upload to cloud disk"
+msgstr "Upload to cloud disk"
+
+#: 
+#, fuzzy
+msgctxt "FWCCAskBindDiscDlg-version2"
+msgid "Cloud Address"
+msgstr "Cloud Address"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "Unlock Your Watermark-Free Export"
+msgstr "Unlock Your Watermark-Free Export"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "Successfully Redeemed"
+msgstr "Successfully Redeemed"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "Network Connection Error"
+msgstr "Network Connection Error"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "Your watermark-free export will be in your account in 0-5 minutes. Don't forget to share your first video with #FilmoraCenterStage on social to be the featured creator of the month!"
+msgstr "Your watermark-free export will be in your account in 0-5 minutes. Don't forget to share your first video with #FilmoraCenterStage on social to be the featured creator of the month!"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "Redeem Now"
+msgstr "Redeem Now"
+
+#: 
+#, fuzzy
+msgctxt "FWaterMarkFreeRedeemDialog-version2"
+msgid "Tips: Here's your chance to export a video without watermarks! Click the button below to redeem your free export! This offer expires in 3 days."
+msgstr "Tips: Here's your chance to export a video without watermarks! Click the button below to redeem your free export! This offer expires in 3 days."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Translate files up to 1500 characters. Please reselect the file."
+msgstr "Translate files up to 1500 characters. Please reselect the file."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "You have no resource in project, please import media files first."
+msgstr "You have no resource in project, please import media files first."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "This computer does not meet the minimum specification for running AI machine learning related features like %1. These features require Intel 6th Gen or newer CPU."
+msgstr "This computer does not meet the minimum specification for running AI machine learning related features like %1. These features require Intel 6th Gen or newer CPU."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "This computer does not meet the minimum specification for running AI machine learning related features like Auto Reframe and AI Portrait. These features require Intel 6th Gen or newer CPU."
+msgstr "This computer does not meet the minimum specification for running AI machine learning related features like Auto Reframe and AI Portrait. These features require Intel 6th Gen or newer CPU."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "The interface jump failed, please close the current interface before proceeding."
+msgstr "The interface jump failed, please close the current interface before proceeding."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Update"
+msgstr "Update"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Incompatible File"
+msgstr "Incompatible File"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Only files within 30 minutes are supported for translation.Please select again."
+msgstr "Only files within 30 minutes are supported for translation.Please select again."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+msgstr "The current version of Filmora is incompatible with your device. Please update it for a better experience. Using the current version may cause Filmora to crash."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "No resources available"
+msgstr "No resources available"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Login to use audio transfer srt"
+msgstr "Login to use audio transfer srt"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Translate up to 10 tasks at a time. Please choose again."
+msgstr "Translate up to 10 tasks at a time. Please choose again."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "The media has been lost, please relocate it first."
+msgstr "The media has been lost, please relocate it first."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Only 1 hour file can be transcribed in a single task."
+msgstr "Only 1 hour file can be transcribed in a single task."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "System environment error. The application effect failed. Please contact us to solve."
+msgstr "System environment error. The application effect failed. Please contact us to solve."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Close this window and check the resources area on the main interface"
+msgstr "Close this window and check the resources area on the main interface"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Contact us"
+msgstr "Contact us"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "You can't quit Filmora directly right now, please close the popup window \"FX Editor\" first."
+msgstr "You can't quit Filmora directly right now, please close the popup window \"FX Editor\" first."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Unrecognized file content."
+msgstr "Unrecognized file content."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Compatibility Error"
+msgstr "Compatibility Error"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Login to use audio text transfer"
+msgstr "Login to use audio text transfer"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Thumbnail changed."
+msgstr "Thumbnail changed."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "Application Effect Failed"
+msgstr "Application Effect Failed"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainForm-version2"
+msgid "No audio detected for the current file, please select the file again."
+msgstr "No audio detected for the current file, please select the file again."
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Oops!"
+msgstr "Oops!"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Drag file to start trimming"
+msgstr "Drag file to start trimming"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Importing a new video now will overwrite the existing file. Do you wish to continue?"
+msgstr "Importing a new video now will overwrite the existing file. Do you wish to continue?"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Notice"
+msgstr "Notice"
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "This file only has audio information, no video information, \n"
+"does not support exporting Instant Cutter."
+msgstr "This file only has audio information, no video information, \n"
+"does not support exporting Instant Cutter."
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid " Failed to cut video file."
+msgstr " Failed to cut video file."
+
+#: 
+#, fuzzy
+msgctxt "LosslessCutter-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "When done:"
+msgstr "When done:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Do Nothing"
+msgstr "Do Nothing"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "File Name:"
+msgstr "File Name:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Open Output Folder"
+msgstr "Open Output Folder"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Send to Filmora"
+msgstr "Send to Filmora"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+#, fuzzy
+msgctxt "LosslessOutputDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "MessageWindow-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "MessageWindow-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Please Verify that all videos in the list have been analyzed successfully."
+msgstr "Please Verify that all videos in the list have been analyzed successfully."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Export"
+msgstr "Export"
+

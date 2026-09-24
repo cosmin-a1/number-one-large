@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FMediaBlankContentMenu-version2"
+msgid "Remove unused media"
+msgstr "Remove unused media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportHelper-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportHelper-version2"
+msgid "%1 is importing now, %2 files left."
+msgstr "%1 is importing now, %2 files left."
+
+#: 
+#, fuzzy
+msgctxt "FMediaImportHelper-version2"
+msgid "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+msgstr "To ensure a smooth process, please use less than 50 clips or images when applying a template."
+
+#: 
+#, fuzzy
+msgctxt "FFColorPickPartsCtrlPrivate-version2"
+msgid "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+msgstr "RGB : %1, %2, %3 \n"
+"HSL : %4, %5, %6"
+
+#: 
+#, fuzzy
+msgctxt "FCommercialButtonWidget-version2"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+#, fuzzy
+msgctxt "FCommercialButtonWidget-version2"
+msgid "Non-Commercial Use"
+msgstr "Non-Commercial Use"
+
+#: 
+#, fuzzy
+msgctxt "FHomePageFeatureIntroWidget-version2"
+msgid "No data"
+msgstr "No data"
+
+#: 
+#, fuzzy
+msgctxt "FMiaoyingLoginAccountBtn-version2"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+#, fuzzy
+msgctxt "FMiaoyingLoginAccountBtn-version2"
+msgid "Account"
+msgstr "Account"
+
+#: 
+#, fuzzy
+msgctxt "FMiaoyingLoginAccountBtn-version2"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineAddMarkerActionPresenter-version2"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+#, fuzzy
+msgctxt "FNewFollowUsWidget-version2"
+msgid "Follow us for more tutorials."
+msgstr "Follow us for more tutorials."
+
+#: 
+#, fuzzy
+msgctxt "IFFScrollTipPainter-version2"
+msgid "Scroll to continue to the next category"
+msgstr "Scroll to continue to the next category"
+
+#: 
+#, fuzzy
+msgctxt "IFFScrollTipPainter-version2"
+msgid "No more result"
+msgstr "No more result"
+
+#: 
+#, fuzzy
+msgctxt "FFVoiceStackedWidget-version2"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FFVoiceStackedWidget-version2"
+msgid "Sorry about the failure, please check the network and click Refresh to try again"
+msgstr "Sorry about the failure, please check the network and click Refresh to try again"
+
+#: 
+#, fuzzy
+msgctxt "FTTSLoadingVoiceComponent-version2"
+msgid "In the process of obtaining a vocalist, please wait..."
+msgstr "In the process of obtaining a vocalist, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FFilterNewModeBar-version2"
+msgid "Search my favorite filters"
+msgstr "Search my favorite filters"
+
+#: 
+#, fuzzy
+msgctxt "FFilterNewModeBar-version2"
+msgid "Search downloaded filters"
+msgstr "Search downloaded filters"
+
+#: 
+#, fuzzy
+msgctxt "FFilterNewModeBar-version2"
+msgid "Search filters"
+msgstr "Search filters"
+
+#: 
+#, fuzzy
+msgctxt "FMigrationDialog-version2"
+msgid "File migration success"
+msgstr "File migration success"
+
+#: 
+#, fuzzy
+msgctxt "FMigrationDialog-version2"
+msgid "Files are being transferred to a new storage location..."
+msgstr "Files are being transferred to a new storage location..."
+
+#: 
+#, fuzzy
+msgctxt "FMigrationDialog-version2"
+msgid "Tips: Please do not close during the process"
+msgstr "Tips: Please do not close during the process"
+
+#: 
+#, fuzzy
+msgctxt "FMigrationDialog-version2"
+msgid "New Location:"
+msgstr "New Location:"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDirectionBlurEffectWidget-version2"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackDialog-version2"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackDialog-version2"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackDialog-version2"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackDialog-version2"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackDialog-version2"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackDialog-version2"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCloudResListViewPrivate-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamDialog-version2"
+msgid "AI Translation——Translate voice and text"
+msgstr "AI Translation——Translate voice and text"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslateParamDialog-version2"
+msgid "Effortlessly translate audio and text within videos into a variety of global languages!"
+msgstr "Effortlessly translate audio and text within videos into a variety of global languages!"
+
+#: 
+#, fuzzy
+msgctxt "FStoryboardPanel-version2"
+msgid "Drag or add 5-50 media to the storyboard"
+msgstr "Drag or add 5-50 media to the storyboard"
+
+#: 
+#, fuzzy
+msgctxt "FStoryboardPanel-version2"
+msgid "Add all media clips to the storyboard"
+msgstr "Add all media clips to the storyboard"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTransitionsBasicWidget-version2"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTransitionsBasicWidget-version2"
+msgid "Overlap"
+msgstr "Overlap"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTransitionsBasicWidget-version2"
+msgid "Include Trimed Fames"
+msgstr "Include Trimed Fames"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTransitionsBasicWidget-version2"
+msgid "Postfix"
+msgstr "Postfix"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTransitionsBasicWidget-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTransitionsBasicWidget-version2"
+msgid "Transition Mode"
+msgstr "Transition Mode"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomPresetControl-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomPresetControl-version2"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyListViewWidget-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyListViewWidget-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyProjectCoverPresetControl-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyProjectCoverPresetControl-version2"
+msgid "Custom Presets"
+msgstr "Custom Presets"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextPresetControl-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FSavePresetNamePanel-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FSavePresetNamePanel-version2"
+msgid "Preset Name"
+msgstr "Preset Name"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsTrackPainter-version2"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineEmptyWidget-version2"
+msgid "Drag media and effects here to create your video."
+msgstr "Drag media and effects here to create your video."
+
+#: 
+#, fuzzy
+msgctxt "FPresetTextWidget-version2"
+msgid "Press the button, then clearly read out the following script"
+msgstr "Press the button, then clearly read out the following script"
+
+#: 
+#, fuzzy
+msgctxt "FImportProjectDialog-version2"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+#, fuzzy
+msgctxt "FImportProjectDialog-version2"
+msgid "Please try again later."
+msgstr "Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FLabelEditor-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineClipRenameActionPresenter-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloneMainDialog-version2"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeGuideDialog-version2"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleBarPresenter-version2"
+msgid "Saved!"
+msgstr "Saved!"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleBarPresenter-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyStickerPanel-version2"
+msgid "Scale:"
+msgstr "Scale:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyStickerPanel-version2"
+msgid "Opacity:"
+msgstr "Opacity:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyStickerPanel-version2"
+msgid "Rotate:"
+msgstr "Rotate:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyStickerPanel-version2"
+msgid "Position:"
+msgstr "Position:"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPageTitleBar-version2"
+msgid "Search"
+msgstr "Search"
+
+#: 
+#, fuzzy
+msgctxt "FInAppBuyPageDialog-version2"
+msgid "Secure"
+msgstr "Secure"
+
+#: 
+#, fuzzy
+msgctxt "FInAppBuyPageDialog-version2"
+msgid "Money-Back Guarantee"
+msgstr "Money-Back Guarantee"
+
+#: 
+#, fuzzy
+msgctxt "FInAppBuyPageDialog-version2"
+msgid "Support Service"
+msgstr "Support Service"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenterPrivate-version2"
+msgid "Are you sure you want to delete the selected item?"
+msgstr "Are you sure you want to delete the selected item?"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenterPrivate-version2"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+#, fuzzy
+msgctxt "FAutoCreateErrorPromptWidget-version2"
+msgid "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+msgstr "Oops,Some unexpected happened in the auto-making process. Please try again to start the process."
+
+#: 
+#, fuzzy
+msgctxt "FAutoCreateErrorPromptWidget-version2"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+#, fuzzy
+msgctxt "FAutoCreateErrorPromptWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FAutoCreateErrorPromptWidget-version2"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+#, fuzzy
+msgctxt "FAutoCreateErrorPromptWidget-version2"
+msgid "Please try again."
+msgstr "Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerSoundCtrl-version2"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerSoundCtrl-version2"
+msgid "Surround"
+msgstr "Surround"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackDialog-version2"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackDialog-version2"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackDialog-version2"
+msgid "Could you please specify which aspects of the feature you are not satisfied with?"
+msgstr "Could you please specify which aspects of the feature you are not satisfied with?"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackDialog-version2"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+#, fuzzy
+msgctxt "FShortcutSwitchButton-version2"
+msgid "Switch"
+msgstr "Switch"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskTask-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraApp-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraApp-version2"
+msgid "File Name:"
+msgstr "File Name:"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomMaskManager-version2"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCustomMaskManager-version2"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FTrimControl-version2"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+#, fuzzy
+msgctxt "FTrimControl-version2"
+msgid "Current:"
+msgstr "Current:"
+
+#: 
+#, fuzzy
+msgctxt "FAudioVolumeToolTip-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySplitWidget-version2"
+msgid "Split Screen Animation"
+msgstr "Split Screen Animation"
+
+#: 
+#, fuzzy
+msgctxt "FFPurchasePreviewCreditsWidget-version2"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+#, fuzzy
+msgctxt "FFPurchasePreviewCreditsWidget-version2"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+#, fuzzy
+msgctxt "FFPurchasePreviewCreditsWidget-version2"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+#, fuzzy
+msgctxt "FFPurchasePreviewCreditsWidget-version2"
+msgid "AI Text-to-Video"
+msgstr "AI Text-to-Video"
+
+#: 
+#, fuzzy
+msgctxt "FFPurchasePreviewCreditsWidget-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+

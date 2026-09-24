@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Please select files to import."
+msgstr "Please select files to import."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Scanning Device"
+msgstr "Scanning Device"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Importing Media files"
+msgstr "Importing Media files"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "There is not enough space in the specified output directory, please choose another one. \n"
+"Disc Space needed : %1 MB, remaining : %2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one. \n"
+"Disc Space needed : %1 MB, remaining : %2 MB."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "File dose not exist or file is incomplete, unable to preview."
+msgstr "File dose not exist or file is incomplete, unable to preview."
+
+#: 
+#, fuzzy
+msgctxt "FImportVobDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FImportVobDialog-version2"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+#, fuzzy
+msgctxt "FImportVobDialog-version2"
+msgid "Convert to mpg"
+msgstr "Convert to mpg"
+
+#: 
+#, fuzzy
+msgctxt "FImportVobDialog-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FImportVobDialog-version2"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+#, fuzzy
+msgctxt "FImportVobDialog-version2"
+msgid "file(s) needs to be converted to .mpg before editing, please select a folder to store the converted file:"
+msgstr "file(s) needs to be converted to .mpg before editing, please select a folder to store the converted file:"
+
+#: 
+#, fuzzy
+msgctxt "FLoginFailedWebStateWidget-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FLoginFailedWebStateWidget-version2"
+msgid "Login Failed!"
+msgstr "Login Failed!"
+
+#: 
+#, fuzzy
+msgctxt "FMarkerEditDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMarkerEditDialog-version2"
+msgid "DELETE"
+msgstr "DELETE"
+
+#: 
+#, fuzzy
+msgctxt "FMarkerEditDialog-version2"
+msgid "Marker Editor"
+msgstr "Marker Editor"
+
+#: 
+#, fuzzy
+msgctxt "FMaskRenameDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMaskRenameDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FMaskRenameDlg-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FMaskRenameDlg-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "If you need to change it, you can right-click the downloaded material and choose to download again."
+msgstr "If you need to change it, you can right-click the downloaded material and choose to download again."
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "Locate in the resource panel"
+msgstr "Locate in the resource panel"
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "In the process of locating..."
+msgstr "In the process of locating..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "Nothing Matched"
+msgstr "Nothing Matched"
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FMediaLibraryView-version2"
+msgid "We will download the maximum resolution material for you by default."
+msgstr "We will download the maximum resolution material for you by default."
+
+#: 
+#, fuzzy
+msgctxt "FMediaPretreatmentDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPretreatmentDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPropertyDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPropertyDialog-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPropertyDialog-version2"
+msgid "Adjust Frame Rate"
+msgstr "Adjust Frame Rate"
+
+#: 
+#, fuzzy
+msgctxt "FMessageDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMessageDialog-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FMessageDialog-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "FMessageDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FMessageDialog-version2"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceListDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceListDialog-version2"
+msgid "The following particles are not available at the resource level and need to be filled in:"
+msgstr "The following particles are not available at the resource level and need to be filled in:"
+
+#: 
+#, fuzzy
+msgctxt "FMusicTrimDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FMusicTrimDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Port number:"
+msgstr "Port number:"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "No Proxy"
+msgstr "No Proxy"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "User name:"
+msgstr "User name:"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "User proxy settings:"
+msgstr "User proxy settings:"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Proxy Settings"
+msgstr "Proxy Settings"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Use Windows default prxoy settings"
+msgstr "Use Windows default prxoy settings"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "SETTING"
+msgstr "SETTING"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Server:"
+msgstr "Server:"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Manual configrations"
+msgstr "Manual configrations"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Password:"
+msgstr "Password:"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkProxySetting-version2"
+msgid "Proxy Type:"
+msgstr "Proxy Type:"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "A tag with the same name already exists"
+msgstr "A tag with the same name already exists"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "Edit tag"
+msgstr "Edit tag"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "Enter a tag name"
+msgstr "Enter a tag name"
+
+#: 
+#, fuzzy
+msgctxt "FNeworModifyUserLabelDialog-version2"
+msgid "Special characters are not allowed:"
+msgstr "Special characters are not allowed:"
+
+#: 
+#, fuzzy
+msgctxt "FPathWritableCheckDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FPathWritableCheckDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPathWritableCheckDlg-version2"
+msgid "The program does not have write permission to the following directories.\n"
+"Please select another directory to save:"
+msgstr "The program does not have write permission to the following directories.\n"
+"Please select another directory to save:"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingDialog-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingDialog-version2"
+msgid "Save as default"
+msgstr "Save as default"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingDialog-version2"
+msgid "Project Settings"
+msgstr "Project Settings"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateGuidanceDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateGuidanceDialog-version2"
+msgid "Hold the \"Alt\" key, drag your clip from the media library, and drop it on top of template preset clip in the timeline to replace it."
+msgstr "Hold the \"Alt\" key, drag your clip from the media library, and drop it on top of template preset clip in the timeline to replace it."
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateGuidanceDialog-version2"
+msgid "Drag the template to the timeline"
+msgstr "Drag the template to the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateGuidanceDialog-version2"
+msgid "The Preset Templates can help you make video creation even quicker. You only need to replace the preset media clips with your own media files."
+msgstr "The Preset Templates can help you make video creation even quicker. You only need to replace the preset media clips with your own media files."
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateGuidanceDialog-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateGuidanceDialog-version2"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyRenameDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyRenameDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyRenameDlg-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeechServiceBottomView-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeechServiceBottomView-version2"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeechServiceBottomView-version2"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeechServiceBottomView-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "Please enter valid content"
+msgstr "Please enter valid content"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "If auto split is off, only %1 characters can be processed at once."
+msgstr "If auto split is off, only %1 characters can be processed at once."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "Quit AI Text Generation"
+msgstr "Quit AI Text Generation"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "AI is generating video copywriting. Are you sure you want to close?"
+msgstr "AI is generating video copywriting. Are you sure you want to close?"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "Login to use audio text transfer"
+msgstr "Login to use audio text transfer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTTSAdvancedDialog-version2"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesDialog-version2"
+msgid "Ignore"
+msgstr "Ignore"
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesDialog-version2"
+msgid "LOCATE SELECTED"
+msgstr "LOCATE SELECTED"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadFailTipDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadFailTipDialog-version2"
+msgid "You can search and download them in the resources area"
+msgstr "You can search and download them in the resources area"
+
+#: 
+#, fuzzy
+msgctxt "FResourceDownloadFailTipDialog-version2"
+msgid "Sorry, the following resources failed to download"
+msgstr "Sorry, the following resources failed to download"
+

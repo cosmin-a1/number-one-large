@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Thumbnail upload failed."
+msgstr "Thumbnail upload failed."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+msgstr "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Upload Failed"
+msgstr "Upload Failed"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Automatically delete video exported to local"
+msgstr "Automatically delete video exported to local"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Authorization denied. Please sign in to your %1 account to proceed. "
+msgstr "Authorization denied. Please sign in to your %1 account to proceed. "
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Uploaded Successfully"
+msgstr "Uploaded Successfully"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "To upload videos,you have to create at least one channel on you Google/YouTube account. Google \"Create a YouTube channel \"to seek official support of YouTube."
+msgstr "To upload videos,you have to create at least one channel on you Google/YouTube account. Google \"Create a YouTube channel \"to seek official support of YouTube."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Your YouTube account authorization has expired. Please log in again and authorize."
+msgstr "Your YouTube account authorization has expired. Please log in again and authorize."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Your account doesn't have permissions to upload and set custom video thumbnails.%1"
+msgstr "Your account doesn't have permissions to upload and set custom video thumbnails.%1"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "ESC"
+msgstr "ESC"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "⌥+Left Click"
+msgstr "⌥+Left Click"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Alt+Scroll Up/Down"
+msgstr "Alt+Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "⌘+Left Click"
+msgstr "⌘+Left Click"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Alt+Left Click"
+msgstr "Alt+Left Click"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Scroll Up/Down"
+msgstr "Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "⌘+Scroll Up/Down"
+msgstr "⌘+Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "⇧+Scroll Up/Down"
+msgstr "⇧+Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "⌥+Scroll Up/Down"
+msgstr "⌥+Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Shift+Scroll Up/Down"
+msgstr "Shift+Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Alt+Mouse Drag"
+msgstr "Alt+Mouse Drag"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Ctrl+Scroll Up/Down"
+msgstr "Ctrl+Scroll Up/Down"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "Ctrl+Left Click"
+msgstr "Ctrl+Left Click"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutItemWid-version2"
+msgid "⌥+Mouse Drag"
+msgstr "⌥+Mouse Drag"
+
+#: 
+#, fuzzy
+msgctxt "FClipperTextEdit-version2"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+#, fuzzy
+msgctxt "FClipperTextEdit-version2"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+#, fuzzy
+msgctxt "FClipperTextEdit-version2"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+#, fuzzy
+msgctxt "FClipperTextEdit-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FClipperTextEdit-version2"
+msgid "No content to be removed!"
+msgstr "No content to be removed!"
+
+#: 
+#, fuzzy
+msgctxt "FClipperTextEdit-version2"
+msgid "The search field is empty, please re-enter the content you want to search for."
+msgstr "The search field is empty, please re-enter the content you want to search for."
+
+#: 
+#, fuzzy
+msgctxt "FFTextEdit-version2"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+#, fuzzy
+msgctxt "FFTextEdit-version2"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+#, fuzzy
+msgctxt "FFTextEdit-version2"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+#, fuzzy
+msgctxt "FFTextEdit-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FFTextEdit-version2"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+#, fuzzy
+msgctxt "QCocoaMenuItem-version2"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+#, fuzzy
+msgctxt "QCocoaMenuItem-version2"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+#, fuzzy
+msgctxt "QCocoaMenuItem-version2"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+#, fuzzy
+msgctxt "QCocoaMenuItem-version2"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+#, fuzzy
+msgctxt "FFCropEditView-version2"
+msgid "End"
+msgstr "End"
+
+#: 
+#, fuzzy
+msgctxt "FFCropEditView-version2"
+msgid "Start"
+msgstr "Start"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDoubleColorSelectorComponent-version2"
+msgid "End"
+msgstr "End"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDoubleColorSelectorComponent-version2"
+msgid "Start"
+msgstr "Start"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicFillWidget-version2"
+msgid "End"
+msgstr "End"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicFillWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicFillWidget-version2"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicFillWidget-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicFillWidget-version2"
+msgid "Start"
+msgstr "Start"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicFillWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautifyEffectWidget-version2"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautifyEffectWidget-version2"
+msgid "Face"
+msgstr "Face"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautifyEffectWidget-version2"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBeautifyEffectWidget-version2"
+msgid "Beauty"
+msgstr "Beauty"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Pan"
+msgstr "Pan"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Toggle Transparency Grid"
+msgstr "Toggle Transparency Grid"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Toggle Alpha"
+msgstr "Toggle Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Toggle Transparency Black"
+msgstr "Toggle Transparency Black"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Eraser"
+msgstr "Eraser"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Toggle Alpha Overlay"
+msgstr "Toggle Alpha Overlay"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Mask Areas to Remove"
+msgstr "Mask Areas to Remove"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Zoom Level - Fit:"
+msgstr "Zoom Level - Fit:"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Mask Areas to Keep"
+msgstr "Mask Areas to Keep"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Preview Mode"
+msgstr "Preview Mode"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingHeaderToolBar-version2"
+msgid "Overlay Color"
+msgstr "Overlay Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "LUT"
+msgstr "LUT"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "List"
+msgstr "List"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Text"
+msgstr "Text"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Tone"
+msgstr "Tone"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Input"
+msgstr "Input"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Light"
+msgstr "Light"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Background"
+msgstr "Background"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Active Words"
+msgstr "Active Words"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+msgstr "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Adjust"
+msgstr "Adjust"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Border"
+msgstr "Border"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+

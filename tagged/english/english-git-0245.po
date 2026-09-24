@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "s effects"
+msgstr "s effects"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Element"
+msgstr "Element"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "Unknown error"
+msgstr "Unknown error"
+
+#: 
+#, fuzzy
+msgctxt "FDownloadResourceDelegate-version2"
+msgid "network layer errors"
+msgstr "network layer errors"
+
+#: 
+#, fuzzy
+msgctxt "FFindSimilarMediaTypeFilterMenu-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FFindSimilarMediaTypeFilterMenu-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FFindSimilarMediaTypeFilterMenu-version2"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+#, fuzzy
+msgctxt "FFindSimilarMediaTypeFilterMenu-version2"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+#, fuzzy
+msgctxt "FFindSimilarMediaTypeFilterMenu-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "FFindSimilarMediaTypeFilterMenu-version2"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Media"
+msgstr "Media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "VCG Media"
+msgstr "VCG Media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTabBar-version2"
+msgid "Stock Media"
+msgstr "Stock Media"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Topic"
+msgstr "Topic"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Choice"
+msgstr "Choice"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Picture"
+msgstr "Picture"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Search VCG"
+msgstr "Search VCG"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Search Library"
+msgstr "Search Library"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaModeBar-version2"
+msgid "Search keyword"
+msgstr "Search keyword"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "Black"
+msgstr "Black"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "White"
+msgstr "White"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLightWidget-version2"
+msgid "Exposure"
+msgstr "Exposure"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutSearchLineEdit-version2"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutSearchLineEdit-version2"
+msgid "Search keyboard shortcuts"
+msgstr "Search keyboard shortcuts"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateModeBarFilterMenu-version2"
+msgid "Clips"
+msgstr "Clips"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateModeBarFilterMenu-version2"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateModeBarFilterMenu-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Clips"
+msgstr "Clips"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Aspect ratio_2"
+msgstr "Aspect ratio_2"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Duration_2"
+msgstr "Duration_2"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitFilterBar-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskReLoginDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskReLoginDialog-version2"
+msgid "Login failed, please click login again!"
+msgstr "Login failed, please click login again!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskReLoginDialog-version2"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskReLoginDialog-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskReLoginDialog-version2"
+msgid "You can back up your files to the cloud quickly after logging into the cloud drive."
+msgstr "You can back up your files to the cloud quickly after logging into the cloud drive."
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Minimize"
+msgstr "Minimize"
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "The recording panel is included here"
+msgstr "The recording panel is included here"
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Please check write or read permission, or choose another path to continue."
+msgstr "Please check write or read permission, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Webcam is being used by another application, please close other application and try again."
+msgstr "Webcam is being used by another application, please close other application and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Click for quick action"
+msgstr "Click for quick action"
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Re-recording will overwrite the already recorded content, are you sure?"
+msgstr "Re-recording will overwrite the already recorded content, are you sure?"
+
+#: 
+#, fuzzy
+msgctxt "FFScreenRecorderDialog-version2"
+msgid "Wondershare Screen Recorder"
+msgstr "Wondershare Screen Recorder"
+
+#: 
+#, fuzzy
+msgctxt "FGpuUpdateDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FManageUserLabelDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FManageUserLabelDialog-version2"
+msgid "All tags can be managed here"
+msgstr "All tags can be managed here"
+
+#: 
+#, fuzzy
+msgctxt "FManageUserLabelDialog-version2"
+msgid "Manage tags"
+msgstr "Manage tags"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Minimize"
+msgstr "Minimize"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Check for Updates"
+msgstr "Check for Updates"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "User Guide"
+msgstr "User Guide"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Maximize"
+msgstr "Maximize"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FProductHomePage-version2"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadFailedMessageDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadFailedMessageDialog-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadFailedMessageDialog-version2"
+msgid "%1 footage(s) download failed. If skipped, you can replace it with other materials yourself."
+msgstr "%1 footage(s) download failed. If skipped, you can replace it with other materials yourself."
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadFailedMessageDialog-version2"
+msgid "%1 footage(s) download failed"
+msgstr "%1 footage(s) download failed"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadFailedMessageDialog-version2"
+msgid "Failed to download all materials, you can use other materials to replace or retry on it."
+msgstr "Failed to download all materials, you can use other materials to replace or retry on it."
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadFailedMessageDialog-version2"
+msgid "Skip and replace"
+msgstr "Skip and replace"
+
+#: 
+#, fuzzy
+msgctxt "FVCGRetryReplaceMessageDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FVCGRetryReplaceMessageDialog-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FVCGRetryReplaceMessageDialog-version2"
+msgid "%1 footages failed to replace"
+msgstr "%1 footages failed to replace"
+
+#: 
+#, fuzzy
+msgctxt "FVCGRetryReplaceMessageDialog-version2"
+msgid "%1 footages failed to replace. If skipped, you can replace them with other materials yourself."
+msgstr "%1 footages failed to replace. If skipped, you can replace them with other materials yourself."
+
+#: 
+#, fuzzy
+msgctxt "LosslessInformationDialog-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "LosslessInformationDialog-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "LosslessInformationDialog-version2"
+msgid "Please contact our customer service."
+msgstr "Please contact our customer service."
+
+#: 
+#, fuzzy
+msgctxt "LosslessInformationDialog-version2"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+#, fuzzy
+msgctxt "LosslessInformationDialog-version2"
+msgid "<a style='color: #3CA9F8;' href = http://support.wondershare.com>Please contact our customer service.</a>"
+msgstr "<a style='color: #3CA9F8;' href = http://support.wondershare.com>Please contact our customer service.</a>"
+
+#: 
+#, fuzzy
+msgctxt "LosslessInformationDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetPanel-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetPanel-version2"
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetPanel-version2"
+msgid "Position"
+msgstr "Position"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetPanel-version2"
+msgid "Create a new Guides"
+msgstr "Create a new Guides"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetPanel-version2"
+msgid "Direction"
+msgstr "Direction"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetPanel-version2"
+msgid "Vertical"
+msgstr "Vertical"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoFillColorWidget-version2"
+msgid "Color"
+msgstr "Color"
+

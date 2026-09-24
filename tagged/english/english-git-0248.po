@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+#, fuzzy
+msgctxt "FAudioFilterBar-version2"
+msgid "Music"
+msgstr "Music"
+
+#: 
+#, fuzzy
+msgctxt "FAudioFilterBar-version2"
+msgid "Sound Effect"
+msgstr "Sound Effect"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "New and trendy style"
+msgstr "New and trendy style"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Great detail"
+msgstr "Great detail"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Clear edges"
+msgstr "Clear edges"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Style is not popular enough"
+msgstr "Style is not popular enough"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Unclear edges"
+msgstr "Unclear edges"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Subject looks good and natural"
+msgstr "Subject looks good and natural"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Insufficient detail"
+msgstr "Insufficient detail"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Blurry subject"
+msgstr "Blurry subject"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Thanks for your feedback"
+msgstr "Thanks for your feedback"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Ugly color"
+msgstr "Ugly color"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Does not match prompt"
+msgstr "Does not match prompt"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Be more specific?"
+msgstr "Be more specific?"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Great color combination"
+msgstr "Great color combination"
+
+#: 
+#, fuzzy
+msgctxt "FAIGenerateItemFeedBackWidget-version2"
+msgid "Matches prompt"
+msgstr "Matches prompt"
+
+#: 
+#, fuzzy
+msgctxt "FSchemePurchaseItemWidget-version2"
+msgid "Offer"
+msgstr "Offer"
+
+#: 
+#, fuzzy
+msgctxt "FSchemePurchaseItemWidget-version2"
+msgid "Open vip"
+msgstr "Open vip"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Start"
+msgstr "Start"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Open file local location"
+msgstr "Open file local location"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskTaskItemWidget-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportProgressDialog-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportProgressDialog-version2"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportProgressDialog-version2"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportProgressDialog-version2"
+msgid "Creating:"
+msgstr "Creating:"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportProgressDialog-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyViewClass-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Improvement program:"
+msgstr "Improvement program:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "User Interface:"
+msgstr "User Interface:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+msgstr "Launch Wondershare Creative Cloud when Wondershare Filmora launches"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+msgstr "Filmora will use the information collected only to enhance the user experience, improve, and enhance our new features."
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Launch:"
+msgstr "Launch:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Check for updates automatically:"
+msgstr "Check for updates automatically:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Message Center:"
+msgstr "Message Center:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Language:"
+msgstr "Language:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Help us to improve Wondershare Filmora"
+msgstr "Help us to improve Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Reset all program warnings:"
+msgstr "Reset all program warnings:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Appearance:"
+msgstr "Appearance:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Miscellaneous:"
+msgstr "Miscellaneous:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Project Library Window at Startup:"
+msgstr "Project Library Window at Startup:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Every Week"
+msgstr "Every Week"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "System Default"
+msgstr "System Default"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Show this Startup window when Filmora launches"
+msgstr "Show this Startup window when Filmora launches"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Read Our Privacy Policy"
+msgstr "Read Our Privacy Policy"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Every Day"
+msgstr "Every Day"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Don't show messages automatically"
+msgstr "Don't show messages automatically"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "Light Mode"
+msgstr "Light Mode"
+
+#: 
+#, fuzzy
+msgctxt "FSettingGeneralPanel-version2"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Other"
+msgstr "Other"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "What type of text are you going to do?"
+msgstr "What type of text are you going to do?"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "Product coverage"
+msgstr "Product coverage"
+
+#: 
+#, fuzzy
+msgctxt "FAIGeneratedTextWidget-version2"
+msgid "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+msgstr "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Other"
+msgstr "Other"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Too much paid content"
+msgstr "Too much paid content"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Content not wanted"
+msgstr "Content not wanted"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Poor quality of content"
+msgstr "Poor quality of content"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Unclear catalog classification"
+msgstr "Unclear catalog classification"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Unclear resource naming"
+msgstr "Unclear resource naming"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+#, fuzzy
+msgctxt "FDissatisfiedFeedbackDialog-version2"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Other"
+msgstr "Other"
+

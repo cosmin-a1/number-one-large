@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Search for hot terms popular"
+msgstr "Search for hot terms popular"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Good quality of search results"
+msgstr "Good quality of search results"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Not bad"
+msgstr "Not bad"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Low quality search results"
+msgstr "Low quality search results"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Popular topics not helpful"
+msgstr "Popular topics not helpful"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Satisfied"
+msgstr "Satisfied"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Search for hot terms liked"
+msgstr "Search for hot terms liked"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Duplicate search results"
+msgstr "Duplicate search results"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Are you satisfied with the search function?"
+msgstr "Are you satisfied with the search function?"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "The reasons for your choice above are*"
+msgstr "The reasons for your choice above are*"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Dissatisfied"
+msgstr "Dissatisfied"
+
+#: 
+#, fuzzy
+msgctxt "FSearchEvaluateFeedbackWidget-version2"
+msgid "Irrelevant search results"
+msgstr "Irrelevant search results"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Other"
+msgstr "Other"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Automatic splitting"
+msgstr "Automatic splitting"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+msgstr "After checking, the text will be automatically split and aligned with the audio file on the timeline."
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Type the topic of your text here."
+msgstr "Type the topic of your text here."
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Informative/explanatory article"
+msgstr "Informative/explanatory article"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "More Detail"
+msgstr "More Detail"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Opinion piece"
+msgstr "Opinion piece"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Text Topic*"
+msgstr "Text Topic*"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Copy generation failed, please try again later."
+msgstr "Copy generation failed, please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Type or paste text here, or use AI to generate text."
+msgstr "Type or paste text here, or use AI to generate text."
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "You can type more detail about the topic."
+msgstr "You can type more detail about the topic."
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Replace Text"
+msgstr "Replace Text"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "AI is generating results..."
+msgstr "AI is generating results..."
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Product coverage"
+msgstr "Product coverage"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "Topic Type"
+msgstr "Topic Type"
+
+#: 
+#, fuzzy
+msgctxt "FTextToSpeechGenerateTextWidget-version2"
+msgid "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+msgstr "The text generated by AI will overwrite the text you have entered. Are you sure you wish to start generating results?"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Other"
+msgstr "Other"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Did not include effect (text, filter,transition..) resources I like."
+msgstr "Did not include effect (text, filter,transition..) resources I like."
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Did not include the feature I need."
+msgstr "Did not include the feature I need."
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "The price is not appropriate."
+msgstr "The price is not appropriate."
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Hello there,\n"
+"\n"
+"I am Jony, an engineer at Wondershare Technology. We are committed to creating easy-to-use software. We will work hard to make it as suitable as possible for you.\n"
+"\n"
+"Thank you for your feedback.\n"
+"Hope to meet you again.\n"
+"\n"
+"Thank you!"
+msgstr "Hello there,\n"
+"\n"
+"I am Jony, an engineer at Wondershare Technology. We are committed to creating easy-to-use software. We will work hard to make it as suitable as possible for you.\n"
+"\n"
+"Thank you for your feedback.\n"
+"Hope to meet you again.\n"
+"\n"
+"Thank you!"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Could you tell us why you uninstalled Filmora?"
+msgstr "Could you tell us why you uninstalled Filmora?"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "We will continue to optimize our products and look forward to seeing you again."
+msgstr "We will continue to optimize our products and look forward to seeing you again."
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Can you tell me why you want to uninstall?"
+msgstr "Can you tell me why you want to uninstall?"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "It crashed or frozen on my computer."
+msgstr "It crashed or frozen on my computer."
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "I want to uninstall the old version of the software after \n"
+"upgrading."
+msgstr "I want to uninstall the old version of the software after \n"
+"upgrading."
+
+#: 
+#, fuzzy
+msgctxt "OptionPage-version2"
+msgid "Please describe the problem you encountered."
+msgstr "Please describe the problem you encountered."
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Photo"
+msgstr "Photo"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "The file has been modified. Do you want to save it?"
+msgstr "The file has been modified. Do you want to save it?"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Get More Tutorials"
+msgstr "Get More Tutorials"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Smart Cutout in progress,please wait... "
+msgstr "Smart Cutout in progress,please wait... "
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingDialog-version2"
+msgid "Watch video tutorials to master more skills"
+msgstr "Watch video tutorials to master more skills"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Pitch"
+msgstr "Pitch"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Sound Balance"
+msgstr "Sound Balance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Auto Normalization"
+msgstr "Auto Normalization"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Audio Ducking"
+msgstr "Audio Ducking"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Audio Channels"
+msgstr "Audio Channels"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Fade Out"
+msgstr "Fade Out"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Setting"
+msgstr "Setting"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Equalizer"
+msgstr "Equalizer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Fade In"
+msgstr "Fade In"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioAdjusmentWidget-version2"
+msgid "Supports copying and swapping the left and right channels of audio to ensure consistent effects in both ears."
+msgstr "Supports copying and swapping the left and right channels of audio to ensure consistent effects in both ears."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationSettingWidget-version2"
+msgid "Single loop speed"
+msgstr "Single loop speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationSettingWidget-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Insert clip after cursor"
+msgstr "Insert clip after cursor"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Insert clip at the end"
+msgstr "Insert clip at the end"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Full Screen (%1)"
+msgstr "Full Screen (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Overwrite clip"
+msgstr "Overwrite clip"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Insert Clip"
+msgstr "Insert Clip"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Snapshot (%1)"
+msgstr "Snapshot (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Restore (%1)"
+msgstr "Restore (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFMainPlayerToolBar-version2"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Snapshot (%1)"
+msgstr "Snapshot (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateEditPlayerToolBar-version2"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "In Point"
+msgstr "In Point"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Out Point"
+msgstr "Out Point"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditPlayerToolBar-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+

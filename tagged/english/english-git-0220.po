@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleBar-version2"
+msgid "TikTok"
+msgstr "TikTok"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleBar-version2"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Upload media files to the cloud for backup and sharing after logging in."
+msgstr "Upload media files to the cloud for backup and sharing after logging in."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Get free cloud capacity for a limited time!"
+msgstr "Get free cloud capacity for a limited time!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Get space"
+msgstr "Get space"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaStatePages-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "No files have been backed up yet, go to %1 to back them up"
+msgstr "No files have been backed up yet, go to %1 to back them up"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Log in your account to activate authorization and share your creation anytime, anywhere!"
+msgstr "Log in your account to activate authorization and share your creation anytime, anywhere!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Authorize to access cloud storage and share your creation anytime, anywhere!"
+msgstr "Authorize to access cloud storage and share your creation anytime, anywhere!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectStatePage-version2"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "The file uploaded is not supported"
+msgstr "The file uploaded is not supported"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Buy Wondershare Filmora membership to get cloud space benefits"
+msgstr "Buy Wondershare Filmora membership to get cloud space benefits"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Release to upload files to the cloud"
+msgstr "Release to upload files to the cloud"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Cloud space is not available."
+msgstr "Cloud space is not available."
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Drag and drop file upload"
+msgstr "Drag and drop file upload"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceStatusCommonWidget-version2"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Lack of Storage"
+msgstr "Lack of Storage"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Are you sure you want to quit?"
+msgstr "Are you sure you want to quit?"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "You have task in progress"
+msgstr "You have task in progress"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Buy Storage"
+msgstr "Buy Storage"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDisk-version2"
+msgid "Insufficient cloud storage. Please buy more."
+msgstr "Insufficient cloud storage. Please buy more."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Log in to your account to activate authorization"
+msgstr "Log in to your account to activate authorization"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "No file uploaded yet. Upload now!"
+msgstr "No file uploaded yet. Upload now!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Sorry about the information pulling failure, please click to refresh!"
+msgstr "Sorry about the information pulling failure, please click to refresh!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Storage:"
+msgstr "Storage:"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskView-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+msgstr "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Download failed: File does not exist"
+msgstr "Download failed: File does not exist"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+msgstr "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Network error. Please check network."
+msgstr "Network error. Please check network."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Sync failed"
+msgstr "Sync failed"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Download failed. Please check your network."
+msgstr "Download failed. Please check your network."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "%1 item(s) has been added to the Transfer Center."
+msgstr "%1 item(s) has been added to the Transfer Center."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Insufficient space. Please expand cloud storage."
+msgstr "Insufficient space. Please expand cloud storage."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Local directory \"%1\" is not write, please modify the local permission before downloading."
+msgstr "Local directory \"%1\" is not write, please modify the local permission before downloading."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskViewPresenter-version2"
+msgid "Insufficient Storage Available"
+msgstr "Insufficient Storage Available"
+
+#: 
+#, fuzzy
+msgctxt "FFFAQWidget-version2"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Failed to upload to YouTube. For details, please check the FAQ."
+msgstr "Failed to upload to YouTube. For details, please check the FAQ."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid " Contact for help. "
+msgstr " Contact for help. "
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Failed to export %1. Do you want to continue exporting other files?"
+msgstr "Failed to export %1. Do you want to continue exporting other files?"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Uploading speed depends on the quality of your network."
+msgstr "Uploading speed depends on the quality of your network."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid " Please check the network settings or personal account permission settings and try to upload again."
+msgstr " Please check the network settings or personal account permission settings and try to upload again."
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+#, fuzzy
+msgctxt "FUploadProgressDlg-version2"
+msgid "Do nothing"
+msgstr "Do nothing"
+

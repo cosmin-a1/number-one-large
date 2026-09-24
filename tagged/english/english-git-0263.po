@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanel-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechVoicesListView-version2"
+msgid "Start cloning your voice"
+msgstr "Start cloning your voice"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechVoicesListView-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextToSpeechVoicesListView-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FErrorPromptHelper-version2"
+msgid "Download limit exceeded"
+msgstr "Download limit exceeded"
+
+#: 
+#, fuzzy
+msgctxt "FErrorPromptHelper-version2"
+msgid "Please modify the default file path under \"Preferences > Folder\""
+msgstr "Please modify the default file path under \"Preferences > Folder\""
+
+#: 
+#, fuzzy
+msgctxt "FErrorPromptHelper-version2"
+msgid "Network Restricted"
+msgstr "Network Restricted"
+
+#: 
+#, fuzzy
+msgctxt "FErrorPromptHelper-version2"
+msgid "Today's music downloads have reached the maximum number"
+msgstr "Today's music downloads have reached the maximum number"
+
+#: 
+#, fuzzy
+msgctxt "FErrorPromptHelper-version2"
+msgid "Download Failed"
+msgstr "Download Failed"
+
+#: 
+#, fuzzy
+msgctxt "FErrorPromptHelper-version2"
+msgid "Today's new studio downloads have reached the maximum number"
+msgstr "Today's new studio downloads have reached the maximum number"
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStartView-version2"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+#, fuzzy
+msgctxt "FAIImageStartView-version2"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+#, fuzzy
+msgctxt "UpgradePage-version2"
+msgid "Upgrade completed"
+msgstr "Upgrade completed"
+
+#: 
+#, fuzzy
+msgctxt "UpgradePage-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "UpgradePage-version2"
+msgid "Launch"
+msgstr "Launch"
+
+#: 
+#, fuzzy
+msgctxt "UpgradePage-version2"
+msgid "The new version is more stable and faster!"
+msgstr "The new version is more stable and faster!"
+
+#: 
+#, fuzzy
+msgctxt "UpgradePage-version2"
+msgid "Upgrading, please wait..."
+msgstr "Upgrading, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "UpgradePage-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FLaunchTestDialog-version2"
+msgid "Environment testing"
+msgstr "Environment testing"
+
+#: 
+#, fuzzy
+msgctxt "FLaunchTestDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FCardLabel-version2"
+msgid "All content copied to clipboard."
+msgstr "All content copied to clipboard."
+
+#: 
+#, fuzzy
+msgctxt "FCardLabel-version2"
+msgid "Selected content copied to clipboard."
+msgstr "Selected content copied to clipboard."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCloudResListView-version2"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCloudResListView-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCloudResListView-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCloudResListView-version2"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyCloudResListView-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedPresetList-version2"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+#, fuzzy
+msgctxt "FHighLightPresenter-version2"
+msgid "Only clips under 5 hours can be analyzed by this tool."
+msgstr "Only clips under 5 hours can be analyzed by this tool."
+
+#: 
+#, fuzzy
+msgctxt "FHighLightPresenter-version2"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "Your computer dose not seem to meet the "
+msgstr "Your computer dose not seem to meet the "
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "Update your driver"
+msgstr "Update your driver"
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "minimum requirements "
+msgstr "minimum requirements "
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "to run Wondershare Filmora9."
+msgstr "to run Wondershare Filmora9."
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "Or, if you choose continue, you might experiece poor performance or instability."
+msgstr "Or, if you choose continue, you might experiece poor performance or instability."
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid "During previous startup Filmora crashed."
+msgstr "During previous startup Filmora crashed."
+
+#: 
+#, fuzzy
+msgctxt "FSafeModeDlg-version2"
+msgid " Please quit application and update your graphic driver to the latest.  "
+msgstr " Please quit application and update your graphic driver to the latest.  "
+
+#: 
+#, fuzzy
+msgctxt "FAudioPreviewWidget-version2"
+msgid "Record Again"
+msgstr "Record Again"
+
+#: 
+#, fuzzy
+msgctxt "FEmptyMessageView-version2"
+msgid "No message"
+msgstr "No message"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyCloud-version2"
+msgid "When the existing cloud drive is closed, the task will be cleared."
+msgstr "When the existing cloud drive is closed, the task will be cleared."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyCloud-version2"
+msgid "There are currently tasks in progress, exiting Filmora will clear all tasks."
+msgstr "There are currently tasks in progress, exiting Filmora will clear all tasks."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyCloud-version2"
+msgid "Do you agree to close the existing cloud drive and open a new one?"
+msgstr "Do you agree to close the existing cloud drive and open a new one?"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyCloud-version2"
+msgid "Are you sure you want to exit Filmora?"
+msgstr "Are you sure you want to exit Filmora?"
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyCloud-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameContextMenu-version2"
+msgid "Delete all keyframes"
+msgstr "Delete all keyframes"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameContextMenu-version2"
+msgid "Select all Keyframes"
+msgstr "Select all Keyframes"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameContextMenu-version2"
+msgid "Copy keyframe"
+msgstr "Copy keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameContextMenu-version2"
+msgid "Edit KeyFrame"
+msgstr "Edit KeyFrame"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameContextMenu-version2"
+msgid "Delete all audio keyframes"
+msgstr "Delete all audio keyframes"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameContextMenu-version2"
+msgid "Delete KeyFrame"
+msgstr "Delete KeyFrame"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSSClipContextMenu-version2"
+msgid "Clear All KeyFrames"
+msgstr "Clear All KeyFrames"
+
+#: 
+#, fuzzy
+msgctxt "FExportDevicePanel-version2"
+msgid "Export to Devices"
+msgstr "Export to Devices"
+
+#: 
+#, fuzzy
+msgctxt "FExportDevicePanel-version2"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FAddTextPresenter-version2"
+msgid "Create Title"
+msgstr "Create Title"
+
+#: 
+#, fuzzy
+msgctxt "FAddTextPresenter-version2"
+msgid "Quickly add titles with one click"
+msgstr "Quickly add titles with one click"
+
+#: 
+#, fuzzy
+msgctxt "FSmartKeyingNodeContextMenu-version2"
+msgid "Delete Point"
+msgstr "Delete Point"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+msgstr "The file name(s) would be too long for the destination folder. You can try a location that has a shorter path."
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Browse"
+msgstr "Browse"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Change"
+msgstr "Change"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Not enough disk space"
+msgstr "Not enough disk space"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "No Permission"
+msgstr "No Permission"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "The current directory has no read/write permission. Please reselect."
+msgstr "The current directory has no read/write permission. Please reselect."
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFileLineEdit2-version2"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+#, fuzzy
+msgctxt "FSaveRemindWid-version2"
+msgid "Are you sure you want to discard the changes?"
+msgstr "Are you sure you want to discard the changes?"
+
+#: 
+#, fuzzy
+msgctxt "FSaveRemindWid-version2"
+msgid "This action will reset any unsaved changes to the current keyboard preset. And this action cannot be undone."
+msgstr "This action will reset any unsaved changes to the current keyboard preset. And this action cannot be undone."
+
+#: 
+#, fuzzy
+msgctxt "FSaveRemindWid-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSaveRemindWid-version2"
+msgid "Save And Toggle presets"
+msgstr "Save And Toggle presets"
+
+#: 
+#, fuzzy
+msgctxt "FSaveRemindWid-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetNamePanel-version2"
+msgid "Please name your custom Speed Ramping settings."
+msgstr "Please name your custom Speed Ramping settings."
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsClipAudioRemixTrimLayer-version2"
+msgid "Please cancel the group before starting Audio Stretch."
+msgstr "Please cancel the group before starting Audio Stretch."
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsClipAudioRemixTrimLayer-version2"
+msgid "Audio Stretch is only supported for single 1x audio clips above 10s and below 10h."
+msgstr "Audio Stretch is only supported for single 1x audio clips above 10s and below 10h."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskAuthorizeDialog-version2"
+msgid "Authorization Refreshing..."
+msgstr "Authorization Refreshing..."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskAuthorizeDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskAuthorizeDialog-version2"
+msgid "Authorize Google Drive"
+msgstr "Authorize Google Drive"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskAuthorizeDialog-version2"
+msgid "Sign in with Google"
+msgstr "Sign in with Google"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskAuthorizeDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTaskHelper-version2"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaTaskHelper-version2"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+#, fuzzy
+msgctxt "FMediaFolderViewPrivate-version2"
+msgid "Drop the effect above the audio in timeline please to do music visualization"
+msgstr "Drop the effect above the audio in timeline please to do music visualization"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableHeaderToolTipper-version2"
+msgid "(Less than 100 words are calculated as 100 words)"
+msgstr "(Less than 100 words are calculated as 100 words)"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableHeaderToolTipper-version2"
+msgid "1 sentence per 100 words"
+msgstr "1 sentence per 100 words"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Open Anyway"
+msgstr "Open Anyway"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Influence Kit"
+msgstr "Influence Kit"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Scence"
+msgstr "Scence"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Same Series"
+msgstr "Same Series"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Your favourite assets will be stored in the \"Favorites\" folder in the media tab where they belong to."
+msgstr "Your favourite assets will be stored in the \"Favorites\" folder in the media tab where they belong to."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Filmora does not have access to your Photos Library."
+msgstr "Filmora does not have access to your Photos Library."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Sync from cloud"
+msgstr "Sync from cloud"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Some default effects used in this project file are missing,please download again."
+msgstr "Some default effects used in this project file are missing,please download again."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Go to Settings"
+msgstr "Go to Settings"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+msgstr "You can download up to %1 materials every day. You have exceeded the limit. Have a rest and come back tomorrow!"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "The resources you downloaded will be stored in the \"Downloads\" folder in the media tab where they belong to."
+msgstr "The resources you downloaded will be stored in the \"Downloads\" folder in the media tab where they belong to."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "View all"
+msgstr "View all"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemStackedView-version2"
+msgid "Click the icon to find similar assets."
+msgstr "Click the icon to find similar assets."
+

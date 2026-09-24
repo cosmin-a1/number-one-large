@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Click here to edit text"
+msgstr "Click here to edit text"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Import materials"
+msgstr "Import materials"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Play and preview"
+msgstr "Play and preview"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Click here to import Media"
+msgstr "Click here to import Media"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Drag media here to replace it"
+msgstr "Drag media here to replace it"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Replace Media"
+msgstr "Replace Media"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Drag to edit"
+msgstr "Drag to edit"
+
+#: 
+#, fuzzy
+msgctxt "FMarkerContextMenu-version2"
+msgid "Delete All Markers"
+msgstr "Delete All Markers"
+
+#: 
+#, fuzzy
+msgctxt "FMarkerContextMenu-version2"
+msgid "Modify Marker"
+msgstr "Modify Marker"
+
+#: 
+#, fuzzy
+msgctxt "FMarkerContextMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateTextEditView-version2"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateTextEditView-version2"
+msgid "Type your text here."
+msgstr "Type your text here."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseExportProxy-version2"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseExportProxy-version2"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseExportProxy-version2"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Validating resource status, please wait for a while..."
+msgstr "Validating resource status, please wait for a while..."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "You need to pay before use this resource, Please go to pay."
+msgstr "You need to pay before use this resource, Please go to pay."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Only ask once in this project"
+msgstr "Only ask once in this project"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "I have already activated it"
+msgstr "I have already activated it"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Not now"
+msgstr "Not now"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "You are using a paid effect for Filmora, click \"Purchase\"or\"Back to Edit\" before exporting."
+msgstr "You are using a paid effect for Filmora, click \"Purchase\"or\"Back to Edit\" before exporting."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "We noticed that you have already purchased Boris FX effect plugin for Filmora, now you can go to Boris FX License Tool to activate it and remove the watermark."
+msgstr "We noticed that you have already purchased Boris FX effect plugin for Filmora, now you can go to Boris FX License Tool to activate it and remove the watermark."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Activate"
+msgstr "Activate"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemLicenseTimelineProxy-version2"
+msgid "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+msgstr "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Your story needs at least one video clip! It can't be deleted."
+msgstr "Your story needs at least one video clip! It can't be deleted."
+
+#: 
+#, fuzzy
+msgctxt "FStoryItemListView-version2"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Unmute Imported Clip"
+msgstr "Unmute Imported Clip"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Mute Imported Clip"
+msgstr "Mute Imported Clip"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Crop Clip"
+msgstr "Crop Clip"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "This type of file does not support replacement."
+msgstr "This type of file does not support replacement."
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Replace Highlight"
+msgstr "Replace Highlight"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Rotate 90"
+msgstr "Rotate 90"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardListView-version2"
+msgid "Trim Video"
+msgstr "Trim Video"
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "Speech-to-Text Purchase Refresh"
+msgstr "Speech-to-Text Purchase Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "No information found."
+msgstr "No information found."
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "If you have already purchased more hours, you can now use Speech-to-Text."
+msgstr "If you have already purchased more hours, you can now use Speech-to-Text."
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "click here to purchase more hours."
+msgstr "click here to purchase more hours."
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "Text-to-Speech Purchase Refresh"
+msgstr "Text-to-Speech Purchase Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "If you have already purchased more characters, you can now use Text-to-Speech."
+msgstr "If you have already purchased more characters, you can now use Text-to-Speech."
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "Not enough characters left."
+msgstr "Not enough characters left."
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "click here to purchase more characters."
+msgstr "click here to purchase more characters."
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceRefreshDialog-version2"
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskRefreshDialog-version2"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskRefreshDialog-version2"
+msgid "Click here to expand cloud space"
+msgstr "Click here to expand cloud space"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskRefreshDialog-version2"
+msgid "Expansion Tips"
+msgstr "Expansion Tips"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskRefreshDialog-version2"
+msgid "If you have already expanded cloud storage, you can now use cloud storage."
+msgstr "If you have already expanded cloud storage, you can now use cloud storage."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskRefreshDialog-version2"
+msgid "click here to buy Wondershare Filmora"
+msgstr "click here to buy Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskRefreshDialog-version2"
+msgid "If you have already purchased Filmora, you can now use cloud storage."
+msgstr "If you have already purchased Filmora, you can now use cloud storage."
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemDragLayer-version2"
+msgid "title"
+msgstr "title"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemDragLayer-version2"
+msgid "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+msgstr "To keep the software running stably, we limits adding more than %1%2 to the timeline at a time"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemDragLayer-version2"
+msgid "effect"
+msgstr "effect"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemDragLayer-version2"
+msgid "Quantity exceeds the limit"
+msgstr "Quantity exceeds the limit"
+
+#: 
+#, fuzzy
+msgctxt "FFolderInfoWgt-version2"
+msgid "Sync text presets"
+msgstr "Sync text presets"
+
+#: 
+#, fuzzy
+msgctxt "FFolderInfoWgt-version2"
+msgid "Sync template presets"
+msgstr "Sync template presets"
+
+#: 
+#, fuzzy
+msgctxt "FFolderInfoWgt-version2"
+msgid "Sync compound clips"
+msgstr "Sync compound clips"
+
+#: 
+#, fuzzy
+msgctxt "FFolderInfoWgt-version2"
+msgid "Sync adjustment layers"
+msgstr "Sync adjustment layers"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Switching to another mask will remove the current mask. Continue anyway?"
+msgstr "Switching to another mask will remove the current mask. Continue anyway?"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Cancle"
+msgstr "Cancle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Remove"
+msgstr "Remove"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Switch to other mask will remove current draw mask. Continue anyway?"
+msgstr "Switch to other mask will remove current draw mask. Continue anyway?"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Remove Mask"
+msgstr "Remove Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskBasicWidget-version2"
+msgid "Remove Draw Mask"
+msgstr "Remove Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "10K+ Preset Templates"
+msgstr "10K+ Preset Templates"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "Speech-to-Text, Text-to-Speech"
+msgstr "Speech-to-Text, Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "50+ Selected Collections"
+msgstr "50+ Selected Collections"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "Advanced AI Effects"
+msgstr "Advanced AI Effects"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "100K High Quality Resources"
+msgstr "100K High Quality Resources"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "Boris FX and NewBlue FX"
+msgstr "Boris FX and NewBlue FX"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "4K Support"
+msgstr "4K Support"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "VFX Text"
+msgstr "VFX Text"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "10M+ Creative Assets"
+msgstr "10M+ Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchasePrivilegeWidget-version2"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "lock aspect ratio"
+msgstr "lock aspect ratio"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "Color Space:"
+msgstr "Color Space:"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+msgstr "It is found that the current device does not satisfy the conditions for enabling GPU acceleration, and there may be color differences during preview."
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "unlock aspect ratio"
+msgstr "unlock aspect ratio"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+#, fuzzy
+msgctxt "FProjectSettingPanel-version2"
+msgid "Aspect Ratio "
+msgstr "Aspect Ratio "
+

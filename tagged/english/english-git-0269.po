@@ -1,0 +1,591 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFVideoAudioMediaDragWidget-version2"
+msgid "Drag video to the timeline"
+msgstr "Drag video to the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FAICopilotDialog-version2"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+#, fuzzy
+msgctxt "FAICopilotPresenter-version2"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+#, fuzzy
+msgctxt "FCheckingDeviceAuthWebStateWidget-version2"
+msgid "Checking Device Authorization..."
+msgstr "Checking Device Authorization..."
+
+#: 
+#, fuzzy
+msgctxt "FCreatorAcademyDialog-version2"
+msgid "Creator Hub"
+msgstr "Creator Hub"
+
+#: 
+#, fuzzy
+msgctxt "RecorderCenter-version2"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+#, fuzzy
+msgctxt "LosslessToolBar-version2"
+msgid "Mark In (%1)"
+msgstr "Mark In (%1)"
+
+#: 
+#, fuzzy
+msgctxt "LosslessToolBar-version2"
+msgid "Mark Out (%1)"
+msgstr "Mark Out (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkErrorPage-version2"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+#, fuzzy
+msgctxt "FNetworkErrorPage-version2"
+msgid "Please check the network"
+msgstr "Please check the network"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleUnableEditWidget-version2"
+msgid "Unable to select normal and 3D text for editing at the same time, please try again."
+msgstr "Unable to select normal and 3D text for editing at the same time, please try again."
+
+#: 
+#, fuzzy
+msgctxt "FExportInternetPanel-version2"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+#, fuzzy
+msgctxt "FFDropDialog-version2"
+msgid "Wondershare Filmora 13 Beta"
+msgstr "Wondershare Filmora 13 Beta"
+
+#: 
+#, fuzzy
+msgctxt "FEffectWidgetHeader-version2"
+msgid "Not all of the selected clips are enabled."
+msgstr "Not all of the selected clips are enabled."
+
+#: 
+#, fuzzy
+msgctxt "FProductName-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FUserTagCollecterCefView-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FUserTagCollecterDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaResolutionSelectDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FVCGVIPGuideDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FItemDelegate-version2"
+msgid "Check All"
+msgstr "Check All"
+
+#: 
+#, fuzzy
+msgctxt "QWidget-version2"
+msgid "Setting_1"
+msgstr "Setting_1"
+
+#: 
+#, fuzzy
+msgctxt "QWidget-version2"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+
+#: 
+#, fuzzy
+msgctxt "QWidget-version2"
+msgid "Material_1"
+msgstr "Material_1"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemIconDelegate-version2"
+msgid "Click to clear template effect"
+msgstr "Click to clear template effect"
+
+#: 
+#, fuzzy
+msgctxt "FIntroLogoTitleBar-version2"
+msgid "Add Your Logo"
+msgstr "Add Your Logo"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeMultiElementDialog-version2"
+msgid "Download Tips"
+msgstr "Download Tips"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeMultiElementDialog-version2"
+msgid "Installation Tips"
+msgstr "Installation Tips"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineItemWidget-version2"
+msgid "Element"
+msgstr "Element"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertItem-version2"
+msgid "Your source projects are damaged"
+msgstr "Your source projects are damaged"
+
+#: 
+#, fuzzy
+msgctxt "FFMissingResourceDownloadMgr-version2"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+#, fuzzy
+msgctxt "FImportMaterialPage-version2"
+msgid "All Templates"
+msgstr "All Templates"
+
+#: 
+#, fuzzy
+msgctxt "FImportMaterialPage-version2"
+msgid "Import your media"
+msgstr "Import your media"
+
+#: 
+#, fuzzy
+msgctxt "FTitleBarBuyBtn-version2"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: 
+#, fuzzy
+msgctxt "FTitleBarBuyBtn-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineAudioRecorderActionPresenter-version2"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+#, fuzzy
+msgctxt "FFVoicePanel-version2"
+msgid "There is currently no collection, go and collect your favorite vocalist!"
+msgstr "There is currently no collection, go and collect your favorite vocalist!"
+
+#: 
+#, fuzzy
+msgctxt "FFPlaySettingWidget-version2"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterDlg-version2"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+#, fuzzy
+msgctxt "BorisFXUnActivationDialog-version2"
+msgid "Check Boris FX activation code here."
+msgstr "Check Boris FX activation code here."
+
+#: 
+#, fuzzy
+msgctxt "FCheckSchemePlanFailedWebStateWidget-version2"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNavigationBar-version2"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectWidget-version2"
+msgid "My Cloud Media"
+msgstr "My Cloud Media"
+
+#: 
+#, fuzzy
+msgctxt "FFDrawMaskGuideWidget-version2"
+msgid "Brush over an area to begin Smart Cutout."
+msgstr "Brush over an area to begin Smart Cutout."
+
+#: 
+#, fuzzy
+msgctxt "FNothingFindWid-version2"
+msgid "No results matched the searching keywords."
+msgstr "No results matched the searching keywords."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidgetClass-version2"
+msgid "FPropertyMaskAIMaskWidget"
+msgstr "FPropertyMaskAIMaskWidget"
+
+#: 
+#, fuzzy
+msgctxt "FBackupProjectDetailWidget-version2"
+msgid "All Projects"
+msgstr "All Projects"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsVideoClipPainter-version2"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsVideoClipPainter-version2"
+msgid "Removing object (Task %1)"
+msgstr "Removing object (Task %1)"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelToast-version2"
+msgid "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+msgstr "Too many favorites? Give tag management a try! Select content and right-click to easily add tags."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineZoomToFitActionPresenter-version2"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FInstantModeWidget-version2"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+#, fuzzy
+msgctxt "FInstantModeWidget-version2"
+msgid "Create your own videos from templates"
+msgstr "Create your own videos from templates"
+
+#: 
+#, fuzzy
+msgctxt "FInstantModeWidget-version2"
+msgid "Get Filmora Cloud"
+msgstr "Get Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FFMenu-version2"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+#, fuzzy
+msgctxt "FFTabWidget-version2"
+msgid "All licensed users of Wondershare Filmora have access to this feature."
+msgstr "All licensed users of Wondershare Filmora have access to this feature."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterLimitItemWidget-version2"
+msgid "*Up to 200 transmission history records"
+msgstr "*Up to 200 transmission history records"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordView-version2"
+msgid "Capture Video"
+msgstr "Capture Video"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseTimingWidget-version2"
+msgid "Discount Expires in"
+msgstr "Discount Expires in"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomDialog-version2"
+msgid "Crop and Zoom"
+msgstr "Crop and Zoom"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeMultiElementWidget-version2"
+msgid "All Features"
+msgstr "All Features"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version2"
+msgid "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+msgstr "No valid object detected. Click [Add Mask] and use Smart Brush to draw a mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskGroupWidgetClass-version2"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskGroupWidgetClass-version2"
+msgid "Add Draw Mask"
+msgstr "Add Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCustomAddVoiceComponent-version2"
+msgid "Use Voice Clone to create your custom voice"
+msgstr "Use Voice Clone to create your custom voice"
+
+#: 
+#, fuzzy
+msgctxt "FFNoNetworkWebStateWidget-version2"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskBottomBar-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskCheckDiskInfoDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FKOCVideosItemWidget-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FTutorialVideosItemWidget-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "ProductItem-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FTTSNoFavoriteComponent-version2"
+msgid "There is currently no collection, go and collect your favorite voice!"
+msgstr "There is currently no collection, go and collect your favorite voice!"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditProcessMask-version2"
+msgid "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+msgstr "Your creation is being made!\n"
+"This might take a couple minutes - magic takes time!"
+
+#: 
+#, fuzzy
+msgctxt "FFSimpleProgressPanel-version2"
+msgid "Conversion is in progress, please wait..."
+msgstr "Conversion is in progress, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineQuick3DTextActionPresenter-version2"
+msgid "Quick 3D Text"
+msgstr "Quick 3D Text"
+
+#: 
+#, fuzzy
+msgctxt "FRenewDialog-version2"
+msgid "If you have renewed Filmora, you can now export without a watermark!"
+msgstr "If you have renewed Filmora, you can now export without a watermark!"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorCurvePane-version2"
+msgid "The curve control point has reached the upper limit"
+msgstr "The curve control point has reached the upper limit"
+
+#: 
+#, fuzzy
+msgctxt "FAISmartEditorSelectDlg-version2"
+msgid "AI Text Based Editing ( Silence Detection )"
+msgstr "AI Text Based Editing ( Silence Detection )"
+
+#: 
+#, fuzzy
+msgctxt "someContext-version2"
+msgid "Some term"
+msgstr "Some term"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "."
+msgstr "."
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Please enter your email"
+msgstr "Please enter your email"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Enter your password"
+msgstr "Enter your password"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Create a Wondershare ID"
+msgstr "Create a Wondershare ID"
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "By clicking Create account, I agree that I have read and accepted the "
+msgstr "By clicking Create account, I agree that I have read and accepted the "
+
+#: 
+msgctxt "FUserRegisterPage-version3"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid ":"
+msgstr ":"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Transition Duration:"
+msgstr "Transition Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Pan & Zoom"
+msgstr "Pan & Zoom"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Photo Placement:"
+msgstr "Photo Placement:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Effect Duration:"
+msgstr "Effect Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Insert Mode:"
+msgstr "Insert Mode:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Split Button:"
+msgstr "Split Button:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Default Duration:"
+msgstr "Default Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Freeze Duration:"
+msgstr "Freeze Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version3"
+msgid "Show the split button on timeline playhead"
+msgstr "Show the split button on timeline playhead"
+

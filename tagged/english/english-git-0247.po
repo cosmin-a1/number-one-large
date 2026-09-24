@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareDialog-version2"
+msgid "There is no network, please check the network before clicking share."
+msgstr "There is no network, please check the network before clicking share."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareDialog-version2"
+msgid "Sorry,link creation failed.Please recreate the link."
+msgstr "Sorry,link creation failed.Please recreate the link."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareDialog-version2"
+msgid "Create Link"
+msgstr "Create Link"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareDialog-version2"
+msgid "Buy Storage"
+msgstr "Buy Storage"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareDialog-version2"
+msgid "Extraction code"
+msgstr "Extraction code"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareDialog-version2"
+msgid "Insufficient cloud storage. Please buy more."
+msgstr "Insufficient cloud storage. Please buy more."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskCompoundClipManager-version2"
+msgid "Do you want to enable auto-sync?"
+msgstr "Do you want to enable auto-sync?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskCompoundClipManager-version2"
+msgid "Once turned on, custom compound clip will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+msgstr "Once turned on, custom compound clip will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskCustomTitleManager-version2"
+msgid "Do you want to enable auto-sync?"
+msgstr "Do you want to enable auto-sync?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskCustomTitleManager-version2"
+msgid "Once turned on, the custom text presets will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+msgstr "Once turned on, the custom text presets will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskProjectTemplateManager-version2"
+msgid "Do you want to enable auto-sync?"
+msgstr "Do you want to enable auto-sync?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskProjectTemplateManager-version2"
+msgid "Once turned on, custom templates will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+msgstr "Once turned on, custom templates will be automatically synced and the content can be accessed on any device. Going to the preferences, you can cancel the sync."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskProjectTemplateManager-version2"
+msgid "Click to quickly share files"
+msgstr "Click to quickly share files"
+
+#: 
+#, fuzzy
+msgctxt "FLoginAccountBtn-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "FLoginAccountBtn-version2"
+msgid "Account"
+msgstr "Account"
+
+#: 
+#, fuzzy
+msgctxt "FNeedLoginPage-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "FNeedLoginPage-version2"
+msgid "Login to sync all favorites"
+msgstr "Login to sync all favorites"
+
+#: 
+#, fuzzy
+msgctxt "FNeedLoginPage-version2"
+msgid "Login to sync all VCG"
+msgstr "Login to sync all VCG"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCloneVoiceStateComponent-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCloneVoiceStateComponent-version2"
+msgid "%1 Sign in %2 to sync voices and clone your voices now %3"
+msgstr "%1 Sign in %2 to sync voices and clone your voices now %3"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCloneVoiceStateComponent-version2"
+msgid "Clone Voice"
+msgstr "Clone Voice"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCloneVoiceStateComponent-version2"
+msgid "Use %1 Voice Clone %2 to create your custom voice %3"
+msgstr "Use %1 Voice Clone %2 to create your custom voice %3"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCustomLoginComponent-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "FTTSCustomLoginComponent-version2"
+msgid "Sign in to sync voices and clone your voices now"
+msgstr "Sign in to sync voices and clone your voices now"
+
+#: 
+#, fuzzy
+msgctxt "FTTSFavoriteLoginComponent-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "FTTSFavoriteLoginComponent-version2"
+msgid "Log in to sync all favorites"
+msgstr "Log in to sync all favorites"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchPlayerToolBar-version2"
+msgid "Match"
+msgstr "Match"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchPlayerToolBar-version2"
+msgid "Previous Clip"
+msgstr "Previous Clip"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchPlayerToolBar-version2"
+msgid "Next Clip"
+msgstr "Next Clip"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Media"
+msgstr "Media"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Template presets"
+msgstr "Template presets"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "1. Mobile, tablet and PC files can easily communicate with each other and editing is more convenient."
+msgstr "1. Mobile, tablet and PC files can easily communicate with each other and editing is more convenient."
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Color Preset"
+msgstr "Color Preset"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Title preset"
+msgstr "Title preset"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "2. Text, template and adjustment layer presets are automatically synchronized, which is easier and more efficient."
+msgstr "2. Text, template and adjustment layer presets are automatically synchronized, which is easier and more efficient."
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Search"
+msgstr "Search"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Multi-terminal collaboration, real-time creation"
+msgstr "Multi-terminal collaboration, real-time creation"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Finished Video"
+msgstr "Finished Video"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "There are currently no synced preset files"
+msgstr "There are currently no synced preset files"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Custom preset files support automatic synchronization and can be used across devices after synchronization."
+msgstr "Custom preset files support automatic synchronization and can be used across devices after synchronization."
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Project"
+msgstr "Project"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "No results found."
+msgstr "No results found."
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Adjustment layer"
+msgstr "Adjustment layer"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Go to sync"
+msgstr "Go to sync"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceContent-version2"
+msgid "Switch to thumbnail mode"
+msgstr "Switch to thumbnail mode"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceUploadMenu-version2"
+msgid "Media"
+msgstr "Media"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceUploadMenu-version2"
+msgid "Project"
+msgstr "Project"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version2"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version2"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version2"
+msgid "Folder \"%1\" is already in this location. Do you want to merge all files to it?"
+msgstr "Folder \"%1\" is already in this location. Do you want to merge all files to it?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaLoadLocalFolderFilesDialog-version2"
+msgid "Keep Both"
+msgstr "Keep Both"
+
+#: 
+#, fuzzy
+msgctxt "FDynamicTextPopupMenu-version2"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+#, fuzzy
+msgctxt "FDynamicTextPopupMenu-version2"
+msgid "Emphasis"
+msgstr "Emphasis"
+
+#: 
+#, fuzzy
+msgctxt "FFMasterVolumeDisplayButton-version2"
+msgid "Meter"
+msgstr "Meter"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Mode:"
+msgstr "Mode:"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Light Stream"
+msgstr "Light Stream"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Keep Audio pitch"
+msgstr "Keep Audio pitch"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Repeat"
+msgstr "Repeat"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Frame Blending"
+msgstr "Frame Blending"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedAndDurationPanel-version2"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHumanSegmentationWidget-version2"
+msgid "Model"
+msgstr "Model"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHumanSegmentationWidget-version2"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHumanSegmentationWidget-version2"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Folder Name:"
+msgstr "Folder Name:"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Please make sure you have selected a valid folder."
+msgstr "Please make sure you have selected a valid folder."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeExportDlg-version2"
+msgid "Export to MP4"
+msgstr "Export to MP4"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Pond5"
+msgstr "Pond5"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Date Created:"
+msgstr "Date Created:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Media Created:"
+msgstr "Media Created:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Commercial Info"
+msgstr "Commercial Info"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "New Studio"
+msgstr "New Studio"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Material Source:"
+msgstr "Material Source:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Location:"
+msgstr "Location:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Keyword:"
+msgstr "Keyword:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Format:"
+msgstr "Format:"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPage-version2"
+msgid "Date Imported:"
+msgstr "Date Imported:"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one.\n"
+"Dise Space needed :%1 MB, remaining:%2 MB."
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionExportDialog-version2"
+msgid "Custom"
+msgstr "Custom"
+

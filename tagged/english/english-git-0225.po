@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "Copyright %1 %2 Wondershare. All rights reserved."
+msgstr "Copyright %1 %2 Wondershare. All rights reserved."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "day"
+msgstr "day"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "days"
+msgstr "days"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Permission"
+msgstr "Permission"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "With password"
+msgstr "With password"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Allow comments"
+msgstr "Allow comments"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Validity Period"
+msgstr "Validity Period"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Without password"
+msgstr "Without password"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Password"
+msgstr "Password"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Permanent"
+msgstr "Permanent"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "The number of downloads is determined by the cloud membership rights."
+msgstr "The number of downloads is determined by the cloud membership rights."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Support 4 letters or numbers"
+msgstr "Support 4 letters or numbers"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "Allow downloads"
+msgstr "Allow downloads"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskShareWidget-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "day"
+msgstr "day"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "days"
+msgstr "days"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Unlock Speech-to-Text"
+msgstr "Unlock Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Export in 4K resolution is a premium feature. Purchase to export in 4K resolution."
+msgstr "Export in 4K resolution is a premium feature. Purchase to export in 4K resolution."
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Try it"
+msgstr "Try it"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Your trial period has expired. Buy Filmora now to unlock."
+msgstr "Your trial period has expired. Buy Filmora now to unlock."
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Trial Limitation"
+msgstr "Trial Limitation"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Unlock Speech-to-Text Service by upgrading your free Filmora license"
+msgstr "Unlock Speech-to-Text Service by upgrading your free Filmora license"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Try %1 for %2. Buy Filmora now to unlock."
+msgstr "Try %1 for %2. Buy Filmora now to unlock."
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Unlock Text-to-Speech"
+msgstr "Unlock Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FFeatureTryLimitDialog-version2"
+msgid "Unlock Text-to-Speech Service by upgrading your free license of Wondershare Filmora."
+msgstr "Unlock Text-to-Speech Service by upgrading your free license of Wondershare Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "day"
+msgstr "day"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "days"
+msgstr "days"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Try it Free"
+msgstr "Try it Free"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Trial Limitation"
+msgstr "Trial Limitation"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Try out the premium features for %1 %2. At the end of your free trial period, you can buy a Filmora paid plan to unlock the premium features."
+msgstr "Try out the premium features for %1 %2. At the end of your free trial period, you can buy a Filmora paid plan to unlock the premium features."
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FTrialVerificationView-version2"
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "min"
+msgstr "min"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Backup project"
+msgstr "Backup project"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Default Storage Location:"
+msgstr "Default Storage Location:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Change"
+msgstr "Change"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "This change will take effect after clicking \"Apply\" and restarting the program."
+msgstr "This change will take effect after clicking \"Apply\" and restarting the program."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Backup Settings:"
+msgstr "Backup Settings:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "Proxy Files"
+msgstr "Proxy Files"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFoldersPanelClass-version2"
+msgid "FSettingFoldersPanel"
+msgstr "FSettingFoldersPanel"
+
+#: 
+#, fuzzy
+msgctxt "FSettingSavePanel-version2"
+msgid "min"
+msgstr "min"
+
+#: 
+#, fuzzy
+msgctxt "FSettingSavePanel-version2"
+msgid "Save:"
+msgstr "Save:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingSavePanel-version2"
+msgid "BROWSE"
+msgstr "BROWSE"
+
+#: 
+#, fuzzy
+msgctxt "FSettingSavePanel-version2"
+msgid "Backup Project file to:"
+msgstr "Backup Project file to:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingSavePanel-version2"
+msgid "Back up my project every"
+msgstr "Back up my project every"
+
+#: 
+#, fuzzy
+msgctxt "FSettingSavePanel-version2"
+msgid "Default Project location:"
+msgstr "Default Project location:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "sec"
+msgstr "sec"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Best"
+msgstr "Best"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "GPU:"
+msgstr "GPU:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Good"
+msgstr "Good"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Start/Stop Hotkey:"
+msgstr "Start/Stop Hotkey:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "The computer screen and camera footage are merged into a single track."
+msgstr "The computer screen and camera footage are merged into a single track."
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Play Mouse Click Sound"
+msgstr "Play Mouse Click Sound"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Show Mouse Clicks in Recording"
+msgstr "Show Mouse Clicks in Recording"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "59.94 fps"
+msgstr "59.94 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "23.97 fps"
+msgstr "23.97 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "29.97 fps"
+msgstr "29.97 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Camera Screen Splitting"
+msgstr "Camera Screen Splitting"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Recording Mode:"
+msgstr "Recording Mode:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "12 fps"
+msgstr "12 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "15 fps"
+msgstr "15 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "20 fps"
+msgstr "20 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "24 fps"
+msgstr "24 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "25 fps"
+msgstr "25 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "30 fps"
+msgstr "30 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "50 fps"
+msgstr "50 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "60 fps"
+msgstr "60 fps"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Better"
+msgstr "Better"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Mouse:"
+msgstr "Mouse:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Hide mouse gesture"
+msgstr "Hide mouse gesture"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Count Down:"
+msgstr "Count Down:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Frame rate:"
+msgstr "Frame rate:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Save To:"
+msgstr "Save To:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Enable GPU acceleration"
+msgstr "Enable GPU acceleration"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Stop Recording after"
+msgstr "Stop Recording after"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Camera Screen Merging"
+msgstr "Camera Screen Merging"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Pause/Resume Hotkey:"
+msgstr "Pause/Resume Hotkey:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Please make sure that your system audio is turned on."
+msgstr "Please make sure that your system audio is turned on."
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "The computer screen and camera footage are placed on separate tracks, allowing for separate editing."
+msgstr "The computer screen and camera footage are placed on separate tracks, allowing for separate editing."
+
+#: 
+#, fuzzy
+msgctxt "FFRecorderSetting-version2"
+msgid "Record Timer:"
+msgstr "Record Timer:"
+
+#: 
+#, fuzzy
+msgctxt "FFreezeTimeSetDlg-version2"
+msgid "sec"
+msgstr "sec"
+
+#: 
+#, fuzzy
+msgctxt "FFreezeTimeSetDlg-version2"
+msgid "Freeze Time"
+msgstr "Freeze Time"
+
+#: 
+#, fuzzy
+msgctxt "FFreezeTimeSetDlg-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FFreezeTimeSetDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "sec"
+msgstr "sec"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "Back"
+msgstr "Back"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+#, fuzzy
+msgctxt "FIntroEditDialog-version2"
+msgid "Create Intro"
+msgstr "Create Intro"
+

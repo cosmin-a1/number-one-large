@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "Authorization has expired please click to retry, complete the login can upload video."
+msgstr "Authorization has expired please click to retry, complete the login can upload video."
+
+#: 
+#, fuzzy
+msgctxt "FThirdLoginDlg-version2"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+#, fuzzy
+msgctxt "FThirdLoginDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FThirdLoginDlg-version2"
+msgid "The waiting time is too long and the session has expired, please try again."
+msgstr "The waiting time is too long and the session has expired, please try again."
+
+#: 
+#, fuzzy
+msgctxt "FThirdLoginDlg-version2"
+msgid "Please sign in to your account on the web..."
+msgstr "Please sign in to your account on the web..."
+
+#: 
+#, fuzzy
+msgctxt "FThirdLoginDlg-version2"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+#, fuzzy
+msgctxt "FThirdLoginDlg-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FImportTransformingDlg-version2"
+msgid "Importing %1 file, (%2 in total)"
+msgstr "Importing %1 file, (%2 in total)"
+
+#: 
+#, fuzzy
+msgctxt "FImportTransformingDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FImportTransformingDlg-version2"
+msgid "Copying file:%1"
+msgstr "Copying file:%1"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Install Effect"
+msgstr "Install Effect"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Temporary files:"
+msgstr "Temporary files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Default Storage Location:"
+msgstr "Default Storage Location:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Disk space remaining %1 GB,space required %2 GB."
+msgstr "Disk space remaining %1 GB,space required %2 GB."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "SnapShot"
+msgstr "SnapShot"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Insufficient Disk Space"
+msgstr "Insufficient Disk Space"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "MANAGE"
+msgstr "MANAGE"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Uploaded files:"
+msgstr "Uploaded files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Downloaded files:"
+msgstr "Downloaded files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Folders:"
+msgstr "Folders:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "change"
+msgstr "change"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Download from other Apps:"
+msgstr "Download from other Apps:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "The new storage location you selected matches the original file storage location. Please select a new one. "
+msgstr "The new storage location you selected matches the original file storage location. Please select a new one. "
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Cloud Project files:"
+msgstr "Cloud Project files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Recorded"
+msgstr "Recorded"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Reselect"
+msgstr "Reselect"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Recorded files:"
+msgstr "Recorded files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Effect packs:"
+msgstr "Effect packs:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Cloud Project"
+msgstr "Cloud Project"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Please select new directory"
+msgstr "Please select new directory"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "This change will take effect after clicking 'Save' and restarting the program."
+msgstr "This change will take effect after clicking 'Save' and restarting the program."
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Snapshot files:"
+msgstr "Snapshot files:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "Recorded Audio:"
+msgstr "Recorded Audio:"
+
+#: 
+#, fuzzy
+msgctxt "FSettingFolderPanel-version2"
+msgid "VoiceOver"
+msgstr "VoiceOver"
+
+#: 
+#, fuzzy
+msgctxt "FUserGuideFinishWidget-version2"
+msgid "Start Editing"
+msgstr "Start Editing"
+
+#: 
+#, fuzzy
+msgctxt "FUserGuideFinishWidget-version2"
+msgid "I Want More Tutorials"
+msgstr "I Want More Tutorials"
+
+#: 
+#, fuzzy
+msgctxt "FUserGuideFinishWidget-version2"
+msgid "Go Back the Tutorial"
+msgstr "Go Back the Tutorial"
+
+#: 
+#, fuzzy
+msgctxt "FUserGuideFinishWidget-version2"
+msgid "We hope you enjoy your editing journey."
+msgstr "We hope you enjoy your editing journey."
+
+#: 
+#, fuzzy
+msgctxt "FUserGuideFinishWidget-version2"
+msgid "Well Done!"
+msgstr "Well Done!"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioMixerDialog-version2"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineAudioMixerActionPresenter-version2"
+msgid "Audio Mixer"
+msgstr "Audio Mixer"
+
+#: 
+#, fuzzy
+msgctxt "FTTSLoadErrorComponent-version2"
+msgid "Voice acquisition failed, please check the network and %1 click retry %2"
+msgstr "Voice acquisition failed, please check the network and %1 click retry %2"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxItemWidget-version2"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxItemWidget-version2"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxItemWidget-version2"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxItemWidget-version2"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxItemWidget-version2"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+#, fuzzy
+msgctxt "FDcPluginStatusWidget-version2"
+msgid "Keep downloading"
+msgstr "Keep downloading"
+
+#: 
+#, fuzzy
+msgctxt "FDcPluginStatusWidget-version2"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FDcPluginStatusWidget-version2"
+msgid "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+msgstr "The Avatar Presentation plugin still on downloading, exiting Filmora will lose the progress of downloading."
+
+#: 
+#, fuzzy
+msgctxt "FDcPluginStatusWidget-version2"
+msgid "Unsupported language"
+msgstr "Unsupported language"
+
+#: 
+#, fuzzy
+msgctxt "FDcPluginStatusWidget-version2"
+msgid "Plugin download"
+msgstr "Plugin download"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "Category name should not be empty!"
+msgstr "Category name should not be empty!"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+msgstr "You will be redirected to a third-party website that has nothing to do with Wondershare. Please abide by the third-party website’s license agreement."
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "This name is in use, please choose another."
+msgstr "This name is in use, please choose another."
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+msgstr "Provided by Wondershare Generative AI, please kindly read and abide by the following terms."
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "view more"
+msgstr "view more"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+msgstr "1. As to the extent permitted by applicable law, you shall own all its Input and Output content right , if you comply with the license agreement terms."
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "This item is not commercially available"
+msgstr "This item is not commercially available"
+
+#: 
+#, fuzzy
+msgctxt "FMediaTreeView-version2"
+msgid "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+msgstr "Choose the \"Save Project As Template\" \n"
+"option under the \"File\" menu to save a \n"
+"custom template."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "No downloads in progress."
+msgstr "No downloads in progress."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "Upload videos, images, projects, and more to your personal cloud storage."
+msgstr "Upload videos, images, projects, and more to your personal cloud storage."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "There are no results for %1"
+msgstr "There are no results for %1"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "No completed tasks."
+msgstr "No completed tasks."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "TransferCenter Status"
+msgstr "TransferCenter Status"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "No uploads in progress."
+msgstr "No uploads in progress."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "Download videos, images, projects, and more from your personal cloud storage."
+msgstr "Download videos, images, projects, and more from your personal cloud storage."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "Uploaded and downloaded tasks will appear here."
+msgstr "Uploaded and downloaded tasks will appear here."
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "TransferCenter Size"
+msgstr "TransferCenter Size"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTaskWidget-version2"
+msgid "TransferCenter Name"
+msgstr "TransferCenter Name"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Please input your email"
+msgstr "Please input your email"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Please enter a valid first name"
+msgstr "Please enter a valid first name"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Email inconsistent, please check and confirm again."
+msgstr "Email inconsistent, please check and confirm again."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "The password you've entered is incorrect. Click forget password to reset your password."
+msgstr "The password you've entered is incorrect. Click forget password to reset your password."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "There was an error connecting to the server. Please check your network or proxy server settings."
+msgstr "There was an error connecting to the server. Please check your network or proxy server settings."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Login successfully"
+msgstr "Login successfully"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Connection timed out. Please wait for a while or check your network connection."
+msgstr "Connection timed out. Please wait for a while or check your network connection."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Enter a combination of at least six numbersletters & symbols."
+msgstr "Enter a combination of at least six numbersletters & symbols."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Vertification code is empty"
+msgstr "Vertification code is empty"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Create account Successfully"
+msgstr "Create account Successfully"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Please enter a password"
+msgstr "Please enter a password"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+msgstr "The account is locked. Click forget password to reset your password, or you can wait an hour to unlock it."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Please enter a valid last name"
+msgstr "Please enter a valid last name"
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+msgstr "Your account is on hold due to suspicious activity. Please get in touch with <a style='color:#FFFFFF;' href='%1'>Wondershare support team</a>."
+
+#: 
+#, fuzzy
+msgctxt "FUserAccountBasePage-version2"
+msgid "Please enter a vaild email"
+msgstr "Please enter a vaild email"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitlesControl-version2"
+msgid "Video Layer"
+msgstr "Video Layer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitlesControl-version2"
+msgid "Shape Layer"
+msgstr "Shape Layer"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "Failed to new folder. Insufficient cloud storage."
+msgstr "Failed to new folder. Insufficient cloud storage."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+msgstr "There are too many sub-folders. Filmora cloud is limited to 20 levels of sub-folders."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "Create"
+msgstr "Create"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "Failed to new folder."
+msgstr "Failed to new folder."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaNewFolderDialog-version2"
+msgid "Untitled Folder"
+msgstr "Untitled Folder"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+msgstr "The \"%1\" file has been loaded. You can drag the project template to the timeline to use in the Media - Template - Custom directory."
+

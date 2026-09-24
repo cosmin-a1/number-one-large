@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Title"
+msgstr "Title"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "It is enabled, and you can freely set the content that needs to be synchronized."
+msgstr "It is enabled, and you can freely set the content that needs to be synchronized."
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Customization: title , template , adjustment layers, etc."
+msgstr "Customization: title , template , adjustment layers, etc."
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Template"
+msgstr "Template"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyScaleComponent-version2"
+msgid "Form"
+msgstr "Form"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskDetailWidget-version2"
+msgid "Free"
+msgstr "Free"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskDetailWidget-version2"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskDetailWidget-version2"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskDetailWidget-version2"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskDetailWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskDetailWidget-version2"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaSpaceWidget-version2"
+msgid "Free"
+msgstr "Free"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaSpaceWidget-version2"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaSpaceWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaSpaceWidget-version2"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaSpaceWidget-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpacePresenter-version2"
+msgid "Free"
+msgstr "Free"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpacePresenter-version2"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoTemplate-version2"
+msgid "Help"
+msgstr "Help"
+
+#: 
+#, fuzzy
+msgctxt "FItemVisibleControlMenu-version2"
+msgid "Hide"
+msgstr "Hide"
+
+#: 
+#, fuzzy
+msgctxt "FItemVisibleControlMenu-version2"
+msgid "Show"
+msgstr "Show"
+
+#: 
+#, fuzzy
+msgctxt "FItemVisibleControlMenu-version2"
+msgid "Title_2"
+msgstr "Title_2"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskNavigationBar-version2"
+msgid "Home"
+msgstr "Home"
+
+#: 
+#, fuzzy
+msgctxt "FViewTabBar-version2"
+msgid "Home"
+msgstr "Home"
+
+#: 
+#, fuzzy
+msgctxt "FViewTabBar-version2"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+#, fuzzy
+msgctxt "FAudioDenoiseUpdateHelper-version2"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+#, fuzzy
+msgctxt "FAudioDenoiseUpdateHelper-version2"
+msgid "Update Reminder"
+msgstr "Update Reminder"
+
+#: 
+#, fuzzy
+msgctxt "FAudioDenoiseUpdateHelper-version2"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+#, fuzzy
+msgctxt "FAudioDenoiseUpdateHelper-version2"
+msgid "Update"
+msgstr "Update"
+
+#: 
+#, fuzzy
+msgctxt "FAudioDenoiseUpdateHelper-version2"
+msgid "The Normal Denoise feature has been upgraded, do you want to update the effect?"
+msgstr "The Normal Denoise feature has been upgraded, do you want to update the effect?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskPathDetectHelper-version2"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskPathDetectHelper-version2"
+msgid "It is detected that your default storage location maybe under the drive, which may cause slow editing. It's better to change to another local path."
+msgstr "It is detected that your default storage location maybe under the drive, which may cause slow editing. It's better to change to another local path."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskPathDetectHelper-version2"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskPathDetectHelper-version2"
+msgid "Change"
+msgstr "Change"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskPathDetectHelper-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "Update Reminder"
+msgstr "Update Reminder"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "Stabilization failed."
+msgstr "Stabilization failed."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "Update"
+msgstr "Update"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "Stabilization successful."
+msgstr "Stabilization successful."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidget-version2"
+msgid "The video stabilization has been upgraded, do you want to update the effect?"
+msgstr "The video stabilization has been upgraded, do you want to update the effect?"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksPanel-version2"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksPanel-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksPanel-version2"
+msgid "FILE SIZE"
+msgstr "FILE SIZE"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksPanel-version2"
+msgid "Delete unused effects packs to free up disk space. You can download them again later from the Effects Store."
+msgstr "Delete unused effects packs to free up disk space. You can download them again later from the Effects Store."
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksPanel-version2"
+msgid "This change will take effect after clicking \"Apply\" and restarting the program."
+msgstr "This change will take effect after clicking \"Apply\" and restarting the program."
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsTextEditTextClipPainter-version2"
+msgid "Line"
+msgstr "Line"
+
+#: 
+#, fuzzy
+msgctxt "FFConvertSelectPanel-version2"
+msgid "Load"
+msgstr "Load"
+
+#: 
+#, fuzzy
+msgctxt "FFConvertSelectPanel-version2"
+msgid "It is detected that the old version of the preset needs to be loaded before editing. Loading will not affect the original preset data, please feel free to load."
+msgstr "It is detected that the old version of the preset needs to be loaded before editing. Loading will not affect the original preset data, please feel free to load."
+
+#: 
+#, fuzzy
+msgctxt "FFConvertSelectPanel-version2"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+#, fuzzy
+msgctxt "FFConvertSelectPanel-version2"
+msgid "Load Later"
+msgstr "Load Later"
+
+#: 
+#, fuzzy
+msgctxt "FIntroFilterBar-version2"
+msgid "Logo"
+msgstr "Logo"
+
+#: 
+#, fuzzy
+msgctxt "FIntroFilterBar-version2"
+msgid "Intro"
+msgstr "Intro"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Love"
+msgstr "Love"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Star"
+msgstr "Star"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Width"
+msgstr "Width"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Height"
+msgstr "Height"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Linear"
+msgstr "Linear"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Position"
+msgstr "Position"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Parallel Lines"
+msgstr "Parallel Lines"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskTransformWidget-version2"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyEffectCustomMaskManager-version2"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyEffectCustomMaskManager-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FAiMusicTagsWidget-version2"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+#, fuzzy
+msgctxt "FAiMusicTagsWidget-version2"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+#, fuzzy
+msgctxt "FAiMusicTagsWidget-version2"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+#, fuzzy
+msgctxt "FAiMusicTagsWidget-version2"
+msgid "Try again."
+msgstr "Try again."
+
+#: 
+#, fuzzy
+msgctxt "FAiMusicTagsWidget-version2"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+#, fuzzy
+msgctxt "FAiMusicTagsWidget-version2"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+#, fuzzy
+msgctxt "FFSelectTagWidget-version2"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+#, fuzzy
+msgctxt "FFSelectTagWidget-version2"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+#, fuzzy
+msgctxt "FFSelectTagWidget-version2"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+#, fuzzy
+msgctxt "FFSelectTagWidget-version2"
+msgid "Please select the music tag, such as happy, game, popular."
+msgstr "Please select the music tag, such as happy, game, popular."
+
+#: 
+#, fuzzy
+msgctxt "FFMarkerEditPanel-version2"
+msgid "Name"
+msgstr "Name"
+
+#: 
+#, fuzzy
+msgctxt "FFMarkerEditPanel-version2"
+msgid "Time"
+msgstr "Time"
+
+#: 
+#, fuzzy
+msgctxt "FFMarkerEditPanel-version2"
+msgid "Marker Color"
+msgstr "Marker Color"
+
+#: 
+#, fuzzy
+msgctxt "FFMarkerEditPanel-version2"
+msgid "Add your comments here"
+msgstr "Add your comments here"
+
+#: 
+#, fuzzy
+msgctxt "FFMarkerEditPanel-version2"
+msgid "Comment"
+msgstr "Comment"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Name"
+msgstr "Name"
+

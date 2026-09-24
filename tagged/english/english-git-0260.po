@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "MainWindow-version2"
+msgid "Failed to check update!"
+msgstr "Failed to check update!"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasPanel-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasPanel-version2"
+msgid "File Path"
+msgstr "File Path"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasPanel-version2"
+msgid "Rename files"
+msgstr "Rename files"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasPanel-version2"
+msgid "The file name exceeds the length limit, will be renamed to:"
+msgstr "The file name exceeds the length limit, will be renamed to:"
+
+#: 
+#, fuzzy
+msgctxt "FRenameLengthLimitExceededMediasPanel-version2"
+msgid "New Name"
+msgstr "New Name"
+
+#: 
+#, fuzzy
+msgctxt "FVCGQueryReplaceMessageDialog-version2"
+msgid "Replace it"
+msgstr "Replace it"
+
+#: 
+#, fuzzy
+msgctxt "FVCGQueryReplaceMessageDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FVCGQueryReplaceMessageDialog-version2"
+msgid "Replace watermarked footages"
+msgstr "Replace watermarked footages"
+
+#: 
+#, fuzzy
+msgctxt "FVCGQueryReplaceMessageDialog-version2"
+msgid "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+msgstr "HD footages have been downloaded successfully. Click \"Replace it\" to complete the replacement of the watermark material."
+
+#: 
+#, fuzzy
+msgctxt "FFTextModifiedTimelineEffectWidget-version2"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillImageWidget-version2"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "When you click Confirm, you will be redirected to the third-party web page."
+msgstr "When you click Confirm, you will be redirected to the third-party web page."
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "After clicking OK, the asset will be migrated to Media-Global meidia"
+msgstr "After clicking OK, the asset will be migrated to Media-Global meidia"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "Migrating files"
+msgstr "Migrating files"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "External Website Redirect"
+msgstr "External Website Redirect"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "Notification of asset migration"
+msgstr "Notification of asset migration"
+
+#: 
+#, fuzzy
+msgctxt "StockMediaHandlerAspect-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FPreviewBottomPanel-version2"
+msgid "Use this Template"
+msgstr "Use this Template"
+
+#: 
+#, fuzzy
+msgctxt "FFontComboBox-version2"
+msgid "Click here to quickly return to the recently used list."
+msgstr "Click here to quickly return to the recently used list."
+
+#: 
+#, fuzzy
+msgctxt "FFontComboBox-version2"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+#, fuzzy
+msgctxt "FFontComboBox-version2"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+#, fuzzy
+msgctxt "FFontComboBox-version2"
+msgid "Click here to quickly return to the favorites list."
+msgstr "Click here to quickly return to the favorites list."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskDrawMaskWidget-version2"
+msgid "Drag area to generate keyframes"
+msgstr "Drag area to generate keyframes"
+
+#: 
+#, fuzzy
+msgctxt "FTracksManageToolbar-version2"
+msgid "Close Auto Ripple"
+msgstr "Close Auto Ripple"
+
+#: 
+#, fuzzy
+msgctxt "FTracksManageToolbar-version2"
+msgid "Manage tracks"
+msgstr "Manage tracks"
+
+#: 
+#, fuzzy
+msgctxt "FTracksManageToolbar-version2"
+msgid "Open Auto Ripple"
+msgstr "Open Auto Ripple"
+
+#: 
+#, fuzzy
+msgctxt "FTracksManageToolbar-version2"
+msgid "Sort track"
+msgstr "Sort track"
+
+#: 
+#, fuzzy
+msgctxt "FFilmoStcokToast-version2"
+msgid "Didn't find satifying ones? %1 Search more on!"
+msgstr "Didn't find satifying ones? %1 Search more on!"
+
+#: 
+#, fuzzy
+msgctxt "FFilmoStcokToast-version2"
+msgid "Didn't find satifying ones? Search more on"
+msgstr "Didn't find satifying ones? Search more on"
+
+#: 
+#, fuzzy
+msgctxt "FFilmoStcokToast-version2"
+msgid "Wondershare Filmstock"
+msgstr "Wondershare Filmstock"
+
+#: 
+#, fuzzy
+msgctxt "FFileCountAndSizeLabel-version2"
+msgid "Total %1 files, %2 %3"
+msgstr "Total %1 files, %2 %3"
+
+#: 
+#, fuzzy
+msgctxt "FTransitionModeBar-version2"
+msgid "Search downloaded transitions"
+msgstr "Search downloaded transitions"
+
+#: 
+#, fuzzy
+msgctxt "FTransitionModeBar-version2"
+msgid "Search my favorite transitions"
+msgstr "Search my favorite transitions"
+
+#: 
+#, fuzzy
+msgctxt "FTransitionModeBar-version2"
+msgid "Search transitions"
+msgstr "Search transitions"
+
+#: 
+#, fuzzy
+msgctxt "FTransferMacToQtNoticeDailog-version2"
+msgid "Version Update Notice"
+msgstr "Version Update Notice"
+
+#: 
+#, fuzzy
+msgctxt "FTransferMacToQtNoticeDailog-version2"
+msgid "Synchronizing data, please wait."
+msgstr "Synchronizing data, please wait."
+
+#: 
+#, fuzzy
+msgctxt "FTransferMacToQtNoticeDailog-version2"
+msgid "Insufficient disk space. Please clean up the disk space and try again."
+msgstr "Insufficient disk space. Please clean up the disk space and try again."
+
+#: 
+#, fuzzy
+msgctxt "FTransferMacToQtNoticeDailog-version2"
+msgid "You can fully enjoy the new version after restarting the program!"
+msgstr "You can fully enjoy the new version after restarting the program!"
+
+#: 
+#, fuzzy
+msgctxt "FTransferMacToQtNoticeDailog-version2"
+msgid "Data synchronization successfully!"
+msgstr "Data synchronization successfully!"
+
+#: 
+#, fuzzy
+msgctxt "FTransferMacToQtNoticeDailog-version2"
+msgid "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+msgstr "To ensure your personal data is synchronized with the new version and you can enjoy the new features, we need you to perform a data sync operation."
+
+#: 
+#, fuzzy
+msgctxt "FFErrorWebStateWidget-version2"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+#, fuzzy
+msgctxt "FFErrorWebStateWidget-version2"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithGIF-version2"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithGIF-version2"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithGIF-version2"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithGIF-version2"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithGIF-version2"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithGIF-version2"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseWebLoadFaildWidget-version2"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseWebLoadFaildWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseWebLoadFaildWidget-version2"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseWebLoadFaildWidget-version2"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+#, fuzzy
+msgctxt "FWebLoadFaildWidget2-version2"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+#, fuzzy
+msgctxt "FWebLoadFaildWidget2-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FWebLoadFaildWidget2-version2"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+#, fuzzy
+msgctxt "FEmptyProjectWidget-version2"
+msgid "Recent Project."
+msgstr "Recent Project."
+
+#: 
+#, fuzzy
+msgctxt "FEmptyProjectWidget-version2"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+#, fuzzy
+msgctxt "FCustomerServiceDialog-version2"
+msgid "Customer Service"
+msgstr "Customer Service"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineEnterTextShapeModelActionPresenter-version2"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+#, fuzzy
+msgctxt "FRefreshDialog-version2"
+msgid "Information could not be retrieved due to an issue with the network connection."
+msgstr "Information could not be retrieved due to an issue with the network connection."
+
+#: 
+#, fuzzy
+msgctxt "FRefreshDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FRefreshDialog-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FRefreshDialog-version2"
+msgid "Already purchased? Try refreshing your account info."
+msgstr "Already purchased? Try refreshing your account info."
+
+#: 
+#, fuzzy
+msgctxt "FTutorialPage-version2"
+msgid "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+msgstr "You'll be able to do some editing - type in new text or manage your clips when auto-creation is done."
+
+#: 
+#, fuzzy
+msgctxt "FTutorialPage-version2"
+msgid "Wondershare Miaoying"
+msgstr "Wondershare Miaoying"
+
+#: 
+#, fuzzy
+msgctxt "FTutorialPage-version2"
+msgid "Click 'Timeline' to take full control over your video."
+msgstr "Click 'Timeline' to take full control over your video."
+
+#: 
+#, fuzzy
+msgctxt "FTutorialPage-version2"
+msgid "%1 is editing your clips and adding video effects."
+msgstr "%1 is editing your clips and adding video effects."
+
+#: 
+#, fuzzy
+msgctxt "FTutorialPage-version2"
+msgid "Want to learn more about editing with %1?"
+msgstr "Want to learn more about editing with %1?"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabBar-version2"
+msgid "TransferCenter Uploading"
+msgstr "TransferCenter Uploading"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabBar-version2"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabBar-version2"
+msgid "Sync settings"
+msgstr "Sync settings"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterTabBar-version2"
+msgid "TransferCenter Done"
+msgstr "TransferCenter Done"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackUnitDialog-version2"
+msgid "Confirm Close?"
+msgstr "Confirm Close?"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackUnitDialog-version2"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackUnitDialog-version2"
+msgid "Closing the pop-up will not save the entered content."
+msgstr "Closing the pop-up will not save the entered content."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCImageAspectRatioWidget-version2"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "3:4 (Business)"
+msgstr "3:4 (Business)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "4:5 (Vertical)"
+msgstr "4:5 (Vertical)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "4:3 (Standard)"
+msgstr "4:3 (Standard)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (Widescreen)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "21:9 (Cinema)"
+msgstr "21:9 (Cinema)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "Aspect Ratio:"
+msgstr "Aspect Ratio:"
+
+#: 
+#, fuzzy
+msgctxt "FProjectWidget-version2"
+msgid "9:16 (Portrait)"
+msgstr "9:16 (Portrait)"
+
+#: 
+#, fuzzy
+msgctxt "LosslessMerger-version2"
+msgid "Total Duration:"
+msgstr "Total Duration:"
+
+#: 
+#, fuzzy
+msgctxt "LosslessMerger-version2"
+msgid "Drag file to start merging"
+msgstr "Drag file to start merging"
+
+#: 
+#, fuzzy
+msgctxt "LosslessMerger-version2"
+msgid "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+msgstr "Sorry, this file is not supported.Please try another file.\n"
+"And all parameters(like resolution, frame rate etc.) of each video must be the same."
+
+#: 
+#, fuzzy
+msgctxt "LosslessMerger-version2"
+msgid "Oops! Failed to merge video file."
+msgstr "Oops! Failed to merge video file."
+
+#: 
+#, fuzzy
+msgctxt "FCreatorHubWidget-version2"
+msgid "Join the Latest Creative Campaigns"
+msgstr "Join the Latest Creative Campaigns"
+
+#: 
+#, fuzzy
+msgctxt "FCreatorHubWidget-version2"
+msgid "Explore Fun and Useful Video Creation Guides"
+msgstr "Explore Fun and Useful Video Creation Guides"
+
+#: 
+#, fuzzy
+msgctxt "FCreatorHubWidget-version2"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: 
+#, fuzzy
+msgctxt "FCreatorHubWidget-version2"
+msgid "Beginner"
+msgstr "Beginner"
+
+#: 
+#, fuzzy
+msgctxt "FCreatorHubWidget-version2"
+msgid "Learn from Other Creators"
+msgstr "Learn from Other Creators"
+

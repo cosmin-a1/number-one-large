@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Spotlight Softness"
+msgstr "Spotlight Softness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pin Tumble with Propagation"
+msgstr "Pin Tumble with Propagation"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L132 Medium Blue"
+msgstr "L132 Medium Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Semicircle"
+msgstr "Semicircle"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Array Distribution"
+msgstr "Array Distribution"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Grainy Focus"
+msgstr "Grainy Focus"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Black/Threshold/From"
+msgstr "Black/Threshold/From"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sink Time (secs)"
+msgstr "Sink Time (secs)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Custom Color Green"
+msgstr "Custom Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Source Update"
+msgstr "Source Update"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sixteenth"
+msgstr "Sixteenth"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BCC+Overexpose"
+msgstr "BCC+Overexpose"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Detail Size"
+msgstr "Detail Size"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Detail Skin"
+msgstr "Detail Skin"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "1.85 Vistavision"
+msgstr "1.85 Vistavision"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "0 to Current Value"
+msgstr "0 to Current Value"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L3 Position XY"
+msgstr "L3 Position XY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Background Map Layer"
+msgstr "Background Map Layer"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Max Freq (Hz)"
+msgstr "Max Freq (Hz)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cb Noise Reduction"
+msgstr "Cb Noise Reduction"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Midtones"
+msgstr "Midtones"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Glint Color Variance"
+msgstr "Glint Color Variance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Patternic Planet"
+msgstr "Patternic Planet"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Texture 1"
+msgstr "Texture 1"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Texture 2"
+msgstr "Texture 2"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L196 True Blue"
+msgstr "L196 True Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BCC Reframer"
+msgstr "BCC Reframer"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ghost Distance"
+msgstr "Ghost Distance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Polluted Air"
+msgstr "Polluted Air"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Particle Speed"
+msgstr "Particle Speed"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "PixelChooser Target"
+msgstr "PixelChooser Target"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Friction B Random %"
+msgstr "Friction B Random %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Friction A Random %"
+msgstr "Friction A Random %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Colored Haze"
+msgstr "Colored Haze"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Particle Shape"
+msgstr "Particle Shape"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Layer Map"
+msgstr "Layer Map"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Noise Suppression"
+msgstr "Noise Suppression"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position Z - SP"
+msgstr "Position Z - SP"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position Z - IP"
+msgstr "Position Z - IP"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position Z - LT"
+msgstr "Position Z - LT"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "View Map"
+msgstr "View Map"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Image Collection"
+msgstr "Image Collection"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Scifi HUD"
+msgstr "Scifi HUD"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Focal Center X"
+msgstr "Focal Center X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Focal Center Y"
+msgstr "Focal Center Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Duration Mode"
+msgstr "Duration Mode"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "High-Mid Threshold"
+msgstr "High-Mid Threshold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Postcard Pretty"
+msgstr "Postcard Pretty"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position XY 1 X"
+msgstr "Position XY 1 X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position XY 1 Y"
+msgstr "Position XY 1 Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position XY 3 X"
+msgstr "Position XY 3 X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position XY 3 Y"
+msgstr "Position XY 3 Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position XY 2 X"
+msgstr "Position XY 2 X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Position XY 2 Y"
+msgstr "Position XY 2 Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Light Flicker"
+msgstr "Light Flicker"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Particle Color"
+msgstr "Particle Color"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Variance Scale"
+msgstr "Variance Scale"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Trigger Scale"
+msgstr "Trigger Scale"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Noise Stretch"
+msgstr "Noise Stretch"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "High IRE"
+msgstr "High IRE"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L008 Dark Salmon"
+msgstr "L008 Dark Salmon"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Alpha Cutoff %"
+msgstr "Alpha Cutoff %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Light XY"
+msgstr "Light XY"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Lighting"
+msgstr "Lighting"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Add Randomized Rotation"
+msgstr "Add Randomized Rotation"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Polygons 1"
+msgstr "Polygons 1"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Polygons 2"
+msgstr "Polygons 2"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Splash Angle"
+msgstr "Splash Angle"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Creamy Edges"
+msgstr "Creamy Edges"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Vignette"
+msgstr "Vignette"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Detail Levels"
+msgstr "Detail Levels"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Line Thickness"
+msgstr "Line Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ring Thickness"
+msgstr "Ring Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "2 Pixel Edge Clean"
+msgstr "2 Pixel Edge Clean"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sys Center Z"
+msgstr "Sys Center Z"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L2 Position Z"
+msgstr "L2 Position Z"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Source Radius"
+msgstr "Source Radius"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "White and Shadow"
+msgstr "White and Shadow"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Black Outline"
+msgstr "Black Outline"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Highlight Color Green"
+msgstr "Highlight Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Disperse with Propagation"
+msgstr "Disperse with Propagation"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Top to Bottom"
+msgstr "Top to Bottom"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "EBU 103 Extra Safe"
+msgstr "EBU 103 Extra Safe"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Blurred Spot"
+msgstr "Blurred Spot"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Edge Contrast"
+msgstr "Edge Contrast"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Better Contrast"
+msgstr "Better Contrast"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Purple Majesty"
+msgstr "Purple Majesty"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Smooth Matte"
+msgstr "Smooth Matte"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Disperse : Shift : Twist : Noise"
+msgstr "Disperse : Shift : Twist : Noise"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Paper Bag Mask"
+msgstr "Paper Bag Mask"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Lock Post Blur"
+msgstr "Lock Post Blur"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L3 Position Z"
+msgstr "L3 Position Z"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Square Pixels"
+msgstr "Square Pixels"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Low Velocity Correction"
+msgstr "Low Velocity Correction"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Blue Key with Glow"
+msgstr "Blue Key with Glow"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Wipe Progress (Opacity)"
+msgstr "Wipe Progress (Opacity)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Oblong Vertical"
+msgstr "Oblong Vertical"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Fade-in Circular Move (secs)"
+msgstr "Fade-in Circular Move (secs)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "BG Sharpen On"
+msgstr "BG Sharpen On"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Y"
+msgstr "Y"
+

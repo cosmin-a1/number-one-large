@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FAutoHighlightView-version2"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FAutoHighlightView-version2"
+msgid "60s(Youtube Shorts)"
+msgstr "60s(Youtube Shorts)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoHighlightView-version2"
+msgid "Extract"
+msgstr "Extract"
+
+#: 
+#, fuzzy
+msgctxt "FAutoHighlightView-version2"
+msgid "Keep the gap"
+msgstr "Keep the gap"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Auto"
+msgstr "Auto"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Adjust Frame"
+msgstr "Adjust Frame"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Aspect Ratio"
+msgstr "Aspect Ratio"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Motion Speed"
+msgstr "Motion Speed"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePropertyPanel-version2"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorWidget-version2"
+msgid "Auto"
+msgstr "Auto"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorWidget-version2"
+msgid "Tint"
+msgstr "Tint"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorWidget-version2"
+msgid "Auto White Balance"
+msgstr "Auto White Balance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorWidget-version2"
+msgid "Saturation"
+msgstr "Saturation"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorWidget-version2"
+msgid "Temperature"
+msgstr "Temperature"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorWidget-version2"
+msgid "Vibrance"
+msgstr "Vibrance"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeOutlinePanel-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeOutlinePanel-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeOutlinePanel-version2"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeShadowPanel-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeShadowPanel-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeShadowPanel-version2"
+msgid "Distance"
+msgstr "Distance"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeShadowPanel-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundTypeListPresenter-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundTypeListPresenter-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundTypeListPresenter-version2"
+msgid "Pattern"
+msgstr "Pattern"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBorderEffectWidget-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBorderEffectWidget-version2"
+msgid "Size"
+msgstr "Size"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBorderEffectWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Soft"
+msgstr "Soft"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Tiled"
+msgstr "Tiled"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Distance"
+msgstr "Distance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Projection"
+msgstr "Projection"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDropShadowWidget-version2"
+msgid "Default"
+msgstr "Default"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicBorderWidget-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicBorderWidget-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicBorderWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeBasicBorderWidget-version2"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillWidget-version2"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillWidget-version2"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillWidget-version2"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Text"
+msgstr "Text"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Align Right"
+msgstr "Align Right"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Align Center"
+msgstr "Align Center"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Color:"
+msgstr "Color:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Italic"
+msgstr "Italic"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Align Justified"
+msgstr "Align Justified"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Scale:"
+msgstr "Scale:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Rotate:"
+msgstr "Rotate:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Position:"
+msgstr "Position:"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePropertyTextPanel-version2"
+msgid "Align Left"
+msgstr "Align Left"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationHelper-version2"
+msgid "Clip"
+msgstr "Clip"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationHelper-version2"
+msgid "clip"
+msgstr "clip"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationHelper-version2"
+msgid "Material"
+msgstr "Material"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationHelper-version2"
+msgid "Sequence"
+msgstr "Sequence"
+
+#: 
+#, fuzzy
+msgctxt "FFAITranslationHelper-version2"
+msgid "sequence"
+msgstr "sequence"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "Clip"
+msgstr "Clip"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "clip"
+msgstr "clip"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "Translate"
+msgstr "Translate"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "Material"
+msgstr "Material"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "Translate_1"
+msgstr "Translate_1"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "Sequence"
+msgstr "Sequence"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextHelper-version2"
+msgid "sequence"
+msgstr "sequence"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "What are you going to write?"
+msgstr "What are you going to write?"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "No network currently, please check the network and try again！"
+msgstr "No network currently, please check the network and try again！"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Historical results will appear here."
+msgstr "Historical results will appear here."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Summarize your video content and type here."
+msgstr "Summarize your video content and type here."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Are you sure to quit AI Copywriting Generation?"
+msgstr "Are you sure to quit AI Copywriting Generation?"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Video Chapter Titles"
+msgstr "Video Chapter Titles"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Video Oral Script"
+msgstr "Video Oral Script"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Clear History"
+msgstr "Clear History"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Type your video topic here."
+msgstr "Type your video topic here."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Youtube Video Ideas"
+msgstr "Youtube Video Ideas"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Youtube Video Titles"
+msgstr "Youtube Video Titles"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "All historical results will be permanently deleted and cannot be recovered."
+msgstr "All historical results will be permanently deleted and cannot be recovered."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Youtube Video Descriptions"
+msgstr "Youtube Video Descriptions"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Results"
+msgstr "Results"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Knowledge Introduction Article"
+msgstr "Knowledge Introduction Article"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "What is your video about?"
+msgstr "What is your video about?"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Due to policy restrictions in your region, it is temporarily unavailable."
+msgstr "Due to policy restrictions in your region, it is temporarily unavailable."
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "AI Copywriting(Beta)"
+msgstr "AI Copywriting(Beta)"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "Output Language"
+msgstr "Output Language"
+
+#: 
+#, fuzzy
+msgctxt "FAIWritingDialog-version2"
+msgid "AI is generating results…"
+msgstr "AI is generating results…"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Cancel Proxy"
+msgstr "Cancel Proxy"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Copy successfully"
+msgstr "Copy successfully"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Add to Template"
+msgstr "Add to Template"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Set as thumbnail"
+msgstr "Set as thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Copy to global media"
+msgstr "Copy to global media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCustomClipMenu-version2"
+msgid "Play"
+msgstr "Play"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCustomClipMenu-version2"
+msgid "Delete from cloud disk"
+msgstr "Delete from cloud disk"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCustomClipMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCustomClipMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCustomClipMenu-version2"
+msgid "Backup to cloud disk"
+msgstr "Backup to cloud disk"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCustomClipMenu-version2"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePreviewToolbar-version2"
+msgid "Play"
+msgstr "Play"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePreviewToolbar-version2"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+#, fuzzy
+msgctxt "FTemplatePreviewToolbar-version2"
+msgid "Volume"
+msgstr "Volume"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Play"
+msgstr "Play"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Share"
+msgstr "Share"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Add to the beginning of current project"
+msgstr "Add to the beginning of current project"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Add to the end of current project"
+msgstr "Add to the end of current project"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Download Now"
+msgstr "Download Now"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Delete from cloud disk"
+msgstr "Delete from cloud disk"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Backup to cloud disk"
+msgstr "Backup to cloud disk"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateSplitContentMenu-version2"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Play"
+msgstr "Play"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Audio Track"
+msgstr "Audio Track"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Append"
+msgstr "Append"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Create Proxy file"
+msgstr "Create Proxy file"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Download Other Resolution"
+msgstr "Download Other Resolution"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Delete File"
+msgstr "Delete File"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Cancel Proxy"
+msgstr "Cancel Proxy"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Insert in target track only"
+msgstr "Insert in target track only"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Add to Template"
+msgstr "Add to Template"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Set as thumbnail"
+msgstr "Set as thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Add to new track"
+msgstr "Add to new track"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Delete Record"
+msgstr "Delete Record"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaContentMenu-version2"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Split"
+msgstr "Split"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Invisible(N)"
+msgstr "Invisible(N)"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Invisible"
+msgstr "Invisible"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Visible"
+msgstr "Visible"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionToolbar-version2"
+msgid "Visible(Y)"
+msgstr "Visible(Y)"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Aspect Ratio"
+msgstr "Aspect Ratio"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Redo (%1)"
+msgstr "Redo (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Undo (%1)"
+msgstr "Undo (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FQuickEditPlayerToolBar-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "FUndoRedoPresenter-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "FUndoRedoPresenter-version2"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+#, fuzzy
+msgctxt "FUndoRedoPresenter-version2"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+#, fuzzy
+msgctxt "FUndoRedoPresenter-version2"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyHelper-version2"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyHelper-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyHelper-version2"
+msgid "Internet connection is required to activate the software. Please check your network or contact your IT administrator."
+msgstr "Internet connection is required to activate the software. Please check your network or contact your IT administrator."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyHelper-version2"
+msgid "Your activation code could not be validated.\n"
+"It might be activated on the maximum number of devices permitted or have expired.\n"
+"Please contact our Customer Support with your purchase record."
+msgstr "Your activation code could not be validated.\n"
+"It might be activated on the maximum number of devices permitted or have expired.\n"
+"Please contact our Customer Support with your purchase record."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyHelper-version2"
+msgid "An error occurred when validating your Filmora account (Wondershare ID) or license.\n"
+"Please relaunch Filmora and try again later."
+msgstr "An error occurred when validating your Filmora account (Wondershare ID) or license.\n"
+"Please relaunch Filmora and try again later."
+
+#: 
+#, fuzzy
+msgctxt "AntiPiracyHelper-version2"
+msgid "Your application appears to be damaged, please reinstall the application."
+msgstr "Your application appears to be damaged, please reinstall the application."
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperMainDialog-version2"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperMainDialog-version2"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperMainDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperMainDialog-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperMainDialog-version2"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+#, fuzzy
+msgctxt "FAITextClipperMainDialog-version2"
+msgid "There are unsaved changes. Are you sure you want to quit?"
+msgstr "There are unsaved changes. Are you sure you want to quit?"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+#, fuzzy
+msgctxt "FExportAutoHighlightDlg-version2"
+msgid "Are you sure to quit the automatic highlight video generation?"
+msgstr "Are you sure to quit the automatic highlight video generation?"
+

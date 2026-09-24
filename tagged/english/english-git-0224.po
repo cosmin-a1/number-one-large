@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "RESOLUTION"
+msgstr "RESOLUTION"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "OUT POINT"
+msgstr "OUT POINT"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "MEDIA CREATED"
+msgstr "MEDIA CREATED"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "DATE IMPORTED"
+msgstr "DATE IMPORTED"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "DURATION"
+msgstr "DURATION"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "View More"
+msgstr "View More"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "UPDATED TIME"
+msgstr "UPDATED TIME"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "DATE CREATED"
+msgstr "DATE CREATED"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemModel-version2"
+msgid "AUDIO INFO"
+msgstr "AUDIO INFO"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "SRT"
+msgstr "SRT"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Select the file to be converted: "
+msgstr "Select the file to be converted: "
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Clip selection"
+msgstr "Clip selection"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+msgstr "(Generates an entire subtitle file in SRT format, which can be edited and exported locally)"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Source and target language cannot be the same."
+msgstr "Source and target language cannot be the same."
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Language of the audio to be transcribed:"
+msgstr "Language of the audio to be transcribed:"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Language to be translated to:"
+msgstr "Language to be translated to:"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Choosing a language for translation will generate two files——transcript and translated files."
+msgstr "Choosing a language for translation will generate two files——transcript and translated files."
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Automatically match dynamic effects based on the audio rhythm."
+msgstr "Automatically match dynamic effects based on the audio rhythm."
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "The current language does not support translation"
+msgstr "The current language does not support translation"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Sorry, dynamic text does not currently support SRT files."
+msgstr "Sorry, dynamic text does not currently support SRT files."
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Presentation of output on the timeline: "
+msgstr "Presentation of output on the timeline: "
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "Add automatical active words"
+msgstr "Add automatical active words"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "(Generates ordinary text fragments within the program, one by one on the timeline)"
+msgstr "(Generates ordinary text fragments within the program, one by one on the timeline)"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamPanel-version2"
+msgid "The entire timeline sequence"
+msgstr "The entire timeline sequence"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Sad"
+msgstr "Sad"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Epic"
+msgstr "Epic"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Vlog"
+msgstr "Vlog"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Dance"
+msgstr "Dance"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Happy"
+msgstr "Happy"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Sport"
+msgstr "Sport"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "chill"
+msgstr "chill"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Cinematic"
+msgstr "Cinematic"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Travel"
+msgstr "Travel"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Emotional"
+msgstr "Emotional"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Peaceful"
+msgstr "Peaceful"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Exciting"
+msgstr "Exciting"
+
+#: 
+#, fuzzy
+msgctxt "FFLowLayoutWidget-version2"
+msgid "Hopeful"
+msgstr "Hopeful"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "VCG"
+msgstr "VCG"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Media"
+msgstr "Media"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Stock"
+msgstr "Stock"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Elements"
+msgstr "Elements"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "Template"
+msgstr "Template"
+
+#: 
+#, fuzzy
+msgctxt "FMissingResourceItemWidget-version2"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Try"
+msgstr "Try"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Video Ratio:"
+msgstr "Video Ratio:"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Sample Text"
+msgstr "Sample Text"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Generated by AI"
+msgstr "Generated by AI"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Voice language"
+msgstr "Voice language"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Ideas & Feedback"
+msgstr "Ideas & Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Yes, and continue"
+msgstr "Yes, and continue"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Clone Voice"
+msgstr "Clone Voice"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Enter text with more than %1 characters to ensure better result."
+msgstr "Enter text with more than %1 characters to ensure better result."
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Video Text"
+msgstr "Video Text"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Translate the text to a language we support and try again."
+msgstr "Translate the text to a language we support and try again."
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "The Sample Text will replace your original input. Are you sure you want to replace the original input with the Sample Text?"
+msgstr "The Sample Text will replace your original input. Are you sure you want to replace the original input with the Sample Text?"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Type your own text here or generate text with AI."
+msgstr "Type your own text here or generate text with AI."
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "AI is generating results..."
+msgstr "AI is generating results..."
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Your voice language will be switched to “%1”,which will be consistent with your text language."
+msgstr "Your voice language will be switched to “%1”,which will be consistent with your text language."
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Back to Edit"
+msgstr "Back to Edit"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoWidget-version2"
+msgid "Read Supported Language List"
+msgstr "Read Supported Language List"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateMediaItemPainter-version2"
+msgid "Use"
+msgstr "Use"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateMediaItemPainter-version2"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "XPC"
+msgstr "XPC"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Free"
+msgstr "Free"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Paid"
+msgstr "Paid"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "HIFIVE"
+msgstr "HIFIVE"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Single Purchase"
+msgstr "Single Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Standard"
+msgstr "Standard"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Find Similar"
+msgstr "Find Similar"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Limited Free"
+msgstr "Limited Free"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "You are free to export this effect within %1 days"
+msgstr "You are free to export this effect within %1 days"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "*music from"
+msgstr "*music from"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "Provided by"
+msgstr "Provided by"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMoreInfoWidget-version2"
+msgid "You are free to export this asset within %1."
+msgstr "You are free to export this asset within %1."
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "and"
+msgstr "and"
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "Wondershare Product"
+msgstr "Wondershare Product"
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "Wondershare Technology Corp. is a hi-tech corporation committing to provide global customers with industry-leading software application. Driven by its vision: \"Wonderful Software, Wonderful Life\",  \t\tWondershare is dedicated to provide global customers with a diversity of superb software products and services for Windows, macOS, iOS, Android and other operating system."
+msgstr "Wondershare Technology Corp. is a hi-tech corporation committing to provide global customers with industry-leading software application. Driven by its vision: \"Wonderful Software, Wonderful Life\",  \t\tWondershare is dedicated to provide global customers with a diversity of superb software products and services for Windows, macOS, iOS, Android and other operating system."
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "For more information, please visit:"
+msgstr "For more information, please visit:"
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "Version:"
+msgstr "Version:"
+
+#: 
+#, fuzzy
+msgctxt "FAboutDialog-version2"
+msgid "Wondershare"
+msgstr "Wondershare"
+

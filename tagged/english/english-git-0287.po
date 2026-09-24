@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Freq"
+msgstr "Freq"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "From"
+msgstr "From"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Full"
+msgstr "Full"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gels"
+msgstr "Gels"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glam"
+msgstr "Glam"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Floor Color Blue"
+msgstr "Floor Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gobo"
+msgstr "Gobo"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gold"
+msgstr "Gold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Half"
+msgstr "Half"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Halo"
+msgstr "Halo"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grad"
+msgstr "Grad"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Gray"
+msgstr "Gray"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grid"
+msgstr "Grid"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grit"
+msgstr "Grit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grow"
+msgstr "Grow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spin Blur"
+msgstr "Spin Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Heat"
+msgstr "Heat"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L2 Color Green"
+msgstr "L2 Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Help"
+msgstr "Help"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Hold"
+msgstr "Hold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Hour"
+msgstr "Hour"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Dream"
+msgstr "Green Dream"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Iris"
+msgstr "Iris"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blown Glass"
+msgstr "Blown Glass"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Lava"
+msgstr "Lava"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Left"
+msgstr "Left"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Life"
+msgstr "Life"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Line"
+msgstr "Line"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Look"
+msgstr "Look"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Loop"
+msgstr "Loop"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "NTSC"
+msgstr "NTSC"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Luma"
+msgstr "Luma"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mild"
+msgstr "Mild"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mist"
+msgstr "Mist"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mode"
+msgstr "Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Neon"
+msgstr "Neon"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Nova"
+msgstr "Nova"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "RGBA"
+msgstr "RGBA"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Oval"
+msgstr "Oval"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Over"
+msgstr "Over"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pins"
+msgstr "Pins"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Post"
+msgstr "Post"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rate"
+msgstr "Rate"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rays"
+msgstr "Rays"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Ring"
+msgstr "Ring"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Salt"
+msgstr "Salt"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Seed"
+msgstr "Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Rust"
+msgstr "Rust"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sinc"
+msgstr "Sinc"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Sine"
+msgstr "Sine"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Skew"
+msgstr "Skew"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Snow"
+msgstr "Snow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Span"
+msgstr "Span"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spin"
+msgstr "Spin"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Spot"
+msgstr "Spot"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Star"
+msgstr "Star"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Test"
+msgstr "Test"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Swap"
+msgstr "Swap"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Thin"
+msgstr "Thin"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tile"
+msgstr "Tile"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tilt"
+msgstr "Tilt"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tint"
+msgstr "Tint"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Source Sharpness"
+msgstr "Source Sharpness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pin Type"
+msgstr "Pin Type"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Warm"
+msgstr "Warm"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Warp"
+msgstr "Warp"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wash"
+msgstr "Wash"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wave"
+msgstr "Wave"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wide"
+msgstr "Wide"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wind"
+msgstr "Wind"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wisp"
+msgstr "Wisp"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "YRGB"
+msgstr "YRGB"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wrap"
+msgstr "Wrap"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Zest"
+msgstr "Zest"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Skin Tone"
+msgstr "Skin Tone"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Remap Red to"
+msgstr "Remap Red to"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Skin mask"
+msgstr "Skin mask"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glowing Orb"
+msgstr "Glowing Orb"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "0 - 100 % RGB"
+msgstr "0 - 100 % RGB"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Color"
+msgstr "Green Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cheap Camera"
+msgstr "Cheap Camera"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Angle"
+msgstr "Green Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Magic Sharp"
+msgstr "BCC Magic Sharp"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Make Alpha From Edges"
+msgstr "Make Alpha From Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Fly from Corner"
+msgstr "Fly from Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Direction"
+msgstr "Red Direction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Red Input White"
+msgstr "Red Input White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clone Detail"
+msgstr "Clone Detail"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Font Smoothing - Medium"
+msgstr "Font Smoothing - Medium"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Softness Y Ratio"
+msgstr "Softness Y Ratio"
+

@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bleach Intrigue"
+msgstr "Bleach Intrigue"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Rotate Random %"
+msgstr "Rotate Random %"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Revolving Door Wipe"
+msgstr "Revolving Door Wipe"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Open Titler Pro"
+msgstr "Open Titler Pro"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pixelator"
+msgstr "Pixelator"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Help..."
+msgstr "Help..."
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "YZ Luma"
+msgstr "YZ Luma"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Inside Color Red"
+msgstr "Inside Color Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Glow Control"
+msgstr "Glow Control"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Particle Spin with Propagation"
+msgstr "Particle Spin with Propagation"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "World Center X"
+msgstr "World Center X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "World Center Y"
+msgstr "World Center Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Corner Positions"
+msgstr "Corner Positions"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Chromatic Aberration On"
+msgstr "Chromatic Aberration On"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Chroma key green enhance"
+msgstr "Chroma key green enhance"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Spotlight Source"
+msgstr "Spotlight Source"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "2.55 Cinescope 55"
+msgstr "2.55 Cinescope 55"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Foreground Red"
+msgstr "Foreground Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Core Roundness"
+msgstr "Core Roundness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Hexagon"
+msgstr "Hexagon"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sitcom Family"
+msgstr "Sitcom Family"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Disperse Effect"
+msgstr "Disperse Effect"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Stacked Zoom"
+msgstr "Stacked Zoom"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Map Behavior"
+msgstr "Map Behavior"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Current Value to Max"
+msgstr "Current Value to Max"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Current Value to Min"
+msgstr "Current Value to Min"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Mid-Shadow Threshold"
+msgstr "Mid-Shadow Threshold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Hurricane Winds"
+msgstr "Hurricane Winds"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Opacity - IP"
+msgstr "Opacity - IP"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Opacity - LT"
+msgstr "Opacity - LT"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Use Background Color"
+msgstr "Use Background Color"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Flourescent Light"
+msgstr "Flourescent Light"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Progressive Media in Interlaced Project"
+msgstr "Progressive Media in Interlaced Project"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "De-yellow skin"
+msgstr "De-yellow skin"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "FG Blend Master Amount"
+msgstr "FG Blend Master Amount"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Bottom to Top"
+msgstr "Bottom to Top"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Smooth Center"
+msgstr "Smooth Center"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Choose Layers"
+msgstr "Choose Layers"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "PictureInPicture Lower Right"
+msgstr "PictureInPicture Lower Right"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Day for Night"
+msgstr "Day for Night"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Dark and Light"
+msgstr "Dark and Light"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cartoon Threshold"
+msgstr "Cartoon Threshold"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L169 Lilac Tint"
+msgstr "L169 Lilac Tint"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cyan Color Red"
+msgstr "Cyan Color Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Scoreboard Timer"
+msgstr "Scoreboard Timer"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Obstacle Amount"
+msgstr "Obstacle Amount"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Smooth Edges Clear Center"
+msgstr "Smooth Edges Clear Center"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Spotlight Falloff"
+msgstr "Spotlight Falloff"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "All Odd Rows"
+msgstr "All Odd Rows"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Very Blue Water"
+msgstr "Very Blue Water"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cone Feather 1"
+msgstr "Cone Feather 1"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cone Feather 2"
+msgstr "Cone Feather 2"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Cone Feather 3"
+msgstr "Cone Feather 3"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Composite on Alpha"
+msgstr "Composite on Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L793 Vanity Fair"
+msgstr "L793 Vanity Fair"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Point 1 Strength"
+msgstr "Point 1 Strength"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Point 2 Strength"
+msgstr "Point 2 Strength"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Start and End"
+msgstr "Start and End"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Faster Analysis"
+msgstr "Faster Analysis"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Disperse Relative To"
+msgstr "Disperse Relative To"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "System Brightness Var"
+msgstr "System Brightness Var"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Displace Relative To"
+msgstr "Displace Relative To"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Ice Crystals"
+msgstr "Ice Crystals"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Horizontal Sync"
+msgstr "Horizontal Sync"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Horizontal Slam"
+msgstr "Horizontal Slam"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Horizontal Bars"
+msgstr "Horizontal Bars"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Horizontal Blur"
+msgstr "Horizontal Blur"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Horizontal Both"
+msgstr "Horizontal Both"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Horizontal Half"
+msgstr "Horizontal Half"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L090 Dark Yellow Green"
+msgstr "L090 Dark Yellow Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Red and Green"
+msgstr "Red and Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Obstacle Layer"
+msgstr "Obstacle Layer"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Sampling Bot-Right"
+msgstr "Sampling Bot-Right"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Color Correction"
+msgstr "Color Correction"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "L089 Moss Green"
+msgstr "L089 Moss Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Block Run Length"
+msgstr "Block Run Length"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Upward + Downward"
+msgstr "Upward + Downward"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Opacity Peak Offset (%)"
+msgstr "Opacity Peak Offset (%)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Pixel Chooser"
+msgstr "Pixel Chooser"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Interval Randomness"
+msgstr "Interval Randomness"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Shift FX"
+msgstr "Shift FX"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Shift  X"
+msgstr "Shift  X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Shift  Y"
+msgstr "Shift  Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Highest"
+msgstr "Highest"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Chrystalized"
+msgstr "Chrystalized"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Technicolor Divide"
+msgstr "Technicolor Divide"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "View Texture"
+msgstr "View Texture"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Max Frequency"
+msgstr "Max Frequency"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "FG Blend Edges"
+msgstr "FG Blend Edges"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Target Region"
+msgstr "Target Region"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Magenta Cast"
+msgstr "Magenta Cast"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Magenta Only"
+msgstr "Magenta Only"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Key Color Green"
+msgstr "Key Color Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Destination XY X"
+msgstr "Destination XY X"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Destination XY Y"
+msgstr "Destination XY Y"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Range Preview"
+msgstr "Range Preview"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Wipe Softness (Opacity)"
+msgstr "Wipe Softness (Opacity)"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Key Color A Red"
+msgstr "Key Color A Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "White/To"
+msgstr "White/To"
+
+#: 
+#, fuzzy
+msgctxt "FFOpenFXTr-version2"
+msgid "Wipe Softness (Size)"
+msgstr "Wipe Softness (Size)"
+

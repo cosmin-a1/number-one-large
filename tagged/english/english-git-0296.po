@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Size FX Layer Mode"
+msgstr "Size FX Layer Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Noise Blurs White"
+msgstr "Noise Blurs White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Camera Orientation"
+msgstr "Camera Orientation"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glint Color Green"
+msgstr "Glint Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scale to Fit"
+msgstr "Scale to Fit"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Obscure Right Side"
+msgstr "Obscure Right Side"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Shift FX Wipe"
+msgstr "Shift FX Wipe"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Swap Green"
+msgstr "Swap Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L144 No Colour Blue"
+msgstr "L144 No Colour Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Wipe Progress (Disperse)"
+msgstr "Wipe Progress (Disperse)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tilting Color"
+msgstr "Tilting Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Circular Freq"
+msgstr "Circular Freq"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Near Corner X"
+msgstr "Near Corner X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Near Corner Y"
+msgstr "Near Corner Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Map Gamma"
+msgstr "Map Gamma"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Loop Count"
+msgstr "Loop Count"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clip Black"
+msgstr "Clip Black"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Inside Color"
+msgstr "Inside Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Keep Edges"
+msgstr "Keep Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Inertia from Emitter %"
+msgstr "Inertia from Emitter %"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Grainy Texture"
+msgstr "Grainy Texture"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Green Key Omit Sides"
+msgstr "Green Key Omit Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L172 Lagoon Blue"
+msgstr "L172 Lagoon Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Light Color Green"
+msgstr "Light Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pivot Point X"
+msgstr "Pivot Point X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Pivot Point Y"
+msgstr "Pivot Point Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Render Legacy PixelChooser"
+msgstr "Render Legacy PixelChooser"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L332 Special Rose Pink"
+msgstr "L332 Special Rose Pink"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Upper Right Light"
+msgstr "Upper Right Light"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Black Color  Green"
+msgstr "Black Color  Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Medium Sharpen"
+msgstr "Medium Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Top Right"
+msgstr "Top Right"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clip White"
+msgstr "Clip White"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "10 Sides"
+msgstr "10 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Start Color Green"
+msgstr "Start Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Clip Right"
+msgstr "Clip Right"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Far Corner X"
+msgstr "Far Corner X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Far Corner Y"
+msgstr "Far Corner Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Drop Shape"
+msgstr "Drop Shape"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Only Background"
+msgstr "Only Background"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Crop Style"
+msgstr "Crop Style"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Midtone Sharpen"
+msgstr "Midtone Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Before Cartoon"
+msgstr "Before Cartoon"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Short Color Green"
+msgstr "Short Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Smooth by Fields"
+msgstr "Smooth by Fields"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Chalk Drawing"
+msgstr "Chalk Drawing"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Outside Glow Color 1 Red"
+msgstr "Outside Glow Color 1 Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Transparent->Opaque"
+msgstr "Transparent->Opaque"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Particle Midpoint Color Green"
+msgstr "Particle Midpoint Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Old Film"
+msgstr "Old Film"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Bold Blue"
+msgstr "Bold Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Outside Glow Color 2 Red"
+msgstr "Outside Glow Color 2 Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Destination X"
+msgstr "Destination X"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Destination Y"
+msgstr "Destination Y"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Destination Z"
+msgstr "Destination Z"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Outside Glow Color 3 Red"
+msgstr "Outside Glow Color 3 Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "String Morph Rate"
+msgstr "String Morph Rate"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Little Specs"
+msgstr "Little Specs"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Paint Color Green"
+msgstr "Paint Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tile Gap Color"
+msgstr "Tile Gap Color"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "FG Scale Master Post"
+msgstr "FG Scale Master Post"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Highlight Color Red"
+msgstr "Highlight Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scale Seed"
+msgstr "Scale Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Min. Pixel Length"
+msgstr "Min. Pixel Length"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Strong Shadows"
+msgstr "Strong Shadows"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Scale Mask"
+msgstr "Scale Mask"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Auto-Rotate Random %"
+msgstr "Auto-Rotate Random %"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Roll RGB Speed"
+msgstr "Roll RGB Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Floor Follows"
+msgstr "Floor Follows"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tile Wall"
+msgstr "Tile Wall"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tile Size"
+msgstr "Tile Size"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "L778 Millennium Gold"
+msgstr "L778 Millennium Gold"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Completion Time"
+msgstr "Completion Time"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Radioactive Olive"
+msgstr "Radioactive Olive"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Blackout"
+msgstr "Blackout"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tile Gap Width"
+msgstr "Tile Gap Width"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Stretch/Direction"
+msgstr "Stretch/Direction"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BCC Tile Mosaic"
+msgstr "BCC Tile Mosaic"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Random Source 2"
+msgstr "Random Source 2"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Disperse Wipe"
+msgstr "Disperse Wipe"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flame 01"
+msgstr "Flame 01"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flame 02"
+msgstr "Flame 02"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Optical Flow"
+msgstr "Optical Flow"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Glow Opacity"
+msgstr "Glow Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Half Sine"
+msgstr "Half Sine"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Tequila Sunrise"
+msgstr "Tequila Sunrise"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flat Fan"
+msgstr "Flat Fan"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Flare On"
+msgstr "Flare On"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Cam Rotation Order"
+msgstr "Cam Rotation Order"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Platinum"
+msgstr "Platinum"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Faux 3D Glasses"
+msgstr "Faux 3D Glasses"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "HDV/HDTV 720 (1280x720)"
+msgstr "HDV/HDTV 720 (1280x720)"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Partial Crop"
+msgstr "Partial Crop"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "PC Mask Intensity"
+msgstr "PC Mask Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Enhanced Contrast"
+msgstr "Enhanced Contrast"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Bump Smoothness"
+msgstr "Bump Smoothness"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BG Black Color Red"
+msgstr "BG Black Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Mid Color Red"
+msgstr "Mid Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "Half-Like"
+msgstr "Half-Like"
+
+#: 
+msgctxt "FFOpenFXTr-version3"
+msgid "BG Mid Color Red"
+msgstr "BG Mid Color Red"
+

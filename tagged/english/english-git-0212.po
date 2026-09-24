@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFRenameDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFRenameDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFRenameDialog-version2"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertingPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertingPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertingPanel-version2"
+msgid "click here"
+msgstr "click here"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertingPanel-version2"
+msgid "Loading failed? %1 to contact us"
+msgstr "Loading failed? %1 to contact us"
+
+#: 
+#, fuzzy
+msgctxt "FFSaveTextPresetDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFSaveTextPresetDialog-version2"
+msgid "This name is already in use. Do you want to overwrite the existing preset?"
+msgstr "This name is already in use. Do you want to overwrite the existing preset?"
+
+#: 
+#, fuzzy
+msgctxt "FFSaveTextPresetDialog-version2"
+msgid "Preset Dialog"
+msgstr "Preset Dialog"
+
+#: 
+#, fuzzy
+msgctxt "FFSaveTextPresetDialog-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionQuickTourPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionQuickTourPanel-version2"
+msgid "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+msgstr "Please adjust the audio parameters, and then click restart to remove silence from audio region with one click."
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "Remember my choice"
+msgstr "Remember my choice"
+
+#: 
+#, fuzzy
+msgctxt "FFSnapshotFormatDialog-version2"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Low"
+msgstr "Low"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "High"
+msgstr "High"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "The add-collection has been failed locally."
+msgstr "The add-collection has been failed locally."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "The un-collection has been failed locally"
+msgstr "The un-collection has been failed locally"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "The un-collection has been failed. please retry"
+msgstr "The un-collection has been failed. please retry"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "The add-collection has been failed. please retry"
+msgstr "The add-collection has been failed. please retry"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Voice Name: "
+msgstr "Voice Name: "
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Pitch:"
+msgstr "Pitch:"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Speed:"
+msgstr "Speed:"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Please label polyphonic characters according to the specifications"
+msgstr "Please label polyphonic characters according to the specifications"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "Parameter Settings:"
+msgstr "Parameter Settings:"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The un-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "AI Credits"
+msgstr "AI Credits"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "What language is this title in?"
+msgstr "What language is this title in?"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechParamFilmoraPanel-version2"
+msgid "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+msgstr "The add-collection has been saved locally, but due to network issues, the synchronization of the collection to the account failed."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoFailedDlg-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoFailedDlg-version2"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoFailedDlg-version2"
+msgid "Failed to generate video. Please try again later."
+msgstr "Failed to generate video. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoFailedDlg-version2"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoFailedDlg-version2"
+msgid "Failed to generate. Please try again later."
+msgstr "Failed to generate. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoFailedDlg-version2"
+msgid "This language is not supported."
+msgstr "This language is not supported."
+
+#: 
+#, fuzzy
+msgctxt "FFTipWidget-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFTipWidget-version2"
+msgid "Click for more help."
+msgstr "Click for more help."
+
+#: 
+#, fuzzy
+msgctxt "FFTipWidget-version2"
+msgid "Got It"
+msgstr "Got It"
+
+#: 
+#, fuzzy
+msgctxt "FFTipWidget-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FFTipWidget-version2"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+#, fuzzy
+msgctxt "FFTipWidget-version2"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+#, fuzzy
+msgctxt "FFUnsupportedImgFileDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFUnsupportedImgFileDialog-version2"
+msgid "Information"
+msgstr "Information"
+
+#: 
+#, fuzzy
+msgctxt "FFUnsupportedImgFileDialog-version2"
+msgid "Import failed, please compress the image so that its size is less than 12k x 12k in order to import successfully"
+msgstr "Import failed, please compress the image so that its size is less than 12k x 12k in order to import successfully"
+
+#: 
+#, fuzzy
+msgctxt "FFUnsupportedImgFileDialog-version2"
+msgid "Please contact support."
+msgstr "Please contact support."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "sec"
+msgstr "sec"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "The Camera %1 is lost."
+msgstr "The Camera %1 is lost."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Record Time:"
+msgstr "Record Time:"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Audio:"
+msgstr "Audio:"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Webcam is being used by another application, please close other application and try again."
+msgstr "Webcam is being used by another application, please close other application and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Live Record"
+msgstr "Live Record"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Count Down:"
+msgstr "Count Down:"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Video Device:"
+msgstr "Video Device:"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Start (Space)"
+msgstr "Start (Space)"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Stop (Space)"
+msgstr "Stop (Space)"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Please check whether you have permission to write or read on the path, or choose other path to create."
+msgstr "Please check whether you have permission to write or read on the path, or choose other path to create."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Start (%1)"
+msgstr "Start (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Recording"
+msgstr "Recording"
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "Audio device %1 connection lost."
+msgstr "Audio device %1 connection lost."
+
+#: 
+#, fuzzy
+msgctxt "FFWebcamRecordPanel-version2"
+msgid "There is only %1MB space in the specified output directory, Would you choose another directory?"
+msgstr "There is only %1MB space in the specified output directory, Would you choose another directory?"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "All"
+msgstr "All"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Name"
+msgstr "Name"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Size"
+msgstr "Size"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Copying Media files for a quick preview..."
+msgstr "Copying Media files for a quick preview..."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "The file:\"%1\" dose not exit."
+msgstr "The file:\"%1\" dose not exit."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "The file:\"%1\" is incomplete."
+msgstr "The file:\"%1\" is incomplete."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Import from:"
+msgstr "Import from:"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Files selected:  %1 file(s), %2"
+msgstr "Files selected:  %1 file(s), %2"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Please check write or read permission, or choose another path to continue."
+msgstr "Please check write or read permission, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Click to select a device"
+msgstr "Click to select a device"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Save File to:"
+msgstr "Save File to:"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Device lost"
+msgstr "Device lost"
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "No Media files found on this device."
+msgstr "No Media files found on this device."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceView-version2"
+msgid "Check All"
+msgstr "Check All"
+

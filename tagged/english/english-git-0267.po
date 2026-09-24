@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFPurchasePreviewCreditsWidget-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FRenewalInAdvanceBtn-version2"
+msgid "Renew your Filmora Plan"
+msgstr "Renew your Filmora Plan"
+
+#: 
+#, fuzzy
+msgctxt "FThemeMediaRollWidget-version2"
+msgid "FThemeMediaRollWidget"
+msgstr "FThemeMediaRollWidget"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "Start Time:"
+msgstr "Start Time:"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "End Time:"
+msgstr "End Time:"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "Removing objects (Task %1)"
+msgstr "Removing objects (Task %1)"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "Audio Transitions"
+msgstr "Audio Transitions"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsToolTipService-version2"
+msgid "Constant Gain"
+msgstr "Constant Gain"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCBasePresenter-version2"
+msgid "Download failed. Please try again."
+msgstr "Download failed. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FAIGCBasePresenter-version2"
+msgid "The resource has expired."
+msgstr "The resource has expired."
+
+#: 
+#, fuzzy
+msgctxt "FFMediaPlayerEditorPresenter-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWidget-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FThirdPartyLoginWidget-version2"
+msgid "or login with"
+msgstr "or login with"
+
+#: 
+#, fuzzy
+msgctxt "FTrialAuthenticationDialog-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFontTable-version2"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+#, fuzzy
+msgctxt "FFontTable-version2"
+msgid "Commercial use, click to view detailed commercial scope."
+msgstr "Commercial use, click to view detailed commercial scope."
+
+#: 
+#, fuzzy
+msgctxt "FFontTable-version2"
+msgid "Please check your network connection and try again."
+msgstr "Please check your network connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelsPaneWidget-version2"
+msgid "Collapse"
+msgstr "Collapse"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidget-version2"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextCustomizeBackgroundWidget-version2"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundTypePresenter-version2"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version2"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeFillTypeComboxPresenter-version2"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeFillTypeWidget-version2"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyShapeFillTypeWidget-version2"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillTypeSelectWidget-version2"
+msgid "Color Fill"
+msgstr "Color Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillTypeSelectWidget-version2"
+msgid "Gradient Fill"
+msgstr "Gradient Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextFillTypeSelectWidget-version2"
+msgid "Image Fill"
+msgstr "Image Fill"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyDynamicEffect-version2"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniversalAudioDynamicEffectWidget-version2"
+msgid "There is no parameter for this Filter"
+msgstr "There is no parameter for this Filter"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextBaiscEditComponent-version2"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+#, fuzzy
+msgctxt "FTextInputWidget-version2"
+msgid "Text Color"
+msgstr "Text Color"
+
+#: 
+#, fuzzy
+msgctxt "FClipTaskWidget-version2"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+#, fuzzy
+msgctxt "FClipTaskWidget-version2"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyEffectSliderWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FRecentProjectDialog-version2"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+#, fuzzy
+msgctxt "FRecentProjectDialog-version2"
+msgid "has been saved"
+msgstr "has been saved"
+
+#: 
+#, fuzzy
+msgctxt "FRecentProjectDialog-version2"
+msgid "Recent Project"
+msgstr "Recent Project"
+
+#: 
+#, fuzzy
+msgctxt "FSearchTagsWidget-version2"
+msgid "Search History"
+msgstr "Search History"
+
+#: 
+#, fuzzy
+msgctxt "FSearchTagsWidget-version2"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+#, fuzzy
+msgctxt "FSearchTagsWidget-version2"
+msgid "Trending"
+msgstr "Trending"
+
+#: 
+#, fuzzy
+msgctxt "FConvertToSrtStatusDlg-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationWidget-version2"
+msgid "Preset Motions (Legacy)"
+msgstr "Preset Motions (Legacy)"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationWidget-version2"
+msgid "Preset Animation"
+msgstr "Preset Animation"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineRenderPreviewActionPresenter-version2"
+msgid "Render Selected Range"
+msgstr "Render Selected Range"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineRenderPreviewActionPresenter-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "FThemeMediaItemWidget-version2"
+msgid "FThemeMediaItemWidget"
+msgstr "FThemeMediaItemWidget"
+
+#: 
+#, fuzzy
+msgctxt "FFLineEdit-version2"
+msgid "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+msgstr "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+
+#: 
+#, fuzzy
+msgctxt "FMediaCategoryView-version2"
+msgid "iTunes"
+msgstr "iTunes"
+
+#: 
+#, fuzzy
+msgctxt "FMediaCategoryView-version2"
+msgid "Photos Library"
+msgstr "Photos Library"
+
+#: 
+#, fuzzy
+msgctxt "FTitleModeBar-version2"
+msgid "Search custom titles"
+msgstr "Search custom titles"
+
+#: 
+#, fuzzy
+msgctxt "FTitleModeBar-version2"
+msgid "Search downloaded titles"
+msgstr "Search downloaded titles"
+
+#: 
+#, fuzzy
+msgctxt "FTitleModeBar-version2"
+msgid "Search my favorite titles"
+msgstr "Search my favorite titles"
+
+#: 
+#, fuzzy
+msgctxt "FTitleModeBar-version2"
+msgid "Search titles"
+msgstr "Search titles"
+
+#: 
+#, fuzzy
+msgctxt "FTitleModeBar-version2"
+msgid "Search my titles"
+msgstr "Search my titles"
+
+#: 
+#, fuzzy
+msgctxt "FScenceDetectionDlg-version2"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+#, fuzzy
+msgctxt "FBorisFXGuideWidget-version2"
+msgid "BorisFX and NewBlue are online."
+msgstr "BorisFX and NewBlue are online."
+
+#: 
+#, fuzzy
+msgctxt "FBorisFXGuideWidget-version2"
+msgid "New Special Effects!"
+msgstr "New Special Effects!"
+
+#: 
+#, fuzzy
+msgctxt "FAIModuleHelper-version2"
+msgid "AI model updated successfully!"
+msgstr "AI model updated successfully!"
+
+#: 
+#, fuzzy
+msgctxt "FCoverTemplateDialog-version2"
+msgid "封面模版窗体"
+msgstr "封面模版窗体"
+
+#: 
+#, fuzzy
+msgctxt "FCoverMediaPlayerEditorWidget-version2"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+#, fuzzy
+msgctxt "FChangeRatioDialog-version2"
+msgid "Edge Align"
+msgstr "Edge Align"
+
+#: 
+#, fuzzy
+msgctxt "FChangeRatioDialog-version2"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+#, fuzzy
+msgctxt "FExtractPackWaitingDialog-version2"
+msgid "Wait a second, refreshing the category information."
+msgstr "Wait a second, refreshing the category information."
+
+#: 
+#, fuzzy
+msgctxt "FFAIErasingProgressPanel-version2"
+msgid "Preview Object Tracking"
+msgstr "Preview Object Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FFAIErasingProgressPanel-version2"
+msgid "Object Tracking in progress…"
+msgstr "Object Tracking in progress…"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedPresetHelper-version2"
+msgid "preset"
+msgstr "preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyControl-version2"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+#, fuzzy
+msgctxt "FDesignerHelper-version2"
+msgid "Export Template Project"
+msgstr "Export Template Project"
+
+#: 
+#, fuzzy
+msgctxt "FDesignerHelper-version2"
+msgid "Export Template Project..."
+msgstr "Export Template Project..."
+
+#: 
+#, fuzzy
+msgctxt "FImportDeviceDialog-version2"
+msgid "Import from Device"
+msgstr "Import from Device"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicNumberSliderWidget-version2"
+msgid "Generated music count"
+msgstr "Generated music count"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidget-version2"
+msgid "SIGN IN"
+msgstr "SIGN IN"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidget-version2"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidget-version2"
+msgid "SIGN OUT"
+msgstr "SIGN OUT"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidget-version2"
+msgid "Sign out"
+msgstr "Sign out"
+
+#: 
+#, fuzzy
+msgctxt "FMYFeatureTryLimitDialog-version2"
+msgid "Try VIP Feature"
+msgstr "Try VIP Feature"
+
+#: 
+#, fuzzy
+msgctxt "FMYFeatureTryLimitDialog-version2"
+msgid "Try VIP Resource"
+msgstr "Try VIP Resource"
+
+#: 
+#, fuzzy
+msgctxt "FMYFeatureTryLimitDialog-version2"
+msgid "Buy VIP Now"
+msgstr "Buy VIP Now"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterAvatarWidget-version2"
+msgid "Open the headdress accessories"
+msgstr "Open the headdress accessories"
+
+#: 
+#, fuzzy
+msgctxt "FAccountCenterAvatarWidget-version2"
+msgid "Close the headdress accessories"
+msgstr "Close the headdress accessories"
+
+#: 
+#, fuzzy
+msgctxt "FFToolBarManagerButton-version2"
+msgid "Custom toolbar"
+msgstr "Custom toolbar"
+
+#: 
+#, fuzzy
+msgctxt "FProperty3DAnimationControl-version2"
+msgid "Animation Out"
+msgstr "Animation Out"
+
+#: 
+#, fuzzy
+msgctxt "FProperty3DAnimationControl-version2"
+msgid "Animation In"
+msgstr "Animation In"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameViewBase-version2"
+msgid "Next Keyframe"
+msgstr "Next Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameViewBase-version2"
+msgid "Add Keyframe"
+msgstr "Add Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameViewBase-version2"
+msgid "Previous Keyframe"
+msgstr "Previous Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FKeyFrameViewBase-version2"
+msgid "Delete Keyframe"
+msgstr "Delete Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FRecordStatusWidget-version2"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+#, fuzzy
+msgctxt "FRecordStatusWidget-version2"
+msgid "Tap to record"
+msgstr "Tap to record"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionSettingViewPrivate-version2"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+#, fuzzy
+msgctxt "FFGradientColorCtlWidget-version2"
+msgid "Click to add color markers"
+msgstr "Click to add color markers"
+
+#: 
+#, fuzzy
+msgctxt "FFGradientColorCtlWidget-version2"
+msgid "Reached the maximum limit of the color scale (10)"
+msgstr "Reached the maximum limit of the color scale (10)"
+
+#: 
+#, fuzzy
+msgctxt "FFTipLabel-version2"
+msgid "The final video should not exceed 1/3 of the total length of all imported clips, and it should be shorter than the BGM."
+msgstr "The final video should not exceed 1/3 of the total length of all imported clips, and it should be shorter than the BGM."
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionProgressDialog-version2"
+msgid "Automatically remove silence from audio region."
+msgstr "Automatically remove silence from audio region."
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionProgressDialog-version2"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+#, fuzzy
+msgctxt "FFSilenceDetectionProgressDialog-version2"
+msgid "Please wait, processing...("
+msgstr "Please wait, processing...("
+
+#: 
+#, fuzzy
+msgctxt "FBottomWidget-version2"
+msgid "Your first voice clone is free and you will save 100 credits!"
+msgstr "Your first voice clone is free and you will save 100 credits!"
+

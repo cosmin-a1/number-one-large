@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Leap Downwards"
+msgstr "Leap Downwards"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Beach house, beach, dolphins, high resolution, rich detail"
+msgstr "Beach house, beach, dolphins, high resolution, rich detail"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+msgctxt "QObject-version3"
+msgid "NLog 709 Style"
+msgstr "NLog 709 Style"
+
+#: 
+msgctxt "QObject-version3"
+msgid "SLog 709 Style"
+msgstr "SLog 709 Style"
+
+#: 
+msgctxt "QObject-version3"
+msgid "VLog 709 Style"
+msgstr "VLog 709 Style"
+
+#: 
+msgctxt "QObject-version3"
+msgid "DLog 709 Style"
+msgstr "DLog 709 Style"
+
+#: 
+msgctxt "QObject-version3"
+msgid "CLog 709 Style"
+msgstr "CLog 709 Style"
+
+#: 
+msgctxt "QObject-version3"
+msgid "GPLog 709 Style"
+msgstr "GPLog 709 Style"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Raindrop"
+msgstr "Raindrop"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Move to top"
+msgstr "Move to top"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Hairline"
+msgstr "Hairline"
+
+#: 
+msgctxt "QObject-version3"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Are you sure you want to delete the custom project template item \"%1\"?"
+msgstr "Are you sure you want to delete the custom project template item \"%1\"?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Double-click to Apply"
+msgstr "Double-click to Apply"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The image is being generated."
+msgstr "The image is being generated."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Square Blur"
+msgstr "Square Blur"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The template has been modified. Do you want to save the changes? If not, your changes will be lost."
+msgstr "The template has been modified. Do you want to save the changes? If not, your changes will be lost."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Message Center"
+msgstr "Message Center"
+
+#: 
+msgctxt "QObject-version3"
+msgid "2 GB vRAM (4GB required for HD and 4K videos)."
+msgstr "2 GB vRAM (4GB required for HD and 4K videos)."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Bengali (India)"
+msgstr "Bengali (India)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Re-analyze"
+msgstr "Re-analyze"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Far East"
+msgstr "Far East"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Analyze"
+msgstr "Analyze"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Bring to Front"
+msgstr "Bring to Front"
+
+#: 
+msgctxt "QObject-version3"
+msgid "insufficient rights"
+msgstr "insufficient rights"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Random 2"
+msgstr "Random 2"
+
+#: 
+msgctxt "QObject-version3"
+msgid "more than 60min"
+msgstr "more than 60min"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Sign Up to Get"
+msgstr "Sign Up to Get"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Move to upper right and zoom in"
+msgstr "Move to upper right and zoom in"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+msgstr "Please confirm you want to delete \"%1\". Once deleted, it cannot be recovered."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Edit advanced properties, AI Tools, Keyframe, and Speed Ramping. Start with Multi-Clip Editing as an example."
+msgstr "Edit advanced properties, AI Tools, Keyframe, and Speed Ramping. Start with Multi-Clip Editing as an example."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Temporary files currently being used will not be deleted."
+msgstr "Temporary files currently being used will not be deleted."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Beat Edit"
+msgstr "Beat Edit"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Hard Rock"
+msgstr "Hard Rock"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Enable Canvas Snapping"
+msgstr "Enable Canvas Snapping"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Sandra Lomo"
+msgstr "Sandra Lomo"
+
+#: 
+msgctxt "QObject-version3"
+msgid "barLabel"
+msgstr "barLabel"
+
+#: 
+msgctxt "QObject-version3"
+msgid "File size, over %1GB cannot be uploaded"
+msgstr "File size, over %1GB cannot be uploaded"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Evaporate"
+msgstr "Evaporate"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Camera Name"
+msgstr "Camera Name"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Brand Transmission, Logo Reveal"
+msgstr "Brand Transmission, Logo Reveal"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Renew %1 months at %2 off"
+msgstr "Renew %1 months at %2 off"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Scanning code success !"
+msgstr "Scanning code success !"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Graphics"
+msgstr "Graphics"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Pixelated Edges"
+msgstr "Pixelated Edges"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Add Text Box"
+msgstr "Add Text Box"
+
+#: 
+msgctxt "QObject-version3"
+msgid "SquareSize"
+msgstr "SquareSize"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Warm Max"
+msgstr "Warm Max"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Start Now"
+msgstr "Start Now"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Ease out"
+msgstr "Ease out"
+
+#: 
+msgctxt "QObject-version3"
+msgid "SmartEdit"
+msgstr "SmartEdit"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Flash out"
+msgstr "Flash out"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Heartbeat"
+msgstr "Heartbeat"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Enlarge Eye"
+msgstr "Enlarge Eye"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Delete Thumbnail"
+msgstr "Delete Thumbnail"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Unlock Track"
+msgstr "Unlock Track"
+
+#: 
+msgctxt "QObject-version3"
+msgid "%1 is importing now, %2 files left."
+msgstr "%1 is importing now, %2 files left."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Return to Startup window"
+msgstr "Return to Startup window"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Finalize your video by clicking 'Export'."
+msgstr "Finalize your video by clicking 'Export'."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Filmora Twitter"
+msgstr "Filmora Twitter"
+
+#: 
+msgctxt "QObject-version3"
+msgid "download folder"
+msgstr "download folder"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Welcome! Follow the Tutorial to Start Editing with Filmora."
+msgstr "Welcome! Follow the Tutorial to Start Editing with Filmora."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+msgctxt "QObject-version3"
+msgid "rotate_start_angle"
+msgstr "rotate_start_angle"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The screen ratio is scaled"
+msgstr "The screen ratio is scaled"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Delay Grab"
+msgstr "Delay Grab"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Only 1500 characters can be transcribed in a single task."
+msgstr "Only 1500 characters can be transcribed in a single task."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Delay time"
+msgstr "Delay time"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Vignette White"
+msgstr "Vignette White"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Direction"
+msgstr "Direction"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Process Bar Color"
+msgstr "Process Bar Color"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Reflect"
+msgstr "Reflect"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Spanish (Nicaragua)"
+msgstr "Spanish (Nicaragua)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The size of the new storage location is being calculated. Please wait..."
+msgstr "The size of the new storage location is being calculated. Please wait..."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Log into Wondershare ID"
+msgstr "Log into Wondershare ID"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Single Character Gathers"
+msgstr "Single Character Gathers"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Restart Now"
+msgstr "Restart Now"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Sorry, the Avatar Presentation plugin is currently in beta and does not support this language at this time."
+msgstr "Sorry, the Avatar Presentation plugin is currently in beta and does not support this language at this time."
+
+#: 
+msgctxt "QObject-version3"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+msgctxt "QObject-version3"
+msgid "isWindow"
+msgstr "isWindow"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Up Dir Insert"
+msgstr "Up Dir Insert"
+
+#: 
+msgctxt "QObject-version3"
+msgid "3DL File"
+msgstr "3DL File"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Educational"
+msgstr "Educational"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Media Management"
+msgstr "Media Management"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Click to login in"
+msgstr "Click to login in"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Previous Key Frame"
+msgstr "Previous Key Frame"
+

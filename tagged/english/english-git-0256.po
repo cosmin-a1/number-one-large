@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "The \"%1\" file has been loaded. Do you want to open the file now?"
+msgstr "The \"%1\" file has been loaded. Do you want to open the file now?"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Open now"
+msgstr "Open now"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Load complete tip"
+msgstr "Load complete tip"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskFloatingWidget-version2"
+msgid "Use Now"
+msgstr "Use Now"
+
+#: 
+#, fuzzy
+msgctxt "DcPluginManager-version2"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "DcPluginManager-version2"
+msgid "Installation failed. Please try again later."
+msgstr "Installation failed. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "DcPluginManager-version2"
+msgid "Insufficient disk space. Please free up some space and try again."
+msgstr "Insufficient disk space. Please free up some space and try again."
+
+#: 
+#, fuzzy
+msgctxt "DcPluginManager-version2"
+msgid "Network error. Please check your network and try again."
+msgstr "Network error. Please check your network and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAIPortraitItemManager-version2"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FAudioVoiceChangerMediaManager-version2"
+msgid "Download failed. Please try again later."
+msgstr "Download failed. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Please leave your email"
+msgstr "Please leave your email"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Leave your suggestions"
+msgstr "Leave your suggestions"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Contact information"
+msgstr "Contact information"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Resource Feedback"
+msgstr "Resource Feedback"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Allow screenshot and upload of current screen to help solve the problem"
+msgstr "Allow screenshot and upload of current screen to help solve the problem"
+
+#: 
+#, fuzzy
+msgctxt "FFeedbackMoreDialog-version2"
+msgid "Clear descriptions allow us to solve issues quickly"
+msgstr "Clear descriptions allow us to solve issues quickly"
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackDialog-version2"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+#, fuzzy
+msgctxt "FFeedBackDialog-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Export in 4K resolution"
+msgstr "Export in 4K resolution"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Export Limitation"
+msgstr "Export Limitation"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Export with watermark"
+msgstr "Export with watermark"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+msgstr "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features."
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTrialLimitationDialog-version2"
+msgid "No Watermark"
+msgstr "No Watermark"
+
+#: 
+#, fuzzy
+msgctxt "FAppLicenseExportDialog-version2"
+msgid "Click here to refresh your activation status."
+msgstr "Click here to refresh your activation status."
+
+#: 
+#, fuzzy
+msgctxt "FAppLicenseExportDialog-version2"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+#, fuzzy
+msgctxt "FAppLicenseExportDialog-version2"
+msgid "Click here to log in and export without a watermark."
+msgstr "Click here to log in and export without a watermark."
+
+#: 
+#, fuzzy
+msgctxt "FAppLicenseExportDialog-version2"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+#, fuzzy
+msgctxt "FAppLicenseExportDialog-version2"
+msgid "Purchase Filmora X to export without a watermark."
+msgstr "Purchase Filmora X to export without a watermark."
+
+#: 
+#, fuzzy
+msgctxt "FAppLicenseExportDialog-version2"
+msgid "Already purchased? "
+msgstr "Already purchased? "
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRemoveDialog-version2"
+msgid "Delete cloud item"
+msgstr "Delete cloud item"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRemoveDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRemoveDialog-version2"
+msgid "Are you sure you want to move this item(s) to Recycle Bin?"
+msgstr "Are you sure you want to move this item(s) to Recycle Bin?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRemoveDialog-version2"
+msgid "Tips: The storage will release after delete the item(s) from Recycle Bin."
+msgstr "Tips: The storage will release after delete the item(s) from Recycle Bin."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRemoveDialog-version2"
+msgid "Move to Recycle Bin"
+msgstr "Move to Recycle Bin"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRemoveDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version2"
+msgid "Graniny Blur"
+msgstr "Graniny Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version2"
+msgid "Color Blur"
+msgstr "Color Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version2"
+msgid "Direction Blur"
+msgstr "Direction Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version2"
+msgid "Radial Blur"
+msgstr "Radial Blur"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBackgroundBlurStyleListPresenter-version2"
+msgid "Basic Blur"
+msgstr "Basic Blur"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Don't show this again."
+msgstr "Don't show this again."
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Add more media to get a better result"
+msgstr "Add more media to get a better result"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Delete the selected media?"
+msgstr "Delete the selected media?"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Import Folder"
+msgstr "Import Folder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Add Again"
+msgstr "Add Again"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Add more than 5 media to unlock the Auto-Create"
+msgstr "Add more than 5 media to unlock the Auto-Create"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Import File"
+msgstr "Import File"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+#, fuzzy
+msgctxt "FMediaResourceManagerWidget-version2"
+msgid "Reveal in Finder"
+msgstr "Reveal in Finder"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextPlayerToolBar-version2"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextPlayerToolBar-version2"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceTextPlayerToolBar-version2"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceTextPlayerToolBar-version2"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceTextPlayerToolBar-version2"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceTextPlayerToolBar-version2"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingPlayerToolBar-version2"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingPlayerToolBar-version2"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingPlayerToolBar-version2"
+msgid "Playhead Position"
+msgstr "Playhead Position"
+
+#: 
+#, fuzzy
+msgctxt "FFSmartKeyingPlayerToolBar-version2"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Duration setting"
+msgstr "Duration setting"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Add more media to customize the video duration"
+msgstr "Add more media to customize the video duration"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Max 30s"
+msgstr "Max 30s"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Max 60s"
+msgstr "Max 60s"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Text Color:"
+msgstr "Text Color:"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Max 2min"
+msgstr "Max 2min"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Max 3min"
+msgstr "Max 3min"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Max 5min"
+msgstr "Max 5min"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Max 10min"
+msgstr "Max 10min"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Video length:"
+msgstr "Video length:"
+
+#: 
+#, fuzzy
+msgctxt "FGlobalSettingMenu-version2"
+msgid "Text type"
+msgstr "Text type"
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "Complete User Guide to Redeem"
+msgstr "Complete User Guide to Redeem"
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "Skip User Guide and Reward"
+msgstr "Skip User Guide and Reward"
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "Unlock Watermark-Free"
+msgstr "Unlock Watermark-Free"
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "Don't Miss Out on This Special Bonus"
+msgstr "Don't Miss Out on This Special Bonus"
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "You're just a few steps away from claiming your"
+msgstr "You're just a few steps away from claiming your"
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "Unlock Watermark-Free Exports reward."
+msgstr "Unlock Watermark-Free Exports reward."
+
+#: 
+#, fuzzy
+msgctxt "FGuideRedeemPanel-version2"
+msgid "%1 Exports reward."
+msgstr "%1 Exports reward."
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesPanel-version2"
+msgid "Original Path"
+msgstr "Original Path"
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesPanel-version2"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesPanel-version2"
+msgid "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+msgstr "Some files in your project have been moved or are missing. Select the files below to begin relocating them."
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesPanel-version2"
+msgid "Relocate"
+msgstr "Relocate"
+
+#: 
+#, fuzzy
+msgctxt "FRelocateMissingFilesPanel-version2"
+msgid "Matched File"
+msgstr "Matched File"
+

@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioAdjusterCtrl-version2"
+msgid "dB"
+msgstr "dB"
+
+#: 
+#, fuzzy
+msgctxt "FFMasterAudioAdjustCtrl-version2"
+msgid "dB"
+msgstr "dB"
+
+#: 
+#, fuzzy
+msgctxt "FFMasterAudioAdjustCtrl-version2"
+msgid "Master"
+msgstr "Master"
+
+#: 
+#, fuzzy
+msgctxt "FFTimeView-version2"
+msgid "hr"
+msgstr "hr"
+
+#: 
+#, fuzzy
+msgctxt "FFTimeView-version2"
+msgid "min"
+msgstr "min"
+
+#: 
+#, fuzzy
+msgctxt "FFTimeView-version2"
+msgid "sec"
+msgstr "sec"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPageManager-version2"
+msgid "on"
+msgstr "on"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPageManager-version2"
+msgid "Shot by"
+msgstr "Shot by"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPageManager-version2"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+#, fuzzy
+msgctxt "FCommonInfoPageManager-version2"
+msgid "Photo by"
+msgstr "Photo by"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "or"
+msgstr "or"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Didn't find the right music? I want to %1 or try %2!"
+msgstr "Didn't find the right music? I want to %1 or try %2!"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Didn't find the right Stickers?"
+msgstr "Didn't find the right Stickers?"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Didn't find the right music?"
+msgstr "Didn't find the right music?"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "AI Sticker"
+msgstr "AI Sticker"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Make a suggestion"
+msgstr "Make a suggestion"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "I want to"
+msgstr "I want to"
+
+#: 
+#, fuzzy
+msgctxt "FDemandToast-version2"
+msgid "Can't find the resources you want?"
+msgstr "Can't find the resources you want?"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "or"
+msgstr "or"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "There is no result for \"%1\" in %2"
+msgstr "There is no result for \"%1\" in %2"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Try to search in %1"
+msgstr "Try to search in %1"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Try to search in Filmora online resources"
+msgstr "Try to search in Filmora online resources"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Stock Media"
+msgstr "Stock Media"
+
+#: 
+#, fuzzy
+msgctxt "FFKeywordEstimateHelper-version2"
+msgid "Wondershare Filmstock"
+msgstr "Wondershare Filmstock"
+
+#: 
+#, fuzzy
+msgctxt "FAnimationCustomizeView-version2"
+msgid "°"
+msgstr "°"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidgetClass-version2"
+msgid "..."
+msgstr "..."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationStackedWidgetClass-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidgetClass-version2"
+msgid "..."
+msgstr "..."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyVideoBackgroundWidgetClass-version2"
+msgid "FPropertyVideoBackgroundWidgetWidget"
+msgstr "FPropertyVideoBackgroundWidgetWidget"
+
+#: 
+#, fuzzy
+msgctxt "FImportFilesDialog-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FImportFilesDialog-version2"
+msgid "Imported Media"
+msgstr "Imported Media"
+
+#: 
+#, fuzzy
+msgctxt "FImportFilesDialog-version2"
+msgid "Import"
+msgstr "Import"
+
+#: 
+#, fuzzy
+msgctxt "FImportFilesDialog-version2"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateVeidoEditListItem-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateVeidoEditListItem-version2"
+msgid "Change"
+msgstr "Change"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateVeidoEditListItem-version2"
+msgid "1080*1080px recommended"
+msgstr "1080*1080px recommended"
+
+#: 
+#, fuzzy
+msgctxt "FIntroTemplateVeidoEditListItem-version2"
+msgid "1920*1080 Recommended"
+msgstr "1920*1080 Recommended"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLutWidget-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLutWidget-version2"
+msgid "Lut Preset"
+msgstr "Lut Preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLutWidget-version2"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLutWidget-version2"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicLutWidget-version2"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleEmptyListWidget-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleEmptyListWidget-version2"
+msgid "Subtitles are empty, please click to add subtitles"
+msgstr "Subtitles are empty, please click to add subtitles"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleListMask-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleListMask-version2"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+#, fuzzy
+msgctxt "FWccDocView-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "FWccDocView-version2"
+msgid "Backup to the Cloud"
+msgstr "Backup to the Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FWccDocView-version2"
+msgid "Please add a network drive"
+msgstr "Please add a network drive"
+
+#: 
+#, fuzzy
+msgctxt "LineEditWithClearBtn-version2"
+msgid "Add"
+msgstr "Add"
+
+#: 
+#, fuzzy
+msgctxt "LineEditWithClearBtn-version2"
+msgid "Add Shortcut"
+msgstr "Add Shortcut"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "All"
+msgstr "All"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Instant Cutter"
+msgstr "Instant Cutter"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Update to Go"
+msgstr "Update to Go"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Portrait Cutout"
+msgstr "AI Portrait Cutout"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Toolbox"
+msgstr "AI Toolbox"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "AI Stylizer"
+msgstr "AI Stylizer"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FAIToolboxWidget-version2"
+msgid "New Features"
+msgstr "New Features"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "All"
+msgstr "All"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "There are no files in this folder"
+msgstr "There are no files in this folder"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "No network connection currently, please check the network and %1"
+msgstr "No network connection currently, please check the network and %1"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "File loading, please wait..."
+msgstr "File loading, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "Filter by file type"
+msgstr "Filter by file type"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskFileWidget-version2"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "All"
+msgstr "All"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Clear All Tasks"
+msgstr "Clear All Tasks"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "TransferCenter Stop All"
+msgstr "TransferCenter Stop All"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Project"
+msgstr "Project"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Start All"
+msgstr "Start All"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Are you sure to clear all tasks?"
+msgstr "Are you sure to clear all tasks?"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Cancel All"
+msgstr "Cancel All"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Clear All"
+msgstr "Clear All"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterToolbar-version2"
+msgid "Subtitle"
+msgstr "Subtitle"
+

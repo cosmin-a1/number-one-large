@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaContentMenu-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaContentMenu-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaContentMenu-version2"
+msgid "Share Link"
+msgstr "Share Link"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMenu-version2"
+msgid "Go to Filmora Cloud"
+msgstr "Go to Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMenu-version2"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMenu-version2"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMenu-version2"
+msgid "Replication failed"
+msgstr "Replication failed"
+
+#: 
+#, fuzzy
+msgctxt "FMediaItemMenu-version2"
+msgid "Copy successfully"
+msgstr "Copy successfully"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicItemMoreInfoWidget-version2"
+msgid "Music Downloads Catalog"
+msgstr "Music Downloads Catalog"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicItemMoreInfoWidget-version2"
+msgid "Commercially available"
+msgstr "Commercially available"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAIPortraitVersionPresenter-version2"
+msgid "(Not available for this asset)"
+msgstr "(Not available for this asset)"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAIPortraitVersionPresenter-version2"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAIPortraitVersionPresenter-version2"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAIPortraitVersionPresenter-version2"
+msgid "Our best and smartest model. Requires more processing time."
+msgstr "Our best and smartest model. Requires more processing time."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAIPortraitVersionPresenter-version2"
+msgid "(Not compatible with this device)"
+msgstr "(Not compatible with this device)"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAIPortraitVersionPresenter-version2"
+msgid "Our first generation real-time processing model."
+msgstr "Our first generation real-time processing model."
+
+#: 
+#, fuzzy
+msgctxt "FFSaveTextPresetPanel-version2"
+msgid "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+msgstr "Name your custom text settings and find them under the \"Custom\" category in your Titles library."
+
+#: 
+#, fuzzy
+msgctxt "FFSaveTextPresetPanel-version2"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechToTextParamDialog-version2"
+msgid "Speech-to-Text parameter setting"
+msgstr "Speech-to-Text parameter setting"
+
+#: 
+#, fuzzy
+msgctxt "FPngPhotoInfoPage-version2"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+#, fuzzy
+msgctxt "FPngPhotoInfoPage-version2"
+msgid "Ignore Alpha"
+msgstr "Ignore Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FPngPhotoInfoPage-version2"
+msgid "Premultiplied Alpha"
+msgstr "Premultiplied Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FPngPhotoInfoPage-version2"
+msgid "Straight Alpha"
+msgstr "Straight Alpha"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyChromaKeyWidget-version2"
+msgid "Alpha Channel"
+msgstr "Alpha Channel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyChromaKeyWidget-version2"
+msgid "Tolerance"
+msgstr "Tolerance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyChromaKeyWidget-version2"
+msgid "Select Color"
+msgstr "Select Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyChromaKeyWidget-version2"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyChromaKeyWidget-version2"
+msgid "Offset"
+msgstr "Offset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyChromaKeyWidget-version2"
+msgid "Edge Feather"
+msgstr "Edge Feather"
+
+#: 
+#, fuzzy
+msgctxt "FStoryboard-version2"
+msgid "It is not allowed to add material befor opener"
+msgstr "It is not allowed to add material befor opener"
+
+#: 
+#, fuzzy
+msgctxt "FStoryboard-version2"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+#, fuzzy
+msgctxt "FStoryboard-version2"
+msgid "It is not allowed to add material after credits"
+msgstr "It is not allowed to add material after credits"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertDialog-version2"
+msgid "Color Preset"
+msgstr "Color Preset"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertDialog-version2"
+msgid "Load Preset"
+msgstr "Load Preset"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertDialog-version2"
+msgid "Share Media"
+msgstr "Share Media"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertDialog-version2"
+msgid "My Music"
+msgstr "My Music"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertDialog-version2"
+msgid "Custom Title"
+msgstr "Custom Title"
+
+#: 
+#, fuzzy
+msgctxt "FFResourceConvertDialog-version2"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Purchase %1 for unlimited exports. Paid assets you have used:"
+msgstr "Purchase %1 for unlimited exports. Paid assets you have used:"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Purchase Filmora X and paid resources for unlimited exports"
+msgstr "Purchase Filmora X and paid resources for unlimited exports"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Login and Export"
+msgstr "Login and Export"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Paid Filmstock resources you have used:"
+msgstr "Paid Filmstock resources you have used:"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Re-edit"
+msgstr "Re-edit"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Remove and Export"
+msgstr "Remove and Export"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Get Free Trial"
+msgstr "Get Free Trial"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FUnLicenseMediaItemDialog-version2"
+msgid "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+msgstr "10M+ Creative assets, effects, copyrighted music, LUTs, filters and templates"
+
+#: 
+#, fuzzy
+msgctxt "FProjectFileConverDialog-version2"
+msgid "Converting Project..."
+msgstr "Converting Project..."
+
+#: 
+#, fuzzy
+msgctxt "FProjectFileConverDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FAIPortraitPresenter-version2"
+msgid "Applying AI Portrait Cutout will automatically cancel the AI Frame Interpolation task. Continue?"
+msgstr "Applying AI Portrait Cutout will automatically cancel the AI Frame Interpolation task. Continue?"
+
+#: 
+#, fuzzy
+msgctxt "FAIPortraitPresenter-version2"
+msgid "Feature Conflict Reminder"
+msgstr "Feature Conflict Reminder"
+
+#: 
+#, fuzzy
+msgctxt "FMediaPlayerPreviewGuideWidget-version2"
+msgid "Click here to preview your video"
+msgstr "Click here to preview your video"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleActiveWordsWidget-version2"
+msgid "Background"
+msgstr "Background"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineSharedClipPresenter-version2"
+msgid "Name this compound clip. You will be able to find it in your project folder"
+msgstr "Name this compound clip. You will be able to find it in your project folder"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineSharedClipPresenter-version2"
+msgid "Rename the name of this clip to help you quickly find it on the timeline"
+msgstr "Rename the name of this clip to help you quickly find it on the timeline"
+
+#: 
+#, fuzzy
+msgctxt "FFissionActivityWidget-version2"
+msgid "Refer Friends and Get Rewarded"
+msgstr "Refer Friends and Get Rewarded"
+
+#: 
+#, fuzzy
+msgctxt "FFissionActivityWidget-version2"
+msgid "Get Rewards"
+msgstr "Get Rewards"
+
+#: 
+#, fuzzy
+msgctxt "FFissionActivityWidget-version2"
+msgid "If your friend successfully signs up for Filmora, you will both get a membership of Filmora."
+msgstr "If your friend successfully signs up for Filmora, you will both get a membership of Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleToTitleProgressDialog-version2"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleToTitleProgressDialog-version2"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+#, fuzzy
+msgctxt "FVobRepairService-version2"
+msgid "Convert to mpg"
+msgstr "Convert to mpg"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Setup Proxy"
+msgstr "Setup Proxy"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Don't have a Wondershare ID? "
+msgstr "Don't have a Wondershare ID? "
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Forget your password?"
+msgstr "Forget your password?"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Password"
+msgstr "Password"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Login to your Wondershare ID"
+msgstr "Login to your Wondershare ID"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "click here"
+msgstr "click here"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Email address"
+msgstr "Email address"
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "This account doesn't exist. Enter a different account or create a new one."
+msgstr "This account doesn't exist. Enter a different account or create a new one."
+
+#: 
+#, fuzzy
+msgctxt "FUserLoginPage-version2"
+msgid "Create account"
+msgstr "Create account"
+
+#: 
+#, fuzzy
+msgctxt "FAIErasingDialog-version2"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+#, fuzzy
+msgctxt "FAccountNormalPage-version2"
+msgid "24*7 Customer Support"
+msgstr "24*7 Customer Support"
+
+#: 
+#, fuzzy
+msgctxt "FAccountNormalPage-version2"
+msgid "LOGIN NOW TO ENJOY"
+msgstr "LOGIN NOW TO ENJOY"
+
+#: 
+#, fuzzy
+msgctxt "FAccountNormalPage-version2"
+msgid "Easy Video Exporting"
+msgstr "Easy Video Exporting"
+
+#: 
+#, fuzzy
+msgctxt "FAccountNormalPage-version2"
+msgid "Advanced AI Features"
+msgstr "Advanced AI Features"
+
+#: 
+#, fuzzy
+msgctxt "FAccountNormalPage-version2"
+msgid "Extensive Tutorial Library"
+msgstr "Extensive Tutorial Library"
+
+#: 
+#, fuzzy
+msgctxt "FAccountNormalPage-version2"
+msgid "Early Access to New Features"
+msgstr "Early Access to New Features"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "24*7 Customer Support"
+msgstr "24*7 Customer Support"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "Required for AIGC Features"
+msgstr "Required for AIGC Features"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "Extensive Tutorial Library"
+msgstr "Extensive Tutorial Library"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "Early Access to New Features"
+msgstr "Early Access to New Features"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "SIGN UP NOW TO EXPORT YOUR WATERMARK-FREE VIDEO"
+msgstr "SIGN UP NOW TO EXPORT YOUR WATERMARK-FREE VIDEO"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "In addition, you can enjoy:"
+msgstr "In addition, you can enjoy:"
+
+#: 
+#, fuzzy
+msgctxt "FAccountWatermarkPage-version2"
+msgid "100 AI Credits for New AI Features"
+msgstr "100 AI Credits for New AI Features"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateEditTextWidget-version2"
+msgid "There is no text yet, you can go to the timeline and add more."
+msgstr "There is no text yet, you can go to the timeline and add more."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationAnalysisWidgetClass-version2"
+msgid "Analysing stabilization..."
+msgstr "Analysing stabilization..."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationAnalysisWidgetClass-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleToTitleProgressPanel-version2"
+msgid "Please wait, converting to SRT..."
+msgstr "Please wait, converting to SRT..."
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleToTitleProgressPanel-version2"
+msgid "Please wait, converting to Titles..."
+msgstr "Please wait, converting to Titles..."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudResourceReplyEventHandler-version2"
+msgid "Network error. Favorite wasn't saved."
+msgstr "Network error. Favorite wasn't saved."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextNoneWidget-version2"
+msgid "No editable items, please select at least one item to edit"
+msgstr "No editable items, please select at least one item to edit"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTextNoneWidget-version2"
+msgid "Nothing to configure.\n"
+"Select a text box in the Previewer to continue."
+msgstr "Nothing to configure.\n"
+"Select a text box in the Previewer to continue."
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingPanel-version2"
+msgid "HR:MIN:SEC:FR"
+msgstr "HR:MIN:SEC:FR"
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingPanel-version2"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingPanel-version2"
+msgid "Adjustment failed: No extra space to apply duration. If you need to adjust, the ripple editor must be opened."
+msgstr "Adjustment failed: No extra space to apply duration. If you need to adjust, the ripple editor must be opened."
+
+#: 
+#, fuzzy
+msgctxt "FDurationSettingPanel-version2"
+msgid "Input Duration:"
+msgstr "Input Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FQuickTutorialReward-version2"
+msgid "Thanks for Completing the Walkthrough with Us!"
+msgstr "Thanks for Completing the Walkthrough with Us!"
+

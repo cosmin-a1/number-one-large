@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Ripple"
+msgstr "Ripple"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "White Balance"
+msgstr "White Balance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Text Layer"
+msgstr "Text Layer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Denoise"
+msgstr "Denoise"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Key Words"
+msgstr "Key Words"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Adjustment"
+msgstr "Adjustment"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroup-version2"
+msgid "Vignette"
+msgstr "Vignette"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Media"
+msgstr "Media"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "3D Basic"
+msgstr "3D Basic"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "AI Tools"
+msgstr "AI Tools"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "Template"
+msgstr "Template"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyHeader-version2"
+msgid "3D Animation"
+msgstr "3D Animation"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorHSLWidget-version2"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorHSLWidget-version2"
+msgid "Luminance"
+msgstr "Luminance"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorHSLWidget-version2"
+msgid "Saturation"
+msgstr "Saturation"
+
+#: 
+#, fuzzy
+msgctxt "FThumbnailSelectItem-version2"
+msgid "NEW"
+msgstr "NEW"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Low"
+msgstr "Low"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Best"
+msgstr "Best"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Good"
+msgstr "Good"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "High"
+msgstr "High"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+msgstr "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Image"
+msgstr "Image"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Low bit rate will reduce video quality."
+msgstr "Low bit rate will reduce video quality."
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "The most common compression method"
+msgstr "The most common compression method"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Better"
+msgstr "Better"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Encoder:"
+msgstr "Encoder:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Compression Quality:"
+msgstr "Compression Quality:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Medium"
+msgstr "Medium"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+msgstr "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Automatic"
+msgstr "Automatic"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Better compression quality keeps more details.And also takes more time to export."
+msgstr "Better compression quality keeps more details.And also takes more time to export."
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Save as Preset"
+msgstr "Save as Preset"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "High compression ratio and clear image"
+msgstr "High compression ratio and clear image"
+
+#: 
+#, fuzzy
+msgctxt "FExportSettingDlg-version2"
+msgid "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+msgstr "Congratulations! Your graphics card and system both support HDR.\n"
+"The NVIDIA GeForce RTX GPU HDR optimization acceleration feature has been automatically enabled for you.\n"
+"Enjoy brighter and more vivid playback with RTX Video HDR, powered by NVIDIA GeForce RTX AI technology."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Low"
+msgstr "Low"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioDenoiseWidget-version2"
+msgid "Mid"
+msgstr "Mid"
+

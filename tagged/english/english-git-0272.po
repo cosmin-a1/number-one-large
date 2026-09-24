@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Section Length"
+msgstr "Section Length"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Send to Back"
+msgstr "Send to Back"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Other XML Files"
+msgstr "Other XML Files"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Human Border"
+msgstr "Human Border"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text Zoom Max"
+msgstr "Text Zoom Max"
+
+#: 
+msgctxt "QObject-version3"
+msgid "This template uses paid resources. As the timeline unfolds, it will be charged according to the resource membership."
+msgstr "This template uses paid resources. As the timeline unfolds, it will be charged according to the resource membership."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Your hardware is below our requirement, you can keep using the program but it may have a chance to freeze or lagged when you edit."
+msgstr "Your hardware is below our requirement, you can keep using the program but it may have a chance to freeze or lagged when you edit."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Smart Denoise"
+msgstr "Smart Denoise"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Cloud Storage"
+msgstr "Cloud Storage"
+
+#: 
+msgctxt "QObject-version3"
+msgid "1. I hereby confirm that I have all necessary rights or consents to upload and clone voices.<br>2. I will not use Wondershare-generated content for any illegal, fraudulent or harmful purposes.<br>3. I agree to the %1Privacy Policy%2 of the Software."
+msgstr "1. I hereby confirm that I have all necessary rights or consents to upload and clone voices.<br>2. I will not use Wondershare-generated content for any illegal, fraudulent or harmful purposes.<br>3. I agree to the %1Privacy Policy%2 of the Software."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Upward Flip Appears"
+msgstr "Upward Flip Appears"
+
+#: 
+msgctxt "QObject-version3"
+msgid "FMYLicenseExportDialog_Audio"
+msgstr "FMYLicenseExportDialog_Audio"
+
+#: 
+msgctxt "QObject-version3"
+msgid "please retry."
+msgstr "please retry."
+
+#: 
+msgctxt "QObject-version3"
+msgid "distNear"
+msgstr "distNear"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Distance"
+msgstr "Distance"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Position X"
+msgstr "Position X"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Position Y"
+msgstr "Position Y"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Position Z"
+msgstr "Position Z"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Template Edit"
+msgstr "Template Edit"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The old audio effect will be replaced with the new. Are you sure you want to edit?"
+msgstr "The old audio effect will be replaced with the new. Are you sure you want to edit?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Customize video parameters for various export needs."
+msgstr "Customize video parameters for various export needs."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Free Plan Name"
+msgstr "Free Plan Name"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Select All Forward"
+msgstr "Select All Forward"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Video Player"
+msgstr "Video Player"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Template Expand"
+msgstr "Template Expand"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Forward Rotation Disappears"
+msgstr "Forward Rotation Disappears"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Romanian (Romania)"
+msgstr "Romanian (Romania)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Applying the preset will clear the added mask. Do you still want to apply it?"
+msgstr "Applying the preset will clear the added mask. Do you still want to apply it?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Photo Spin 3"
+msgstr "Photo Spin 3"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Photo Spin 4"
+msgstr "Photo Spin 4"
+
+#: 
+msgctxt "QObject-version3"
+msgid "No voice detected. Please reselect the file."
+msgstr "No voice detected. Please reselect the file."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Upward Flip Disappears"
+msgstr "Upward Flip Disappears"
+
+#: 
+msgctxt "QObject-version3"
+msgid "threshold_max"
+msgstr "threshold_max"
+
+#: 
+msgctxt "QObject-version3"
+msgid "threshold_min"
+msgstr "threshold_min"
+
+#: 
+msgctxt "QObject-version3"
+msgid "FMYLicenseExportDialog_Video"
+msgstr "FMYLicenseExportDialog_Video"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Little Red Book"
+msgstr "Little Red Book"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Your input is too short"
+msgstr "Your input is too short"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Color Adjust"
+msgstr "Color Adjust"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Profile Color"
+msgstr "Profile Color"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Upload to Tiktok"
+msgstr "Upload to Tiktok"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Telugu (India)"
+msgstr "Telugu (India)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Pixelate"
+msgstr "Pixelate"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Are you sure you want to delete the selected matter?"
+msgstr "Are you sure you want to delete the selected matter?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom in to the top"
+msgstr "Zoom in to the top"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI Smart Cut-out"
+msgstr "AI Smart Cut-out"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Selected Clip Start"
+msgstr "Selected Clip Start"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Size(MB)"
+msgstr "Size(MB)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Sensitivity"
+msgstr "Sensitivity"
+
+#: 
+msgctxt "QObject-version3"
+msgid "TextToSpeech"
+msgstr "TextToSpeech"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Please use the mobile App to open the scan code for preview."
+msgstr "Please use the mobile App to open the scan code for preview."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Sound Effect"
+msgstr "Sound Effect"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Upload Templates"
+msgstr "Upload Templates"
+
+#: 
+msgctxt "QObject-version3"
+msgid "matter have been removed from the shelves"
+msgstr "matter have been removed from the shelves"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Are you sure you want to delete the file from the cloud storage? "
+msgstr "Are you sure you want to delete the file from the cloud storage? "
+
+#: 
+msgctxt "QObject-version3"
+msgid "Color Sketch"
+msgstr "Color Sketch"
+
+#: 
+msgctxt "QObject-version3"
+msgid "You are trying to delete all the words, the deleted participle can not be recovered, would you like to continue deleting?"
+msgstr "You are trying to delete all the words, the deleted participle can not be recovered, would you like to continue deleting?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 20"
+msgstr "Text style 20"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 21"
+msgstr "Text style 21"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 22"
+msgstr "Text style 22"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 23"
+msgstr "Text style 23"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 10"
+msgstr "Text style 10"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 11"
+msgstr "Text style 11"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 12"
+msgstr "Text style 12"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 13"
+msgstr "Text style 13"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 14"
+msgstr "Text style 14"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 15"
+msgstr "Text style 15"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 16"
+msgstr "Text style 16"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 17"
+msgstr "Text style 17"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 18"
+msgstr "Text style 18"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Text style 19"
+msgstr "Text style 19"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Thanks for your Feedback!"
+msgstr "Thanks for your Feedback!"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Background Feather"
+msgstr "Background Feather"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Auto Highlight"
+msgstr "Auto Highlight"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Don't show this again."
+msgstr "Don't show this again."
+
+#: 
+msgctxt "QObject-version3"
+msgid "File is still creating, do you want to abort?"
+msgstr "File is still creating, do you want to abort?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Recognizes speech in video and audio files and generates auto captions."
+msgstr "Recognizes speech in video and audio files and generates auto captions."
+
+#: 
+msgctxt "QObject-version3"
+msgid "There is no extra media where the clips connect, This transition will contain duplicate frames"
+msgstr "There is no extra media where the clips connect, This transition will contain duplicate frames"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Move to lower right"
+msgstr "Move to lower right"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Move to upper right"
+msgstr "Move to upper right"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Downloading Online Content"
+msgstr "Downloading Online Content"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Video Effect"
+msgstr "Video Effect"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Letter Space"
+msgstr "Letter Space"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Native Setting"
+msgstr "Native Setting"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Dutch (Netherlands)"
+msgstr "Dutch (Netherlands)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Characters Flash In"
+msgstr "Characters Flash In"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI model is being upgraded,please wait…"
+msgstr "AI model is being upgraded,please wait…"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Are you sure you want to delete thumbnail?"
+msgstr "Are you sure you want to delete thumbnail?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Welcome! Select a Tutorial to Start Editing with Filmora."
+msgstr "Welcome! Select a Tutorial to Start Editing with Filmora."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with AI Portrait as an example."
+msgstr "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with AI Portrait as an example."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Save as Compound Clip Custom"
+msgstr "Save as Compound Clip Custom"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Making changes in Speed Ramping will override the changes made in Uniform Speed."
+msgstr "Making changes in Speed Ramping will override the changes made in Uniform Speed."
+

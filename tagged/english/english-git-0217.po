@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "%1 Videos"
+msgstr "%1 Videos"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "AutoReframe_Exit"
+msgstr "AutoReframe_Exit"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Are you sure you want to exit?"
+msgstr "Are you sure you want to exit?"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Unknown error, please try again"
+msgstr "Unknown error, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframeDialog-version2"
+msgid "After switching scales, all videos will need to be analyzed again."
+msgstr "After switching scales, all videos will need to be analyzed again."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskMediaHelper-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskMediaHelper-version2"
+msgid "Archive Tip"
+msgstr "Archive Tip"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskMediaHelper-version2"
+msgid "The cloud drive function is not avaliable in your current region."
+msgstr "The cloud drive function is not avaliable in your current region."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskMediaHelper-version2"
+msgid "Turn on"
+msgstr "Turn on"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskMediaHelper-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Please check disk permissions, or choose another path to continue."
+msgstr "Please check disk permissions, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "There is no enough space on the disk, please free up some disk space and try again."
+msgstr "There is no enough space on the disk, please free up some disk space and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Would you like to upgrade your account?"
+msgstr "Would you like to upgrade your account?"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Do you want to switch to timeline mode?"
+msgstr "Do you want to switch to timeline mode?"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Don't miss this chance to learn about how designers create stories.To customize template with advanced features and effects in timeline mode, your account must be upgraded."
+msgstr "Don't miss this chance to learn about how designers create stories.To customize template with advanced features and effects in timeline mode, your account must be upgraded."
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Stay here"
+msgstr "Stay here"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Don't miss this chance to learn about how designers create stories.You can customize templates with advanced features and effects in timeline mode."
+msgstr "Don't miss this chance to learn about how designers create stories.You can customize templates with advanced features and effects in timeline mode."
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Please select directory"
+msgstr "Please select directory"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Save current project(caution: you will not be able to open it again in instant mode switching to to timeline mode)"
+msgstr "Save current project(caution: you will not be able to open it again in instant mode switching to to timeline mode)"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: 
+#, fuzzy
+msgctxt "FFEnterAdvancedEditLicenseDlg-version2"
+msgid "Customize saved location:"
+msgstr "Customize saved location:"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Unable to locate file. Click 'RELOCATE' to try importing the file again, or 'IGNORE' to abort this operation."
+msgstr "Unable to locate file. Click 'RELOCATE' to try importing the file again, or 'IGNORE' to abort this operation."
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Unable to locate file. Click 'RELOCATE' to try importing the file again, 'DELETE' to delete it, or 'IGNORE' to abort this operation."
+msgstr "Unable to locate file. Click 'RELOCATE' to try importing the file again, 'DELETE' to delete it, or 'IGNORE' to abort this operation."
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Import Failed"
+msgstr "Import Failed"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "DELETE"
+msgstr "DELETE"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "IGNORE"
+msgstr "IGNORE"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "After the audio and video are synced, the audio and video will be added to the timeline simultaneously. Do you want to mute the original audio within the video file automatically?"
+msgstr "After the audio and video are synced, the audio and video will be added to the timeline simultaneously. Do you want to mute the original audio within the video file automatically?"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Relink"
+msgstr "Relink"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Incompatible File"
+msgstr "Incompatible File"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "The specified proxy file storage location does not have enough space. Please select another location.\n"
+"Disc Space needed: %1 MB, remaining: %2 MB."
+msgstr "The specified proxy file storage location does not have enough space. Please select another location.\n"
+"Disc Space needed: %1 MB, remaining: %2 MB."
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "RELOCATE"
+msgstr "RELOCATE"
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "Sorry, this file is not supported.Please try another file."
+msgstr "Sorry, this file is not supported.Please try another file."
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "The selected file's duration is different from the clip you used in project and may cause issues, please reselect another file with the same duration."
+msgstr "The selected file's duration is different from the clip you used in project and may cause issues, please reselect another file with the same duration."
+
+#: 
+#, fuzzy
+msgctxt "FFMediaItemManagerPresenter-version2"
+msgid "The selected clips cannot be synchronized, please select file with a length range of more than 1 second and less than 1 hour."
+msgstr "The selected clips cannot be synchronized, please select file with a length range of more than 1 second and less than 1 hour."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "Yes. Quit."
+msgstr "Yes. Quit."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "Quit AI Video Generation"
+msgstr "Quit AI Video Generation"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "The video is being generated…"
+msgstr "The video is being generated…"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "Are you sure you wish to cancel generating the video?"
+msgstr "Are you sure you wish to cancel generating the video?"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToVideoProgressDlg-version2"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Install"
+msgstr "Install"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Checking the version."
+msgstr "Checking the version."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "If you don't update, you will no longer be able to continue using Filmora."
+msgstr "If you don't update, you will no longer be able to continue using Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Your current version is the latest version!"
+msgstr "Your current version is the latest version!"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Installation failed"
+msgstr "Installation failed"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "An unexpected error has interrupted the installation process. Please try to update again."
+msgstr "An unexpected error has interrupted the installation process. Please try to update again."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "If you don't install, you will no longer be able to use Filmora."
+msgstr "If you don't install, you will no longer be able to use Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Upgrade completed. Click Yes to restart the new version immediately. Click Cancel to start the next time."
+msgstr "Upgrade completed. Click Yes to restart the new version immediately. Click Cancel to start the next time."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Free Update"
+msgstr "Free Update"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Live Update"
+msgstr "Live Update"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Update"
+msgstr "Update"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Install Filmora"
+msgstr "Install Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Download completed. Please click Install to install the new version."
+msgstr "Download completed. Please click Install to install the new version."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Filmora is being updated, the process will be interrupted if you close the window. Do you want to exit?"
+msgstr "Filmora is being updated, the process will be interrupted if you close the window. Do you want to exit?"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Exit Filmora"
+msgstr "Exit Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "The installation package appears to be corrupted. Please attempt to download the update once more."
+msgstr "The installation package appears to be corrupted. Please attempt to download the update once more."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Download completed. Click Yes to install new version. Click Cancel to close Filmora."
+msgstr "Download completed. Click Yes to install new version. Click Cancel to close Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FFUpgradeModule-version2"
+msgid "Failed to check update!"
+msgstr "Failed to check update!"
+
+#: 
+#, fuzzy
+msgctxt "FFilmStockServiceDialog-version2"
+msgid "No"
+msgstr "No"
+
+#: 
+#, fuzzy
+msgctxt "FFilmStockServiceDialog-version2"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+#, fuzzy
+msgctxt "FFilmStockServiceDialog-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FFilmStockServiceDialog-version2"
+msgid "Your effects are downloading,want stop and quit now?"
+msgstr "Your effects are downloading,want stop and quit now?"
+
+#: 
+#, fuzzy
+msgctxt "FFilmStockServiceDialog-version2"
+msgid "Filmora Effects Store"
+msgstr "Filmora Effects Store"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "ADVANCED"
+msgstr "ADVANCED"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Keyframe Panel"
+msgstr "Keyframe Panel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Project Info"
+msgstr "Project Info"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "The current screen resolution is too low to display the Keyframe Panel. You can switch the Filmora interface to Classic mode to use it."
+msgstr "The current screen resolution is too low to display the Keyframe Panel. You can switch the Filmora interface to Classic mode to use it."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyView-version2"
+msgid "Timeline Info"
+msgstr "Timeline Info"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "If you have made any purchase, please log in to activate the authorization."
+msgstr "If you have made any purchase, please log in to activate the authorization."
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseDialog-version2"
+msgid "If you have purchased Filmora X, you can now export without a watermark!"
+msgstr "If you have purchased Filmora X, you can now export without a watermark!"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoVoiceRenameDlg-version2"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoVoiceRenameDlg-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FTextToVideoVoiceRenameDlg-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaFilterDialog-version2"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+#, fuzzy
+msgctxt "FVCGMediaFilterDialog-version2"
+msgid "RESET"
+msgstr "RESET"
+

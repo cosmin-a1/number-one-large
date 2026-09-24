@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FBackupProjectDialog-version2"
+msgid "Project Backups"
+msgstr "Project Backups"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceProjectDataPresenter-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceProjectDataPresenter-version2"
+msgid "Cannot open project. "
+msgstr "Cannot open project. "
+
+#: 
+#, fuzzy
+msgctxt "FCoverFromLocalView-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FCoverFromLocalView-version2"
+msgid "Choose location"
+msgstr "Choose location"
+
+#: 
+#, fuzzy
+msgctxt "FFTaskItemWidget-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FFTaskItemWidget-version2"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+#, fuzzy
+msgctxt "FFTaskItemWidget-version2"
+msgid "Share"
+msgstr "Share"
+
+#: 
+#, fuzzy
+msgctxt "FFTaskItemWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFTaskItemWidget-version2"
+msgid "Delete Progress"
+msgstr "Delete Progress"
+
+#: 
+#, fuzzy
+msgctxt "FFTaskItemWidget-version2"
+msgid "Failure"
+msgstr "Failure"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Save"
+msgstr "Save"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "download template failed,pleace check your network or proxy server settings."
+msgstr "download template failed,pleace check your network or proxy server settings."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Save the Project"
+msgstr "Save the Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "AI model is being upgraded,please wait…"
+msgstr "AI model is being upgraded,please wait…"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "download template resource..."
+msgstr "download template resource..."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "(copy)"
+msgstr "(copy)"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Open project"
+msgstr "Open project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Failed to save project file. You may choose a new path, fix the write permission or free up some disk space and try again."
+msgstr "Failed to save project file. You may choose a new path, fix the write permission or free up some disk space and try again."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Insufficient local disk space"
+msgstr "Insufficient local disk space"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "This project file was saved from a older version of Filmora and must be converted. The original project file will not be changed."
+msgstr "This project file was saved from a older version of Filmora and must be converted. The original project file will not be changed."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "There is no enough space on the disk, please free up some disk space and try again."
+msgstr "There is no enough space on the disk, please free up some disk space and try again."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Open mobile project"
+msgstr "Open mobile project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "If you want to change it, you can reset warnings in Preferences."
+msgstr "If you want to change it, you can reset warnings in Preferences."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Failed to back up."
+msgstr "Failed to back up."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "AI model updated failed"
+msgstr "AI model updated failed"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "The project file was saved with a newer version of Filmora, there may have incompatibility issues. We suggest you to use the latest version."
+msgstr "The project file was saved with a newer version of Filmora, there may have incompatibility issues. We suggest you to use the latest version."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "AI model updated successfully!"
+msgstr "AI model updated successfully!"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Launching the Filmora Walkthough guide will open a new project. Would you like to save your current project?"
+msgstr "Launching the Filmora Walkthough guide will open a new project. Would you like to save your current project?"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Backing up project"
+msgstr "Backing up project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "The AI model cannot adapt to your device and this function cannot be used."
+msgstr "The AI model cannot adapt to your device and this function cannot be used."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "You have set auto backup the previous version project."
+msgstr "You have set auto backup the previous version project."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Cannot open project. "
+msgstr "Cannot open project. "
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Please check your internet connection and try again, some features will not be available."
+msgstr "Please check your internet connection and try again, some features will not be available."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Archive"
+msgstr "Archive"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "download failed"
+msgstr "download failed"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Unzip project fail"
+msgstr "Unzip project fail"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Back up and open"
+msgstr "Back up and open"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "When opening an engineering project from a mobile phone or tablet, some functions/resources may be incompatible, please pay attention to the backup."
+msgstr "When opening an engineering project from a mobile phone or tablet, some functions/resources may be incompatible, please pay attention to the backup."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Save as"
+msgstr "Save as"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Incompatible Project"
+msgstr "Incompatible Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Convert project fail"
+msgstr "Convert project fail"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "It is detected that the current device does not meet the conditions for enabling GPU acceleration, and there may be color differences during preview."
+msgstr "It is detected that the current device does not meet the conditions for enabling GPU acceleration, and there may be color differences during preview."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "The project has been modified. Do you want to save the changes?"
+msgstr "The project has been modified. Do you want to save the changes?"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Unzip Project"
+msgstr "Unzip Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Save as Project"
+msgstr "Save as Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "The project is being backed up to cloud storage and cannot be opened."
+msgstr "The project is being backed up to cloud storage and cannot be opened."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "The file name is invalid, please input another one."
+msgstr "The file name is invalid, please input another one."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Don't Save"
+msgstr "Don't Save"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Back up project"
+msgstr "Back up project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "The project file was saved with an old version of Filmora. In the new version, it will be backed up as a file named '_backup' and saved in the same folder as the original file."
+msgstr "The project file was saved with an old version of Filmora. In the new version, it will be backed up as a file named '_backup' and saved in the same folder as the original file."
+
+#: 
+#, fuzzy
+msgctxt "FProjectDocProxy-version2"
+msgid "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+msgstr "It is detected that HDR is not enabled on the current device, and there may be color difference during preview. You can enable it in Start > Settings > System > Display. For details, please check"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Path"
+msgstr "Path"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Drag area to generate keyframes"
+msgstr "Drag area to generate keyframes"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Track Object"
+msgstr "Track Object"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskAIMaskWidget-version2"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version2"
+msgid "Path"
+msgstr "Path"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version2"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version2"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version2"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMaskDrawMaskWidgetClass-version2"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Play"
+msgstr "Play"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Clear In and Out"
+msgstr "Clear In and Out"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Remove All Favorites"
+msgstr "Remove All Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Audio Track"
+msgstr "Audio Track"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Beat Detection"
+msgstr "Beat Detection"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Save as Compound Clip Custom"
+msgstr "Save as Compound Clip Custom"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Append"
+msgstr "Append"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Reveal in Explorer"
+msgstr "Reveal in Explorer"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Editing Timeline"
+msgstr "Editing Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Create Proxy file"
+msgstr "Create Proxy file"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "AI Vocal Remover"
+msgstr "AI Vocal Remover"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Download Other Resolution"
+msgstr "Download Other Resolution"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Add to Split Screen"
+msgstr "Add to Split Screen"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Upload to Filmora Cloud"
+msgstr "Upload to Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Relink Media"
+msgstr "Relink Media"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Adjust Frame Rate"
+msgstr "Adjust Frame Rate"
+
+#: 
+#, fuzzy
+msgctxt "FMediaContentMenu-version2"
+msgid "Replication failed"
+msgstr "Replication failed"
+

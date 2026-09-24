@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Anyone"
+msgstr "Anyone"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "You can upload this video to Vimeo"
+msgstr "You can upload this video to Vimeo"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Only me"
+msgstr "Only me"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Your upload to Vimeo has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+msgstr "Your upload to Vimeo has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+#, fuzzy
+msgctxt "FExportVimeoPanel-version2"
+msgid "Viewable by:"
+msgstr "Viewable by:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Tags:"
+msgstr "Tags:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Your upload to YouTube has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+msgstr "Your upload to YouTube has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "You can upload this video to YouTube"
+msgstr "You can upload this video to YouTube"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "The content cannot contain any of the following characters:< >"
+msgstr "The content cannot contain any of the following characters:< >"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Public"
+msgstr "Public"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Private"
+msgstr "Private"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Privacy:"
+msgstr "Privacy:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Category:"
+msgstr "Category:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+#, fuzzy
+msgctxt "FExportYouTubePanel-version2"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceCloseCheckFilter-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceCloseCheckFilter-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "sec"
+msgstr "sec"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Audio Device"
+msgstr "Audio Device"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Input"
+msgstr "Input"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Mute Project"
+msgstr "Mute Project"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Count Down"
+msgstr "Count Down"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Input Audio"
+msgstr "Input Audio"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Please check whether you have permission to write or read on the path, or choose other path to create."
+msgstr "Please check whether you have permission to write or read on the path, or choose other path to create."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Start (%1)"
+msgstr "Start (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Save to"
+msgstr "Save to"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Audio device %1 connection lost."
+msgstr "Audio device %1 connection lost."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Your audio has been added to the timeline and media library."
+msgstr "Your audio has been added to the timeline and media library."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "There is only %1MB space in the specified output directory, Would you choose another directory?"
+msgstr "There is only %1MB space in the specified output directory, Would you choose another directory?"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordPanel-version2"
+msgid "Refresh Device"
+msgstr "Refresh Device"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "and"
+msgstr "and"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "Authorization failed, please click authorization again!"
+msgstr "Authorization failed, please click authorization again!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "Wondershare Privacy Policy"
+msgstr "Wondershare Privacy Policy"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "I accept"
+msgstr "I accept"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "Open cloud storage and get cloud space for free."
+msgstr "Open cloud storage and get cloud space for free."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "End User License Agreement"
+msgstr "End User License Agreement"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskActivateDialog-version2"
+msgid "Please Agree to Our Policy First"
+msgstr "Please Agree to Our Policy First"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchWidget-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchWidget-version2"
+msgid "Match"
+msgstr "Match"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchWidget-version2"
+msgid "Select to a frame here to match to"
+msgstr "Select to a frame here to match to"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchWidget-version2"
+msgid "Current"
+msgstr "Current"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchWidget-version2"
+msgid "Reference"
+msgstr "Reference"
+
+#: 
+#, fuzzy
+msgctxt "FFColorMatchWidget-version2"
+msgid "Matching..."
+msgstr "Matching..."
+
+#: 
+#, fuzzy
+msgctxt "FFCommonTipDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFGuideLineSetDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Automatically close the window after 3 seconds"
+msgstr "Automatically close the window after 3 seconds"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Logging in..."
+msgstr "Logging in..."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Checking Device Authorization..."
+msgstr "Checking Device Authorization..."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Verify Scheme Plan Failed!"
+msgstr "Verify Scheme Plan Failed!"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+msgstr "The page could not be loaded. Please try one of the following solutions:\n"
+"1. Check your network settings and, if there's no problem, try again.\n"
+"2. Disable or change the settings on your firewall and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Account administrator changes"
+msgstr "Account administrator changes"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Enterprise member: only one device can be bound and can be contacted"
+msgstr "Enterprise member: only one device can be bound and can be contacted"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Login Failed!"
+msgstr "Login Failed!"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "Unable to connect to the Internet"
+msgstr "Unable to connect to the Internet"
+
+#: 
+#, fuzzy
+msgctxt "FFPromptsWithLoadingRing-version2"
+msgid "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+msgstr "You computer seems to be offline,causing a connection error.\n"
+"Please check your connection and try again."
+

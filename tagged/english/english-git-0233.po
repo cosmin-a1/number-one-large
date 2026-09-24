@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Size"
+msgstr "Size"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "View"
+msgstr "View"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Thumbnail View"
+msgstr "Thumbnail View"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Date Added"
+msgstr "Date Added"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Camera Name"
+msgstr "Camera Name"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Category"
+msgstr "Category"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Media Created"
+msgstr "Media Created"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Group by"
+msgstr "Group by"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "List View"
+msgstr "List View"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Sort by"
+msgstr "Sort by"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Date Used"
+msgstr "Date Used"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Middle Thumbnail View"
+msgstr "Middle Thumbnail View"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Updated Time"
+msgstr "Updated Time"
+
+#: 
+#, fuzzy
+msgctxt "FMediaViewModeMenu-version2"
+msgid "Date Imported"
+msgstr "Date Imported"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineSharedClipPresenterPrivate-version2"
+msgid "Name"
+msgstr "Name"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineSharedClipPresenterPrivate-version2"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+#, fuzzy
+msgctxt "FFFunctionTipWidget-version2"
+msgid "Next"
+msgstr "Next"
+
+#: 
+#, fuzzy
+msgctxt "FFFunctionTipWidget-version2"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+#, fuzzy
+msgctxt "FFFunctionTipWidget-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FFFunctionTipWidget-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FFillUserDetaiInfoDialog-version2"
+msgid "Next"
+msgstr "Next"
+
+#: 
+#, fuzzy
+msgctxt "FFillUserDetaiInfoDialog-version2"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+#, fuzzy
+msgctxt "FFillUserDetaiInfoDialog-version2"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FCoverTemplateIconItemPainter-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FCoverTemplateIconItemPainter-version2"
+msgid "Save thumbnail as template"
+msgstr "Save thumbnail as template"
+
+#: 
+#, fuzzy
+msgctxt "FCoverTemplateIconItemPainter-version2"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioChannelsListPresenter-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioChannelsListPresenter-version2"
+msgid "Copy right to left"
+msgstr "Copy right to left"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioChannelsListPresenter-version2"
+msgid "Copy left to right"
+msgstr "Copy left to right"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAudioChannelsListPresenter-version2"
+msgid "Flip left-right"
+msgstr "Flip left-right"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicPresetWidget-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanel-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanel-version2"
+msgid "Click Start Tracking"
+msgstr "Click Start Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanel-version2"
+msgid "Add a mosaic"
+msgstr "Add a mosaic"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanel-version2"
+msgid "Import from computer."
+msgstr "Import from computer."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanel-version2"
+msgid "Hide Target Box"
+msgstr "Hide Target Box"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingPanel-version2"
+msgid "Show Target Box"
+msgstr "Show Target Box"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Zoom Away"
+msgstr "Zoom Away"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Twisty Ribbons"
+msgstr "Twisty Ribbons"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down and Rotate X"
+msgstr "3D Fly Down and Rotate X"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down and Rotate Y"
+msgstr "3D Fly Down and Rotate Y"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down and Rotate Z"
+msgstr "3D Fly Down and Rotate Z"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down and Rotate Random"
+msgstr "3D Fly Down and Rotate Random"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Back Flip"
+msgstr "Back Flip"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down and Rotate Y Random"
+msgstr "3D Fly Down and Rotate Y Random"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Jetstream"
+msgstr "Jetstream"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Somersault"
+msgstr "Somersault"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down 01"
+msgstr "3D Fly Down 01"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "3D Fly Down 02"
+msgstr "3D Fly Down 02"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Character Shuffle In"
+msgstr "Character Shuffle In"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Sequential Jump"
+msgstr "Sequential Jump"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Zoom Away and Rotate Y"
+msgstr "Zoom Away and Rotate Y"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyText3DAnimationModel-version2"
+msgid "Zoom Away and Rotate Z"
+msgstr "Zoom Away and Rotate Z"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "None"
+msgstr "None"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Background"
+msgstr "Background"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Items Selected"
+msgstr "Items Selected"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Layers Selected"
+msgstr "Layers Selected"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyTitleSettingWidget-version2"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Share"
+msgstr "Share"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Instant Mode Projects"
+msgstr "Instant Mode Projects"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Search"
+msgstr "Search"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Open File Location"
+msgstr "Open File Location"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Click to quickly share files"
+msgstr "Click to quickly share files"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Are you sure to delete the project?"
+msgstr "Are you sure to delete the project?"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Click to manage cloud storage files"
+msgstr "Click to manage cloud storage files"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Local Projects"
+msgstr "Local Projects"
+
+#: 
+#, fuzzy
+msgctxt "FProjectLibraryWidget-version2"
+msgid "Switch to thumbnail mode"
+msgstr "Switch to thumbnail mode"
+
+#: 
+#, fuzzy
+msgctxt "FRecentProjectListItem-version2"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+#, fuzzy
+msgctxt "FRecentProjectListItem-version2"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+#, fuzzy
+msgctxt "FRecentProjectListItem-version2"
+msgid "Are you sure to delete the project?"
+msgstr "Are you sure to delete the project?"
+
+#: 
+#, fuzzy
+msgctxt "FBackupProjectDialog-version2"
+msgid "Open"
+msgstr "Open"
+
+#: 
+#, fuzzy
+msgctxt "FBackupProjectDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+

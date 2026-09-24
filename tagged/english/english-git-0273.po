@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Import Media Folder"
+msgstr "Import Media Folder"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Selected Collections"
+msgstr "Selected Collections"
+
+#: 
+msgctxt "QObject-version3"
+msgid "French (France)"
+msgstr "French (France)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Your DVD is not finished. Do you want to abort?"
+msgstr "Your DVD is not finished. Do you want to abort?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Blockbuster"
+msgstr "Blockbuster"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Show Safe Zones"
+msgstr "Show Safe Zones"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Swedish (Sweden)"
+msgstr "Swedish (Sweden)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Character Fluctuations Shrink"
+msgstr "Character Fluctuations Shrink"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Do you want to rename it to \"%1\"?"
+msgstr "Do you want to rename it to \"%1\"?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Analysis error. Please try again."
+msgstr "Analysis error. Please try again."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Tilt-shift Linear"
+msgstr "Tilt-shift Linear"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Plump Cheeks"
+msgstr "Plump Cheeks"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Unable to insert subtitles prompt"
+msgstr "Unable to insert subtitles prompt"
+
+#: 
+msgctxt "QObject-version3"
+msgid "No clip selected."
+msgstr "No clip selected."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Title as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Title as an example."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Ukrainian (Ukraine)"
+msgstr "Ukrainian (Ukraine)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Fetch Log..."
+msgstr "Fetch Log..."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Audio Effect-Reverb"
+msgstr "Audio Effect-Reverb"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Fade Out Shake"
+msgstr "Fade Out Shake"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Upload to Vimeo"
+msgstr "Upload to Vimeo"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+msgctxt "QObject-version3"
+msgid "uOrientation"
+msgstr "uOrientation"
+
+#: 
+msgctxt "QObject-version3"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "QObject-version3"
+msgid "This action will remove all masks that have been used. Are you sure you want to continue?"
+msgstr "This action will remove all masks that have been used. Are you sure you want to continue?"
+
+#: 
+msgctxt "QObject-version3"
+msgid "A boy builds a sand castle by the sea"
+msgstr "A boy builds a sand castle by the sea"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Phase Increment"
+msgstr "Phase Increment"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Adjusting the speed of a clip will override the current loop effect."
+msgstr "Adjusting the speed of a clip will override the current loop effect."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Install computer audio driver failed! Please try again."
+msgstr "Install computer audio driver failed! Please try again."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Purple Haze"
+msgstr "Purple Haze"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Purple Lomo"
+msgstr "Purple Lomo"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Purple Love"
+msgstr "Purple Love"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+msgstr "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Ripple Size"
+msgstr "Ripple Size"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Cold && Harsh"
+msgstr "Cold && Harsh"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "QObject-version3"
+msgid "The usage limit has been reached today."
+msgstr "The usage limit has been reached today."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Edit advanced properties, Keyframe, and Speed Ramping."
+msgstr "Edit advanced properties, Keyframe, and Speed Ramping."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Adjust Audio"
+msgstr "Adjust Audio"
+
+#: 
+msgctxt "QObject-version3"
+msgid "To allow access,open System Preferences,click on Security & Privacy settings there."
+msgstr "To allow access,open System Preferences,click on Security & Privacy settings there."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Double line"
+msgstr "Double line"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Export to Device"
+msgstr "Export to Device"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Decolor Position X"
+msgstr "Decolor Position X"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Decolor Position Y"
+msgstr "Decolor Position Y"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Stretch Duration:"
+msgstr "Stretch Duration:"
+
+#: 
+msgctxt "QObject-version3"
+msgid "MiaoYing WeiBo HomePage"
+msgstr "MiaoYing WeiBo HomePage"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Keep Group"
+msgstr "Keep Group"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Open VIP you can enjoy vip resources now!"
+msgstr "Open VIP you can enjoy vip resources now!"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Flip Down1"
+msgstr "Flip Down1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Flip Down2"
+msgstr "Flip Down2"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Old Film"
+msgstr "Old Film"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Dotted Ring Color"
+msgstr "Dotted Ring Color"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Decay factor"
+msgstr "Decay factor"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+msgctxt "QObject-version3"
+msgid "Portuguese (Portuguese)"
+msgstr "Portuguese (Portuguese)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Popular Special Effects"
+msgstr "Popular Special Effects"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Source Switcher"
+msgstr "Source Switcher"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Flash in"
+msgstr "Flash in"
+
+#: 
+msgctxt "QObject-version3"
+msgid "You can try it for free within %1 or purchase %2 for unlimited exports."
+msgstr "You can try it for free within %1 or purchase %2 for unlimited exports."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Rotate 90 CW"
+msgstr "Rotate 90 CW"
+
+#: 
+msgctxt "QObject-version3"
+msgid "TRADITIONAL CHINESE"
+msgstr "TRADITIONAL CHINESE"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Typewriter Upwards"
+msgstr "Typewriter Upwards"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Bounce to zoom out 1"
+msgstr "Bounce to zoom out 1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Rotate Speed"
+msgstr "Rotate Speed"
+
+#: 
+msgctxt "QObject-version3"
+msgid "English (India)"
+msgstr "English (India)"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Batch analysis in progress"
+msgstr "Batch analysis in progress"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Network connection is broken"
+msgstr "Network connection is broken"
+
+#: 
+msgctxt "QObject-version3"
+msgid "You can go to the %1 and try to apply the download resource."
+msgstr "You can go to the %1 and try to apply the download resource."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Radio Explike FX"
+msgstr "Radio Explike FX"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+msgstr "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Start Number"
+msgstr "Start Number"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Watermark Plan Right 1"
+msgstr "Watermark Plan Right 1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: 
+msgctxt "QObject-version3"
+msgid "rotate_end_angle"
+msgstr "rotate_end_angle"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Source Width"
+msgstr "Source Width"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Align up"
+msgstr "Align up"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Import and preview your media within the library, then easily drag and drop clips into the timeline for editing."
+msgstr "Import and preview your media within the library, then easily drag and drop clips into the timeline for editing."
+
+#: 
+msgctxt "QObject-version3"
+msgid "Calling 01"
+msgstr "Calling 01"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Export Templates"
+msgstr "Export Templates"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Flip Up1"
+msgstr "Flip Up1"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Flip Up2"
+msgstr "Flip Up2"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Watermark Plan Name"
+msgstr "Watermark Plan Name"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Blinking"
+msgstr "Blinking"
+
+#: 
+msgctxt "QObject-version3"
+msgid "Transcription  failure"
+msgstr "Transcription  failure"
+

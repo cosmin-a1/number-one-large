@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyGroupHeader-version2"
+msgid "Presets are saved here, click to add"
+msgstr "Presets are saved here, click to add"
+
+#: 
+#, fuzzy
+msgctxt "FFBgmContrlBarWidget-version2"
+msgid "Set BGM Start Time:"
+msgstr "Set BGM Start Time:"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedAIFramePresenter-version2"
+msgid "Frame Sampling"
+msgstr "Frame Sampling"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedAIFramePresenter-version2"
+msgid "Optical Flow"
+msgstr "Optical Flow"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedAIFramePresenter-version2"
+msgid "Frame Blending"
+msgstr "Frame Blending"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedAIFramePresenter-version2"
+msgid "Default"
+msgstr "Default"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedAIFramePresenter-version2"
+msgid "Faster but lower quality"
+msgstr "Faster but lower quality"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedAIFramePresenter-version2"
+msgid "Slower but higher quality"
+msgstr "Slower but higher quality"
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceSeparationDialog-version2"
+msgid "Your operation is too frequent"
+msgstr "Your operation is too frequent"
+
+#: 
+#, fuzzy
+msgctxt "FAIVoiceSeparationDialog-version2"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayQualityWidget-version2"
+msgid "Switch Playback Quality can speed up playback performance"
+msgstr "Switch Playback Quality can speed up playback performance"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayQualityWidget-version2"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayQualityWidget-version2"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayQualityWidget-version2"
+msgid "Full Quality"
+msgstr "Full Quality"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search downloaded templates"
+msgstr "Search downloaded templates"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search my custom templates"
+msgstr "Search my custom templates"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search split screen"
+msgstr "Search split screen"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search my favorite templates"
+msgstr "Search my favorite templates"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search templates"
+msgstr "Search templates"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search my favorite split screen"
+msgstr "Search my favorite split screen"
+
+#: 
+#, fuzzy
+msgctxt "FSplitScreenModeBar-version2"
+msgid "Search downloaded split screen"
+msgstr "Search downloaded split screen"
+
+#: 
+#, fuzzy
+msgctxt "FExportGuideWidget-version2"
+msgid "Export and Share"
+msgstr "Export and Share"
+
+#: 
+#, fuzzy
+msgctxt "FExportGuideWidget-version2"
+msgid "Export and share on Social Media"
+msgstr "Export and share on Social Media"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardViewPresenter-version2"
+msgid "This media file is too short and has been processed at a reduced speed."
+msgstr "This media file is too short and has been processed at a reduced speed."
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardViewPresenter-version2"
+msgid "The duration of the material is too short to reuse the speed control effect."
+msgstr "The duration of the material is too short to reuse the speed control effect."
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardViewPresenter-version2"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateStoryboardViewPresenter-version2"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechHelper-version2"
+msgid "SpeakRate: "
+msgstr "SpeakRate: "
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechHelper-version2"
+msgid "TotalWord: "
+msgstr "TotalWord: "
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechHelper-version2"
+msgid "Vocalist: "
+msgstr "Vocalist: "
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechHelper-version2"
+msgid "Inotation: "
+msgstr "Inotation: "
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "You have reached the end of \"%1\" category."
+msgstr "You have reached the end of \"%1\" category."
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "The current page load failed, please "
+msgstr "The current page load failed, please "
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "You have reached the end of the category"
+msgstr "You have reached the end of the category"
+
+#: 
+#, fuzzy
+msgctxt "FBottomStateBar-version2"
+msgid "Try AI Image!"
+msgstr "Try AI Image!"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyRGBColorPropertyWidget-version2"
+msgid "Border Color"
+msgstr "Border Color"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features"
+msgstr "Purchase Wondershare Filmora to export without a watermark and enjoy the premium features"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "After payment"
+msgstr "After payment"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Paid assets used in your current edit"
+msgstr "Paid assets used in your current edit"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "With Filmora Creative Assets"
+msgstr "With Filmora Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Remove Paid Assets"
+msgstr "Remove Paid Assets"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "No Filmora Creative Assets"
+msgstr "No Filmora Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Try Filmora Creative Assets for free !"
+msgstr "Try Filmora Creative Assets for free !"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Filmora Creative Assets"
+msgstr "Filmora Creative Assets"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Remove paid features and export with watermark"
+msgstr "Remove paid features and export with watermark"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Open subscription membership to get unlimited use, get the following rights"
+msgstr "Open subscription membership to get unlimited use, get the following rights"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "All paid features you have used will be removed:"
+msgstr "All paid features you have used will be removed:"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Get a %1-Day Free Trial"
+msgstr "Get a %1-Day Free Trial"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Export with watermark"
+msgstr "Export with watermark"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Before payment"
+msgstr "Before payment"
+
+#: 
+#, fuzzy
+msgctxt "FExportPurchaseGuideDialog-version2"
+msgid "Unlocking Filmora Creative Assets, you can enjoy"
+msgstr "Unlocking Filmora Creative Assets, you can enjoy"
+
+#: 
+#, fuzzy
+msgctxt "FGpuUpdateWidget-version2"
+msgid "Graphics Card Detection Results"
+msgstr "Graphics Card Detection Results"
+
+#: 
+#, fuzzy
+msgctxt "FGpuUpdateWidget-version2"
+msgid "GPU acceleration disabled. You may experience instability and loss of functionality when using Filmora."
+msgstr "GPU acceleration disabled. You may experience instability and loss of functionality when using Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FDVDBuilder_mac-version2"
+msgid "Disc cannot be overwritten, Retry?"
+msgstr "Disc cannot be overwritten, Retry?"
+
+#: 
+#, fuzzy
+msgctxt "FDVDBuilder_mac-version2"
+msgid "You must erase the data on this disc first."
+msgstr "You must erase the data on this disc first."
+
+#: 
+#, fuzzy
+msgctxt "FDVDBuilder_mac-version2"
+msgid "Please insert a disc."
+msgstr "Please insert a disc."
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "Disc cannot be overwritten, Retry?"
+msgstr "Disc cannot be overwritten, Retry?"
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "You must erase the data on this disc first."
+msgstr "You must erase the data on this disc first."
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "No disc. Retry?"
+msgstr "No disc. Retry?"
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "Is CD Disc Retry?"
+msgstr "Is CD Disc Retry?"
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "Is BD Disc Retry?"
+msgstr "Is BD Disc Retry?"
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "Please insert a disc."
+msgstr "Please insert a disc."
+
+#: 
+#, fuzzy
+msgctxt "FDVDBurner-version2"
+msgid "There is not enough space on this disc. Retry?"
+msgstr "There is not enough space on this disc. Retry?"
+
+#: 
+#, fuzzy
+msgctxt "ConfirmWindow-version2"
+msgid "Are you sure you want to remove Wondershare Filmora?"
+msgstr "Are you sure you want to remove Wondershare Filmora?"
+
+#: 
+#, fuzzy
+msgctxt "ConfirmWindow-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "ConfirmWindow-version2"
+msgid "Remove"
+msgstr "Remove"
+
+#: 
+#, fuzzy
+msgctxt "ConfirmWindow-version2"
+msgid "Remove all the effect resource files"
+msgstr "Remove all the effect resource files"
+
+#: 
+#, fuzzy
+msgctxt "FCheckMemoryPanel-version2"
+msgid "Insufficient memory could affect Filmora's stability. Consider closing memory-heavy applications."
+msgstr "Insufficient memory could affect Filmora's stability. Consider closing memory-heavy applications."
+
+#: 
+#, fuzzy
+msgctxt "FCheckMemoryPanel-version2"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+#, fuzzy
+msgctxt "FCheckMemoryPanel-version2"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+#, fuzzy
+msgctxt "FCheckMemoryPanel-version2"
+msgid "Performance Warning"
+msgstr "Performance Warning"
+
+#: 
+#, fuzzy
+msgctxt "FCheckMemoryPanel-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "download template failed,pleace check your network or proxy server settings."
+msgstr "download template failed,pleace check your network or proxy server settings."
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "Filmora Instant Mode"
+msgstr "Filmora Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "The new version of Filmora is now available! Update to use more templates with added features.\n"
+" Get it now!"
+msgstr "The new version of Filmora is now available! Update to use more templates with added features.\n"
+" Get it now!"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "Update"
+msgstr "Update"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "Install Filmora"
+msgstr "Install Filmora"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateViewPresenterPrivate-version2"
+msgid "Download Failed."
+msgstr "Download Failed."
+
+#: 
+#, fuzzy
+msgctxt "FSearchFeedbackToast-version2"
+msgid "Irrelevant Results"
+msgstr "Irrelevant Results"
+
+#: 
+#, fuzzy
+msgctxt "FSearchFeedbackToast-version2"
+msgid "Duplicate Results"
+msgstr "Duplicate Results"
+
+#: 
+#, fuzzy
+msgctxt "FSearchFeedbackToast-version2"
+msgid "Were these search results satisfactory?"
+msgstr "Were these search results satisfactory?"
+
+#: 
+#, fuzzy
+msgctxt "FSearchFeedbackToast-version2"
+msgid "Poor Quality"
+msgstr "Poor Quality"
+
+#: 
+#, fuzzy
+msgctxt "FSearchFeedbackToast-version2"
+msgid "Thank you for your feedback."
+msgstr "Thank you for your feedback."
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectDialog-version2"
+msgid "Save the Project"
+msgstr "Save the Project"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectDialog-version2"
+msgid "Upload to Cloud Space"
+msgstr "Upload to Cloud Space"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectDialog-version2"
+msgid "Filmora Cloud has not been activated, please use it after activation"
+msgstr "Filmora Cloud has not been activated, please use it after activation"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectDialog-version2"
+msgid "After checking, when the project file is saved, it will be synchronized to the cloud, with multiple guarantees!"
+msgstr "After checking, when the project file is saved, it will be synchronized to the cloud, with multiple guarantees!"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectDialog-version2"
+msgid "Currently not logged in to use this service"
+msgstr "Currently not logged in to use this service"
+
+#: 
+#, fuzzy
+msgctxt "FSaveProjectDialog-version2"
+msgid "Filmora Cloud has not been opened, please use it after opening"
+msgstr "Filmora Cloud has not been opened, please use it after opening"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "Sign into your %1 account for more information."
+msgstr "Sign into your %1 account for more information."
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "The waiting time is too long and the session has expired, please try again."
+msgstr "The waiting time is too long and the session has expired, please try again."
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "Sign In"
+msgstr "Sign In"
+
+#: 
+#, fuzzy
+msgctxt "FExportLoginWidgetEx-version2"
+msgid "Signing"
+msgstr "Signing"
+

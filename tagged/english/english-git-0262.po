@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightWidget-version2"
+msgid "Whole Length:"
+msgstr "Whole Length:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskLogoutDialog-version2"
+msgid "Log Out"
+msgstr "Log Out"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskLogoutDialog-version2"
+msgid "Failed to log out of account, please click refresh and retry!"
+msgstr "Failed to log out of account, please click refresh and retry!"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskLogoutDialog-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskLogoutDialog-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskLogoutDialog-version2"
+msgid "Are you sure you want to log out of your account?"
+msgstr "Are you sure you want to log out of your account?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskLogoutDialog-version2"
+msgid "When you logout of your account, the page will be closed and the tasks in progress will be cleared."
+msgstr "When you logout of your account, the page will be closed and the tasks in progress will be cleared."
+
+#: 
+#, fuzzy
+msgctxt "FAccountBindWSIDDialog-version2"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+#, fuzzy
+msgctxt "FAccountBindWSIDDialog-version2"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+#, fuzzy
+msgctxt "FAccountBindWSIDDialog-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAccountBindWSIDDialog-version2"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+#, fuzzy
+msgctxt "FAccountBindWSIDDialog-version2"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+#, fuzzy
+msgctxt "FAccountBindWSIDDialog-version2"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoDlg-version2"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoDlg-version2"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoDlg-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoDlg-version2"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoDlg-version2"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+#, fuzzy
+msgctxt "FAccountInfoDlg-version2"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "Manage My Account"
+msgstr "Manage My Account"
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#: 
+#, fuzzy
+msgctxt "FAppstoreUserInfoDialog-version2"
+msgid "My Effects"
+msgstr "My Effects"
+
+#: 
+#, fuzzy
+msgctxt "FEmptyFilmstockView-version2"
+msgid "Explore millions of media and resource on Wondershare Filmstock."
+msgstr "Explore millions of media and resource on Wondershare Filmstock."
+
+#: 
+#, fuzzy
+msgctxt "FEmptyFilmstockView-version2"
+msgid "Go to Filmstock"
+msgstr "Go to Filmstock"
+
+#: 
+#, fuzzy
+msgctxt "FVCGRemoveWatermarkHelper-version2"
+msgid "Material replacement completed"
+msgstr "Material replacement completed"
+
+#: 
+#, fuzzy
+msgctxt "FVCGRemoveWatermarkHelper-version2"
+msgid "We have replaced %1 pieces of material."
+msgstr "We have replaced %1 pieces of material."
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordView-version2"
+msgid "Quit recorder"
+msgstr "Quit recorder"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordView-version2"
+msgid "Record Audio"
+msgstr "Record Audio"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordView-version2"
+msgid "Openfx Download and Installation"
+msgstr "Openfx Download and Installation"
+
+#: 
+#, fuzzy
+msgctxt "FFAudioRecordView-version2"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseDialog-version2"
+msgid "Renew now, every month: %1 , and every month thereafter: %2."
+msgstr "Renew now, every month: %1 , and every month thereafter: %2."
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseDialog-version2"
+msgid "Renew now, every year: %1 , and every year thereafter: %2."
+msgstr "Renew now, every year: %1 , and every year thereafter: %2."
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseDialog-version2"
+msgid "Terms of use"
+msgstr "Terms of use"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseDialog-version2"
+msgid "Re-subscribe now"
+msgstr "Re-subscribe now"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseDialog-version2"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+#, fuzzy
+msgctxt "FFDiscountPurchaseDialog-version2"
+msgid "Give up"
+msgstr "Give up"
+
+#: 
+#, fuzzy
+msgctxt "FMediaFolderEditWidget-version2"
+msgid "Add a new Folder (%1)"
+msgstr "Add a new Folder (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FMediaFolderEditWidget-version2"
+msgid "Delete Folder (%1)"
+msgstr "Delete Folder (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServicePanel-version2"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServicePanel-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FFSpeechServicePanel-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Silent loading"
+msgstr "Silent loading"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Sorry, the file is corrupted!"
+msgstr "Sorry, the file is corrupted!"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Cancel loading tip"
+msgstr "Cancel loading tip"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Load File"
+msgstr "Load File"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Are you sure you want to cancel the load? If you cancel, you need to load the file again to open it."
+msgstr "Are you sure you want to cancel the load? If you cancel, you need to load the file again to open it."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "The file is no longer available, please contact the sharer to re-share it."
+msgstr "The file is no longer available, please contact the sharer to re-share it."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskDownloadDialog-version2"
+msgid "Loading file. Please wait..."
+msgstr "Loading file. Please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version2"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionTrackingProgressPanelClass-version2"
+msgid "Analysing motion track..."
+msgstr "Analysing motion track..."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleBar-version2"
+msgid "Processing complete."
+msgstr "Processing complete."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleBar-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleBar-version2"
+msgid "Automatically save to local"
+msgstr "Automatically save to local"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraTitleBar-version2"
+msgid "Wondershare Filmora 13 Beta"
+msgstr "Wondershare Filmora 13 Beta"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePlayheadWidget-version2"
+msgid "Click to split"
+msgstr "Click to split"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePlayheadWidget-version2"
+msgid "Drag to Move playhead"
+msgstr "Drag to Move playhead"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksDialog-version2"
+msgid "Manage Effects"
+msgstr "Manage Effects"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksDialog-version2"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+#, fuzzy
+msgctxt "FManageEffectPacksDialog-version2"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyProjectInfoWidget-version2"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyProjectInfoWidget-version2"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+#, fuzzy
+msgctxt "FPhotoInfoPage-version2"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+#, fuzzy
+msgctxt "FPhotoInfoPage-version2"
+msgid "Exposure Time:"
+msgstr "Exposure Time:"
+
+#: 
+#, fuzzy
+msgctxt "FPhotoInfoPage-version2"
+msgid "Image Info"
+msgstr "Image Info"
+
+#: 
+#, fuzzy
+msgctxt "FPhotoInfoPage-version2"
+msgid "Camera Maker:"
+msgstr "Camera Maker:"
+
+#: 
+#, fuzzy
+msgctxt "FPhotoInfoPage-version2"
+msgid "Camera Model:"
+msgstr "Camera Model:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Transfer Characteristics"
+msgstr "Transfer Characteristics"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Video Info"
+msgstr "Video Info"
+
+#: 
+#, fuzzy
+msgctxt "FVideoInfoPage-version2"
+msgid "Transfer Characteristics:"
+msgstr "Transfer Characteristics:"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectLoadingPage-version2"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectLoadingPage-version2"
+msgid "Pulling the cloud disk information, please wait..."
+msgstr "Pulling the cloud disk information, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRenameDialog-version2"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRenameDialog-version2"
+msgid "Failed to rename."
+msgstr "Failed to rename."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRenameDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRenameDialog-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRenameDialog-version2"
+msgid "This name is already in use. Please re-enter another name."
+msgstr "This name is already in use. Please re-enter another name."
+
+#: 
+#, fuzzy
+msgctxt "FCloudMediaRenameDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FCloudProjectLoadErrorPage-version2"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskRemoveDialog-version2"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskRemoveDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskRemoveDialog-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FFCloudDiskRemoveDialog-version2"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+#, fuzzy
+msgctxt "FPreviewErrorPromptWidget-version2"
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FPreviewErrorPromptWidget-version2"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanel-version2"
+msgid "Cleaning up, please wait..."
+msgstr "Cleaning up, please wait..."
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanel-version2"
+msgid "Automatically delete render file when closing a project file"
+msgstr "Automatically delete render file when closing a project file"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanel-version2"
+msgid "Automatically delete temporary files earlier than"
+msgstr "Automatically delete temporary files earlier than"
+
+#: 
+#, fuzzy
+msgctxt "FSettingMediaCachePanel-version2"
+msgid "Automatically delete proxies when a project is closed."
+msgstr "Automatically delete proxies when a project is closed."
+

@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Red"
+msgstr "Red"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "CbCr"
+msgstr "CbCr"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Show"
+msgstr "Show"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Type"
+msgstr "Type"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "YRGB"
+msgstr "YRGB"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Green"
+msgstr "Green"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "YCbCr"
+msgstr "YCbCr"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Show Skin Tone Indicator"
+msgstr "Show Skin Tone Indicator"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Parade"
+msgstr "Parade"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Vectorscope"
+msgstr "Vectorscope"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Waveform"
+msgstr "Waveform"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Histogram"
+msgstr "Histogram"
+
+#: 
+#, fuzzy
+msgctxt "FFOscillographGraphicWidget-version2"
+msgid "Channels"
+msgstr "Channels"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "s"
+msgstr "s"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "All_2"
+msgstr "All_2"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "min_2"
+msgstr "min_2"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "No limit"
+msgstr "No limit"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "ptftPortrait"
+msgstr "ptftPortrait"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "ptftLandscape"
+msgstr "ptftLandscape"
+
+#: 
+#, fuzzy
+msgctxt "FFProjectTemplateFilterMenuHelper-version2"
+msgid "ptftSquare"
+msgstr "ptftSquare"
+
+#: 
+#, fuzzy
+msgctxt "FFStandardProgressDialog-version2"
+msgid "0%"
+msgstr "0%"
+
+#: 
+#, fuzzy
+msgctxt "FFStandardProgressDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedRampingWidgetClass-version2"
+msgid "1x"
+msgstr "1x"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedRampingWidgetClass-version2"
+msgid "5x"
+msgstr "5x"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedRampingWidgetClass-version2"
+msgid "10x"
+msgstr "10x"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedRampingWidgetClass-version2"
+msgid "0.1x"
+msgstr "0.1x"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedRampingWidgetClass-version2"
+msgid "0.5x"
+msgstr "0.5x"
+
+#: 
+#, fuzzy
+msgctxt "FPropertySpeedRampingWidgetClass-version2"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+#, fuzzy
+msgctxt "FImportMediaItem-version2"
+msgid "AI"
+msgstr "AI"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "D5"
+msgstr "D5"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "D9"
+msgstr "D9"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "CBR"
+msgstr "CBR"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "PAL"
+msgstr "PAL"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "VBR"
+msgstr "VBR"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "NTSC"
+msgstr "NTSC"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Convert DVD ISO image!"
+msgstr "Convert DVD ISO image!"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Folder Path:"
+msgstr "Folder Path:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "High Video Quality"
+msgstr "High Video Quality"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Failed to create DVD directory."
+msgstr "Failed to create DVD directory."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Converting file %1"
+msgstr "Converting file %1"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Export failed."
+msgstr "Export failed."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Output Type:"
+msgstr "Output Type:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Step: create DVD directory"
+msgstr "Step: create DVD directory"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "TV Standard:"
+msgstr "TV Standard:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Burn to Disc..."
+msgstr "Burn to Disc..."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Mid Video Quality"
+msgstr "Mid Video Quality"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Low Video Quality"
+msgstr "Low Video Quality"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Label:"
+msgstr "Label:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "My DVD"
+msgstr "My DVD"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Disc Type:"
+msgstr "Disc Type:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Create DVD path %1"
+msgstr "Create DVD path %1"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Ratio:"
+msgstr "Ratio:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Please choose a folder before you convert."
+msgstr "Please choose a folder before you convert."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Capacity:"
+msgstr "Capacity:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Create image file"
+msgstr "Create image file"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Erase Disc..."
+msgstr "Erase Disc..."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Output Settings"
+msgstr "Output Settings"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Burn to DVD"
+msgstr "Burn to DVD"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Convert DVD iso image failed."
+msgstr "Convert DVD iso image failed."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Prepare file data"
+msgstr "Prepare file data"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "No Device."
+msgstr "No Device."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "DVD burn failed."
+msgstr "DVD burn failed."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Not enough disk space."
+msgstr "Not enough disk space."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Buffering..."
+msgstr "Buffering..."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Closing Disc..."
+msgstr "Closing Disc..."
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "Conversion complete!"
+msgstr "Conversion complete!"
+
+#: 
+#, fuzzy
+msgctxt "FExportDVDPanel-version2"
+msgid "DVD description"
+msgstr "DVD description"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateFrameDialog-version2"
+msgid "GO"
+msgstr "GO"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateFrameDialog-version2"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateFrameDialog-version2"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+#, fuzzy
+msgctxt "FProjectTempLateFrameDialog-version2"
+msgid "Your project has been saved as a template successfully. You can find it in the \"Mine-Custom\" category under \"Templates\"."
+msgstr "Your project has been saved as a template successfully. You can find it in the \"Mine-Custom\" category under \"Templates\"."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationPresetWidget-version2"
+msgid "In"
+msgstr "In"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationPresetWidget-version2"
+msgid "Out"
+msgstr "Out"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAnimationPresetWidget-version2"
+msgid "Loop"
+msgstr "Loop"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "AI Image (Beta)"
+msgstr "AI Image (Beta)"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "Close AI Image"
+msgstr "Close AI Image"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "Image downloaded to Stock Media-AI Image-Generated"
+msgstr "Image downloaded to Stock Media-AI Image-Generated"
+
+#: 
+#, fuzzy
+msgctxt "FAIDrawingDialog-version2"
+msgid "When you close AI image，your generated image records will be cleared but your downloaded image will not be affected."
+msgstr "When you close AI image，your generated image records will be cleared but your downloaded image will not be affected."
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "OK"
+msgstr "OK"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Tag Combination"
+msgstr "Tag Combination"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicBottomWidget-version2"
+msgid "Generate"
+msgstr "Generate"
+

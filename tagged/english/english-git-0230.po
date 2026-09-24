@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Automatic conversion of text to voice."
+msgstr "Automatic conversion of text to voice."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Add Marker"
+msgstr "Add Marker"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Choose a smaller section of your image to keep."
+msgstr "Choose a smaller section of your image to keep."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Match the selection's color to a reference frame."
+msgstr "Match the selection's color to a reference frame."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+msgstr "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+msgstr "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Find additional editing options like opacity, rotation, motion, and more."
+msgstr "Find additional editing options like opacity, rotation, motion, and more."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Supports translating voices and texts in audio and video into multiple languages around the world"
+msgstr "Supports translating voices and texts in audio and video into multiple languages around the world"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+msgstr "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "AI Matting Tools"
+msgstr "AI Matting Tools"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Enable Timeline Snap"
+msgstr "Enable Timeline Snap"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Filmora Copilot"
+msgstr "Filmora Copilot"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Select a video with audio for automatic cutting based on its sound level."
+msgstr "Select a video with audio for automatic cutting based on its sound level."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Record a Voiceover"
+msgstr "Record a Voiceover"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Show more features"
+msgstr "Show more features"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Trim the replaced clip"
+msgstr "Trim the replaced clip"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Quickly add text subtitles with one click"
+msgstr "Quickly add text subtitles with one click"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Keyframing"
+msgstr "Keyframing"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Automatically synchronize audio and video."
+msgstr "Automatically synchronize audio and video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Zoom to Fit Timeline"
+msgstr "Zoom to Fit Timeline"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Select a video with audio for automatic cutting based on its converted text."
+msgstr "Select a video with audio for automatic cutting based on its converted text."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+msgstr "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolBarData-version2"
+msgid "Crop_timelineTitleBar"
+msgstr "Crop_timelineTitleBar"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "More"
+msgstr "More"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Delete selected media on timeline"
+msgstr "Delete selected media on timeline"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Move the mouse inside the player to draw shapes, and press the 'Esc' shortcut key to end drawing mode when you're done."
+msgstr "Move the mouse inside the player to draw shapes, and press the 'Esc' shortcut key to end drawing mode when you're done."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Automatic conversion of video and audio files with audio to srt subtitle files."
+msgstr "Automatic conversion of video and audio files with audio to srt subtitle files."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Split"
+msgstr "Split"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Smart Cutout:"
+msgstr "Smart Cutout:"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Audio Meter"
+msgstr "Audio Meter"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Recognize text to automatically generate real voice, support male and female voices and other timbres"
+msgstr "Recognize text to automatically generate real voice, support male and female voices and other timbres"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Intelligently recognize speech and quickly generate corresponding text subtitles"
+msgstr "Intelligently recognize speech and quickly generate corresponding text subtitles"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "There is not enough free disk space to complete preview render, please free up some disk space and try again."
+msgstr "There is not enough free disk space to complete preview render, please free up some disk space and try again."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Automatically cut according to the text converted from the video."
+msgstr "Automatically cut according to the text converted from the video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Remove everything with high accuracy,Remain portraits, merchandise, icons, items, etc."
+msgstr "Remove everything with high accuracy,Remain portraits, merchandise, icons, items, etc."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Extend or reduce the duration of your media."
+msgstr "Extend or reduce the duration of your media."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Drawing Tools"
+msgstr "Drawing Tools"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Chroma Key:"
+msgstr "Chroma Key:"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Adjust the speed of your media or play it backwards."
+msgstr "Adjust the speed of your media or play it backwards."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Automatic conversion of text to voice."
+msgstr "Automatic conversion of text to voice."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Alt+Left Click"
+msgstr "Alt+Left Click"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Choose a smaller section of your image to keep."
+msgstr "Choose a smaller section of your image to keep."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Draw Shapes"
+msgstr "Draw Shapes"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Match the selection's color to a reference frame."
+msgstr "Match the selection's color to a reference frame."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Zoom out"
+msgstr "Zoom out"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+msgstr "Track camera or object motion in a video and attach a graphic, text, or video to follow"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Exit Audio Stretch"
+msgstr "Exit Audio Stretch"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Redo last action"
+msgstr "Redo last action"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Undo last action"
+msgstr "Undo last action"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+msgstr "Lets you draw basic shapes such as rectangles, arrows, and triangles in the player."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Disable Timeline Snap"
+msgstr "Disable Timeline Snap"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Click to exit Audio Stretch. You can trim the clip after exiting."
+msgstr "Click to exit Audio Stretch. You can trim the clip after exiting."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Find additional editing options like opacity, rotation, motion, and more."
+msgstr "Find additional editing options like opacity, rotation, motion, and more."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Supports translating voices and texts in audio and video into multiple languages around the world"
+msgstr "Supports translating voices and texts in audio and video into multiple languages around the world"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+msgstr "Click to enable. Adjust the audio on the timeline to the desired length for your video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Slide Edit"
+msgstr "Slide Edit"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Split selected media at playhead location"
+msgstr "Split selected media at playhead location"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "AI Matting Tools"
+msgstr "AI Matting Tools"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Enable Timeline Snap"
+msgstr "Enable Timeline Snap"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Select a video with audio for automatic cutting based on its sound level."
+msgstr "Select a video with audio for automatic cutting based on its sound level."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Change your background or create special effects."
+msgstr "Change your background or create special effects."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Quick Preview Mode"
+msgstr "Quick Preview Mode"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Show more features"
+msgstr "Show more features"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Automatically cut according to the sound level of the video."
+msgstr "Automatically cut according to the sound level of the video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Trim the replaced clip"
+msgstr "Trim the replaced clip"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Quickly add text subtitles with one click"
+msgstr "Quickly add text subtitles with one click"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Keyframing"
+msgstr "Keyframing"
+

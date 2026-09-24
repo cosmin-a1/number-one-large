@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FTextTransformWidget-version2"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+#, fuzzy
+msgctxt "FTextTransformWidget-version2"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+#, fuzzy
+msgctxt "FTextTransformWidget-version2"
+msgid "Position"
+msgstr "Position"
+
+#: 
+#, fuzzy
+msgctxt "FScenceDetectListWidget-version2"
+msgid "Scene"
+msgstr "Scene"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceListViewMenu-version2"
+msgid "Share"
+msgstr "Share"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceListViewMenu-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceListViewMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FCloudSpaceListViewMenu-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "Share"
+msgstr "Share"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "Clear Record"
+msgstr "Clear Record"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "TransferCenter Reveal in Finder"
+msgstr "TransferCenter Reveal in Finder"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "TransferCenter Reveal in Explorer"
+msgstr "TransferCenter Reveal in Explorer"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: 
+#, fuzzy
+msgctxt "FFTransferCenterFinishTaskItemWidget-version2"
+msgid "Go to Project"
+msgstr "Go to Project"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Share"
+msgstr "Share"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "A file with the same name already exists."
+msgstr "A file with the same name already exists."
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Rename Tip"
+msgstr "Rename Tip"
+
+#: 
+#, fuzzy
+msgctxt "ProjectLibraryListItem-version2"
+msgid "Do you want to rename \"%1\" to \"%2\"?"
+msgstr "Do you want to rename \"%1\" to \"%2\"?"
+
+#: 
+#, fuzzy
+msgctxt "FSmartSearchFilterMenu-version2"
+msgid "Smart"
+msgstr "Smart"
+
+#: 
+#, fuzzy
+msgctxt "FSmartSearchFilterMenu-version2"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+#, fuzzy
+msgctxt "FCurvedSpeedView-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "Ripple Edit"
+msgstr "Ripple Edit"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "AI Frame Interpolation"
+msgstr "AI Frame Interpolation"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "Maintain Pitch"
+msgstr "Maintain Pitch"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+msgstr "Press Enter on the timeline to preview the result,%1which will be applied when exporting."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyUniformSpeedWidget-version2"
+msgid "Reverse Speed"
+msgstr "Reverse Speed"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateClipSlidePlayerToolBar-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleListItem-version2"
+msgid "Split"
+msgstr "Split"
+
+#: 
+#, fuzzy
+msgctxt "FSubtitleListItem-version2"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+#, fuzzy
+msgctxt "FAICommonStartView-version2"
+msgid "Start"
+msgstr "Start"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCImageParamWidget-version2"
+msgid "Style"
+msgstr "Style"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCImageParamWidget-version2"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicSettingWidget-version2"
+msgid "Tempo"
+msgstr "Tempo"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "The \""
+msgstr "The \""
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "Cannot Set Shortcut"
+msgstr "Cannot Set Shortcut"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "\" shortcut is already assigned to the \""
+msgstr "\" shortcut is already assigned to the \""
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "Not all keys can be used in shortcuts."
+msgstr "Not all keys can be used in shortcuts."
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "Conflicting Shortcuts"
+msgstr "Conflicting Shortcuts"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "FShortCutBaseInfoWid-version2"
+msgid "\" command. Do you wish to replace it?"
+msgstr "\" command. Do you wish to replace it?"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateResourceTabBar-version2"
+msgid "Title"
+msgstr "Title"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateResourceTabBar-version2"
+msgid "Musics"
+msgstr "Musics"
+
+#: 
+#, fuzzy
+msgctxt "FTemplateResourceTabBar-version2"
+msgid "Template"
+msgstr "Template"
+
+#: 
+#, fuzzy
+msgctxt "FVCGDownloadProgressBubbleWidget-version2"
+msgid "Downloading HD footages (%1/%2)"
+msgstr "Downloading HD footages (%1/%2)"
+
+#: 
+#, fuzzy
+msgctxt "FColorSelector-version2"
+msgid "Tones"
+msgstr "Tones"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "System Audio Off"
+msgstr "System Audio Off"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Click to stop recording"
+msgstr "Click to stop recording"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "The Camera %1 is lost."
+msgstr "The Camera %1 is lost."
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Click to start recording"
+msgstr "Click to start recording"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid " connection lost."
+msgstr " connection lost."
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Full Screen"
+msgstr "Full Screen"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Watch video tutorials to master more skills"
+msgstr "Watch video tutorials to master more skills"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Microphone Off"
+msgstr "Microphone Off"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Camera Off"
+msgstr "Camera Off"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Only one device has a screen."
+msgstr "Only one device has a screen."
+
+#: 
+#, fuzzy
+msgctxt "FFRecordPanel-version2"
+msgid "Target Window"
+msgstr "Target Window"
+
+#: 
+#, fuzzy
+msgctxt "FFDoubleSpinBox-version2"
+msgid "Drag with mouse;"
+msgstr "Drag with mouse;"
+
+#: 
+#, fuzzy
+msgctxt "FFDoubleSpinBox-version2"
+msgid "Ways to change the value:"
+msgstr "Ways to change the value:"
+
+#: 
+#, fuzzy
+msgctxt "FFDoubleSpinBox-version2"
+msgid "Scroll mouse wheel;"
+msgstr "Scroll mouse wheel;"
+
+#: 
+#, fuzzy
+msgctxt "FFDoubleSpinBox-version2"
+msgid "Use the up and down keys."
+msgstr "Use the up and down keys."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorMatchWidget-version2"
+msgid "Value"
+msgstr "Value"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorMatchWidget-version2"
+msgid "Comparison View"
+msgstr "Comparison View"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorMatchWidget-version2"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyColorBasicColorMatchWidget-version2"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainFormPresenterPrivate-version2"
+msgid "Voice"
+msgstr "Voice"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainFormPresenterPrivate-version2"
+msgid "Background"
+msgstr "Background"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainFormPresenterPrivate-version2"
+msgid "Congratulations on completing your creation!"
+msgstr "Congratulations on completing your creation!"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainFormPresenterPrivate-version2"
+msgid "Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+msgstr "Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainFormPresenterPrivate-version2"
+msgid "Network error. This feature requires an Internet connection to use."
+msgstr "Network error. This feature requires an Internet connection to use."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMainFormPresenterPrivate-version2"
+msgid "Separation failed: the media volume is insufficient. Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+msgstr "Separation failed: the media volume is insufficient. Please select 3 seconds to 10 minutes of media with audio for AI Vocal Remover."
+
+#: 
+#, fuzzy
+msgctxt "FHomePageTabBar-version2"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FHomePageTabBar-version2"
+msgid "Creator Hub"
+msgstr "Creator Hub"
+
+#: 
+#, fuzzy
+msgctxt "FHomePageTabBar-version2"
+msgid "AI Toolbox"
+msgstr "AI Toolbox"
+
+#: 
+#, fuzzy
+msgctxt "FHomePageTabBar-version2"
+msgid "Filmora Cloud"
+msgstr "Filmora Cloud"
+
+#: 
+#, fuzzy
+msgctxt "FHomePageTabBar-version2"
+msgid "Create Project"
+msgstr "Create Project"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Edit Clip"
+msgstr "Edit Clip"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Edit Text"
+msgstr "Edit Text"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Template Edit"
+msgstr "Template Edit"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Export to local or to social media"
+msgstr "Export to local or to social media"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Click to find tons of filters, \n"
+"LUTs, masks, and more."
+msgstr "Click to find tons of filters, \n"
+"LUTs, masks, and more."
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Click here to start your first video"
+msgstr "Click here to start your first video"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Export video"
+msgstr "Export video"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Double-click to replace material in the last shift"
+msgstr "Double-click to replace material in the last shift"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Click here to modify clip"
+msgstr "Click here to modify clip"
+
+#: 
+#, fuzzy
+msgctxt "FMaskManager-version2"
+msgid "Drag to add effect"
+msgstr "Drag to add effect"
+

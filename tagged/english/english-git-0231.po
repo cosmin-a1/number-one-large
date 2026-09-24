@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Speech To Text"
+msgstr "Speech To Text"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Automatically synchronize audio and video."
+msgstr "Automatically synchronize audio and video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "AI Portrait:"
+msgstr "AI Portrait:"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Select a video with audio for automatic cutting based on its converted text."
+msgstr "Select a video with audio for automatic cutting based on its converted text."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+msgstr "Keyframing lets you animate changes to the position, rotation, scale, and opacity of clips and other media."
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Crop_timelineTitleBar"
+msgstr "Crop_timelineTitleBar"
+
+#: 
+#, fuzzy
+msgctxt "FTimelineToolbar-version2"
+msgid "Remove Background,Remain Human being."
+msgstr "Remove Background,Remain Human being."
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "File"
+msgstr "File"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Help"
+msgstr "Help"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "More"
+msgstr "More"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Trim"
+msgstr "Trim"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "View"
+msgstr "View"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Color"
+msgstr "Color"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Tools"
+msgstr "Tools"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Video"
+msgstr "Video"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Record Media"
+msgstr "Record Media"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Open Recent"
+msgstr "Open Recent"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Effect&&Filter"
+msgstr "Effect&&Filter"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "New Project"
+msgstr "New Project"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "For Designer"
+msgstr "For Designer"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Layout Mode"
+msgstr "Layout Mode"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Keyframe"
+msgstr "Keyframe"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraMenuBar-version2"
+msgid "Import from other Apps"
+msgstr "Import from other Apps"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraLayout-version2"
+msgid "Dual"
+msgstr "Dual"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraLayout-version2"
+msgid "Short Video"
+msgstr "Short Video"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraLayout-version2"
+msgid "Organize"
+msgstr "Organize"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraLayout-version2"
+msgid "Classic"
+msgstr "Classic"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraLayout-version2"
+msgid "Default"
+msgstr "Default"
+
+#: 
+#, fuzzy
+msgctxt "FilmoraLayout-version2"
+msgid "Timeline_1"
+msgstr "Timeline_1"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatSyncWidget-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatSyncWidget-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatSyncWidget-version2"
+msgid "Background Music"
+msgstr "Background Music"
+
+#: 
+#, fuzzy
+msgctxt "FFBeatSyncWidget-version2"
+msgid "Beat Cut"
+msgstr "Beat Cut"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsSpeedSegmentPainter-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsSpeedSegmentPainter-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsSpeedSegmentPainter-version2"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsSpeedSegmentPainter-version2"
+msgid "Freeze Frame"
+msgstr "Freeze Frame"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsSpeedSegmentPainter-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedSegmentContextMenu-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedSegmentContextMenu-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedSegmentContextMenu-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FSpeedSegmentContextMenu-version2"
+msgid "Custom Speed"
+msgstr "Custom Speed"
+
+#: 
+#, fuzzy
+msgctxt "FToolBarSpeedMenu-version2"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+#, fuzzy
+msgctxt "FToolBarSpeedMenu-version2"
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+#, fuzzy
+msgctxt "FToolBarSpeedMenu-version2"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+#, fuzzy
+msgctxt "FToolBarSpeedMenu-version2"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+#, fuzzy
+msgctxt "FToolBarSpeedMenu-version2"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightMontageView-version2"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightMontageView-version2"
+msgid "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+msgstr "Oops! No beats are detected, please try again with a different section of this piece of music or replace a new one."
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightMontageView-version2"
+msgid "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+msgstr "Are you sure you want to exit this window? Once you exit, the changes will not be saved."
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightMontageView-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FSilenceDetectionDialog-version2"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+#, fuzzy
+msgctxt "FSilenceDetectionDialog-version2"
+msgid "Once you exit, the changes will not be saved."
+msgstr "Once you exit, the changes will not be saved."
+
+#: 
+#, fuzzy
+msgctxt "FSilenceDetectionDialog-version2"
+msgid "Are you sure you want to exit the Silence Detection?"
+msgstr "Are you sure you want to exit the Silence Detection?"
+
+#: 
+#, fuzzy
+msgctxt "FSilenceDetectionDialog-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FSilenceDetectionDialog-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Return to Startup window"
+msgstr "Return to Startup window"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "About..."
+msgstr "About..."
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Support center"
+msgstr "Support center"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Account Information"
+msgstr "Account Information"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+#, fuzzy
+msgctxt "TemplateModeScene-version2"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Shape Border"
+msgstr "Shape Border"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Background"
+msgstr "Background"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Shape Fill"
+msgstr "Shape Fill"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Add a shadow to this layer"
+msgstr "Add a shadow to this layer"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Video Fill"
+msgstr "Video Fill"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Input Text"
+msgstr "Input Text"
+
+#: 
+#, fuzzy
+msgctxt "FAdvancedPropertyTextCustomizeWidget-version2"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyBasicTransformWidgetClass-version2"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+#, fuzzy
+msgctxt "FRecordPreViewSetting-version2"
+msgid "Flip"
+msgstr "Flip"
+
+#: 
+#, fuzzy
+msgctxt "FRecordPreViewSetting-version2"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+#, fuzzy
+msgctxt "FRecordPreViewSetting-version2"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+#, fuzzy
+msgctxt "FRecordPreViewSetting-version2"
+msgid "Switch to Circle"
+msgstr "Switch to Circle"
+
+#: 
+#, fuzzy
+msgctxt "FRecordPreViewSetting-version2"
+msgid "Switch to Square"
+msgstr "Switch to Square"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Font"
+msgstr "Font"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Add your first \"Favorite\" font"
+msgstr "Add your first \"Favorite\" font"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Load more cloud fonts"
+msgstr "Load more cloud fonts"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Failed to load cloud fonts, please check your network connection and try again."
+msgstr "Failed to load cloud fonts, please check your network connection and try again."
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "No results found"
+msgstr "No results found"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "Local fonts"
+msgstr "Local fonts"
+
+#: 
+#, fuzzy
+msgctxt "FFontDataModel-version2"
+msgid "No recent selected font."
+msgstr "No recent selected font."
+
+#: 
+#, fuzzy
+msgctxt "FFSyncSettingWidget-version2"
+msgid "Form"
+msgstr "Form"
+

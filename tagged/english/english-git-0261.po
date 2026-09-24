@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FCreatorHubWidget-version2"
+msgid "Tips & Tricks"
+msgstr "Tips & Tricks"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Start Recording"
+msgstr "Start Recording"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Stop Recording"
+msgstr "Stop Recording"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Quit recorder"
+msgstr "Quit recorder"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Show Camera Footage"
+msgstr "Show Camera Footage"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Resume Recording"
+msgstr "Resume Recording"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Pause Recording"
+msgstr "Pause Recording"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Hide Camera Footage"
+msgstr "Hide Camera Footage"
+
+#: 
+#, fuzzy
+msgctxt "FFSysTrayIcon-version2"
+msgid "Open recorder"
+msgstr "Open recorder"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseRefreshDialogPrivate-version2"
+msgid "No authorization information found"
+msgstr "No authorization information found"
+
+#: 
+#, fuzzy
+msgctxt "FPurchaseRefreshDialogPrivate-version2"
+msgid "Refresh Success"
+msgstr "Refresh Success"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "Are you sure you want to close it?"
+msgstr "Are you sure you want to close it?"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "Log out"
+msgstr "Log out"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "Select Files"
+msgstr "Select Files"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "There is currently tasks in progress, closing it will clear the task list."
+msgstr "There is currently tasks in progress, closing it will clear the task list."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "File not found"
+msgstr "File not found"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "Download"
+msgstr "Download"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "Logout Successful Tip"
+msgstr "Logout Successful Tip"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "You have successfully logged out."
+msgstr "You have successfully logged out."
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "Download List"
+msgstr "Download List"
+
+#: 
+#, fuzzy
+msgctxt "FCloudDiskManageDialog-version2"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+#, fuzzy
+msgctxt "FCopyProxyFileDlg-version2"
+msgid "Copying file "
+msgstr "Copying file "
+
+#: 
+#, fuzzy
+msgctxt "FCopyProxyFileDlg-version2"
+msgid "copy files "
+msgstr "copy files "
+
+#: 
+#, fuzzy
+msgctxt "FFolderItemMenu-version2"
+msgid "Add a New Folder"
+msgstr "Add a New Folder"
+
+#: 
+#, fuzzy
+msgctxt "FFolderItemMenu-version2"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+#, fuzzy
+msgctxt "FFolderItemMenu-version2"
+msgid "Delete Folder"
+msgstr "Delete Folder"
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloningWidget-version2"
+msgid "Cloning your voice… Please ensure that your network connection is stable."
+msgstr "Cloning your voice… Please ensure that your network connection is stable."
+
+#: 
+#, fuzzy
+msgctxt "FVoiceCloningWidget-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FRecordMenu-version2"
+msgid "Record PC Screen"
+msgstr "Record PC Screen"
+
+#: 
+#, fuzzy
+msgctxt "FRecordMenu-version2"
+msgid "Record from Webcam"
+msgstr "Record from Webcam"
+
+#: 
+#, fuzzy
+msgctxt "FRecordMenu-version2"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDiskPanel-version2"
+msgid "Media Cache"
+msgstr "Media Cache"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDiskPanel-version2"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDiskPanel-version2"
+msgid "Please free up space or adjust the Media Cache settings."
+msgstr "Please free up space or adjust the Media Cache settings."
+
+#: 
+#, fuzzy
+msgctxt "FCheckDiskPanel-version2"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+#, fuzzy
+msgctxt "FCheckDiskPanel-version2"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+#, fuzzy
+msgctxt "FCollectionDialog-version2"
+msgid "What kind of videos do you want to create? Select from the keywords below for a better editing experience with Filmora (Max. 3 choices)."
+msgstr "What kind of videos do you want to create? Select from the keywords below for a better editing experience with Filmora (Max. 3 choices)."
+
+#: 
+#, fuzzy
+msgctxt "FCollectionDialog-version2"
+msgid "What kind of videos do you want to create? Select from the keywords below to get custom tutorials from the Filmora Creator Academy (Max. 3 choices)."
+msgstr "What kind of videos do you want to create? Select from the keywords below to get custom tutorials from the Filmora Creator Academy (Max. 3 choices)."
+
+#: 
+#, fuzzy
+msgctxt "FCollectionDialog-version2"
+msgid "Perfect! Click \"Confirm\" to keep on learning with the Filmora Creator Academy."
+msgstr "Perfect! Click \"Confirm\" to keep on learning with the Filmora Creator Academy."
+
+#: 
+#, fuzzy
+msgctxt "FCollectionDialog-version2"
+msgid "Great! Click \"Confirm\" to start editing with Filmora."
+msgstr "Great! Click \"Confirm\" to start editing with Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FCollectionDialog-version2"
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+#, fuzzy
+msgctxt "FCollectionDialog-version2"
+msgid "What kind of video you would like to create? Select the keywords from below to have a better editing experience with Filmora (Max 3 choices)."
+msgstr "What kind of video you would like to create? Select the keywords from below to have a better editing experience with Filmora (Max 3 choices)."
+
+#: 
+#, fuzzy
+msgctxt "FDownInsProWidget-version2"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+#, fuzzy
+msgctxt "FDownInsProWidget-version2"
+msgid "insufficient local disk space (2G)"
+msgstr "insufficient local disk space (2G)"
+
+#: 
+#, fuzzy
+msgctxt "FDownInsProWidget-version2"
+msgid "Installing"
+msgstr "Installing"
+
+#: 
+#, fuzzy
+msgctxt "FDownInsProWidget-version2"
+msgid "Failed in installing the effect plug-in, please click \"retry\" to try again."
+msgstr "Failed in installing the effect plug-in, please click \"retry\" to try again."
+
+#: 
+#, fuzzy
+msgctxt "FDownInsProWidget-version2"
+msgid "Network link failed, please check"
+msgstr "Network link failed, please check"
+
+#: 
+#, fuzzy
+msgctxt "FDownInsProWidget-version2"
+msgid "Exception error, unable to download and install the plug-in."
+msgstr "Exception error, unable to download and install the plug-in."
+
+#: 
+#, fuzzy
+msgctxt "FProcessBarWidget-version2"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+#, fuzzy
+msgctxt "FGraphicsTextEditVideoClipPainter-version2"
+msgid "Preset Video"
+msgstr "Preset Video"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAutoMaskTypeListPresenter-version2"
+msgid "Select Character"
+msgstr "Select Character"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAutoMaskTypeListPresenter-version2"
+msgid "Smart Brush"
+msgstr "Smart Brush"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyAutoMaskTypeListPresenter-version2"
+msgid "Select Subject"
+msgstr "Select Subject"
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "Compress media..."
+msgstr "Compress media..."
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "The outputted file path is too long, please choose another path to continue."
+msgstr "The outputted file path is too long, please choose another path to continue."
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "You must install the HEVC codec to use this feature. Click \"OK\" to go to the codec download page, which will be enabled after installation"
+msgstr "You must install the HEVC codec to use this feature. Click \"OK\" to go to the codec download page, which will be enabled after installation"
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "Export Template Project"
+msgstr "Export Template Project"
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "Output Settings"
+msgstr "Output Settings"
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "Exporting preview video..."
+msgstr "Exporting preview video..."
+
+#: 
+#, fuzzy
+msgctxt "FExportLocalPanel-version2"
+msgid "highlight"
+msgstr "highlight"
+
+#: 
+#, fuzzy
+msgctxt "FRatingDialog-version2"
+msgid "Please leave your rate. Your opinion is important to us."
+msgstr "Please leave your rate. Your opinion is important to us."
+
+#: 
+#, fuzzy
+msgctxt "FRatingDialog-version2"
+msgid "Go Rating"
+msgstr "Go Rating"
+
+#: 
+#, fuzzy
+msgctxt "FRatingDialog-version2"
+msgid "Refuse"
+msgstr "Refuse"
+
+#: 
+#, fuzzy
+msgctxt "FRatingDialog-version2"
+msgid "Enjoy Filmora?"
+msgstr "Enjoy Filmora?"
+
+#: 
+#, fuzzy
+msgctxt "FRatingDialog-version2"
+msgid "PushButton"
+msgstr "PushButton"
+
+#: 
+#, fuzzy
+msgctxt "FRatingDialog-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleApplyAllProgressWidget-version2"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+#, fuzzy
+msgctxt "FAdvanceSubtitleApplyAllProgressWidget-version2"
+msgid "Please wait, we are applying the style of this subtitle to all the subtitle bars......"
+msgstr "Please wait, we are applying the style of this subtitle to all the subtitle bars......"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionAnimationListview-version2"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionAnimationListview-version2"
+msgid "Set as a default motion"
+msgstr "Set as a default motion"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyMotionAnimationListview-version2"
+msgid "Random to All"
+msgstr "Random to All"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableModel-version2"
+msgid "Completed/Total"
+msgstr "Completed/Total"
+
+#: 
+#, fuzzy
+msgctxt "FFTextToSpeechTableModel-version2"
+msgid "Completed/TotalWord"
+msgstr "Completed/TotalWord"
+
+#: 
+#, fuzzy
+msgctxt "FUserLabelCustomButton-version2"
+msgid "Try right clicking to edit the tag"
+msgstr "Try right clicking to edit the tag"
+
+#: 
+#, fuzzy
+msgctxt "FFConvertDontRemindPanel-version2"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+#, fuzzy
+msgctxt "FFConvertDontRemindPanel-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FFConvertDontRemindPanel-version2"
+msgid "If you choose not to remind, you'll not be able to restore your \"Shared Media\" library, \"My Music\" library, \"Favorites\" and \"Color Presets\" created with previous version of Filmora."
+msgstr "If you choose not to remind, you'll not be able to restore your \"Shared Media\" library, \"My Music\" library, \"Favorites\" and \"Color Presets\" created with previous version of Filmora."
+
+#: 
+#, fuzzy
+msgctxt "FGpuInfoWidget-version2"
+msgid "Graphics card mismatches with driver. Please update your driver according to the instructions."
+msgstr "Graphics card mismatches with driver. Please update your driver according to the instructions."
+
+#: 
+#, fuzzy
+msgctxt "FGpuInfoWidget-version2"
+msgid "Graphics card performance is low. GPU acceleration disabled."
+msgstr "Graphics card performance is low. GPU acceleration disabled."
+
+#: 
+#, fuzzy
+msgctxt "FGpuInfoWidget-version2"
+msgid "Details"
+msgstr "Details"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationAnalysisWidget-version2"
+msgid "Stabilization failed."
+msgstr "Stabilization failed."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationAnalysisWidget-version2"
+msgid "Stabilization successful."
+msgstr "Stabilization successful."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyStabilizationAnalysisWidget-version2"
+msgid "Try again"
+msgstr "Try again"
+
+#: 
+#, fuzzy
+msgctxt "FThemeMediaBanner-version2"
+msgid "Search Results"
+msgstr "Search Results"
+
+#: 
+#, fuzzy
+msgctxt "FThemeMediaBanner-version2"
+msgid "FThemeMediaBanner"
+msgstr "FThemeMediaBanner"
+
+#: 
+#, fuzzy
+msgctxt "FThemeMediaBanner-version2"
+msgid "Related assets collection"
+msgstr "Related assets collection"
+
+#: 
+#, fuzzy
+msgctxt "FThemeMediaBanner-version2"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceModeSettingWidget-version2"
+msgid "Track Reverse"
+msgstr "Track Reverse"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceModeSettingWidget-version2"
+msgid "Track Forward and Reverse"
+msgstr "Track Forward and Reverse"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceModeSettingWidget-version2"
+msgid "Track Forward"
+msgstr "Track Forward"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceModeSettingWidget-version2"
+msgid "Track One Section Forward"
+msgstr "Track One Section Forward"
+
+#: 
+#, fuzzy
+msgctxt "FFAdvanceModeSettingWidget-version2"
+msgid "Track One Section Reverse"
+msgstr "Track One Section Reverse"
+
+#: 
+#, fuzzy
+msgctxt "FAddImagePresenter-version2"
+msgid "Import Image"
+msgstr "Import Image"
+
+#: 
+#, fuzzy
+msgctxt "FAddImagePresenter-version2"
+msgid "Click to import images from local"
+msgstr "Click to import images from local"
+
+#: 
+#, fuzzy
+msgctxt "FPropertyOpenFXComboBoxPropertyWidget-version2"
+msgid "Load..."
+msgstr "Load..."
+
+#: 
+#, fuzzy
+msgctxt "FPropertyOpenFXComboBoxPropertyWidget-version2"
+msgid "Load Preset"
+msgstr "Load Preset"
+
+#: 
+#, fuzzy
+msgctxt "FEnsureActivateProjectExistDialog-version2"
+msgid "Loading"
+msgstr "Loading"
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightWidget-version2"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+#, fuzzy
+msgctxt "FFAutoHighlightWidget-version2"
+msgid "Only clips under 5 hours can be analyzed by this tool."
+msgstr "Only clips under 5 hours can be analyzed by this tool."
+

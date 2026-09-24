@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "Use last export settings for local"
+msgstr "Use last export settings for local"
+
+#: 
+#, fuzzy
+msgctxt "FExportModuleWidget-version2"
+msgid "Use last export settings for device"
+msgstr "Use last export settings for device"
+
+#: 
+#, fuzzy
+msgctxt "FFScoreDialog-version2"
+msgid "To help Filmora make better progress, please leave your feedback."
+msgstr "To help Filmora make better progress, please leave your feedback."
+
+#: 
+#, fuzzy
+msgctxt "FFScoreDialog-version2"
+msgid "FFScoreDialoguggestionLb"
+msgstr "FFScoreDialoguggestionLb"
+
+#: 
+#, fuzzy
+msgctxt "FFScoreDialog-version2"
+msgid "Are you satisfied with Filmora?"
+msgstr "Are you satisfied with Filmora?"
+
+#: 
+#, fuzzy
+msgctxt "FFScoreDialog-version2"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCCreateButton-version2"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCCreateButton-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCCreateSecondaryButton-version2"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+#, fuzzy
+msgctxt "FAIGCCreateSecondaryButton-version2"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicDenoiseSliderWidget-version2"
+msgid "Music Duration"
+msgstr "Music Duration"
+
+#: 
+#, fuzzy
+msgctxt "FAIMusicDenoiseSliderWidget-version2"
+msgid "min:sec"
+msgstr "min:sec"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Previous Edit Point (%1)"
+msgstr "Previous Edit Point (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Next Edit Point (%1)"
+msgstr "Next Edit Point (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Delete (%1)"
+msgstr "Delete (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Redo (%1)"
+msgstr "Redo (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Undo (%1)"
+msgstr "Undo (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FAutoReframePlayerControlBar-version2"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Ratio:"
+msgstr "Ratio:"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "From far to near"
+msgstr "From far to near"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Original Ratio"
+msgstr "Original Ratio"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Swap the Start and End areas"
+msgstr "Swap the Start and End areas"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "From Right to Left"
+msgstr "From Right to Left"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "From Left to Right"
+msgstr "From Left to Right"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "From near to far"
+msgstr "From near to far"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFCropAndZoomToolBar-version2"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayerToolBarBase-version2"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayerToolBarBase-version2"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayerToolBarBase-version2"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayerToolBarBase-version2"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFPlayerToolBarBase-version2"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Remaining :"
+msgstr "Remaining :"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Text to Speech"
+msgstr "Text to Speech"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Sticker"
+msgstr "AI Sticker"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Voice Clone"
+msgstr "AI Voice Clone"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Speech to Text"
+msgstr "Speech to Text"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "AI Text Clipper credit"
+msgstr "AI Text Clipper credit"
+
+#: 
+#, fuzzy
+msgctxt "FFAccountBalanceMYWidget-version2"
+msgid "Remaining times:"
+msgstr "Remaining times:"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Select a preset style to instantly apply it to your video."
+msgstr "Select a preset style to instantly apply it to your video."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Exported videos are uncompressed, ensuring high quality."
+msgstr "Exported videos are uncompressed, ensuring high quality."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Instant Cutter"
+msgstr "Instant Cutter"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Use AI to quickly write video scripts and titles."
+msgstr "Use AI to quickly write video scripts and titles."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Describe your desired video, and it'll be generated automatically."
+msgstr "Describe your desired video, and it'll be generated automatically."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Record screen images and sound."
+msgstr "Record screen images and sound."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Smartly adapt videos to various ratios and swiftly distribute them to multiple platforms."
+msgstr "Smartly adapt videos to various ratios and swiftly distribute them to multiple platforms."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "More Tools"
+msgstr "More Tools"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "After selecting a template, upload the materials to create the video."
+msgstr "After selecting a template, upload the materials to create the video."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Import video and audio for automatic rhythm-based marking."
+msgstr "Import video and audio for automatic rhythm-based marking."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Edit videos easily by transcribing them into text and modifying the script."
+msgstr "Edit videos easily by transcribing them into text and modifying the script."
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "AI Stylizer"
+msgstr "AI Stylizer"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+#, fuzzy
+msgctxt "FToolsWidget-version2"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Close Editor"
+msgstr "Close Editor"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Close"
+msgstr "Close"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Effect not supported for the current clip"
+msgstr "Effect not supported for the current clip"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "No clip selected."
+msgstr "No clip selected."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "To apply the transition effect, please select a clip with an audio track."
+msgstr "To apply the transition effect, please select a clip with an audio track."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Failed to apply effect. Please try again later."
+msgstr "Failed to apply effect. Please try again later."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Sorry, no clips support this transition effect."
+msgstr "Sorry, no clips support this transition effect."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Voice effect applied."
+msgstr "Voice effect applied."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "There are unfinished AI tasks in progress. Opening other projects will cancel these tasks. Open another project?"
+msgstr "There are unfinished AI tasks in progress. Opening other projects will cancel these tasks. Open another project?"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Create New Project"
+msgstr "Create New Project"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Export"
+msgstr "Export"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "To apply the transition effect, please select a clip from the video track."
+msgstr "To apply the transition effect, please select a clip from the video track."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "There are unfinished AI tasks in progress. Closing the Editor will cancel these tasks. Close Editor?"
+msgstr "There are unfinished AI tasks in progress. Closing the Editor will cancel these tasks. Close Editor?"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Failed to remove object from video."
+msgstr "Failed to remove object from video."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Open Another Project"
+msgstr "Open Another Project"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "There are unfinished AI tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+msgstr "There are unfinished AI tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Sorry, the transition effect cannot be applied to this audio clip. Please select a clip from the video track to apply the effect."
+msgstr "Sorry, the transition effect cannot be applied to this audio clip. Please select a clip from the video track to apply the effect."
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "There are unfinished AI tasks in progress. Creating new projects will cancel these tasks. Create another project?"
+msgstr "There are unfinished AI tasks in progress. Creating new projects will cancel these tasks. Create another project?"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Apply to all clips successfully"
+msgstr "Apply to all clips successfully"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+#, fuzzy
+msgctxt "FTimelinePresenter-version2"
+msgid "Select clip error, please select again"
+msgstr "Select clip error, please select again"
+
