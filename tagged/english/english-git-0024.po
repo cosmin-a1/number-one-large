@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Font Smoothing - Weak"
+msgstr "Font Smoothing - Weak"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Illumination Radius"
+msgstr "Illumination Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Quick Pixelator"
+msgstr "Quick Pixelator"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Color Scheme"
+msgstr "BG Color Scheme"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color Scheme"
+msgstr "Color Scheme"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Premult Inv Luma"
+msgstr "Premult Inv Luma"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color Soften"
+msgstr "Color Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Control Type"
+msgstr "Control Type"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "End Color Source"
+msgstr "End Color Source"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Clone Source"
+msgstr "Clone Source"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC+Eye Light"
+msgstr "BCC+Eye Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Boost Whites"
+msgstr "Boost Whites"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Remap Red to Green"
+msgstr "Remap Red to Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bleach Bypass-ish"
+msgstr "Bleach Bypass-ish"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Centered Circle"
+msgstr "Centered Circle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shimmering Sky"
+msgstr "Shimmering Sky"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "SPAWN PARTICLES"
+msgstr "SPAWN PARTICLES"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Storm Coming"
+msgstr "Storm Coming"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spawn Particles"
+msgstr "Spawn Particles"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sat Threshold"
+msgstr "Sat Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Diagonal Lower Left"
+msgstr "Diagonal Lower Left"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shift : Twist : Noise : Disperse"
+msgstr "Shift : Twist : Noise : Disperse"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Vivid Colors"
+msgstr "Vivid Colors"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Diagonal Upper Left"
+msgstr "Diagonal Upper Left"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Emitter Offset"
+msgstr "Emitter Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "NTSC D1 (720x486)"
+msgstr "NTSC D1 (720x486)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dropout Top/Left"
+msgstr "Dropout Top/Left"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Auto Scale"
+msgstr "Auto Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "White Circle"
+msgstr "White Circle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Master Scale"
+msgstr "Master Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glitter Ray Scale Seed"
+msgstr "Glitter Ray Scale Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Layer B Type"
+msgstr "Layer B Type"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Killer Frost"
+msgstr "Killer Frost"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fill Frame [Crop]"
+msgstr "Fill Frame [Crop]"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smoke Turb"
+msgstr "Smoke Turb"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Glow Color 1 Green"
+msgstr "Outside Glow Color 1 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smoke Lite"
+msgstr "Smoke Lite"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape Height"
+msgstr "Shape Height"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Disperse : Shift : Noise : Twist"
+msgstr "Disperse : Shift : Noise : Twist"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Black & White"
+msgstr "Black & White"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "String Theory2"
+msgstr "String Theory2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inverse Light Matte"
+msgstr "Inverse Light Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "World Center"
+msgstr "World Center"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lock Image to Split"
+msgstr "Lock Image to Split"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Splashed Paint"
+msgstr "Splashed Paint"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lock Chokes to"
+msgstr "Lock Chokes to"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Transparent->Back-d"
+msgstr "Transparent->Back-d"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Color"
+msgstr "Outside Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twist : Shift : Noise : Disperse"
+msgstr "Twist : Shift : Noise : Disperse"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Intensity"
+msgstr "Green Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Size 10 Lock"
+msgstr "Size 10 Lock"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Independent Images (see PARTICLES group)"
+msgstr "Independent Images (see PARTICLES group)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Replacement Field"
+msgstr "Replacement Field"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Exposure Compensation"
+msgstr "Exposure Compensation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attractor 2D Mode"
+msgstr "Attractor 2D Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "White in Specular"
+msgstr "White in Specular"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glint Ray Height"
+msgstr "Glint Ray Height"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC Lens Flare 3D"
+msgstr "BCC Lens Flare 3D"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Soften"
+msgstr "Green Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Use Built-in Lights"
+msgstr "Use Built-in Lights"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Boost Eq Power Minus"
+msgstr "Boost Eq Power Minus"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Feather Blurs %"
+msgstr "Feather Blurs %"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "3D Cylinders"
+msgstr "3D Cylinders"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Yellow Red Show"
+msgstr "Green Yellow Red Show"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inherit Velocity (%)"
+msgstr "Inherit Velocity (%)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Distance to Edge"
+msgstr "Distance to Edge"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Distance to Line"
+msgstr "Distance to Line"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 2 Dest"
+msgstr "Modulation 2 Dest"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 2 Blur"
+msgstr "Modulation 2 Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Itchy Camera"
+msgstr "Itchy Camera"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L142 Pale Violet"
+msgstr "L142 Pale Violet"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Array Layout"
+msgstr "Array Layout"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Particle Midpoint Color Red"
+msgstr "Particle Midpoint Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Looking Down"
+msgstr "Looking Down"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Post Blur"
+msgstr "Green Post Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Card Rotate with Propagation"
+msgstr "Card Rotate with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Light Bender"
+msgstr "Light Bender"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gradient Start X"
+msgstr "Gradient Start X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gradient Start Y"
+msgstr "Gradient Start Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "First Preset"
+msgstr "First Preset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Randomize Orientation"
+msgstr "Randomize Orientation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flip Vertical"
+msgstr "Flip Vertical"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "NTSC DV (720x480)"
+msgstr "NTSC DV (720x480)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Offset"
+msgstr "Green Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Hazy Grey"
+msgstr "Hazy Grey"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Light Center"
+msgstr "Light Center"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Obscure Left Side"
+msgstr "Obscure Left Side"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Perspective Trick"
+msgstr "Perspective Trick"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pre-Effect"
+msgstr "Pre-Effect"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Final Output"
+msgstr "Final Output"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sampler Corner 1"
+msgstr "Sampler Corner 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sampler Corner 2"
+msgstr "Sampler Corner 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Production Area"
+msgstr "Production Area"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Suppress Threshold"
+msgstr "Suppress Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Black and White"
+msgstr "Black and White"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glitter Ray Color"
+msgstr "Glitter Ray Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Levels"
+msgstr "Green Levels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Image Facing"
+msgstr "Image Facing"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Legacy Color Matching"
+msgstr "Legacy Color Matching"
+

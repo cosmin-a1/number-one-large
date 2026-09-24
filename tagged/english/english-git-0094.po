@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Spin 3"
+msgstr "Spin 3"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Spin 4"
+msgstr "Spin 4"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Tiny zoom"
+msgstr "Tiny zoom"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Grow Shrink"
+msgstr "Grow Shrink"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom in 1"
+msgstr "Zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom in 2"
+msgstr "Zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom in 3"
+msgstr "Zoom in 3"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Center Gradually Disappears"
+msgstr "Center Gradually Disappears"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom in to the bottom"
+msgstr "Zoom in to the bottom"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Expansion"
+msgstr "Expansion"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade out"
+msgstr "Fade out"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Move to top"
+msgstr "Move to top"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Move to upper right and zoom in"
+msgstr "Move to upper right and zoom in"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "To the Right 1"
+msgstr "To the Right 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "To the Right 2"
+msgstr "To the Right 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Clockwise rotate to zoom in 1"
+msgstr "Clockwise rotate to zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Clockwise rotate to zoom in 2"
+msgstr "Clockwise rotate to zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fly in and Fly out"
+msgstr "Fly in and Fly out"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Vortex In"
+msgstr "Vortex In"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Stretch in and zoom in 1"
+msgstr "Stretch in and zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Stretch in and zoom in 2"
+msgstr "Stretch in and zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade Zoom Out"
+msgstr "Fade Zoom Out"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Slide Down"
+msgstr "Slide Down"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Vortex Out"
+msgstr "Vortex Out"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Rotate to zoom in 1"
+msgstr "Rotate to zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Rotate to zoom in 2"
+msgstr "Rotate to zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Bounce to zoom in 1"
+msgstr "Bounce to zoom in 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Bounce to zoom in 2"
+msgstr "Bounce to zoom in 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "No Animation"
+msgstr "No Animation"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Move to upper left"
+msgstr "Move to upper left"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Move to lower left"
+msgstr "Move to lower left"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade in"
+msgstr "Fade in"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fly in and Fade out"
+msgstr "Fly in and Fade out"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Stretch in and zoom in"
+msgstr "Stretch in and zoom in"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Clockwise rotate"
+msgstr "Clockwise rotate"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Stretch to right"
+msgstr "Stretch to right"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Down Up 1"
+msgstr "Down Up 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Down Up 2"
+msgstr "Down Up 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade Slide 1"
+msgstr "Fade Slide 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade Slide 2"
+msgstr "Fade Slide 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade Slide 3"
+msgstr "Fade Slide 3"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Fade Slide 4"
+msgstr "Fade Slide 4"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom in to the left"
+msgstr "Zoom in to the left"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom out 1"
+msgstr "Zoom out 1"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom out 2"
+msgstr "Zoom out 2"
+
+#: 
+msgctxt "FAnimationModel-version1"
+msgid "Zoom out 3"
+msgstr "Zoom out 3"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "Set Thumbnail"
+msgstr "Set Thumbnail"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "Current Thumbnail"
+msgstr "Current Thumbnail"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "From Local"
+msgstr "From Local"
+
+#: 
+msgctxt "FCoverSettingDialog-version1"
+msgid "From Video"
+msgstr "From Video"
+
+#: 
+msgctxt "FEffectBaseItemHeaderWidget-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FEffectBaseItemHeaderWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FEffectBaseItemHeaderWidget-version1"
+msgid "Show layer"
+msgstr "Show layer"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version1"
+msgid "Add the thumbnail to the beginning"
+msgstr "Add the thumbnail to the beginning"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version1"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+msgctxt "FExportPanelCoverSettingWidget-version1"
+msgid "Cannot set thumbnail"
+msgstr "Cannot set thumbnail"
+
+#: 
+msgctxt "FFMenuBar-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FFMenuBar-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FGraphicsTemplateEditButtonItem-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FGraphicsTemplateEditButtonItem-version1"
+msgid "Click to replace material"
+msgstr "Click to replace material"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version1"
+msgid "Insert"
+msgstr "Insert"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FIntroTemplateContentMenu-version1"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Project Files Location:"
+msgstr "Project Files Location:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Color Space:"
+msgstr "Color Space:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Project Name:"
+msgstr "Project Name:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Thumbnail:"
+msgstr "Thumbnail:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Color Space"
+msgstr "Color Space"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Project Files Location"
+msgstr "Project Files Location"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FPropertyProjectInfoWidgetClass-version1"
+msgid "Project Name"
+msgstr "Project Name"
+
+#: 
+msgctxt "FStoryItem-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FStoryItem-version1"
+msgid "Mute Import Media"
+msgstr "Mute Import Media"
+
+#: 
+msgctxt "FStoryItem-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "FStoryItem-version1"
+msgid "Unmute Import Media"
+msgstr "Unmute Import Media"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Smart Object Remover\n"
+"(Supports clips under 1 minute)"
+msgstr "Smart Object Remover\n"
+"(Supports clips under 1 minute)"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Delete selected media on timeline"
+msgstr "Delete selected media on timeline"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Automatic conversion of video and audio files with audio to srt subtitle files."
+msgstr "Automatic conversion of video and audio files with audio to srt subtitle files."
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FTimelineToolBarData-version1"
+msgid "Split"
+msgstr "Split"
+

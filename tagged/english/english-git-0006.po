@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 3"
+msgstr "Vignette 3"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 4"
+msgstr "Vignette 4"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 5"
+msgstr "Vignette 5"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 6"
+msgstr "Vignette 6"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 7"
+msgstr "Vignette 7"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 8"
+msgstr "Vignette 8"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 9"
+msgstr "Vignette 9"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Down Insert"
+msgstr "Down Insert"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Click to listen to the song"
+msgstr "Click to listen to the song"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Human Segmentation"
+msgstr "Human Segmentation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Sunflower"
+msgstr "Sunflower"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Advance Plan Name"
+msgstr "Advance Plan Name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ink Well"
+msgstr "Ink Well"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Folder"
+msgstr "Folder"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Freeze"
+msgstr "Freeze"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Locate in the resource panel"
+msgstr "Locate in the resource panel"
+
+#: 
+msgctxt "QObject-version1"
+msgid "4:5 (Vertical)"
+msgstr "4:5 (Vertical)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unlimited AI Credits"
+msgstr "Unlimited AI Credits"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Undo Effect"
+msgstr "Undo Effect"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Characters Disappear Downwards"
+msgstr "Characters Disappear Downwards"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Filmora Official Account"
+msgstr "Filmora Official Account"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upper-left Flip Disappears"
+msgstr "Upper-left Flip Disappears"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Height"
+msgstr "Height"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fly to zoom in"
+msgstr "Fly to zoom in"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The voice has been cloned successfully"
+msgstr "The voice has been cloned successfully"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Volume Threshold"
+msgstr "Volume Threshold"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom End Node"
+msgstr "Zoom End Node"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "QObject-version1"
+msgid "PropertyConfig"
+msgstr "PropertyConfig"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Focus Color"
+msgstr "Focus Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Up Insert"
+msgstr "Up Insert"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Invert"
+msgstr "Invert"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Italic"
+msgstr "Italic"
+
+#: 
+msgctxt "QObject-version1"
+msgid "File Name_1"
+msgstr "File Name_1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The effect Pack can't be deleted because it is opened in Filmora."
+msgstr "The effect Pack can't be deleted because it is opened in Filmora."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Philtrum Length"
+msgstr "Philtrum Length"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Move to right"
+msgstr "Move to right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The audio duration is too short, please re-select the audio of 0.5s or more for beat detection."
+msgstr "The audio duration is too short, please re-select the audio of 0.5s or more for beat detection."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Jumper"
+msgstr "Jumper"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Jungle"
+msgstr "Jungle"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom out to the right"
+msgstr "Zoom out to the right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Sun Kissed"
+msgstr "Sun Kissed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Italian (Italy)"
+msgstr "Italian (Italy)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Portuguese (Brazil)"
+msgstr "Portuguese (Brazil)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quit AI Voice Cloning"
+msgstr "Quit AI Voice Cloning"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Linear"
+msgstr "Linear"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Refer Friends"
+msgstr "Refer Friends"
+
+#: 
+msgctxt "QObject-version1"
+msgid "My Mask 1"
+msgstr "My Mask 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Editing Timeline"
+msgstr "Editing Timeline"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Minute"
+msgstr "Minute"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Japanese (Japan)"
+msgstr "Japanese (Japan)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unable to recognize text content"
+msgstr "Unable to recognize text content"
+
+#: 
+msgctxt "QObject-version1"
+msgid "vtChildVoice"
+msgstr "vtChildVoice"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No Motion"
+msgstr "No Motion"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Lord Kelvin"
+msgstr "Lord Kelvin"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Align Justified"
+msgstr "Align Justified"
+
+#: 
+msgctxt "QObject-version1"
+msgid "MiaoYing ZhiHu HomePage"
+msgstr "MiaoYing ZhiHu HomePage"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Edge Thickness"
+msgstr "Edge Thickness"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Counter clockwise rotate"
+msgstr "Counter clockwise rotate"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Outter Ring Color"
+msgstr "Outter Ring Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Number"
+msgstr "Number"
+
+#: 
+msgctxt "QObject-version1"
+msgid "X Offset"
+msgstr "X Offset"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Y Offset"
+msgstr "Y Offset"
+
+#: 
+msgctxt "QObject-version1"
+msgid "End Number"
+msgstr "End Number"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Length"
+msgstr "Blur Length"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Chin Length"
+msgstr "Chin Length"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No search results yet."
+msgstr "No search results yet."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Next Marker"
+msgstr "Next Marker"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The style of Title will be reset after conversion to SRT."
+msgstr "The style of Title will be reset after conversion to SRT."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Photos"
+msgstr "Photos"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Player"
+msgstr "Player"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Load LUT"
+msgstr "Load LUT"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom in to the right"
+msgstr "Zoom in to the right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upgrade your license to enjoy unlimited equity."
+msgstr "Upgrade your license to enjoy unlimited equity."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Nose Length"
+msgstr "Nose Length"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Whiten Teeth"
+msgstr "Whiten Teeth"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Random"
+msgstr "Random"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Create Proxy File"
+msgstr "Create Proxy File"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Redden"
+msgstr "Redden"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Redeem"
+msgstr "Redeem"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Renew 1 year at %1 off"
+msgstr "Renew 1 year at %1 off"
+
+#: 
+msgctxt "QObject-version1"
+msgid "rotate_frame_count"
+msgstr "rotate_frame_count"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "QObject-version1"
+msgid "PC Screen"
+msgstr "PC Screen"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Second"
+msgstr "Second"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select"
+msgstr "Select"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Processor"
+msgstr "Processor"
+
+#: 
+msgctxt "QObject-version1"
+msgid "TVwall"
+msgstr "TVwall"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Transcribe"
+msgstr "Transcribe"
+

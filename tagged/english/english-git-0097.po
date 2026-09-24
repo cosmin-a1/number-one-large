@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Font"
+msgstr "Font"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Add your first \"Favorite\" font"
+msgstr "Add your first \"Favorite\" font"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Cloud fonts"
+msgstr "Cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Load more cloud fonts"
+msgstr "Load more cloud fonts"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Failed to load cloud fonts, please check your network connection and try again."
+msgstr "Failed to load cloud fonts, please check your network connection and try again."
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "No results found"
+msgstr "No results found"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "Local fonts"
+msgstr "Local fonts"
+
+#: 
+msgctxt "FFontDataModel-version1"
+msgid "No recent selected font."
+msgstr "No recent selected font."
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "It is enabled, and you can freely set the content that needs to be synchronized."
+msgstr "It is enabled, and you can freely set the content that needs to be synchronized."
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Turn on sync"
+msgstr "Turn on sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Customization: title , template , adjustment layers, etc."
+msgstr "Customization: title , template , adjustment layers, etc."
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Turn off sync"
+msgstr "Turn off sync"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+msgstr "After it is turned on, the local data will be automatically synchronized to the cloud, which is more secure."
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Adjustment Layer"
+msgstr "Adjustment Layer"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFSyncSettingWidget-version1"
+msgid "It can be used synchronously on other devices, which is more convenient."
+msgstr "It can be used synchronously on other devices, which is more convenient."
+
+#: 
+msgctxt "FPropertyScaleComponent-version1"
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version1"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version1"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version1"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudDiskDetailWidget-version1"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version1"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version1"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+msgctxt "FCloudMediaSpaceWidget-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudSpacePresenter-version1"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FCloudSpacePresenter-version1"
+msgid "Expired on:"
+msgstr "Expired on:"
+
+#: 
+msgctxt "FVideoTemplate-version1"
+msgid "Help"
+msgstr "Help"
+
+#: 
+msgctxt "FItemVisibleControlMenu-version1"
+msgid "Hide"
+msgstr "Hide"
+
+#: 
+msgctxt "FItemVisibleControlMenu-version1"
+msgid "Show"
+msgstr "Show"
+
+#: 
+msgctxt "FItemVisibleControlMenu-version1"
+msgid "Title_2"
+msgstr "Title_2"
+
+#: 
+msgctxt "FCloudDiskNavigationBar-version1"
+msgid "Home"
+msgstr "Home"
+
+#: 
+msgctxt "FViewTabBar-version1"
+msgid "Home"
+msgstr "Home"
+
+#: 
+msgctxt "FViewTabBar-version1"
+msgid "Recent"
+msgstr "Recent"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version1"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version1"
+msgid "Update Reminder"
+msgstr "Update Reminder"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version1"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version1"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FAudioDenoiseUpdateHelper-version1"
+msgid "The Normal Denoise feature has been upgraded, do you want to update the effect?"
+msgstr "The Normal Denoise feature has been upgraded, do you want to update the effect?"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version1"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version1"
+msgid "It is detected that your default storage location maybe under the drive, which may cause slow editing. It's better to change to another local path."
+msgstr "It is detected that your default storage location maybe under the drive, which may cause slow editing. It's better to change to another local path."
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version1"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version1"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FCloudDiskPathDetectHelper-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "Keep"
+msgstr "Keep"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "Update Reminder"
+msgstr "Update Reminder"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "Apply to all"
+msgstr "Apply to all"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "Stabilization failed."
+msgstr "Stabilization failed."
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "Update"
+msgstr "Update"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "Stabilization successful."
+msgstr "Stabilization successful."
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidget-version1"
+msgid "The video stabilization has been upgraded, do you want to update the effect?"
+msgstr "The video stabilization has been upgraded, do you want to update the effect?"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version1"
+msgid "NAME"
+msgstr "NAME"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version1"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version1"
+msgid "FILE SIZE"
+msgstr "FILE SIZE"
+
+#: 
+msgctxt "FManageEffectPacksPanel-version1"
+msgid "Delete unused effects packs to free up disk space. You can download them again later from the Effects Store."
+msgstr "Delete unused effects packs to free up disk space. You can download them again later from the Effects Store."
+
+#: 
+msgctxt "FManageEffectPacksPanel-version1"
+msgid "This change will take effect after clicking \"Apply\" and restarting the program."
+msgstr "This change will take effect after clicking \"Apply\" and restarting the program."
+
+#: 
+msgctxt "FGraphicsTextEditTextClipPainter-version1"
+msgid "Line"
+msgstr "Line"
+
+#: 
+msgctxt "FFConvertSelectPanel-version1"
+msgid "Load"
+msgstr "Load"
+
+#: 
+msgctxt "FFConvertSelectPanel-version1"
+msgid "It is detected that the old version of the preset needs to be loaded before editing. Loading will not affect the original preset data, please feel free to load."
+msgstr "It is detected that the old version of the preset needs to be loaded before editing. Loading will not affect the original preset data, please feel free to load."
+
+#: 
+msgctxt "FFConvertSelectPanel-version1"
+msgid "Don't remind"
+msgstr "Don't remind"
+
+#: 
+msgctxt "FFConvertSelectPanel-version1"
+msgid "Load Later"
+msgstr "Load Later"
+
+#: 
+msgctxt "FIntroFilterBar-version1"
+msgid "Logo"
+msgstr "Logo"
+
+#: 
+msgctxt "FIntroFilterBar-version1"
+msgid "Intro"
+msgstr "Intro"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Love"
+msgstr "Love"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Star"
+msgstr "Star"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Width"
+msgstr "Width"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Height"
+msgstr "Height"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Linear"
+msgstr "Linear"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Radius"
+msgstr "Radius"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Rotate"
+msgstr "Rotate"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Parallel Lines"
+msgstr "Parallel Lines"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FPropertyMaskTransformWidget-version1"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: 
+msgctxt "FPropertyEffectCustomMaskManager-version1"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FPropertyEffectCustomMaskManager-version1"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FAiMusicTagsWidget-version1"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version1"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version1"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version1"
+msgid "Try again."
+msgstr "Try again."
+
+#: 
+msgctxt "FAiMusicTagsWidget-version1"
+msgid "Loading..."
+msgstr "Loading..."
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "There are unfinished AI tasks in progress. Closing the Editor will cancel these tasks. Close Editor?"
+msgstr "There are unfinished AI tasks in progress. Closing the Editor will cancel these tasks. Close Editor?"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Failed to remove object from video."
+msgstr "Failed to remove object from video."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Unable to add compound clip itself, please try again"
+msgstr "Unable to add compound clip itself, please try again"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Open Another Project"
+msgstr "Open Another Project"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "There are unfinished AI tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+msgstr "There are unfinished AI tasks in progress. Exported videos will not include these effects. It is recommended to wait until all tasks are finished before exporting."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Sorry, the transition effect cannot be applied to this audio clip. Please select a clip from the video track to apply the effect."
+msgstr "Sorry, the transition effect cannot be applied to this audio clip. Please select a clip from the video track to apply the effect."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "There are unfinished AI tasks in progress. Creating new projects will cancel these tasks. Create another project?"
+msgstr "There are unfinished AI tasks in progress. Creating new projects will cancel these tasks. Create another project?"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Apply to all clips successfully"
+msgstr "Apply to all clips successfully"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Try Again"
+msgstr "Try Again"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Select clip error, please select again"
+msgstr "Select clip error, please select again"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Please select the video clip in the timeline."
+msgstr "Please select the video clip in the timeline."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Cancel Task"
+msgstr "Cancel Task"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Clip is too short to add transition."
+msgstr "Clip is too short to add transition."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Successfully removed object (Task %1)"
+msgstr "Successfully removed object (Task %1)"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "You do not have enough AI Credits. Get more credits by purchasing a Wondershare Filmora membership."
+msgstr "You do not have enough AI Credits. Get more credits by purchasing a Wondershare Filmora membership."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Cancel Export"
+msgstr "Cancel Export"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Unable to add external compound clip. Please try again."
+msgstr "Unable to add external compound clip. Please try again."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Sorry, the transition effect cannot be applied to the clip selected."
+msgstr "Sorry, the transition effect cannot be applied to the clip selected."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Failed to remove object (Task %1)"
+msgstr "Failed to remove object (Task %1)"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Smart Object Removal is in progress. No other tasks can be performed on this clip right now."
+msgstr "Smart Object Removal is in progress. No other tasks can be performed on this clip right now."
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Import Media Files"
+msgstr "Import Media Files"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Import Media Folder"
+msgstr "Import Media Folder"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Import with Instant Cutter Tool"
+msgstr "Import with Instant Cutter Tool"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "One Drive"
+msgstr "One Drive"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Import from Camera or Phone"
+msgstr "Import from Camera or Phone"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Import with Auto Beat Sync"
+msgstr "Import with Auto Beat Sync"
+
+#: 
+msgctxt "FMediaImportMenu-version1"
+msgid "Import from other Apps"
+msgstr "Import from other Apps"
+
+#: 
+msgctxt "FFAITranslationWidget-version1"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFAITranslationWidget-version1"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FFAITranslationWidget-version1"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFAITranslationWidget-version1"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "remainder time"
+msgstr "remainder time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "The remaining time"
+msgstr "The remaining time"
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+msgstr "The translation feature of speech-to-text is only available for VIP users with unlimited usage."
+
+#: 
+msgctxt "FFSpeechToTextWidget-version1"
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version1"
+msgid "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+msgstr "%1 required for the remaining transcription is insufficient. %2 written will be refreshed every 30 days"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version1"
+msgid "The number of sentences"
+msgstr "The number of sentences"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version1"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version1"
+msgid "frequence"
+msgstr "frequence"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version1"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: 
+msgctxt "FFTextToSpeechWidget-version1"
+msgid "Available Text:"
+msgstr "Available Text:"
+
+#: 
+msgctxt "FFMontagePresenter-version1"
+msgid "Step 2: Automagically higlights and chooses the best moments from your footage, and mix them according to the beats of the background music."
+msgstr "Step 2: Automagically higlights and chooses the best moments from your footage, and mix them according to the beats of the background music."
+
+#: 
+msgctxt "FFMontagePresenter-version1"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FFMontagePresenter-version1"
+msgid "Step 1: Analyze the beats and rhythm of the background music."
+msgstr "Step 1: Analyze the beats and rhythm of the background music."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Save Project As Template"
+msgstr "Save Project As Template"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Sorry, the One Drive authorization failed."
+msgstr "Sorry, the One Drive authorization failed."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "There is not enough space available.Please free up some space or choose a new path and try again."
+msgstr "There is not enough space available.Please free up some space or choose a new path and try again."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Sorry, the Google Drive authorization failed."
+msgstr "Sorry, the Google Drive authorization failed."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Create Proxy File"
+msgstr "Create Proxy File"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Editing with smaller proxy clips will result in a faster, smoother, experience. When exporting, your projects will render with the full quality of the original media. To change this setting go to 'Performance' in the 'Preferences' menu."
+msgstr "Editing with smaller proxy clips will result in a faster, smoother, experience. When exporting, your projects will render with the full quality of the original media. To change this setting go to 'Performance' in the 'Preferences' menu."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Saving into custom clip %1, please wait…"
+msgstr "Saving into custom clip %1, please wait…"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Saving into project template \""
+msgstr "Saving into project template \""
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Sorry, the Dropbox authorization failed."
+msgstr "Sorry, the Dropbox authorization failed."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Saving under the \"Custom\" category under \"Edit Thumbnail.\" Please wait..."
+msgstr "Saving under the \"Custom\" category under \"Edit Thumbnail.\" Please wait..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Authorize Google Drive"
+msgstr "Authorize Google Drive"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Saving..."
+msgstr "Saving..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Authorize Dropbox"
+msgstr "Authorize Dropbox"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "\", please waiting..."
+msgstr "\", please waiting..."
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Importing files"
+msgstr "Importing files"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Authorize One Drive"
+msgstr "Authorize One Drive"
+
+#: 
+msgctxt "FMediaItemViewPrivate-version1"
+msgid "Please click to reauthorize."
+msgstr "Please click to reauthorize."
+
+#: 
+msgctxt "FMatchProjectDialog-version1"
+msgid "Keep Project Settings"
+msgstr "Keep Project Settings"
+
+#: 
+msgctxt "FMatchProjectDialog-version1"
+msgid "Match To Media"
+msgstr "Match To Media"
+
+#: 
+msgctxt "FMatchProjectDialog-version1"
+msgid "Stop asking for now."
+msgstr "Stop asking for now."
+
+#: 
+msgctxt "FMatchProjectDialog-version1"
+msgid "The resolution or frame rate of the media does not match the current project settings. Do you want to change your project settings to match?"
+msgstr "The resolution or frame rate of the media does not match the current project settings. Do you want to change your project settings to match?"
+
+#: 
+msgctxt "FFBaseSettingWidget-version1"
+msgid "Edge Feather:"
+msgstr "Edge Feather:"
+
+#: 
+msgctxt "FFBaseSettingWidget-version1"
+msgid "Edge Thickness:"
+msgstr "Edge Thickness:"
+
+#: 
+msgctxt "FFBaseSettingWidget-version1"
+msgid "Brush Size:"
+msgstr "Brush Size:"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "The text has been modified, Do you want to save the changes?"
+msgstr "The text has been modified, Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Advanced Subtitle Edit"
+msgstr "Advanced Subtitle Edit"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Save as Preset Tip"
+msgstr "Save as Preset Tip"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Name your custom text style. It will be saved under Style in the Titles menu."
+msgstr "Name your custom text style. It will be saved under Style in the Titles menu."
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Unable to merge, only support continuous subtitle strip merging"
+msgstr "Unable to merge, only support continuous subtitle strip merging"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "My preset"
+msgstr "My preset"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Unable to merge, already the last subtitle"
+msgstr "Unable to merge, already the last subtitle"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Edit Subtitle File"
+msgstr "Edit Subtitle File"
+
+#: 
+msgctxt "FAdvanceSubtitleEditDialog-version1"
+msgid "Subtitle text style templates will be saved in the preset category under \"Edit Subtitle File\""
+msgstr "Subtitle text style templates will be saved in the preset category under \"Edit Subtitle File\""
+
+#: 
+msgctxt "FAdvanceTextEditDialog-version1"
+msgid "The text has been modified, Do you want to save the changes?"
+msgstr "The text has been modified, Do you want to save the changes?"
+
+#: 
+msgctxt "FAdvanceTextEditDialog-version1"
+msgid "Advanced Text Edit"
+msgstr "Advanced Text Edit"
+
+#: 
+msgctxt "FAdvanceTextEditDialog-version1"
+msgid "Click here for tutorials."
+msgstr "Click here for tutorials."
+
+#: 
+msgctxt "FThirdPartyLoginErrorPage-version1"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+msgctxt "FThirdPartyLoginErrorPage-version1"
+msgid "Please go back and try again"
+msgstr "Please go back and try again"
+
+#: 
+msgctxt "FThirdPartyLoginErrorPage-version1"
+msgid "Sorry, we could not sign you in"
+msgstr "Sorry, we could not sign you in"
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid " Then, log in with the Wondershare ID associated with your license."
+msgstr " Then, log in with the Wondershare ID associated with your license."
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "EXPORT WITH WATERMARK"
+msgstr "EXPORT WITH WATERMARK"
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "Activation failed. Here are some reasons this might have happened:"
+msgstr "Activation failed. Here are some reasons this might have happened:"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "AI Mask"
+msgstr "AI Mask"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "Brush Size"
+msgstr "Brush Size"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "Add Mask"
+msgstr "Add Mask"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "(Estimated)"
+msgstr "(Estimated)"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "Size:"
+msgstr "Size:"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "EXPORT"
+msgstr "EXPORT"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+msgstr "When the GIF is larger than 10MB, it may exceed the size limit of some platforms, so you can limit the file size by reducing the resolution, adjusting the quality, and shortening the duration."
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "When this setting is checked, each export will use the previous export settings by default"
+msgstr "When this setting is checked, each export will use the previous export settings by default"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "Use the most recent export settings"
+msgstr "Use the most recent export settings"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "Use last export settings for local"
+msgstr "Use last export settings for local"
+
+#: 
+msgctxt "FExportModuleWidget-version1"
+msgid "Use last export settings for device"
+msgstr "Use last export settings for device"
+
+#: 
+msgctxt "FFScoreDialog-version1"
+msgid "To help Filmora make better progress, please leave your feedback."
+msgstr "To help Filmora make better progress, please leave your feedback."
+
+#: 
+msgctxt "FFScoreDialog-version1"
+msgid "FFScoreDialoguggestionLb"
+msgstr "FFScoreDialoguggestionLb"
+
+#: 
+msgctxt "FFScoreDialog-version1"
+msgid "Are you satisfied with Filmora?"
+msgstr "Are you satisfied with Filmora?"
+
+#: 
+msgctxt "FFScoreDialog-version1"
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgctxt "FAIGCCreateButton-version1"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+msgctxt "FAIGCCreateButton-version1"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIGCCreateSecondaryButton-version1"
+msgid "AI Enjoy Suite"
+msgstr "AI Enjoy Suite"
+
+#: 
+msgctxt "FAIGCCreateSecondaryButton-version1"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIMusicDenoiseSliderWidget-version1"
+msgid "Music Duration"
+msgstr "Music Duration"
+
+#: 
+msgctxt "FAIMusicDenoiseSliderWidget-version1"
+msgid "min:sec"
+msgstr "min:sec"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Previous Edit Point (%1)"
+msgstr "Previous Edit Point (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Next Edit Point (%1)"
+msgstr "Next Edit Point (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Delete (%1)"
+msgstr "Delete (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Redo (%1)"
+msgstr "Redo (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Undo (%1)"
+msgstr "Undo (%1)"
+
+#: 
+msgctxt "FAutoReframePlayerControlBar-version1"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Ratio:"
+msgstr "Ratio:"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "From far to near"
+msgstr "From far to near"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Original Ratio"
+msgstr "Original Ratio"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Swap the Start and End areas"
+msgstr "Swap the Start and End areas"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "From Right to Left"
+msgstr "From Right to Left"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "From Left to Right"
+msgstr "From Left to Right"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "From near to far"
+msgstr "From near to far"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+msgctxt "FFCropAndZoomToolBar-version1"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version1"
+msgid "Backward (%1)"
+msgstr "Backward (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version1"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version1"
+msgid "Play (%1)"
+msgstr "Play (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version1"
+msgid "Pause (%1)"
+msgstr "Pause (%1)"
+
+#: 
+msgctxt "FFPlayerToolBarBase-version1"
+msgid "Forward (%1)"
+msgstr "Forward (%1)"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Remaining :"
+msgstr "Remaining :"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Text to Speech"
+msgstr "Text to Speech"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "You are a subscriber and you can enjoy unlimited %1!"
+msgstr "You are a subscriber and you can enjoy unlimited %1!"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Sticker"
+msgstr "AI Sticker"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Image"
+msgstr "AI Image"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Voice Clone"
+msgstr "AI Voice Clone"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Speech to Text"
+msgstr "Speech to Text"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "AI Text Clipper credit"
+msgstr "AI Text Clipper credit"
+
+#: 
+msgctxt "FFAccountBalanceMYWidget-version1"
+msgid "Remaining times:"
+msgstr "Remaining times:"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Select a preset style to instantly apply it to your video."
+msgstr "Select a preset style to instantly apply it to your video."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Exported videos are uncompressed, ensuring high quality."
+msgstr "Exported videos are uncompressed, ensuring high quality."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Instant Cutter"
+msgstr "Instant Cutter"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Use AI to quickly write video scripts and titles."
+msgstr "Use AI to quickly write video scripts and titles."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Describe your desired video, and it'll be generated automatically."
+msgstr "Describe your desired video, and it'll be generated automatically."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Record screen images and sound."
+msgstr "Record screen images and sound."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Smartly adapt videos to various ratios and swiftly distribute them to multiple platforms."
+msgstr "Smartly adapt videos to various ratios and swiftly distribute them to multiple platforms."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "More Tools"
+msgstr "More Tools"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "After selecting a template, upload the materials to create the video."
+msgstr "After selecting a template, upload the materials to create the video."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Import video and audio for automatic rhythm-based marking."
+msgstr "Import video and audio for automatic rhythm-based marking."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Edit videos easily by transcribing them into text and modifying the script."
+msgstr "Edit videos easily by transcribing them into text and modifying the script."
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "AI Stylizer"
+msgstr "AI Stylizer"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FToolsWidget-version1"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Close Editor"
+msgstr "Close Editor"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Effect not supported for the current clip"
+msgstr "Effect not supported for the current clip"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "No clip selected."
+msgstr "No clip selected."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "To apply the transition effect, please select a clip with an audio track."
+msgstr "To apply the transition effect, please select a clip with an audio track."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Failed to apply effect. Please try again later."
+msgstr "Failed to apply effect. Please try again later."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Sorry, no clips support this transition effect."
+msgstr "Sorry, no clips support this transition effect."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Voice effect applied."
+msgstr "Voice effect applied."
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "There are unfinished AI tasks in progress. Opening other projects will cancel these tasks. Open another project?"
+msgstr "There are unfinished AI tasks in progress. Opening other projects will cancel these tasks. Open another project?"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Create New Project"
+msgstr "Create New Project"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FTimelinePresenter-version1"
+msgid "To apply the transition effect, please select a clip from the video track."
+msgstr "To apply the transition effect, please select a clip from the video track."
+

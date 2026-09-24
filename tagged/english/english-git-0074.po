@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Paper Bag Mask"
+msgstr "Paper Bag Mask"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lock Post Blur"
+msgstr "Lock Post Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L3 Position Z"
+msgstr "L3 Position Z"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Square Pixels"
+msgstr "Square Pixels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Low Velocity Correction"
+msgstr "Low Velocity Correction"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Blue Key with Glow"
+msgstr "Blue Key with Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wipe Progress (Opacity)"
+msgstr "Wipe Progress (Opacity)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Oblong Vertical"
+msgstr "Oblong Vertical"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fade-in Circular Move (secs)"
+msgstr "Fade-in Circular Move (secs)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Sharpen On"
+msgstr "BG Sharpen On"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "RGB"
+msgstr "RGB"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Red"
+msgstr "Red"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "CbCr"
+msgstr "CbCr"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Show"
+msgstr "Show"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "YRGB"
+msgstr "YRGB"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Green"
+msgstr "Green"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "YCbCr"
+msgstr "YCbCr"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Show Skin Tone Indicator"
+msgstr "Show Skin Tone Indicator"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Parade"
+msgstr "Parade"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Vectorscope"
+msgstr "Vectorscope"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Waveform"
+msgstr "Waveform"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Histogram"
+msgstr "Histogram"
+
+#: 
+msgctxt "FFOscillographGraphicWidget-version1"
+msgid "Channels"
+msgstr "Channels"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "s"
+msgstr "s"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "All_2"
+msgstr "All_2"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "min_2"
+msgstr "min_2"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "No limit"
+msgstr "No limit"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "ptftPortrait"
+msgstr "ptftPortrait"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "ptftLandscape"
+msgstr "ptftLandscape"
+
+#: 
+msgctxt "FFProjectTemplateFilterMenuHelper-version1"
+msgid "ptftSquare"
+msgstr "ptftSquare"
+
+#: 
+msgctxt "FFStandardProgressDialog-version1"
+msgid "0%"
+msgstr "0%"
+
+#: 
+msgctxt "FFStandardProgressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version1"
+msgid "1x"
+msgstr "1x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version1"
+msgid "5x"
+msgstr "5x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version1"
+msgid "10x"
+msgstr "10x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version1"
+msgid "0.1x"
+msgstr "0.1x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version1"
+msgid "0.5x"
+msgstr "0.5x"
+
+#: 
+msgctxt "FPropertySpeedRampingWidgetClass-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FImportMediaItem-version1"
+msgid "AI"
+msgstr "AI"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "D5"
+msgstr "D5"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "D9"
+msgstr "D9"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "CBR"
+msgstr "CBR"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "PAL"
+msgstr "PAL"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "VBR"
+msgstr "VBR"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "NTSC"
+msgstr "NTSC"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Convert DVD ISO image!"
+msgstr "Convert DVD ISO image!"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Folder Path:"
+msgstr "Folder Path:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "High Video Quality"
+msgstr "High Video Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Failed to create DVD directory."
+msgstr "Failed to create DVD directory."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Converting file %1"
+msgstr "Converting file %1"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Export failed."
+msgstr "Export failed."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Output Type:"
+msgstr "Output Type:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Step: create DVD directory"
+msgstr "Step: create DVD directory"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "TV Standard:"
+msgstr "TV Standard:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Burn to Disc..."
+msgstr "Burn to Disc..."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Mid Video Quality"
+msgstr "Mid Video Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Low Video Quality"
+msgstr "Low Video Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Label:"
+msgstr "Label:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "My DVD"
+msgstr "My DVD"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Disc Type:"
+msgstr "Disc Type:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Create DVD path %1"
+msgstr "Create DVD path %1"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Ratio:"
+msgstr "Ratio:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Please choose a folder before you convert."
+msgstr "Please choose a folder before you convert."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Capacity:"
+msgstr "Capacity:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Create image file"
+msgstr "Create image file"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Erase Disc..."
+msgstr "Erase Disc..."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Output Settings"
+msgstr "Output Settings"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Burn to DVD"
+msgstr "Burn to DVD"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Please check write permission, or choose another path to continue."
+msgstr "Please check write permission, or choose another path to continue."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Convert DVD iso image failed."
+msgstr "Convert DVD iso image failed."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Prepare file data"
+msgstr "Prepare file data"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "No Device."
+msgstr "No Device."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "DVD burn failed."
+msgstr "DVD burn failed."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Not enough disk space."
+msgstr "Not enough disk space."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Buffering..."
+msgstr "Buffering..."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Closing Disc..."
+msgstr "Closing Disc..."
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Bitrate Mode:"
+msgstr "Bitrate Mode:"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "Conversion complete!"
+msgstr "Conversion complete!"
+
+#: 
+msgctxt "FExportDVDPanel-version1"
+msgid "DVD description"
+msgstr "DVD description"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version1"
+msgid "GO"
+msgstr "GO"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version1"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+msgctxt "FProjectTempLateFrameDialog-version1"
+msgid "Your project has been saved as a template successfully. You can find it in the \"Mine-Custom\" category under \"Templates\"."
+msgstr "Your project has been saved as a template successfully. You can find it in the \"Mine-Custom\" category under \"Templates\"."
+
+#: 
+msgctxt "FPropertyAnimationPresetWidget-version1"
+msgid "In"
+msgstr "In"
+
+#: 
+msgctxt "FPropertyAnimationPresetWidget-version1"
+msgid "Out"
+msgstr "Out"
+
+#: 
+msgctxt "FPropertyAnimationPresetWidget-version1"
+msgid "Loop"
+msgstr "Loop"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "AI Image (Beta)"
+msgstr "AI Image (Beta)"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "Close AI Image"
+msgstr "Close AI Image"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shadow X"
+msgstr "Shadow X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shadow Y"
+msgstr "Shadow Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shadow A"
+msgstr "Shadow A"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VCG Plan Name"
+msgstr "VCG Plan Name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Disappear Verbatim"
+msgstr "Disappear Verbatim"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Archive Project"
+msgstr "Archive Project"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 1"
+msgstr "Cinematic Flares 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 2"
+msgstr "Cinematic Flares 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 3"
+msgstr "Cinematic Flares 3"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 4"
+msgstr "Cinematic Flares 4"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 5"
+msgstr "Cinematic Flares 5"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 6"
+msgstr "Cinematic Flares 6"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Flares 7"
+msgstr "Cinematic Flares 7"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upgrading"
+msgstr "Upgrading"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import with Auto Beat Sync"
+msgstr "Import with Auto Beat Sync"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export to timeline"
+msgstr "Export to timeline"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Please contact Customer Support or your local network administrator for assistance."
+msgstr "Please contact Customer Support or your local network administrator for assistance."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Not connected to network"
+msgstr "Not connected to network"
+
+#: 
+msgctxt "QObject-version1"
+msgid "transfer failed"
+msgstr "transfer failed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Get the App for Free"
+msgstr "Get the App for Free"
+
+#: 
+msgctxt "QObject-version1"
+msgid "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+msgstr "After deleting, you can check the deleted files in the cloud storage's recycle bin."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export without watermark"
+msgstr "Export without watermark"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Expand template"
+msgstr "Expand template"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Limited-Time Free Asset"
+msgstr "Limited-Time Free Asset"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Detach Audio"
+msgstr "Detach Audio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette Classic"
+msgstr "Vignette Classic"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VIP Plan Name"
+msgstr "VIP Plan Name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Digital Clock or Not"
+msgstr "Digital Clock or Not"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade Slide 1"
+msgstr "Fade Slide 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade Slide 2"
+msgstr "Fade Slide 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade Slide 3"
+msgstr "Fade Slide 3"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade Slide 4"
+msgstr "Fade Slide 4"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Crop And Zoom"
+msgstr "Crop And Zoom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Color Correction"
+msgstr "Color Correction"
+
+#: 
+msgctxt "QObject-version1"
+msgid "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's"
+msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Mosaic Full"
+msgstr "Mosaic Full"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Creative Assets"
+msgstr "Creative Assets"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Transition as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Transition as an example."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Copyrighted Music"
+msgstr "Copyrighted Music"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Skew right split"
+msgstr "Skew right split"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Purple Pops Out"
+msgstr "Purple Pops Out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Deselect All"
+msgstr "Deselect All"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Drag or Double-click to Apply"
+msgstr "Drag or Double-click to Apply"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 1"
+msgstr "Text style 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 2"
+msgstr "Text style 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 3"
+msgstr "Text style 3"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 4"
+msgstr "Text style 4"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 5"
+msgstr "Text style 5"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 6"
+msgstr "Text style 6"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 7"
+msgstr "Text style 7"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 8"
+msgstr "Text style 8"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text style 9"
+msgstr "Text style 9"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Align Horizontal"
+msgstr "Align Horizontal"
+
+#: 
+msgctxt "QObject-version1"
+msgid "German (Germany)"
+msgstr "German (Germany)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Reflection Heigth"
+msgstr "Reflection Heigth"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Product Page"
+msgstr "Product Page"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Filmora does not have access to your %1"
+msgstr "Filmora does not have access to your %1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The process will be cancelled and the AI Credits that have been spent will not be returned."
+msgstr "The process will be cancelled and the AI Credits that have been spent will not be returned."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uParticleSize_start"
+msgstr "uParticleSize_start"
+
+#: 
+msgctxt "QObject-version1"
+msgid "offsetHalfHuman"
+msgstr "offsetHalfHuman"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Are you sure you want to proceed without syncing? Not syncing data will cause the loss of your resources and custom preset data. "
+msgstr "Are you sure you want to proceed without syncing? Not syncing data will cause the loss of your resources and custom preset data. "
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinematic Filters"
+msgstr "Cinematic Filters"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Template/Title/Color/Adjustment Layer Custom Presets"
+msgstr "Template/Title/Color/Adjustment Layer Custom Presets"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Film Grain"
+msgstr "Film Grain"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Comic Book"
+msgstr "Comic Book"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clear proxy files"
+msgstr "Clear proxy files"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom in to the left"
+msgstr "Zoom in to the left"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Film Stock"
+msgstr "Film Stock"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Right Roll"
+msgstr "Right Roll"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Only VIP can use this function"
+msgstr "Only VIP can use this function"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (United States)"
+msgstr "Spanish (United States)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Next Edit"
+msgstr "Next Edit"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Next Step"
+msgstr "Next Step"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Colombia)"
+msgstr "Spanish (Colombia)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "ShortCut"
+msgstr "ShortCut"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom out 1"
+msgstr "Zoom out 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom out 2"
+msgstr "Zoom out 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom out 3"
+msgstr "Zoom out 3"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Renew early at %1 off"
+msgstr "Renew early at %1 off"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You are temporarily unable to continue downloading new studio media. The download limit for new studio media will be reset tomorrow. "
+msgstr "You are temporarily unable to continue downloading new studio media. The download limit for new studio media will be reset tomorrow. "
+
+#: 
+msgctxt "QObject-version1"
+msgid "Xpro II"
+msgstr "Xpro II"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Mobile downloads failed, please scan the code again for transmission."
+msgstr "Mobile downloads failed, please scan the code again for transmission."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Dialogue"
+msgstr "Dialogue"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Full Screen/Restore"
+msgstr "Full Screen/Restore"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Release Notes"
+msgstr "Release Notes"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No WaterMark"
+msgstr "No WaterMark"
+
+#: 
+msgctxt "QObject-version1"
+msgid "RichTick"
+msgstr "RichTick"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Right Rotation Appears"
+msgstr "Right Rotation Appears"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Online Tutorial"
+msgstr "Online Tutorial"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Thumbnail changed."
+msgstr "Thumbnail changed."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Translation failed. Please retry later."
+msgstr "Translation failed. Please retry later."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Strong Vibration"
+msgstr "Strong Vibration"
+
+#: 
+msgctxt "QObject-version1"
+msgid "%1-Day Free Trial"
+msgstr "%1-Day Free Trial"
+
+#: 
+msgctxt "QObject-version1"
+msgid "segment_length"
+msgstr "segment_length"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text Position X"
+msgstr "Text Position X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text Position Y"
+msgstr "Text Position Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Z_Offset_end"
+msgstr "Z_Offset_end"
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan Color Blue"
+msgstr "Cyan Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dark Theater"
+msgstr "Dark Theater"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "White to Black"
+msgstr "White to Black"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Opacity Random %"
+msgstr "Opacity Random %"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tumble Random"
+msgstr "Tumble Random"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan Color  Red"
+msgstr "Cyan Color  Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bottom Right X"
+msgstr "Bottom Right X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bottom Right Y"
+msgstr "Bottom Right Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Target Luminance"
+msgstr "Target Luminance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Radiant Lemon"
+msgstr "Radiant Lemon"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Elliptical Caustic On"
+msgstr "Elliptical Caustic On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC+Ambient Light"
+msgstr "BCC+Ambient Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color Gradient"
+msgstr "Color Gradient"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dropout Length"
+msgstr "Dropout Length"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Zoom Diamond Thin Border"
+msgstr "Zoom Diamond Thin Border"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Arthouse Dreams"
+msgstr "Arthouse Dreams"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fill Color"
+msgstr "Fill Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Magnitude"
+msgstr "Magnitude"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rotate Master"
+msgstr "Rotate Master"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Uncontrolled"
+msgstr "Uncontrolled"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "After Cartoon"
+msgstr "After Cartoon"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spinning Plate"
+msgstr "Spinning Plate"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Slip and Hold"
+msgstr "Slip and Hold"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fill Light"
+msgstr "Fill Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shadow Apply Mix"
+msgstr "Shadow Apply Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spinning Light"
+msgstr "Spinning Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Key Color B Green"
+msgstr "Key Color B Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "All Three"
+msgstr "All Three"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Size Random %"
+msgstr "Size Random %"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fall Right"
+msgstr "Fall Right"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Full Range"
+msgstr "Full Range"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chroma Key Pro"
+msgstr "Chroma Key Pro"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Real Smoke"
+msgstr "Real Smoke"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cool Steel"
+msgstr "Cool Steel"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Altered State"
+msgstr "Altered State"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Swoop Up"
+msgstr "Swoop Up"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape - Mocha Spline"
+msgstr "Shape - Mocha Spline"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "All Odd Cards"
+msgstr "All Odd Cards"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Algorithm"
+msgstr "Algorithm"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Line Drop Density"
+msgstr "Line Drop Density"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wandering White Flashes"
+msgstr "Wandering White Flashes"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Opacity End Life"
+msgstr "Opacity End Life"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attractor 1 Falloff Radius"
+msgstr "Attractor 1 Falloff Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attractor 2 Falloff Radius"
+msgstr "Attractor 2 Falloff Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "FG Blur Master"
+msgstr "FG Blur Master"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Blur Master"
+msgstr "BG Blur Master"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dayglo Highlights"
+msgstr "Dayglo Highlights"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Size End Life"
+msgstr "Size End Life"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC Glitter"
+msgstr "BCC Glitter"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Crispy Greens"
+msgstr "Crispy Greens"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wedge Softness"
+msgstr "Wedge Softness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Framed Picture"
+msgstr "Framed Picture"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cylinders 3D"
+msgstr "Cylinders 3D"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smooth Lower Right Corner"
+msgstr "Smooth Lower Right Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Background Blue"
+msgstr "Background Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Light Strobe On 1"
+msgstr "Light Strobe On 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Light Strobe On 2"
+msgstr "Light Strobe On 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Light Strobe On 3"
+msgstr "Light Strobe On 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lifespan Random %"
+msgstr "Lifespan Random %"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Font Smoothing - Strong"
+msgstr "Font Smoothing - Strong"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spotlight Target"
+msgstr "Spotlight Target"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Channels"
+msgstr "Channels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Phantasm"
+msgstr "Phantasm"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Roughness Scale"
+msgstr "Roughness Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Source Height"
+msgstr "Source Height"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Use Particle History"
+msgstr "Use Particle History"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gramify"
+msgstr "Gramify"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grape 1"
+msgstr "Grape 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grape 2"
+msgstr "Grape 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grape 3"
+msgstr "Grape 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Charcoal"
+msgstr "Charcoal"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gravity"
+msgstr "Gravity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grayson"
+msgstr "Grayson"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ambient Light"
+msgstr "Ambient Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Premultiplied"
+msgstr "Premultiplied"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green 1"
+msgstr "Green 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green 2"
+msgstr "Green 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green 3"
+msgstr "Green 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green 4"
+msgstr "Green 4"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green 5"
+msgstr "Green 5"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Turbulence Scaling"
+msgstr "Turbulence Scaling"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Auto Contrast"
+msgstr "Auto Contrast"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fork Control"
+msgstr "Fork Control"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Film Color 2"
+msgstr "Film Color 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Color Red"
+msgstr "Outside Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Starting at Particle Birth (Warning: Memory Intensive; use lower lifespan values)"
+msgstr "Starting at Particle Birth (Warning: Memory Intensive; use lower lifespan values)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Splash Height"
+msgstr "Splash Height"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dream Distortion"
+msgstr "Dream Distortion"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Detail Enhancer"
+msgstr "Detail Enhancer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Noise : Disperse : Shift : Twist"
+msgstr "Noise : Disperse : Shift : Twist"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Simple Circle"
+msgstr "Simple Circle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smooth Upper Right Corner"
+msgstr "Smooth Upper Right Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sys Center XY"
+msgstr "Sys Center XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Vertical Motion"
+msgstr "Vertical Motion"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intoxicated"
+msgstr "Intoxicated"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "All Even Columns"
+msgstr "All Even Columns"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smooth Details"
+msgstr "Smooth Details"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Trimmed Start and End"
+msgstr "Trimmed Start and End"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 1 Shape"
+msgstr "Modulation 1 Shape"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L2 Position XY"
+msgstr "L2 Position XY"
+

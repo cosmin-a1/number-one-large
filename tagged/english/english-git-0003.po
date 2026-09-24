@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Auto Highlight"
+msgstr "Auto Highlight"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Don't show this again."
+msgstr "Don't show this again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "File is still creating, do you want to abort?"
+msgstr "File is still creating, do you want to abort?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Recognizes speech in video and audio files and generates auto captions."
+msgstr "Recognizes speech in video and audio files and generates auto captions."
+
+#: 
+msgctxt "QObject-version1"
+msgid "There is no extra media where the clips connect, This transition will contain duplicate frames"
+msgstr "There is no extra media where the clips connect, This transition will contain duplicate frames"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Move to lower right"
+msgstr "Move to lower right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Move to upper right"
+msgstr "Move to upper right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Downloading Online Content"
+msgstr "Downloading Online Content"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Video Effect"
+msgstr "Video Effect"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Letter Space"
+msgstr "Letter Space"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Native Setting"
+msgstr "Native Setting"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Dutch (Netherlands)"
+msgstr "Dutch (Netherlands)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Characters Flash In"
+msgstr "Characters Flash In"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI model is being upgraded,please wait…"
+msgstr "AI model is being upgraded,please wait…"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Are you sure you want to delete thumbnail?"
+msgstr "Are you sure you want to delete thumbnail?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Welcome! Select a Tutorial to Start Editing with Filmora."
+msgstr "Welcome! Select a Tutorial to Start Editing with Filmora."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with AI Portrait as an example."
+msgstr "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with AI Portrait as an example."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Save as Compound Clip Custom"
+msgstr "Save as Compound Clip Custom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Making changes in Speed Ramping will override the changes made in Uniform Speed."
+msgstr "Making changes in Speed Ramping will override the changes made in Uniform Speed."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import Media Folder"
+msgstr "Import Media Folder"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Selected Collections"
+msgstr "Selected Collections"
+
+#: 
+msgctxt "QObject-version1"
+msgid "French (France)"
+msgstr "French (France)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Portrait Cutout-2.0"
+msgstr "AI Portrait Cutout-2.0"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Portrait Cutout-1.0"
+msgstr "AI Portrait Cutout-1.0"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Your DVD is not finished. Do you want to abort?"
+msgstr "Your DVD is not finished. Do you want to abort?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blockbuster"
+msgstr "Blockbuster"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Show Safe Zones"
+msgstr "Show Safe Zones"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Swedish (Sweden)"
+msgstr "Swedish (Sweden)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Character Fluctuations Shrink"
+msgstr "Character Fluctuations Shrink"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Do you want to rename it to \"%1\"?"
+msgstr "Do you want to rename it to \"%1\"?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Analysis error. Please try again."
+msgstr "Analysis error. Please try again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Tilt-shift Linear"
+msgstr "Tilt-shift Linear"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Plump Cheeks"
+msgstr "Plump Cheeks"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unable to insert subtitles prompt"
+msgstr "Unable to insert subtitles prompt"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No clip selected."
+msgstr "No clip selected."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Title as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Title as an example."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ukrainian (Ukraine)"
+msgstr "Ukrainian (Ukraine)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fetch Log..."
+msgstr "Fetch Log..."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Audio Effect-Reverb"
+msgstr "Audio Effect-Reverb"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade Out Shake"
+msgstr "Fade Out Shake"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Audio Stretch"
+msgstr "Audio Stretch"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upload to Vimeo"
+msgstr "Upload to Vimeo"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Convert to SRT"
+msgstr "Convert to SRT"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uOrientation"
+msgstr "uOrientation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Object Remover"
+msgstr "AI Object Remover"
+
+#: 
+msgctxt "QObject-version1"
+msgid "This action will remove all masks that have been used. Are you sure you want to continue?"
+msgstr "This action will remove all masks that have been used. Are you sure you want to continue?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "A boy builds a sand castle by the sea"
+msgstr "A boy builds a sand castle by the sea"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Phase Increment"
+msgstr "Phase Increment"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Adjusting the speed of a clip will override the current loop effect."
+msgstr "Adjusting the speed of a clip will override the current loop effect."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Install computer audio driver failed! Please try again."
+msgstr "Install computer audio driver failed! Please try again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Purple Haze"
+msgstr "Purple Haze"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Purple Lomo"
+msgstr "Purple Lomo"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Purple Love"
+msgstr "Purple Love"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+msgstr "Transmission complete!<br><br>Please confirm the effect on the mobile App."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ripple Size"
+msgstr "Ripple Size"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cold && Harsh"
+msgstr "Cold && Harsh"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Single line"
+msgstr "Single line"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Save Project"
+msgstr "Save Project"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The usage limit has been reached today."
+msgstr "The usage limit has been reached today."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Start Creating"
+msgstr "Start Creating"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Edit advanced properties, Keyframe, and Speed Ramping."
+msgstr "Edit advanced properties, Keyframe, and Speed Ramping."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Adjust Audio"
+msgstr "Adjust Audio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "To allow access,open System Preferences,click on Security & Privacy settings there."
+msgstr "To allow access,open System Preferences,click on Security & Privacy settings there."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Enable Clip"
+msgstr "Enable Clip"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Double line"
+msgstr "Double line"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export to Device"
+msgstr "Export to Device"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Decolor Position X"
+msgstr "Decolor Position X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Decolor Position Y"
+msgstr "Decolor Position Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the AI Music Compose as an example."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Stretch Duration:"
+msgstr "Stretch Duration:"
+
+#: 
+msgctxt "QObject-version1"
+msgid "MiaoYing WeiBo HomePage"
+msgstr "MiaoYing WeiBo HomePage"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Keep Group"
+msgstr "Keep Group"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Open VIP you can enjoy vip resources now!"
+msgstr "Open VIP you can enjoy vip resources now!"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flip Down1"
+msgstr "Flip Down1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flip Down2"
+msgstr "Flip Down2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Old Film"
+msgstr "Old Film"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Dotted Ring Color"
+msgstr "Dotted Ring Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Record consent audio"
+msgstr "Record consent audio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Decay factor"
+msgstr "Decay factor"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Audio device "
+msgstr "Audio device "
+
+#: 
+msgctxt "QObject-version1"
+msgid "Portuguese (Portuguese)"
+msgstr "Portuguese (Portuguese)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Popular Special Effects"
+msgstr "Popular Special Effects"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select a image file"
+msgstr "Select a image file"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Source Switcher"
+msgstr "Source Switcher"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flash in"
+msgstr "Flash in"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You can try it for free within %1 or purchase %2 for unlimited exports."
+msgstr "You can try it for free within %1 or purchase %2 for unlimited exports."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Not enough hours left"
+msgstr "Not enough hours left"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Rotate 90 CW"
+msgstr "Rotate 90 CW"
+
+#: 
+msgctxt "QObject-version1"
+msgid "TRADITIONAL CHINESE"
+msgstr "TRADITIONAL CHINESE"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Typewriter Upwards"
+msgstr "Typewriter Upwards"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Strength"
+msgstr "Blur Strength"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bounce to zoom out 1"
+msgstr "Bounce to zoom out 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Rotate Speed"
+msgstr "Rotate Speed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "English (India)"
+msgstr "English (India)"
+

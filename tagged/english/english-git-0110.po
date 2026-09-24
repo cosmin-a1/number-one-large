@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "other"
+msgstr "other"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "protocol errors"
+msgstr "protocol errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "content errors"
+msgstr "content errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "proxy errors"
+msgstr "proxy errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Request pack detail error"
+msgstr "Request pack detail error"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Server side errors"
+msgstr "Server side errors"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Download effect failed"
+msgstr "Download effect failed"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Disk space is not enough"
+msgstr "Disk space is not enough"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "s effects"
+msgstr "s effects"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Element"
+msgstr "Element"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "Unknown error"
+msgstr "Unknown error"
+
+#: 
+msgctxt "FDownloadResourceDelegate-version1"
+msgid "network layer errors"
+msgstr "network layer errors"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version1"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version1"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FFindSimilarMediaTypeFilterMenu-version1"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Transition"
+msgstr "Transition"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "VCG Media"
+msgstr "VCG Media"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+msgctxt "FMediaTabBar-version1"
+msgid "Stock Media"
+msgstr "Stock Media"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Topic"
+msgstr "Topic"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Choice"
+msgstr "Choice"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Picture"
+msgstr "Picture"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Search VCG"
+msgstr "Search VCG"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Search Library"
+msgstr "Search Library"
+
+#: 
+msgctxt "FVCGMediaModeBar-version1"
+msgid "Search keyword"
+msgstr "Search keyword"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "Black"
+msgstr "Black"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "White"
+msgstr "White"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+msgctxt "FPropertyColorBasicLightWidget-version1"
+msgid "Exposure"
+msgstr "Exposure"
+
+#: 
+msgctxt "FShortCutSearchLineEdit-version1"
+msgid "Clear"
+msgstr "Clear"
+
+#: 
+msgctxt "FShortCutSearchLineEdit-version1"
+msgid "Search keyboard shortcuts"
+msgstr "Search keyboard shortcuts"
+
+#: 
+msgctxt "FFProjectTemplateModeBarFilterMenu-version1"
+msgid "Clips"
+msgstr "Clips"
+
+#: 
+msgctxt "FFProjectTemplateModeBarFilterMenu-version1"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FFProjectTemplateModeBarFilterMenu-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Clips"
+msgstr "Clips"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Split screen"
+msgstr "Split screen"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Aspect ratio_2"
+msgstr "Aspect ratio_2"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Duration_2"
+msgstr "Duration_2"
+
+#: 
+msgctxt "FTemplateSplitFilterBar-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version1"
+msgid "Login failed, please click login again!"
+msgstr "Login failed, please click login again!"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version1"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskReLoginDialog-version1"
+msgid "You can back up your files to the cloud quickly after logging into the cloud drive."
+msgstr "You can back up your files to the cloud quickly after logging into the cloud drive."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Minimize"
+msgstr "Minimize"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "The recording panel is included here"
+msgstr "The recording panel is included here"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Please check write or read permission, or choose another path to continue."
+msgstr "Please check write or read permission, or choose another path to continue."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Webcam is being used by another application, please close other application and try again."
+msgstr "Webcam is being used by another application, please close other application and try again."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Click for quick action"
+msgstr "Click for quick action"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Re-recording will overwrite the already recorded content, are you sure?"
+msgstr "Re-recording will overwrite the already recorded content, are you sure?"
+
+#: 
+msgctxt "FFScreenRecorderDialog-version1"
+msgid "Wondershare Screen Recorder"
+msgstr "Wondershare Screen Recorder"
+
+#: 
+msgctxt "FGpuUpdateDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FManageUserLabelDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FManageUserLabelDialog-version1"
+msgid "All tags can be managed here"
+msgstr "All tags can be managed here"
+
+#: 
+msgctxt "FManageUserLabelDialog-version1"
+msgid "Manage tags"
+msgstr "Manage tags"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Minimize"
+msgstr "Minimize"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Check for Updates"
+msgstr "Check for Updates"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "User Guide"
+msgstr "User Guide"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Maximize"
+msgstr "Maximize"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FProductHomePage-version1"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version1"
+msgid "%1 footage(s) download failed. If skipped, you can replace it with other materials yourself."
+msgstr "%1 footage(s) download failed. If skipped, you can replace it with other materials yourself."
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version1"
+msgid "%1 footage(s) download failed"
+msgstr "%1 footage(s) download failed"
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version1"
+msgid "Failed to download all materials, you can use other materials to replace or retry on it."
+msgstr "Failed to download all materials, you can use other materials to replace or retry on it."
+
+#: 
+msgctxt "FVCGDownloadFailedMessageDialog-version1"
+msgid "Skip and replace"
+msgstr "Skip and replace"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version1"
+msgid "%1 footages failed to replace"
+msgstr "%1 footages failed to replace"
+
+#: 
+msgctxt "FVCGRetryReplaceMessageDialog-version1"
+msgid "%1 footages failed to replace. If skipped, you can replace them with other materials yourself."
+msgstr "%1 footages failed to replace. If skipped, you can replace them with other materials yourself."
+
+#: 
+msgctxt "LosslessInformationDialog-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "LosslessInformationDialog-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+

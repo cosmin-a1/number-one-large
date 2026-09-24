@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "Download failed, please try again"
+msgstr "Download failed, please try again"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "Image downloaded to Stock Media-AI Image-Generated"
+msgstr "Image downloaded to Stock Media-AI Image-Generated"
+
+#: 
+msgctxt "FAIDrawingDialog-version1"
+msgid "When you close AI image，your generated image records will be cleared but your downloaded image will not be affected."
+msgstr "When you close AI image，your generated image records will be cleared but your downloaded image will not be affected."
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Canceling will not refund points. Please confirm if you want to cancel."
+msgstr "Canceling will not refund points. Please confirm if you want to cancel."
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Tag Combination"
+msgstr "Tag Combination"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Create Now"
+msgstr "Create Now"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "The generation process is about to be interrupted"
+msgstr "The generation process is about to be interrupted"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FAIMusicBottomWidget-version1"
+msgid "RetryCompound"
+msgstr "RetryCompound"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "Video language to be transcribed:"
+msgstr "Video language to be transcribed:"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "Text-based editing"
+msgstr "Text-based editing"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "You can delete the clips you want to remove based on the sound level of the video."
+msgstr "You can delete the clips you want to remove based on the sound level of the video."
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "Sound-based editing"
+msgstr "Sound-based editing"
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "You can delete the clips you want to remove based on the text converted from the video."
+msgstr "You can delete the clips you want to remove based on the text converted from the video."
+
+#: 
+msgctxt "FAISmartEditorSelectPanel-version1"
+msgid "Please choose the editing method:"
+msgstr "Please choose the editing method:"
+
+#: 
+msgctxt "FAITextClipperDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAITextClipperDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAITextClipperDlg-version1"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FAITextClipperDlg-version1"
+msgid "You can delete the clips you want to remove based on the text converted from the video."
+msgstr "You can delete the clips you want to remove based on the text converted from the video."
+
+#: 
+msgctxt "FAITextClipperDlg-version1"
+msgid "Please choose a language that matches the content of the file for transcription:"
+msgstr "Please choose a language that matches the content of the file for transcription:"
+
+#: 
+msgctxt "FAbnormalDownloadPromptDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAbnormalDownloadPromptDlg-version1"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FAbnormalDownloadPromptDlg-version1"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FArchiveProjectPathPanel-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FArchiveProjectPathPanel-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FArchiveProjectPathPanel-version1"
+msgid "BROWSE"
+msgstr "BROWSE"
+
+#: 
+msgctxt "FArchiveProjectPathPanel-version1"
+msgid "The remaining disk space is:"
+msgstr "The remaining disk space is:"
+
+#: 
+msgctxt "FArchiveProjectPathPanel-version1"
+msgid "Select a folder to exact file from archived project"
+msgstr "Select a folder to exact file from archived project"
+
+#: 
+msgctxt "FAudioUnifyProgressDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FAudioUnifyProgressDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FAudioUnifyProgressDlg-version1"
+msgid "Please wait, audio normalization is progress..."
+msgstr "Please wait, audio normalization is progress..."
+
+#: 
+msgctxt "FAudioUnifyProgressDlg-version1"
+msgid "Audio Normalization needs to be done again after closing,please confirm whether to close."
+msgstr "Audio Normalization needs to be done again after closing,please confirm whether to close."
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "Beats"
+msgstr "Beats"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "Model"
+msgstr "Model"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "beats"
+msgstr "beats"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "No beat"
+msgstr "No beat"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "Mark highlight beats only"
+msgstr "Mark highlight beats only"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "Highlight offset"
+msgstr "Highlight offset"
+
+#: 
+msgctxt "FBeatInfoSetting-version1"
+msgid "Highlight every"
+msgstr "Highlight every"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version1"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version1"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version1"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+msgctxt "FCheckDeviceAuthFailedWebStateWidget-version1"
+msgid "Enterprise member: only one device can be bound and can be contacted"
+msgstr "Enterprise member: only one device can be bound and can be contacted"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "Date Created:"
+msgstr "Date Created:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "File Size:"
+msgstr "File Size:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "Date Updated:"
+msgstr "Date Updated:"
+
+#: 
+msgctxt "FCloudMediaPropertyDialog-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version1"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version1"
+msgid "preset"
+msgstr "preset"
+
+#: 
+msgctxt "FCurvedSpeedPresetNameDlg-version1"
+msgid "Save as custom"
+msgstr "Save as custom"
+
+#: 
+msgctxt "FDownloadProgressDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FDownloadProgressDlg-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FDownloadProgressDlg-version1"
+msgid "Downloading Online Content"
+msgstr "Downloading Online Content"
+
+#: 
+msgctxt "FDownloadProgressDlg-version1"
+msgid "Download_1"
+msgstr "Download_1"
+
+#: 
+msgctxt "FDownloadProgressDlg-version1"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Step: Converting..."
+msgstr "Step: Converting..."
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "PAUSE"
+msgstr "PAUSE"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "RESUME"
+msgstr "RESUME"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Total:"
+msgstr "Total:"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Convert"
+msgstr "Convert"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Remove Watermark"
+msgstr "Remove Watermark"
+
+#: 
+msgctxt "FExportDVDProgressDialog-version1"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Your upload to TikTok has failed, but the video has saved succssfuly in hard disk.  Please log in your TikTok account again and try to upload again."
+msgstr "Your upload to TikTok has failed, but the video has saved succssfuly in hard disk.  Please log in your TikTok account again and try to upload again."
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Please click the \"Sign in\" button to access your TikTok account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your TikTok account before you upload the video."
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Public"
+msgstr "Public"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Private"
+msgstr "Private"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Video Upload Requirements:"
+msgstr "Video Upload Requirements:"
+

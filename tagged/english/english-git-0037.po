@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC Glare"
+msgstr "BCC Glare"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Vector (color)"
+msgstr "Vector (color)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Vary Pattern Opacity"
+msgstr "Vary Pattern Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "No Pin"
+msgstr "No Pin"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape Center Point"
+msgstr "Shape Center Point"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "PC Layer"
+msgstr "PC Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Painted Photograph"
+msgstr "Painted Photograph"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Base Key On"
+msgstr "Base Key On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L323 Jade"
+msgstr "L323 Jade"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Make It Pop"
+msgstr "Make It Pop"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Normal"
+msgstr "Normal"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wedge Thickness"
+msgstr "Wedge Thickness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Scan Horizontal End"
+msgstr "Scan Horizontal End"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC Prism"
+msgstr "BCC Prism"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Rectangle"
+msgstr "Outside Rectangle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L213 White Flame Green"
+msgstr "L213 White Flame Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bright Shade Blue"
+msgstr "Bright Shade Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glitter Ray Color Blue"
+msgstr "Glitter Ray Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L763 Wheat"
+msgstr "L763 Wheat"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red Offset"
+msgstr "Red Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Block Saturation"
+msgstr "Block Saturation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glitter Ray Color Seed"
+msgstr "Glitter Ray Color Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "13 Sides"
+msgstr "13 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "3 Sides"
+msgstr "3 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glare Ring Blue Amount"
+msgstr "Glare Ring Blue Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intensity Randomness"
+msgstr "Intensity Randomness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC UpRez"
+msgstr "BCC UpRez"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Number"
+msgstr "Number"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Iris Scale"
+msgstr "Iris Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Offset"
+msgstr "Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "X Offset"
+msgstr "X Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Y Offset"
+msgstr "Y Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Iris Shape"
+msgstr "Iris Shape"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L103 Straw"
+msgstr "L103 Straw"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glitter Brightness"
+msgstr "Glitter Brightness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Count Down"
+msgstr "Count Down"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Front Face"
+msgstr "Front Face"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Circular Completion"
+msgstr "Circular Completion"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twist : Noise : Shift : Disperse"
+msgstr "Twist : Noise : Shift : Disperse"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Old TV"
+msgstr "Old TV"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tile Gap Color Blue"
+msgstr "Tile Gap Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spin Master"
+msgstr "Spin Master"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fallthru Percent"
+msgstr "Fallthru Percent"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tint Blue"
+msgstr "Tint Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rod Long"
+msgstr "Rod Long"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tint Mode"
+msgstr "Tint Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Best of Both Worlds"
+msgstr "Best of Both Worlds"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Blue Levels"
+msgstr "Blue Levels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 10 X"
+msgstr "Point 10 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 10 Y"
+msgstr "Point 10 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Render Over Effect"
+msgstr "Render Over Effect"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Median Width"
+msgstr "Median Width"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Opaque"
+msgstr "Opaque"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Source as Gradient: Left to Right"
+msgstr "Source as Gradient: Left to Right"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pan XY"
+msgstr "Pan XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fade Length"
+msgstr "Fade Length"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Orange"
+msgstr "Orange"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Origin"
+msgstr "Origin"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "RENDER"
+msgstr "RENDER"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Opacity Mid Life"
+msgstr "Opacity Mid Life"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dark Vignette"
+msgstr "Dark Vignette"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pepper"
+msgstr "Pepper"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Accelerated Sprites"
+msgstr "Accelerated Sprites"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Period"
+msgstr "Period"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Output"
+msgstr "Output"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grid Segments"
+msgstr "Grid Segments"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "RGB Parade"
+msgstr "RGB Parade"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Uniform Stretch"
+msgstr "Uniform Stretch"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pillar"
+msgstr "Pillar"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink 1"
+msgstr "Pink 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink 2"
+msgstr "Pink 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink 3"
+msgstr "Pink 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink 4"
+msgstr "Pink 4"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink 5"
+msgstr "Pink 5"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pixels"
+msgstr "Pixels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Blur Master"
+msgstr "Blur Master"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "3D Planes"
+msgstr "3D Planes"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cam Pos XY"
+msgstr "Cam Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Stumbling Drunk"
+msgstr "Stumbling Drunk"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Plum 1"
+msgstr "Plum 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Plum 2"
+msgstr "Plum 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Plum 3"
+msgstr "Plum 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "SW2 Pos XY"
+msgstr "SW2 Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "SW1 Pos XY"
+msgstr "SW1 Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Transform Center Offset"
+msgstr "Transform Center Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Upper-Right"
+msgstr "Upper-Right"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Size Mid Life"
+msgstr "Size Mid Life"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Points"
+msgstr "Points"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pos XY"
+msgstr "Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gunpowder"
+msgstr "Gunpowder"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Poster"
+msgstr "Poster"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L366 Cornflower\""
+msgstr "L366 Cornflower\""
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Auto-Fill Sharp"
+msgstr "Auto-Fill Sharp"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "No Preset"
+msgstr "No Preset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Prefer"
+msgstr "Prefer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid ".preset"
+msgstr ".preset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Deep Vignette"
+msgstr "Deep Vignette"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Diagonal Upper Right"
+msgstr "Diagonal Upper Right"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Neon Lights"
+msgstr "Neon Lights"
+

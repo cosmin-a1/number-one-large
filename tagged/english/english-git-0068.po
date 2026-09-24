@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 5"
+msgstr "Modulation 5"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 6"
+msgstr "Modulation 6"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 7"
+msgstr "Modulation 7"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Modulation 8"
+msgstr "Modulation 8"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smoggy Day"
+msgstr "Smoggy Day"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Absolute Time"
+msgstr "Absolute Time"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bright Box"
+msgstr "Bright Box"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bright Day"
+msgstr "Bright Day"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Strange Frame"
+msgstr "Strange Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Particle End Color Blue"
+msgstr "Particle End Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Floor and Attractors: Render"
+msgstr "Floor and Attractors: Render"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ghostly"
+msgstr "Ghostly"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lightness"
+msgstr "Lightness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lightning"
+msgstr "Lightning"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attractor 2 XY"
+msgstr "Attractor 2 XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attractor 1 XY"
+msgstr "Attractor 1 XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Nightmare"
+msgstr "Nightmare"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Nightlife"
+msgstr "Nightlife"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dual Booster"
+msgstr "Dual Booster"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ignore Pillarbox Bars"
+msgstr "Ignore Pillarbox Bars"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grow from Bottom"
+msgstr "Grow from Bottom"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Brightness"
+msgstr "Brightness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spawn Time"
+msgstr "Spawn Time"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Render Mode 1"
+msgstr "Render Mode 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Render Mode 2"
+msgstr "Render Mode 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Render Mode 3"
+msgstr "Render Mode 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twirl Style"
+msgstr "Twirl Style"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "SW2 Strength"
+msgstr "SW2 Strength"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "On Ones (30fps)"
+msgstr "On Ones (30fps)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "SW1 Strength"
+msgstr "SW1 Strength"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "FG Scale Y Pre"
+msgstr "FG Scale Y Pre"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twilight"
+msgstr "Twilight"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Soft Soother"
+msgstr "Soft Soother"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "FG Scale X Pre"
+msgstr "FG Scale X Pre"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Crossing Over"
+msgstr "Crossing Over"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Size FX Wipe"
+msgstr "Size FX Wipe"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Oval Rotated"
+msgstr "Oval Rotated"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Liquid Zoom Lens"
+msgstr "Liquid Zoom Lens"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Split Screen Left"
+msgstr "Split Screen Left"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Keep Center Oval"
+msgstr "Keep Center Oval"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shift FX Layer Mode"
+msgstr "Shift FX Layer Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Direction Spread"
+msgstr "Direction Spread"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twist In"
+msgstr "Twist In"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Charcoal Blue"
+msgstr "Charcoal Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ordered Rows"
+msgstr "Ordered Rows"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "NTSC (640x486)"
+msgstr "NTSC (640x486)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "NTSC (640x480)"
+msgstr "NTSC (640x480)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flicker Group Intensity"
+msgstr "Flicker Group Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mask Inside Pixels"
+msgstr "Mask Inside Pixels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Polygons On"
+msgstr "Polygons On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rotation Center"
+msgstr "Rotation Center"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Strange Contrast"
+msgstr "Strange Contrast"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Texture Geometrics"
+msgstr "Texture Geometrics"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC+Glow Edges"
+msgstr "BCC+Glow Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BCC+Glow Darks"
+msgstr "BCC+Glow Darks"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Two Tone"
+msgstr "Two Tone"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG White Color"
+msgstr "BG White Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Synchronized Back and Forth Loops"
+msgstr "Synchronized Back and Forth Loops"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Material Specular Color Green"
+msgstr "Material Specular Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Source Adjust"
+msgstr "Source Adjust"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+msgstr "Please enter the activation code to activate effect plug-in, then please quit and relaunch Filmora, you will be able to use your new effects after the relaunch."
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intensity Seed"
+msgstr "Intensity Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Legacy PixelChooser"
+msgstr "Legacy PixelChooser"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fine Details"
+msgstr "Fine Details"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L140 Summer Blue"
+msgstr "L140 Summer Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Focal Point"
+msgstr "Focal Point"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spread Amount"
+msgstr "Spread Amount"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twirl Angle"
+msgstr "Twirl Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Layer Effect Offset"
+msgstr "Layer Effect Offset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Legal Level"
+msgstr "Legal Level"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gradient Start"
+msgstr "Gradient Start"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mottled Haze"
+msgstr "Mottled Haze"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Detail Greens"
+msgstr "Detail Greens"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Clean Vertical"
+msgstr "Clean Vertical"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sharp Distance"
+msgstr "Sharp Distance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flickering Black Light"
+msgstr "Flickering Black Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Diamond with Soft Border"
+msgstr "Diamond with Soft Border"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "No Image beyond End"
+msgstr "No Image beyond End"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glamour"
+msgstr "Glamour"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wiggliness"
+msgstr "Wiggliness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color B Green"
+msgstr "Color B Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color 2 Green"
+msgstr "Color 2 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Alpha From"
+msgstr "Alpha From"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sharpen Threshold"
+msgstr "Sharpen Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Alpha Only"
+msgstr "Alpha Only"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Glow On"
+msgstr "BG Glow On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Speed Variance"
+msgstr "Speed Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Antialiased Lines"
+msgstr "Antialiased Lines"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glow On"
+msgstr "Glow On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Use AE Host Mask"
+msgstr "Use AE Host Mask"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spin Random %"
+msgstr "Spin Random %"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Graph Top Left Corner X"
+msgstr "Graph Top Left Corner X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Graph Top Left Corner Y"
+msgstr "Graph Top Left Corner Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "On Ones (24fps)"
+msgstr "On Ones (24fps)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "2 to 1 Brights"
+msgstr "2 to 1 Brights"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bottom Left X"
+msgstr "Bottom Left X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bottom Left Y"
+msgstr "Bottom Left Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Define Clouds"
+msgstr "Define Clouds"
+

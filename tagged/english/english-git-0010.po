@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Process Bar Color"
+msgstr "Process Bar Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Reflect"
+msgstr "Reflect"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Nicaragua)"
+msgstr "Spanish (Nicaragua)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The size of the new storage location is being calculated. Please wait..."
+msgstr "The size of the new storage location is being calculated. Please wait..."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Replace"
+msgstr "Replace"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Log into Wondershare ID"
+msgstr "Log into Wondershare ID"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Single Character Gathers"
+msgstr "Single Character Gathers"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Restart Now"
+msgstr "Restart Now"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Sorry, the Avatar Presentation plugin is currently in beta and does not support this language at this time."
+msgstr "Sorry, the Avatar Presentation plugin is currently in beta and does not support this language at this time."
+
+#: 
+msgctxt "QObject-version1"
+msgid "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+msgstr "2. You shall bear all liabilities arising from and related to your Input and Output，including for ensuring that it does not violate any applicable law."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+msgctxt "QObject-version1"
+msgid "isWindow"
+msgstr "isWindow"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Up Dir Insert"
+msgstr "Up Dir Insert"
+
+#: 
+msgctxt "QObject-version1"
+msgid "3DL File"
+msgstr "3DL File"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Educational"
+msgstr "Educational"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Media Management"
+msgstr "Media Management"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Support Center"
+msgstr "Support Center"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Click to login in"
+msgstr "Click to login in"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Previous Key Frame"
+msgstr "Previous Key Frame"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Smart Edit Tool"
+msgstr "Smart Edit Tool"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Triangle"
+msgstr "Triangle"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Brighten"
+msgstr "Brighten"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The process will be cancelled."
+msgstr "The process will be cancelled."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Please enter a valid name"
+msgstr "Please enter a valid name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Always Ask"
+msgstr "Always Ask"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Arrow Color"
+msgstr "Arrow Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "RGB Separate"
+msgstr "RGB Separate"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Intel HD Graphics 5000 or later;"
+msgstr "Intel HD Graphics 5000 or later;"
+
+#: 
+msgctxt "QObject-version1"
+msgid "This action will clear the speed parameters and freeze frames that have been set."
+msgstr "This action will clear the speed parameters and freeze frames that have been set."
+
+#: 
+msgctxt "QObject-version1"
+msgid "the file is not VideoAudio or Audio"
+msgstr "the file is not VideoAudio or Audio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Record Voiceover"
+msgstr "Record Voiceover"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hebrew (Israel)"
+msgstr "Hebrew (Israel)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Auto Synchronization"
+msgstr "Auto Synchronization"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import Mask"
+msgstr "Import Mask"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You are temporarily unable to continue downloading new songs. The download limit for songs will be reset tomorrow. For now, you can continue to listen or collect your favorite music."
+msgstr "You are temporarily unable to continue downloading new songs. The download limit for songs will be reset tomorrow. For now, you can continue to listen or collect your favorite music."
+
+#: 
+msgctxt "QObject-version1"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Chinese (Mandarin)"
+msgstr "Chinese (Mandarin)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Start My Free Trial"
+msgstr "Start My Free Trial"
+
+#: 
+msgctxt "QObject-version1"
+msgid "BG Color"
+msgstr "BG Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Previous Second"
+msgstr "Previous Second"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Urdu (India)"
+msgstr "Urdu (India)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ring Color"
+msgstr "Ring Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Special Effects Text"
+msgstr "Special Effects Text"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "QObject-version1"
+msgid "B&&W Noise"
+msgstr "B&&W Noise"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upload to YouTube"
+msgstr "Upload to YouTube"
+
+#: 
+msgctxt "QObject-version1"
+msgid "1:1 (Instagram)"
+msgstr "1:1 (Instagram)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VCG Media"
+msgstr "VCG Media"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Complete Your Wondershare ID Now!"
+msgstr "Complete Your Wondershare ID Now!"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Show Track"
+msgstr "Show Track"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Microphone"
+msgstr "Microphone"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Music Generator"
+msgstr "AI Music Generator"
+
+#: 
+msgctxt "QObject-version1"
+msgid "About..."
+msgstr "About..."
+
+#: 
+msgctxt "QObject-version1"
+msgid "No Translation"
+msgstr "No Translation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quickly create popular intros"
+msgstr "Quickly create popular intros"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Failed to record. Ensure your recording matches the script, and record again."
+msgstr "Failed to record. Ensure your recording matches the script, and record again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Uruguay)"
+msgstr "Spanish (Uruguay)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Intensity"
+msgstr "Blur Intensity"
+
+#: 
+msgctxt "QObject-version1"
+msgid "To the Right 1"
+msgstr "To the Right 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "To the Right 2"
+msgstr "To the Right 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clockwise rotate to zoom in 1"
+msgstr "Clockwise rotate to zoom in 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clockwise rotate to zoom in 2"
+msgstr "Clockwise rotate to zoom in 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Narration"
+msgstr "Narration"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Convert to Titles"
+msgstr "Convert to Titles"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fly in and Fly out"
+msgstr "Fly in and Fly out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Scale X"
+msgstr "Scale X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Add Animation"
+msgstr "Add Animation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upload failed. Network connection problems."
+msgstr "Upload failed. Network connection problems."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Left Dir Insert"
+msgstr "Left Dir Insert"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clip is too short to add animation."
+msgstr "Clip is too short to add animation."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Network failed, please retry"
+msgstr "Network failed, please retry"
+
+#: 
+msgctxt "QObject-version1"
+msgid "ADVANCED"
+msgstr "ADVANCED"
+
+#: 
+msgctxt "QObject-version1"
+msgid "network error"
+msgstr "network error"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vortex In"
+msgstr "Vortex In"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Try Free"
+msgstr "Try Free"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quick Split Mode"
+msgstr "Quick Split Mode"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shrink and Pop Away"
+msgstr "Shrink and Pop Away"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Stretch in and zoom in 1"
+msgstr "Stretch in and zoom in 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Stretch in and zoom in 2"
+msgstr "Stretch in and zoom in 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upper-left Flip Appears"
+msgstr "Upper-left Flip Appears"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Segment"
+msgstr "Segment"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+msgctxt "QObject-version1"
+msgid "It is detected that importing large files may cause lag."
+msgstr "It is detected that importing large files may cause lag."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Turkish (Turkey)"
+msgstr "Turkish (Turkey)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Only 1 hour file can be transcribed in a single task."
+msgstr "Only 1 hour file can be transcribed in a single task."
+
+#: 
+msgctxt "QObject-version1"
+msgid "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+msgstr "An automatic backup of a previous project has been detected. Would you like to use this backup file?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Only VIP can use this resource"
+msgstr "Only VIP can use this resource"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quick Text"
+msgstr "Quick Text"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Block Size"
+msgstr "Block Size"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Previous Marker"
+msgstr "Previous Marker"
+
+#: 
+msgctxt "QObject-version1"
+msgid "glow_intensity"
+msgstr "glow_intensity"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shine B"
+msgstr "Shine B"
+

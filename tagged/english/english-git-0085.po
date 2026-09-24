@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Add Audio Track"
+msgstr "Add Audio Track"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "TrackHeight_Normal"
+msgstr "TrackHeight_Normal"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Delete Empty Tracks"
+msgstr "Delete Empty Tracks"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Lock All Tracks"
+msgstr "Lock All Tracks"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Delete Selected Track"
+msgstr "Delete Selected Track"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Open Track Manager"
+msgstr "Open Track Manager"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "DVD"
+msgstr "DVD"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "Local"
+msgstr "Local"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "YouTube"
+msgstr "YouTube"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "Device"
+msgstr "Device"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "TikTok"
+msgstr "TikTok"
+
+#: 
+msgctxt "FExportModuleBar-version1"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Upload media files to the cloud for backup and sharing after logging in."
+msgstr "Upload media files to the cloud for backup and sharing after logging in."
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Get free cloud capacity for a limited time!"
+msgstr "Get free cloud capacity for a limited time!"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Get space"
+msgstr "Get space"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FCloudMediaStatePages-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Project Files"
+msgstr "Project Files"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "No files have been backed up yet, go to %1 to back them up"
+msgstr "No files have been backed up yet, go to %1 to back them up"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Log in your account to activate authorization and share your creation anytime, anywhere!"
+msgstr "Log in your account to activate authorization and share your creation anytime, anywhere!"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Authorize to access cloud storage and share your creation anytime, anywhere!"
+msgstr "Authorize to access cloud storage and share your creation anytime, anywhere!"
+
+#: 
+msgctxt "FCloudProjectStatePage-version1"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "The file uploaded is not supported"
+msgstr "The file uploaded is not supported"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Buy Wondershare Filmora membership to get cloud space benefits"
+msgstr "Buy Wondershare Filmora membership to get cloud space benefits"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Release to upload files to the cloud"
+msgstr "Release to upload files to the cloud"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Cloud space is not available."
+msgstr "Cloud space is not available."
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Drag and drop file upload"
+msgstr "Drag and drop file upload"
+
+#: 
+msgctxt "FCloudSpaceStatusCommonWidget-version1"
+msgid "Cloud space login unsuccessful. Please try again."
+msgstr "Cloud space login unsuccessful. Please try again."
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Lack of Storage"
+msgstr "Lack of Storage"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Logging in to cloud space. Please wait."
+msgstr "Logging in to cloud space. Please wait."
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Are you sure you want to quit?"
+msgstr "Are you sure you want to quit?"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Syncing in process, please wait..."
+msgstr "Syncing in process, please wait..."
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "You have task in progress"
+msgstr "You have task in progress"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Buy Storage"
+msgstr "Buy Storage"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDisk-version1"
+msgid "Insufficient cloud storage. Please buy more."
+msgstr "Insufficient cloud storage. Please buy more."
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Log in to your account to activate authorization"
+msgstr "Log in to your account to activate authorization"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Open the cloud storage"
+msgstr "Open the cloud storage"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Cloud Drive is not available"
+msgstr "Cloud Drive is not available"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Manage"
+msgstr "Manage"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Cloud Space"
+msgstr "Cloud Space"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+msgstr "Your computer seems to be offline,causing a connection error.Please check your connection and try again."
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "No file uploaded yet. Upload now!"
+msgstr "No file uploaded yet. Upload now!"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Sorry about the information pulling failure, please click to refresh!"
+msgstr "Sorry about the information pulling failure, please click to refresh!"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Open the cloud storage to get space now"
+msgstr "Open the cloud storage to get space now"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Expired date:"
+msgstr "Expired date:"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Storage:"
+msgstr "Storage:"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Expired"
+msgstr "Expired"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "the cloud function is not available in your current region."
+msgstr "the cloud function is not available in your current region."
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDiskView-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+msgstr "Cloud backup files contain illegal content cannot be downloaded, if you have any questions, please contact customer service."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Download failed: File does not exist"
+msgstr "Download failed: File does not exist"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Click to view"
+msgstr "Click to view"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+msgstr "The cloud space is insufficient. The remaining space is %1 MB (%2 MB has been used, the total capacity is %3 MB)."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Network error. Please check network."
+msgstr "Network error. Please check network."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Sync failed"
+msgstr "Sync failed"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Download failed. Please check your network."
+msgstr "Download failed. Please check your network."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "%1 item(s) has been added to the Transfer Center."
+msgstr "%1 item(s) has been added to the Transfer Center."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Insufficient space. Please expand cloud storage."
+msgstr "Insufficient space. Please expand cloud storage."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Local directory \"%1\" is not write, please modify the local permission before downloading."
+msgstr "Local directory \"%1\" is not write, please modify the local permission before downloading."
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+msgstr "Unlock cloud storage by upgrading your free license of Wondershare Filmora!"
+
+#: 
+msgctxt "FFCloudDiskViewPresenter-version1"
+msgid "Insufficient Storage Available"
+msgstr "Insufficient Storage Available"
+
+#: 
+msgctxt "FFFAQWidget-version1"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "When Done:"
+msgstr "When Done:"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Pause"
+msgstr "Pause"
+

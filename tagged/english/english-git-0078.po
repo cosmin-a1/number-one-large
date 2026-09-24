@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "The file:\"%1\" is incomplete."
+msgstr "The file:\"%1\" is incomplete."
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Import from:"
+msgstr "Import from:"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Files selected:  %1 file(s), %2"
+msgstr "Files selected:  %1 file(s), %2"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Please check write or read permission, or choose another path to continue."
+msgstr "Please check write or read permission, or choose another path to continue."
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Click to select a device"
+msgstr "Click to select a device"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Save File to:"
+msgstr "Save File to:"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Device lost"
+msgstr "Device lost"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "No Media files found on this device."
+msgstr "No Media files found on this device."
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Check All"
+msgstr "Check All"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Please select files to import."
+msgstr "Please select files to import."
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Scanning Device"
+msgstr "Scanning Device"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "Importing Media files"
+msgstr "Importing Media files"
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "There is not enough space in the specified output directory, please choose another one. \n"
+"Disc Space needed : %1 MB, remaining : %2 MB."
+msgstr "There is not enough space in the specified output directory, please choose another one. \n"
+"Disc Space needed : %1 MB, remaining : %2 MB."
+
+#: 
+msgctxt "FImportDeviceView-version1"
+msgid "File dose not exist or file is incomplete, unable to preview."
+msgstr "File dose not exist or file is incomplete, unable to preview."
+
+#: 
+msgctxt "FImportVobDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FImportVobDialog-version1"
+msgid "Name:"
+msgstr "Name:"
+
+#: 
+msgctxt "FImportVobDialog-version1"
+msgid "Convert to mpg"
+msgstr "Convert to mpg"
+
+#: 
+msgctxt "FImportVobDialog-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FImportVobDialog-version1"
+msgid "Save to:"
+msgstr "Save to:"
+
+#: 
+msgctxt "FImportVobDialog-version1"
+msgid "file(s) needs to be converted to .mpg before editing, please select a folder to store the converted file:"
+msgstr "file(s) needs to be converted to .mpg before editing, please select a folder to store the converted file:"
+
+#: 
+msgctxt "FLoginFailedWebStateWidget-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FLoginFailedWebStateWidget-version1"
+msgid "Login Failed!"
+msgstr "Login Failed!"
+
+#: 
+msgctxt "FMarkerEditDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMarkerEditDialog-version1"
+msgid "DELETE"
+msgstr "DELETE"
+
+#: 
+msgctxt "FMarkerEditDialog-version1"
+msgid "Marker Editor"
+msgstr "Marker Editor"
+
+#: 
+msgctxt "FMaskRenameDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMaskRenameDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMaskRenameDlg-version1"
+msgid "File name invalid."
+msgstr "File name invalid."
+
+#: 
+msgctxt "FMaskRenameDlg-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "If you need to change it, you can right-click the downloaded material and choose to download again."
+msgstr "If you need to change it, you can right-click the downloaded material and choose to download again."
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "Locate in the resource panel"
+msgstr "Locate in the resource panel"
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "In the process of locating..."
+msgstr "In the process of locating..."
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "Nothing Matched"
+msgstr "Nothing Matched"
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "Don't ask again"
+msgstr "Don't ask again"
+
+#: 
+msgctxt "FMediaLibraryView-version1"
+msgid "We will download the maximum resolution material for you by default."
+msgstr "We will download the maximum resolution material for you by default."
+
+#: 
+msgctxt "FMediaPretreatmentDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMediaPretreatmentDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMediaPropertyDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMediaPropertyDialog-version1"
+msgid "Properties"
+msgstr "Properties"
+
+#: 
+msgctxt "FMediaPropertyDialog-version1"
+msgid "Adjust Frame Rate"
+msgstr "Adjust Frame Rate"
+
+#: 
+msgctxt "FMessageDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMessageDialog-version1"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "FMessageDialog-version1"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "FMessageDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FMessageDialog-version1"
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+msgctxt "FMissingResourceListDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMissingResourceListDialog-version1"
+msgid "The following particles are not available at the resource level and need to be filled in:"
+msgstr "The following particles are not available at the resource level and need to be filled in:"
+
+#: 
+msgctxt "FMusicTrimDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FMusicTrimDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Port number:"
+msgstr "Port number:"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "No Proxy"
+msgstr "No Proxy"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "User name:"
+msgstr "User name:"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "User proxy settings:"
+msgstr "User proxy settings:"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Proxy Settings"
+msgstr "Proxy Settings"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Use Windows default prxoy settings"
+msgstr "Use Windows default prxoy settings"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "SETTING"
+msgstr "SETTING"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Server:"
+msgstr "Server:"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Manual configrations"
+msgstr "Manual configrations"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Password:"
+msgstr "Password:"
+
+#: 
+msgctxt "FNetworkProxySetting-version1"
+msgid "Proxy Type:"
+msgstr "Proxy Type:"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "A tag with the same name already exists"
+msgstr "A tag with the same name already exists"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "Edit tag"
+msgstr "Edit tag"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "Enter a tag name"
+msgstr "Enter a tag name"
+
+#: 
+msgctxt "FNeworModifyUserLabelDialog-version1"
+msgid "Special characters are not allowed:"
+msgstr "Special characters are not allowed:"
+
+#: 
+msgctxt "FPathWritableCheckDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPathWritableCheckDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPathWritableCheckDlg-version1"
+msgid "The program does not have write permission to the following directories.\n"
+"Please select another directory to save:"
+msgstr "The program does not have write permission to the following directories.\n"
+"Please select another directory to save:"
+
+#: 
+msgctxt "FProjectSettingDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FProjectSettingDialog-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FProjectSettingDialog-version1"
+msgid "Save as default"
+msgstr "Save as default"
+
+#: 
+msgctxt "FProjectSettingDialog-version1"
+msgid "Project Settings"
+msgstr "Project Settings"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version1"
+msgid "Hold the \"Alt\" key, drag your clip from the media library, and drop it on top of template preset clip in the timeline to replace it."
+msgstr "Hold the \"Alt\" key, drag your clip from the media library, and drop it on top of template preset clip in the timeline to replace it."
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version1"
+msgid "Drag the template to the timeline"
+msgstr "Drag the template to the timeline"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version1"
+msgid "The Preset Templates can help you make video creation even quicker. You only need to replace the preset media clips with your own media files."
+msgstr "The Preset Templates can help you make video creation even quicker. You only need to replace the preset media clips with your own media files."
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FProjectTempLateGuidanceDialog-version1"
+msgid "Do not ask again"
+msgstr "Do not ask again"
+
+#: 
+msgctxt "FPropertyRenameDlg-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPropertyRenameDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyRenameDlg-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version1"
+msgid "Auto-match"
+msgstr "Auto-match"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version1"
+msgid "Transcriptions are automatically matched to the timeline"
+msgstr "Transcriptions are automatically matched to the timeline"
+
+#: 
+msgctxt "FPropertySpeechServiceBottomView-version1"
+msgid "Generate"
+msgstr "Generate"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "Please enter valid content"
+msgstr "Please enter valid content"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "If auto split is off, only %1 characters can be processed at once."
+msgstr "If auto split is off, only %1 characters can be processed at once."
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "Quit AI Text Generation"
+msgstr "Quit AI Text Generation"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "AI is generating video copywriting. Are you sure you want to close?"
+msgstr "AI is generating video copywriting. Are you sure you want to close?"
+
+#: 
+msgctxt "FPropertyTTSAdvancedDialog-version1"
+msgid "Generate"
+msgstr "Generate"
+

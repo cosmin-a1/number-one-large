@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lumpy"
+msgstr "Lumpy"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Metal"
+msgstr "Metal"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Definition"
+msgstr "Definition"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mixed"
+msgstr "Mixed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cinnamon"
+msgstr "Cinnamon"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inner Color Green"
+msgstr "Inner Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inner X"
+msgstr "Inner X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mural"
+msgstr "Mural"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Night"
+msgstr "Night"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Noise"
+msgstr "Noise"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Paint Mix"
+msgstr "Paint Mix"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Olive"
+msgstr "Olive"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Texture Frequency"
+msgstr "Texture Frequency"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tint Red"
+msgstr "Tint Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 5 X"
+msgstr "Point 5 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 5 Y"
+msgstr "Point 5 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 4 X"
+msgstr "Point 4 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 4 Y"
+msgstr "Point 4 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 3 X"
+msgstr "Point 3 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 3 Y"
+msgstr "Point 3 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 2 X"
+msgstr "Point 2 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 2 Y"
+msgstr "Point 2 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 1 X"
+msgstr "Point 1 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 1 Y"
+msgstr "Point 1 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 9 X"
+msgstr "Point 9 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 9 Y"
+msgstr "Point 9 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 8 X"
+msgstr "Point 8 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 8 Y"
+msgstr "Point 8 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 7 X"
+msgstr "Point 7 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 7 Y"
+msgstr "Point 7 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 6 X"
+msgstr "Point 6 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point 6 Y"
+msgstr "Point 6 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Paint"
+msgstr "Paint"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pan X"
+msgstr "Pan X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pan Y"
+msgstr "Pan Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Paper"
+msgstr "Paper"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Orbit"
+msgstr "Orbit"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "RGB 1"
+msgstr "RGB 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "RGB 2"
+msgstr "RGB 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "RGB 3"
+msgstr "RGB 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Phase"
+msgstr "Phase"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink!"
+msgstr "Pink!"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pivot"
+msgstr "Pivot"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shake Interval Seed"
+msgstr "Shake Interval Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Point"
+msgstr "Point"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Polar"
+msgstr "Polar"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pos Z"
+msgstr "Pos Z"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Scan Lines"
+msgstr "Scan Lines"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Video Scopes"
+msgstr "Video Scopes"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inv Red"
+msgstr "Inv Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Venetian Blinds"
+msgstr "Venetian Blinds"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Range"
+msgstr "Range"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red 1"
+msgstr "Red 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red 2"
+msgstr "Red 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red 3"
+msgstr "Red 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red 4"
+msgstr "Red 4"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red 5"
+msgstr "Red 5"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Particle Density"
+msgstr "Particle Density"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Right"
+msgstr "Right"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Boost Expo 1"
+msgstr "Boost Expo 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Boost Expo 2"
+msgstr "Boost Expo 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Soften straight lines"
+msgstr "Soften straight lines"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rough"
+msgstr "Rough"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Round"
+msgstr "Round"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Scale"
+msgstr "Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Scifi"
+msgstr "Scifi"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sepia"
+msgstr "Sepia"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Setup"
+msgstr "Setup"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shake"
+msgstr "Shake"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sharp"
+msgstr "Sharp"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shear"
+msgstr "Shear"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shift"
+msgstr "Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shine"
+msgstr "Shine"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Slide"
+msgstr "Slide"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smear"
+msgstr "Smear"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smoke"
+msgstr "Smoke"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Breaking Frequency"
+msgstr "Breaking Frequency"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Solid"
+msgstr "Solid"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Split"
+msgstr "Split"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spray"
+msgstr "Spray"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Reference Level"
+msgstr "Green Reference Level"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Taper"
+msgstr "Taper"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Stark"
+msgstr "Stark"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Stars"
+msgstr "Stars"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Stick"
+msgstr "Stick"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Strip"
+msgstr "Strip"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Style"
+msgstr "Style"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intense"
+msgstr "Intense"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Super"
+msgstr "Super"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tight"
+msgstr "Tight"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Source Threshold"
+msgstr "Source Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Triad"
+msgstr "Triad"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twirl"
+msgstr "Twirl"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twist"
+msgstr "Twist"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ugly!"
+msgstr "Ugly!"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Under"
+msgstr "Under"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Z Map"
+msgstr "Z Map"
+

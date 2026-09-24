@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Filmora Facebook"
+msgstr "Filmora Facebook"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Renew 1 quarter at %1 off"
+msgstr "Renew 1 quarter at %1 off"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Change Project Aspect Ratio"
+msgstr "Change Project Aspect Ratio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hindi (India)"
+msgstr "Hindi (India)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Network error. Please try again later."
+msgstr "Network error. Please try again later."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Color Drift"
+msgstr "Color Drift"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Translate"
+msgstr "AI Translate"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upper Right"
+msgstr "Upper Right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Lower Right"
+msgstr "Lower Right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Get Availabel Time Error"
+msgstr "Get Availabel Time Error"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Open VIP you can enjoy vip feature now!"
+msgstr "Open VIP you can enjoy vip feature now!"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upload failed. Please try again."
+msgstr "Upload failed. Please try again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+msgstr "Recording duration cannot exceed 1 minute. The recording will soon end automatically."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Performance Tips"
+msgstr "Performance Tips"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Random Flashing Out"
+msgstr "Random Flashing Out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Online Help"
+msgstr "Online Help"
+
+#: 
+msgctxt "QObject-version1"
+msgid "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+msgstr "If you encounter problems during the beta version trial, you can download and reinstall the old version."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Expand Now."
+msgstr "Expand Now."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Indonesian (Indonesia)"
+msgstr "Indonesian (Indonesia)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Process Ring BG Color"
+msgstr "Process Ring BG Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Downloading AI Drawing image:"
+msgstr "Downloading AI Drawing image:"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No enough AI Credits."
+msgstr "No enough AI Credits."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Random Flashing In"
+msgstr "Random Flashing In"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Welcome to try Filmora 13 Beta"
+msgstr "Welcome to try Filmora 13 Beta"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Proxy files currently being used will not be deleted."
+msgstr "Proxy files currently being used will not be deleted."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Don't remind me again"
+msgstr "Don't remind me again"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Black && White 1"
+msgstr "Black && White 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Black && White 2"
+msgstr "Black && White 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Black && White 3"
+msgstr "Black && White 3"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Black && White 4"
+msgstr "Black && White 4"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Black && White 5"
+msgstr "Black && White 5"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Remove Nasolabial Folds"
+msgstr "Remove Nasolabial Folds"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bar Color"
+msgstr "Bar Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Amount"
+msgstr "Blur Amount"
+
+#: 
+msgctxt "QObject-version1"
+msgid "User Guide"
+msgstr "User Guide"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Edges"
+msgstr "Blur Edges"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Display audio waveform"
+msgstr "Display audio waveform"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Deleting the file will affect the used project. You can retrieve it by downloading the record"
+msgstr "Deleting the file will affect the used project. You can retrieve it by downloading the record"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Peru)"
+msgstr "Spanish (Peru)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Paste keyframe"
+msgstr "Paste keyframe"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Width"
+msgstr "Blur Width"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Resource download failed. Please try to apply the resource in the %1."
+msgstr "Resource download failed. Please try to apply the resource in the %1."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Confirm conversion to SRT?"
+msgstr "Confirm conversion to SRT?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Eye Distance"
+msgstr "Eye Distance"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Montage"
+msgstr "Montage"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Delete all material"
+msgstr "Delete all material"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Network error. Please retry later."
+msgstr "Network error. Please retry later."
+
+#: 
+msgctxt "QObject-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Paraguay)"
+msgstr "Spanish (Paraguay)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Are you sure to quit AI Image Generation?"
+msgstr "Are you sure to quit AI Image Generation?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import Failed"
+msgstr "Import Failed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Insufficient disk space"
+msgstr "Insufficient disk space"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Faux Film 7"
+msgstr "Faux Film 7"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Snapshot"
+msgstr "Snapshot"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Verbatim Reduction"
+msgstr "Verbatim Reduction"
+
+#: 
+msgctxt "QObject-version1"
+msgid "It is required to install an audio driver in order to record system audio."
+msgstr "It is required to install an audio driver in order to record system audio."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Beauty"
+msgstr "Beauty"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Re-record"
+msgstr "Re-record"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shrink Face"
+msgstr "Shrink Face"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Marathi (India)"
+msgstr "Marathi (India)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Border"
+msgstr "Border"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bottom"
+msgstr "Bottom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Camera"
+msgstr "Camera"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bright"
+msgstr "Bright"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Process Bar BG Color"
+msgstr "Process Bar BG Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "lineCount"
+msgstr "lineCount"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Enterprise Plan Right 1"
+msgstr "Enterprise Plan Right 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Round zoom out"
+msgstr "Round zoom out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Recording duration is too short. Please record again."
+msgstr "Recording duration is too short. Please record again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clear temporary files"
+msgstr "Clear temporary files"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Height"
+msgstr "Blur Height"
+
+#: 
+msgctxt "QObject-version1"
+msgid "3:4 (Business)"
+msgstr "3:4 (Business)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Filmora Walkthrough"
+msgstr "Filmora Walkthrough"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Darken"
+msgstr "Darken"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with Motion Tracking as an example."
+msgstr "Edit advanced properties, utilize AI Tools, Keyframe, and Speed Ramping. Start with Motion Tracking as an example."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "My Custom"
+msgstr "My Custom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shadow Details"
+msgstr "Shadow Details"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Croatian (Croatia)"
+msgstr "Croatian (Croatia)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+msgctxt "QObject-version1"
+msgid "My Mask"
+msgstr "My Mask"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Up Down 1"
+msgstr "Up Down 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Up Down 2"
+msgstr "Up Down 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "DouYin"
+msgstr "DouYin"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+msgctxt "QObject-version1"
+msgid "New Feature Request"
+msgstr "New Feature Request"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Emboss"
+msgstr "Emboss"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Enable"
+msgstr "Enable"
+
+#: 
+msgctxt "QObject-version1"
+msgid "This name is already in use."
+msgstr "This name is already in use."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Free Assets"
+msgstr "Free Assets"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "NewBlue"
+msgstr "NewBlue"
+
+#: 
+msgctxt "QObject-version1"
+msgid "String Blur"
+msgstr "String Blur"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette 2"
+msgstr "Vignette 2"
+

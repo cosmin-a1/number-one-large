@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "period"
+msgstr "period"
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "Click here to log out."
+msgstr "Click here to log out."
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "click here to buy Filmora9."
+msgstr "click here to buy Filmora9."
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "You could be experiencing a network delay. Wait a minute or two, then click 'Try Again'."
+msgstr "You could be experiencing a network delay. Wait a minute or two, then click 'Try Again'."
+
+#: 
+msgctxt "FActivateFailedDlg-version1"
+msgid "You could be logged into a Wondershare ID different from the one you used to make your purchase. You are currently signed in as: "
+msgstr "You could be logged into a Wondershare ID different from the one you used to make your purchase. You are currently signed in as: "
+
+#: 
+msgctxt "FSupportClientFilterMenu-version1"
+msgid "Desktop && Mobile"
+msgstr "Desktop && Mobile"
+
+#: 
+msgctxt "FSupportClientFilterMenu-version1"
+msgid "Three clients"
+msgstr "Three clients"
+
+#: 
+msgctxt "FSupportClientFilterMenu-version1"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: 
+msgctxt "FSupportClientFilterMenu-version1"
+msgid "Desktop && Tablet"
+msgstr "Desktop && Tablet"
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version1"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version1"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version1"
+msgid "Backspace key or Double Left Click to delete vertex."
+msgstr "Backspace key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version1"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyMaskGroupWidget-version1"
+msgid "Add a New Draw Mask"
+msgstr "Add a New Draw Mask"
+
+#: 
+msgctxt "FPropertyMotionTrackingWidget-version1"
+msgid "In order to apply motion tracking any keyframing, animations, or pan & zoom motions will be removed. Do you want to continue?"
+msgstr "In order to apply motion tracking any keyframing, animations, or pan & zoom motions will be removed. Do you want to continue?"
+
+#: 
+msgctxt "FPropertyMotionTrackingWidget-version1"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingWidget-version1"
+msgid "Unchecking the box next to Motion Tracking will clear all motion tracking data. Do you want to continue?"
+msgstr "Unchecking the box next to Motion Tracking will clear all motion tracking data. Do you want to continue?"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Product Features"
+msgstr "Product Features"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Effects & Services"
+msgstr "Effects & Services"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Payment will be charged to your Apple ID account upon the confirmation of your purchase. If you purchase the Annual Subscription it will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings in the App Store after purchase."
+msgstr "Payment will be charged to your Apple ID account upon the confirmation of your purchase. If you purchase the Annual Subscription it will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings in the App Store after purchase."
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "SUBSCRIPTION BENEFITS"
+msgstr "SUBSCRIPTION BENEFITS"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Restore"
+msgstr "Restore"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: 
+msgctxt "FFResourcePackPurchaseDialog-version1"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "The server is down. Please try again later."
+msgstr "The server is down. Please try again later."
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Start generating your own music today!"
+msgstr "Start generating your own music today!"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Generate AI image"
+msgstr "Generate AI image"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Generate AI music"
+msgstr "Generate AI music"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Start generating your own image today!"
+msgstr "Start generating your own image today!"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "You can browse the generation records for the past 30 days."
+msgstr "You can browse the generation records for the past 30 days."
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "You have reached daily generation limit. Try tomorrow."
+msgstr "You have reached daily generation limit. Try tomorrow."
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Start generating your own stickers today!"
+msgstr "Start generating your own stickers today!"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Spark your creativity with just one click"
+msgstr "Spark your creativity with just one click"
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Network error, please check the network and try again."
+msgstr "Network error, please check the network and try again."
+
+#: 
+msgctxt "FAIGCWidget-version1"
+msgid "Generate AI Sticker"
+msgstr "Generate AI Sticker"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version1"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version1"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FAdvanceSubtitlePropertyPanelWidget-version1"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version1"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FAdvancedTextPropertyPanelWidget-version1"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyTextAnimationControl-version1"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version1"
+msgid "Selected %1 bar"
+msgstr "Selected %1 bar"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version1"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMultipleSelectOperationWidget-version1"
+msgid "Select all"
+msgstr "Select all"
+
+#: 
+msgctxt "FStoryEditToolBar-version1"
+msgid "Timeline"
+msgstr "Timeline"
+
+#: 
+msgctxt "FStoryEditToolBar-version1"
+msgid "Effect Control"
+msgstr "Effect Control"
+
+#: 
+msgctxt "FStoryEditToolBar-version1"
+msgid "Global Setting"
+msgstr "Global Setting"
+
+#: 
+msgctxt "FStoryEditToolBar-version1"
+msgid "Music Setting"
+msgstr "Music Setting"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version1"
+msgid "Try it out!"
+msgstr "Try it out!"
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version1"
+msgid "Filmora Cloud is here."
+msgstr "Filmora Cloud is here."
+
+#: 
+msgctxt "FFTransferCenterTabWidget-version1"
+msgid "Transfer Center"
+msgstr "Transfer Center"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version1"
+msgid "You can only import up to 10 files at a time."
+msgstr "You can only import up to 10 files at a time."
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FAutoReframeMaskWidget-version1"
+msgid "Drag or import a video here to start reframing"
+msgstr "Drag or import a video here to start reframing"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version1"
+msgid "Downloading filmora"
+msgstr "Downloading filmora"
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version1"
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: 
+msgctxt "FFUpgradeProgressDialog-version1"
+msgid "Upgrading..."
+msgstr "Upgrading..."
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version1"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FLoginSuccessfulWebStateWidget-version1"
+msgid "Login Success!"
+msgstr "Login Success!"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version1"
+msgid "We opened a new browser tab, you can log in in the new tab"
+msgstr "We opened a new browser tab, you can log in in the new tab"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version1"
+msgid "Your device has been disabled. %1 to Account Center to unblock it."
+msgstr "Your device has been disabled. %1 to Account Center to unblock it."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version1"
+msgid "Restart"
+msgstr "Restart"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version1"
+msgid "click here"
+msgstr "click here"
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version1"
+msgid "Waiting..."
+msgstr "Waiting..."
+
+#: 
+msgctxt "FThirdPartyLoginWaitPage-version1"
+msgid "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+msgstr "You should complete the authentication in your browser. After completing this step, you will automatically continue from here."
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version1"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFColorCompareMaskWidget-version1"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version1"
+msgid "After"
+msgstr "After"
+
+#: 
+msgctxt "FFCropAndZoomPlayer-version1"
+msgid "Before"
+msgstr "Before"
+
+#: 
+msgctxt "FImportFailDialog-version1"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FImportFailDialog-version1"
+msgid "Importing failed"
+msgstr "Importing failed"
+
+#: 
+msgctxt "FImportFailDialog-version1"
+msgid "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+msgstr "Sorry the following file is not supported. \t\t\t\t\t\t  \t\t2.7k / 4k resolution H264 video files are not supported in Filmora trial version under Windows 7 platform due to the limitation of OS provided codec, but are supported in Filmora registered versions.Buy a license to remove this limitation and enjoy all the benefit of the Filmora registered version."
+
+#: 
+msgctxt "FImportFailDialog-version1"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version1"
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version1"
+msgid "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+msgstr "Sorry, this file is not supported.\n"
+"It may be a broken file, an unsupported format, or the file information may not be retrievable. \n"
+"Please try another file."
+
+#: 
+msgctxt "FUnsupportedFileDialog-version1"
+msgid "Errors Information"
+msgstr "Errors Information"
+
+#: 
+msgctxt "FUnsupportedFileDialog-version1"
+msgid "Online Support"
+msgstr "Online Support"
+
+#: 
+msgctxt "FAlertDialog-version1"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version1"
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version1"
+msgid " has no permission."
+msgstr " has no permission."
+
+#: 
+msgctxt "FEffectInstallerCommunicatorHelper-version1"
+msgid "The install directory "
+msgstr "The install directory "
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Align"
+msgstr "Align"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Go to"
+msgstr "Go to"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Unlock Guides"
+msgstr "Unlock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Compare Color Before/After"
+msgstr "Compare Color Before/After"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Hide Guides"
+msgstr "Hide Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Show Guides"
+msgstr "Show Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Lock Guides"
+msgstr "Lock Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Guides"
+msgstr "Guides"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Playback Quality"
+msgstr "Playback Quality"
+
+#: 
+msgctxt "FMainPlayerContextMenu-version1"
+msgid "Zoom Level"
+msgstr "Zoom Level"
+
+#: 
+msgctxt "FPropertyBeautySkinEffectWidget-version1"
+msgid "Alpha"
+msgstr "Alpha"
+

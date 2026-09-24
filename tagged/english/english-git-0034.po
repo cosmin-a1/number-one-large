@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Anchor Y"
+msgstr "Anchor Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chroma"
+msgstr "Chroma"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "EMITTER Pos XY"
+msgstr "EMITTER Pos XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fill Color Blue"
+msgstr "Fill Color Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Circle"
+msgstr "Circle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Uncircle"
+msgstr "Uncircle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Citrus"
+msgstr "Citrus"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L164 Flame Red"
+msgstr "L164 Flame Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Built-in Camera"
+msgstr "Built-in Camera"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "One Column"
+msgstr "One Column"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Just Fix It"
+msgstr "Just Fix It"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bump Height"
+msgstr "Bump Height"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Far Corner"
+msgstr "Far Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Directional Angle"
+msgstr "Directional Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Galazey Far Far Away"
+msgstr "Galazey Far Far Away"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color1"
+msgstr "Color1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color2"
+msgstr "Color2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Combat"
+msgstr "Combat"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Common"
+msgstr "Common"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Copper"
+msgstr "Copper"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cotton"
+msgstr "Cotton"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Motion Sickness"
+msgstr "Motion Sickness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dampen"
+msgstr "Dampen"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Darken"
+msgstr "Darken"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Darker"
+msgstr "Darker"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "FG Hue"
+msgstr "FG Hue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ordered Columns"
+msgstr "Ordered Columns"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gradient - Circle"
+msgstr "Gradient - Circle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dest X"
+msgstr "Dest X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dest Y"
+msgstr "Dest Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Detail"
+msgstr "Detail"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Analyze Small Region"
+msgstr "Analyze Small Region"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cutoff"
+msgstr "Cutoff"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cutout"
+msgstr "Cutout"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wandering"
+msgstr "Wandering"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sampling Top-Left"
+msgstr "Sampling Top-Left"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Time Format"
+msgstr "Time Format"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Golden Dream"
+msgstr "Golden Dream"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Key Color Red"
+msgstr "Key Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan 1"
+msgstr "Cyan 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan 2"
+msgstr "Cyan 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan 3"
+msgstr "Cyan 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan 4"
+msgstr "Cyan 4"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan 5"
+msgstr "Cyan 5"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cycles"
+msgstr "Cycles"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dimmed"
+msgstr "Dimmed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ending X"
+msgstr "Ending X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ending Y"
+msgstr "Ending Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Link Images"
+msgstr "Link Images"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bounce Friction"
+msgstr "Bounce Friction"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Invert Gradient"
+msgstr "Invert Gradient"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L019 Fire"
+msgstr "L019 Fire"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Golden Light"
+msgstr "Golden Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "View Ground"
+msgstr "View Ground"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wave Height"
+msgstr "Wave Height"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Randomize"
+msgstr "Randomize"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attractor 1 Power"
+msgstr "Attractor 1 Power"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Jack Hammer"
+msgstr "Jack Hammer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dreamy"
+msgstr "Dreamy"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dreary"
+msgstr "Dreary"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smooth Largest Details"
+msgstr "Smooth Largest Details"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "B&W Ink"
+msgstr "B&W Ink"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Harden Matte"
+msgstr "Harden Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Golden Wheat"
+msgstr "Golden Wheat"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Effect"
+msgstr "Effect"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Eighth"
+msgstr "Eighth"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Corner 2 X"
+msgstr "Corner 2 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Corner 2 Y"
+msgstr "Corner 2 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Corner 1 X"
+msgstr "Corner 1 X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Corner 1 Y"
+msgstr "Corner 1 Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Corner Pin"
+msgstr "Corner Pin"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Block Damage Intensity"
+msgstr "Block Damage Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Emboss"
+msgstr "Emboss"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Enable"
+msgstr "Enable"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ending"
+msgstr "Ending"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Enigma"
+msgstr "Enigma"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Custom Midpoint Color Red"
+msgstr "Custom Midpoint Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Facets"
+msgstr "Facets"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glitter On Alpha Layer Only"
+msgstr "Glitter On Alpha Layer Only"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mask Center"
+msgstr "Mask Center"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Etched"
+msgstr "Etched"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lens Center"
+msgstr "Lens Center"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Neutral"
+msgstr "Neutral"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "DVCPRO HD 1080 (1.5)"
+msgstr "DVCPRO HD 1080 (1.5)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Evolve"
+msgstr "Evolve"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sine Cannon"
+msgstr "Sine Cannon"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "String Seed"
+msgstr "String Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Expand"
+msgstr "Expand"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Extend"
+msgstr "Extend"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Particles Only"
+msgstr "Particles Only"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shift FX Layer"
+msgstr "Shift FX Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Filter"
+msgstr "Filter"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ectoplasmic Accents"
+msgstr "Ectoplasmic Accents"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Near Corner"
+msgstr "Near Corner"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flower"
+msgstr "Flower"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ring Aspect"
+msgstr "Ring Aspect"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twist : Disperse : Noise : Shift"
+msgstr "Twist : Disperse : Noise : Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ink Blue"
+msgstr "Ink Blue"
+

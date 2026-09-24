@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bleak"
+msgstr "Bleak"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Blend"
+msgstr "Blend"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bloom"
+msgstr "Bloom"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Blurs"
+msgstr "Blurs"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bokeh"
+msgstr "Bokeh"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Min Black"
+msgstr "Min Black"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rounded Rectangle"
+msgstr "Rounded Rectangle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Brash"
+msgstr "Brash"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cards"
+msgstr "Cards"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Audio Graph Options"
+msgstr "Audio Graph Options"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Burnt"
+msgstr "Burnt"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chalk"
+msgstr "Chalk"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chaos"
+msgstr "Chaos"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chill"
+msgstr "Chill"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Choke"
+msgstr "Choke"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Clock"
+msgstr "Clock"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Clone"
+msgstr "Clone"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Colon"
+msgstr "Colon"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Count"
+msgstr "Count"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cover"
+msgstr "Cover"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Min Depth"
+msgstr "Min Depth"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cubic"
+msgstr "Cubic"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Decay"
+msgstr "Decay"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Delay"
+msgstr "Delay"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dense"
+msgstr "Dense"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Depth"
+msgstr "Depth"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Curly"
+msgstr "Curly"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Curve"
+msgstr "Curve"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cycle"
+msgstr "Cycle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Discs"
+msgstr "Discs"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Indoors"
+msgstr "Indoors"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Freq. Variance"
+msgstr "Freq. Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Draft"
+msgstr "Draft"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Earth"
+msgstr "Earth"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dream"
+msgstr "Dream"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Drift"
+msgstr "Drift"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Edges"
+msgstr "Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dusty"
+msgstr "Dusty"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Raindrops"
+msgstr "Raindrops"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pin Edges"
+msgstr "Pin Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Floor Color Green"
+msgstr "Floor Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Empty"
+msgstr "Empty"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lines On"
+msgstr "Lines On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Faded"
+msgstr "Faded"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Seeing Red"
+msgstr "Seeing Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inferno"
+msgstr "Inferno"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flake"
+msgstr "Flake"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flare"
+msgstr "Flare"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flash"
+msgstr "Flash"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "On Flare"
+msgstr "On Flare"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fluro"
+msgstr "Fluro"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Goblin"
+msgstr "Green Goblin"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ink Red"
+msgstr "Ink Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pink Sky"
+msgstr "Pink Sky"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Flying PiP"
+msgstr "Flying PiP"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gamma"
+msgstr "Gamma"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "HSV 1"
+msgstr "HSV 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "HSV 2"
+msgstr "HSV 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "HSV 3"
+msgstr "HSV 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Frame"
+msgstr "Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Typical Lighting"
+msgstr "Typical Lighting"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "In Front"
+msgstr "In Front"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ghost"
+msgstr "Ghost"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gleam"
+msgstr "Gleam"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gloop"
+msgstr "Gloop"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glows"
+msgstr "Glows"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Hades"
+msgstr "Hades"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grain"
+msgstr "Grain"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Harsh"
+msgstr "Harsh"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green"
+msgstr "Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Heart"
+msgstr "Heart"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Heavy"
+msgstr "Heavy"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glare Threshold"
+msgstr "Glare Threshold"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Black Color Green"
+msgstr "BG Black Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cyan Color"
+msgstr "Cyan Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fun House"
+msgstr "Fun House"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rain Depth"
+msgstr "Rain Depth"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Honey"
+msgstr "Honey"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Hours"
+msgstr "Hours"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shimmer and Contracted Strings"
+msgstr "Shimmer and Contracted Strings"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Focal Center"
+msgstr "Focal Center"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shininess"
+msgstr "Shininess"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lock to Scale X"
+msgstr "Lock to Scale X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ink 1"
+msgstr "Ink 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ink 2"
+msgstr "Ink 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ink 3"
+msgstr "Ink 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inked"
+msgstr "Inked"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inset"
+msgstr "Inset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shift Interval Seed"
+msgstr "Shift Interval Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Min Level"
+msgstr "Min Level"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Level"
+msgstr "Level"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Light"
+msgstr "Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lines"
+msgstr "Lines"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pumkin Glow"
+msgstr "Pumkin Glow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Masks"
+msgstr "Masks"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Matte"
+msgstr "Matte"
+

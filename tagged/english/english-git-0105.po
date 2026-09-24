@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFAITranslationTableDelegate-version1"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "UPLoading"
+msgstr "UPLoading"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "TransCoding"
+msgstr "TransCoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Transcoding"
+msgstr "Transcoding"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Translating"
+msgstr "Translating"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "duration"
+msgstr "duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFSpeechToTextTableDelegate-version1"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "name"
+msgstr "name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "File Name"
+msgstr "File Name"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Completed"
+msgstr "Completed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "In transcription"
+msgstr "In transcription"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Failed"
+msgstr "Failed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "operate"
+msgstr "operate"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "status"
+msgstr "status"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Characters"
+msgstr "Characters"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Transferring"
+msgstr "Transferring"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Scanning"
+msgstr "Scanning"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Successed"
+msgstr "Successed"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Processing"
+msgstr "Processing"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Success"
+msgstr "Success"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Operation"
+msgstr "Operation"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "frequency"
+msgstr "frequency"
+
+#: 
+msgctxt "FFTextToSpeechTableDelegate-version1"
+msgid "Waiting"
+msgstr "Waiting"
+
+#: 
+msgctxt "FAIGenerateToast-version1"
+msgid "view"
+msgstr "view"
+
+#: 
+msgctxt "FAIGenerateToast-version1"
+msgid "Image downloaded to directory Stock Media - AI Image - Downloads"
+msgstr "Image downloaded to directory Stock Media - AI Image - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version1"
+msgid "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+msgstr "Sticker downloaded to directory Stickers - AI Stickers - Downloads"
+
+#: 
+msgctxt "FAIGenerateToast-version1"
+msgid "Music downloaded to directory Audio - AI Music - Downloads"
+msgstr "Music downloaded to directory Audio - AI Music - Downloads"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "year"
+msgstr "year"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "month"
+msgstr "month"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "Yearly Plan"
+msgstr "Yearly Plan"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "Premium Month"
+msgstr "Premium Month"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "Premium Yearly"
+msgstr "Premium Yearly"
+
+#: 
+msgctxt "FFPackPurchaseComponent-version1"
+msgid "Everything in standard plan effects"
+msgstr "Everything in standard plan effects"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version1"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version1"
+msgid "Search file names, visuals, and dialogue"
+msgstr "Search file names, visuals, and dialogue"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version1"
+msgid "Character_1"
+msgstr "Character_1"
+
+#: 
+msgctxt "FIntelligenceRecognizeSearchBar-version1"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Search custom adjustment layer"
+msgstr "Search custom adjustment layer"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Search adjustment layer"
+msgstr "Search adjustment layer"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "New Folder"
+msgstr "New Folder"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Upload File"
+msgstr "Upload File"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Search downloaded media"
+msgstr "Search downloaded media"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+#: 
+msgctxt "FMediaModeBar-version1"
+msgid "Search custom compound clip"
+msgstr "Search custom compound clip"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search media"
+msgstr "Search media"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Giphy"
+msgstr "Giphy"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search AI Image"
+msgstr "Search AI Image"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search images and videos"
+msgstr "Search images and videos"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search all the GIFs and Stickers"
+msgstr "Search all the GIFs and Stickers"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search Favorite Media"
+msgstr "Search Favorite Media"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search Downloaded Media"
+msgstr "Search Downloaded Media"
+
+#: 
+msgctxt "FStockMediaModeBar-version1"
+msgid "Search free high-resolution photos"
+msgstr "Search free high-resolution photos"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search music"
+msgstr "Search music"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search my music"
+msgstr "Search my music"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search sound effects"
+msgstr "Search sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search downloaded music"
+msgstr "Search downloaded music"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search my favorite sound effects"
+msgstr "Search my favorite sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search downloaded sound effects"
+msgstr "Search downloaded sound effects"
+
+#: 
+msgctxt "FAudioModeBar-version1"
+msgid "Search my favorite music"
+msgstr "Search my favorite music"
+
+#: 
+msgctxt "FAudioInfoPage-version1"
+msgid "Audio Info"
+msgstr "Audio Info"
+
+#: 
+msgctxt "FAudioInfoPage-version1"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FAudioInfoPage-version1"
+msgid "Codec:"
+msgstr "Codec:"
+
+#: 
+msgctxt "FAudioInfoPage-version1"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FAudioInfoPage-version1"
+msgid "Channel:"
+msgstr "Channel:"
+
+#: 
+msgctxt "FFRemainingWidget-version1"
+msgid "Remaining available characters: %1 "
+msgstr "Remaining available characters: %1 "
+
+#: 
+msgctxt "FFRemainingWidget-version1"
+msgid "Time Remaining:"
+msgstr "Time Remaining:"
+
+#: 
+msgctxt "FFRemainingWidget-version1"
+msgid "Seconds"
+msgstr "Seconds"
+
+#: 
+msgctxt "FFRemainingWidget-version1"
+msgid "Purchase more characters"
+msgstr "Purchase more characters"
+
+#: 
+msgctxt "FFRemainingWidget-version1"
+msgid "Purchase more"
+msgstr "Purchase more"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "Add Smart Brush"
+msgstr "Add Smart Brush"
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "Delete key or Double Left Click to delete vertex."
+msgstr "Delete key or Double Left Click to delete vertex."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "The longest only supports tracking for 20s."
+msgstr "The longest only supports tracking for 20s."
+
+#: 
+msgctxt "FPropertyMaskAIMaskGroupWidget-version1"
+msgid "Got it"
+msgstr "Got it"
+

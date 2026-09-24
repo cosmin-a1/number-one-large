@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spring"
+msgstr "Spring"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "EBU 103 + NTSC"
+msgstr "EBU 103 + NTSC"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Target"
+msgstr "Target"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Square"
+msgstr "Square"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Static"
+msgstr "Static"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L442 Half C.T. Straw"
+msgstr "L442 Half C.T. Straw"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Launch Mocha Mask / Track"
+msgstr "Launch Mocha Mask / Track"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Stream"
+msgstr "Stream"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Strike"
+msgstr "Strike"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Stripe"
+msgstr "Stripe"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Subtle"
+msgstr "Subtle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Center XY"
+msgstr "Center XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Local Diffs. On"
+msgstr "Local Diffs. On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Sunset"
+msgstr "Sunset"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Moderate"
+msgstr "Moderate"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Interval"
+msgstr "Interval"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Random Seed"
+msgstr "Random Seed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Random Size"
+msgstr "Random Size"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Auto-Tumble Speed"
+msgstr "Auto-Tumble Speed"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Ticker"
+msgstr "Ticker"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tilt X"
+msgstr "Tilt X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tilt Y"
+msgstr "Tilt Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Timing"
+msgstr "Timing"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "System"
+msgstr "System"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Binoculars"
+msgstr "Binoculars"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Y Axis"
+msgstr "Y Axis"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L101 Yellow"
+msgstr "L101 Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L765 Yellow"
+msgstr "L765 Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tracks"
+msgstr "Tracks"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Trails"
+msgstr "Trails"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Attenuation Boost"
+msgstr "Attenuation Boost"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fall Off Distance"
+msgstr "Fall Off Distance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tumble"
+msgstr "Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L1 Tumble"
+msgstr "L1 Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L2 Tumble"
+msgstr "L2 Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L3 Tumble"
+msgstr "L3 Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L116 Medium Blue-Green"
+msgstr "L116 Medium Blue-Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Jet Trail2"
+msgstr "Jet Trail2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bottom Half"
+msgstr "Bottom Half"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tilting Source"
+msgstr "Tilting Source"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Left to Right Tight"
+msgstr "Left to Right Tight"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Custom Size"
+msgstr "Custom Size"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Custom Look"
+msgstr "Custom Look"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Type 1"
+msgstr "Type 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Type 2"
+msgstr "Type 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Type 3"
+msgstr "Type 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Golden Triangles"
+msgstr "Golden Triangles"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Remap Blue to Red"
+msgstr "Remap Blue to Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cam Tumble"
+msgstr "Cam Tumble"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pan Distance"
+msgstr "Pan Distance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Z Axis"
+msgstr "Z Axis"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Region Blend"
+msgstr "Region Blend"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Emphasis Saturated Object"
+msgstr "Emphasis Saturated Object"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Particle Midpoint Opacity"
+msgstr "Particle Midpoint Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Unused"
+msgstr "Unused"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rotate Left Side"
+msgstr "Rotate Left Side"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glare Ray Color Red"
+msgstr "Glare Ray Color Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Upward"
+msgstr "Upward"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Particle Character"
+msgstr "Particle Character"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Oval Shadow"
+msgstr "Oval Shadow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grit Radius"
+msgstr "Grit Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Glow Radius"
+msgstr "Glow Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Remap Green to Green"
+msgstr "Remap Green to Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Brightness Variance"
+msgstr "Brightness Variance"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pale Scroll"
+msgstr "Pale Scroll"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Invert Z"
+msgstr "Invert Z"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Inverted"
+msgstr "Inverted"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Long Shadow"
+msgstr "Long Shadow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Color Green"
+msgstr "Outside Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Dest Radius"
+msgstr "Dest Radius"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L441 Full C.T. Straw"
+msgstr "L441 Full C.T. Straw"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Signal Strength"
+msgstr "Signal Strength"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L219 Fluorescent Green"
+msgstr "L219 Fluorescent Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Trigger Offset From Egde"
+msgstr "Trigger Offset From Egde"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "View X"
+msgstr "View X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "View Y"
+msgstr "View Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Displacement Direction"
+msgstr "Displacement Direction"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Cineon Full (3656x2664)"
+msgstr "Cineon Full (3656x2664)"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Violet"
+msgstr "Violet"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Gravity Angle"
+msgstr "Gravity Angle"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intensity 1"
+msgstr "Intensity 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intensity 2"
+msgstr "Intensity 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Intensity 3"
+msgstr "Intensity 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "on Unsplash"
+msgstr "on Unsplash"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Region Scope"
+msgstr "Region Scope"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Greenscreen"
+msgstr "Greenscreen"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bad Vision"
+msgstr "Bad Vision"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Edge Shapes"
+msgstr "Edge Shapes"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Oblong Horizontal"
+msgstr "Oblong Horizontal"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Image Rotation"
+msgstr "Image Rotation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lock Soften"
+msgstr "Lock Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Line Soften"
+msgstr "Line Soften"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Auto-scale Interactor"
+msgstr "Auto-scale Interactor"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tumble Random %"
+msgstr "Tumble Random %"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "View Source"
+msgstr "View Source"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mask Name Starts With"
+msgstr "Mask Name Starts With"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Softness"
+msgstr "Softness"
+

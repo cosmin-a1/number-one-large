@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Polish (Poland)"
+msgstr "Polish (Poland)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Plexus Particles"
+msgstr "Plexus Particles"
+
+#: 
+msgctxt "QObject-version1"
+msgid "MotionTrack"
+msgstr "MotionTrack"
+
+#: 
+msgctxt "QObject-version1"
+msgid "100 Filmora AI Credits"
+msgstr "100 Filmora AI Credits"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shape Mask"
+msgstr "Shape Mask"
+
+#: 
+msgctxt "QObject-version1"
+msgid "CUBE File"
+msgstr "CUBE File"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom in to the bottom"
+msgstr "Zoom in to the bottom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "End time:"
+msgstr "End time:"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Effect as an example."
+msgstr "Explore creative Effects, Filters, Titles, and AI-Generated Tools in this central hub. Start with the Effect as an example."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Finish and Replace"
+msgstr "Finish and Replace"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Click to go to the material page"
+msgstr "Click to go to the material page"
+
+#: 
+msgctxt "QObject-version1"
+msgid "One or more of your selected clips have been added to the timeline. Deleting them from the library will also delete them from the timeline."
+msgstr "One or more of your selected clips have been added to the timeline. Deleting them from the library will also delete them from the timeline."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Expansion"
+msgstr "Expansion"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Variety of Subtitles"
+msgstr "Variety of Subtitles"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Tamil (India)"
+msgstr "Tamil (India)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The main track cannot paste resource materials."
+msgstr "The main track cannot paste resource materials."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Usage is too frequent. Retry later. Please wait 24 hours before trying again."
+msgstr "Usage is too frequent. Retry later. Please wait 24 hours before trying again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Boris FX"
+msgstr "Boris FX"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Low Bass"
+msgstr "Low Bass"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Close Gap"
+msgstr "Close Gap"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Create Compound Clip"
+msgstr "Create Compound Clip"
+
+#: 
+msgctxt "QObject-version1"
+msgid "REFRESH"
+msgstr "REFRESH"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Your upload is incomplete. Do you want to abort?"
+msgstr "Your upload is incomplete. Do you want to abort?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blue Explosion"
+msgstr "Blue Explosion"
+
+#: 
+msgctxt "QObject-version1"
+msgid "color1"
+msgstr "color1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "color2"
+msgstr "color2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Rotation"
+msgstr "Rotation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "rotate_x"
+msgstr "rotate_x"
+
+#: 
+msgctxt "QObject-version1"
+msgid "rotate_y"
+msgstr "rotate_y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "rotate_z"
+msgstr "rotate_z"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select all Clips with the Same Color Mark"
+msgstr "Select all Clips with the Same Color Mark"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Crosszoom"
+msgstr "Crosszoom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "delete"
+msgstr "delete"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Edit Properties"
+msgstr "Edit Properties"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Smoothness"
+msgstr "Smoothness"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Motion X"
+msgstr "Motion X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Motion Y"
+msgstr "Motion Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Currently analyzing up to %1/%2 videos, processing may last several minutes. If there are longer files, individual processing is more recommended."
+msgstr "Currently analyzing up to %1/%2 videos, processing may last several minutes. If there are longer files, individual processing is more recommended."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Add picture to set as thumbnail"
+msgstr "Add picture to set as thumbnail"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Audio Visualization"
+msgstr "Audio Visualization"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Typewriter Appears"
+msgstr "Typewriter Appears"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Profile Rhinoplasty"
+msgstr "Profile Rhinoplasty"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Narrow Face"
+msgstr "Narrow Face"
+
+#: 
+msgctxt "QObject-version1"
+msgid "An error occurred during file transfer. Please try again."
+msgstr "An error occurred during file transfer. Please try again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Narrow Nose"
+msgstr "Narrow Nose"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Mexico)"
+msgstr "Spanish (Mexico)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bouncing"
+msgstr "Bouncing"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Backup Found"
+msgstr "Backup Found"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uShowRatio"
+msgstr "uShowRatio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "filter"
+msgstr "filter"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+msgstr "The file name cannot contain any of the following characters:* | < > \\ ? / : \""
+
+#: 
+msgctxt "QObject-version1"
+msgid "alphaRadioS"
+msgstr "alphaRadioS"
+
+#: 
+msgctxt "QObject-version1"
+msgid "alphaRadioF"
+msgstr "alphaRadioF"
+
+#: 
+msgctxt "QObject-version1"
+msgid "alphaRadioH"
+msgstr "alphaRadioH"
+
+#: 
+msgctxt "QObject-version1"
+msgid "alphaRadioN"
+msgstr "alphaRadioN"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Bolivia)"
+msgstr "Spanish (Bolivia)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "15M+ Creative Assets"
+msgstr "15M+ Creative Assets"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bring Forward"
+msgstr "Bring Forward"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Scene Detection"
+msgstr "Scene Detection"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Rotate Downwards"
+msgstr "Rotate Downwards"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You can quickly select all the clips before/after the dotted line."
+msgstr "You can quickly select all the clips before/after the dotted line."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: 
+msgctxt "QObject-version1"
+msgid "4 GB RAM (8GB required for HD and 4K videos)."
+msgstr "4 GB RAM (8GB required for HD and 4K videos)."
+
+#: 
+msgctxt "QObject-version1"
+msgid "No resources available"
+msgstr "No resources available"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Alpha End Node"
+msgstr "Alpha End Node"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI model updated successfully!"
+msgstr "AI model updated successfully!"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clarity Radius"
+msgstr "Clarity Radius"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Audio Effect-Phone"
+msgstr "Audio Effect-Phone"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Title Color"
+msgstr "Title Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clone Voice"
+msgstr "Clone Voice"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Single-word Shrinks"
+msgstr "Single-word Shrinks"
+
+#: 
+msgctxt "QObject-version1"
+msgid "HEVC Codec must be installed to solve this failure. Clicking Yes will install and enabled this codec for immediate use."
+msgstr "HEVC Codec must be installed to solve this failure. Clicking Yes will install and enabled this codec for immediate use."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Don’t remind again"
+msgstr "Don’t remind again"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Amplitude"
+msgstr "Amplitude"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Video Effects"
+msgstr "Video Effects"
+
+#: 
+msgctxt "QObject-version1"
+msgid "mirrow"
+msgstr "mirrow"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clear render files"
+msgstr "Clear render files"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Eye Angle"
+msgstr "Eye Angle"
+
+#: 
+msgctxt "QObject-version1"
+msgid "One Drive"
+msgstr "One Drive"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Arabic (United Arab Emirates)"
+msgstr "Arabic (United Arab Emirates)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "to enhance your preference."
+msgstr "to enhance your preference."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Alpha Start Node"
+msgstr "Alpha Start Node"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hue Shift"
+msgstr "Hue Shift"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shin Face Shape"
+msgstr "Shin Face Shape"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blue Skies"
+msgstr "Blue Skies"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Line Space"
+msgstr "Line Space"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hide Track"
+msgstr "Hide Track"
+
+#: 
+msgctxt "QObject-version1"
+msgid "upload file failed"
+msgstr "upload file failed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quick Tutorial"
+msgstr "Quick Tutorial"
+
+#: 
+msgctxt "QObject-version1"
+msgid "please keep an eye out for this account and get information and welfare conveniently"
+msgstr "please keep an eye out for this account and get information and welfare conveniently"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Preview"
+msgstr "Preview"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hero moment"
+msgstr "Hero moment"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Motion Duration"
+msgstr "Motion Duration"
+

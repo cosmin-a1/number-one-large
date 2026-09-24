@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red Color"
+msgstr "Red Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "End Color"
+msgstr "End Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Best Guess"
+msgstr "Best Guess"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "3D Cubes"
+msgstr "3D Cubes"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Soft Focus"
+msgstr "Soft Focus"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "3D Discs"
+msgstr "3D Discs"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Soft Grain"
+msgstr "Soft Grain"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Text Green"
+msgstr "Text Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tint Green"
+msgstr "Tint Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Just Green"
+msgstr "Just Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Bad Dream"
+msgstr "Bad Dream"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Soft Halos"
+msgstr "Soft Halos"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Input Black"
+msgstr "Green Input Black"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Wild Cards"
+msgstr "Wild Cards"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Hot Flash"
+msgstr "Hot Flash"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smooth SD to HD Upres"
+msgstr "Smooth SD to HD Upres"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Fit Frame"
+msgstr "Fit Frame"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tint Color"
+msgstr "Tint Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Omit Edges"
+msgstr "Omit Edges"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grid Color"
+msgstr "Grid Color"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Hand Drawn"
+msgstr "Hand Drawn"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Image Opacity"
+msgstr "Image Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Motion Blur"
+msgstr "Motion Blur"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color2 Red"
+msgstr "Color2 Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chaos Wave"
+msgstr "Chaos Wave"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twirl Center X"
+msgstr "Twirl Center X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Twirl Center Y"
+msgstr "Twirl Center Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Moonlight"
+msgstr "Moonlight"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red Laser"
+msgstr "Red Laser"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Old Movie"
+msgstr "Old Movie"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mask Softness"
+msgstr "Mask Softness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pos XY X"
+msgstr "Pos XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pos XY Y"
+msgstr "Pos XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Hard Light"
+msgstr "Hard Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Grid Lines"
+msgstr "Grid Lines"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Host Layer"
+msgstr "Host Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Saturation Softness"
+msgstr "Saturation Softness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Soft Light"
+msgstr "Soft Light"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Color1 Red"
+msgstr "Color1 Red"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Weapon Site"
+msgstr "Weapon Site"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Red Range"
+msgstr "Red Range"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Mist White"
+msgstr "Mist White"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pond Water"
+msgstr "Pond Water"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "HT Scale"
+msgstr "HT Scale"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Rod Short"
+msgstr "Rod Short"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "14 Sides"
+msgstr "14 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "4 Sides"
+msgstr "4 Sides"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L230 SC LCT Yellow"
+msgstr "L230 SC LCT Yellow"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Constant"
+msgstr "Constant"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smear Falloff"
+msgstr "Smear Falloff"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Controls"
+msgstr "Controls"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Core Wiggliness"
+msgstr "Core Wiggliness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tilt Shift"
+msgstr "Tilt Shift"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Tilt Right"
+msgstr "Tilt Right"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Polygon Roundness"
+msgstr "Polygon Roundness"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Green Input White"
+msgstr "Green Input White"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Lock Variations"
+msgstr "Lock Variations"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pivot XY X"
+msgstr "Pivot XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pivot XY Y"
+msgstr "Pivot XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chocolate 1"
+msgstr "Chocolate 1"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chocolate 2"
+msgstr "Chocolate 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chocolate 3"
+msgstr "Chocolate 3"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "FG Opacity"
+msgstr "FG Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Opacity"
+msgstr "BG Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spot XY X"
+msgstr "Spot XY X"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Spot XY Y"
+msgstr "Spot XY Y"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Glow Color 2 Blue"
+msgstr "Outside Glow Color 2 Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smoothing"
+msgstr "Smoothing"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smoothest"
+msgstr "Smoothest"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Smooth On"
+msgstr "Smooth On"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Render with Matte"
+msgstr "Render with Matte"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Destination XY"
+msgstr "Destination XY"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "BG Mid Color Green"
+msgstr "BG Mid Color Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Pin Noise Wave with Propagation"
+msgstr "Pin Noise Wave with Propagation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Glow Color 2 Green"
+msgstr "Outside Glow Color 2 Green"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Interpolation"
+msgstr "Interpolation"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Foreground Effects"
+msgstr "Foreground Effects"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape Mask"
+msgstr "Shape Mask"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape Mode"
+msgstr "Shape Mode"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape Only"
+msgstr "Shape Only"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Shape mask"
+msgstr "Shape mask"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Horizontal Mid to Edge"
+msgstr "Horizontal Mid to Edge"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Contract/Expand"
+msgstr "Contract/Expand"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Clipped Pixels"
+msgstr "Clipped Pixels"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Outside Glow Color 3 Blue"
+msgstr "Outside Glow Color 3 Blue"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Texture Intensity"
+msgstr "Texture Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Diffuse Intensity"
+msgstr "Diffuse Intensity"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Transparent Tile Wall"
+msgstr "Transparent Tile Wall"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Options"
+msgstr "Options"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Subtle Enhancement"
+msgstr "Subtle Enhancement"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Drop Down Start"
+msgstr "Drop Down Start"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Chroma Sharpen"
+msgstr "Chroma Sharpen"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Painted"
+msgstr "Painted"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Composite with Layer"
+msgstr "Composite with Layer"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "ColorFast 2"
+msgstr "ColorFast 2"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "L170 Deep Lavender"
+msgstr "L170 Deep Lavender"
+
+#: 
+msgctxt "FFOpenFXTr-version1"
+msgid "Papyrus"
+msgstr "Papyrus"
+

@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#. some pinned
+#: 
+#, fuzzy
+msgctxt "FUserRegisterPage-version1"
+msgid "dot2 (.)"
+msgstr "."
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Back to sign in"
+msgstr "Back to sign in"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Please enter your email"
+msgstr "Please enter your email"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Enter your password"
+msgstr "Enter your password"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Create a Wondershare ID"
+msgstr "Create a Wondershare ID"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "By clicking Create account, I agree that I have read and accepted the "
+msgstr "By clicking Create account, I agree that I have read and accepted the "
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Create Account"
+msgstr "Create Account"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid ":"
+msgstr ":"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Transition Duration:"
+msgstr "Transition Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Set the snapshot as thumbnail"
+msgstr "Set the snapshot as thumbnail"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Pan & Zoom"
+msgstr "Pan & Zoom"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Photo Placement:"
+msgstr "Photo Placement:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Effect Duration:"
+msgstr "Effect Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Insert Mode:"
+msgstr "Insert Mode:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Split Button:"
+msgstr "Split Button:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Default Duration:"
+msgstr "Default Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Freeze Duration:"
+msgstr "Freeze Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Show the split button on timeline playhead"
+msgstr "Show the split button on timeline playhead"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Timeline Edit:"
+msgstr "Timeline Edit:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Split a single track"
+msgstr "Split a single track"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Split all tracks"
+msgstr "Split all tracks"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Quick Title Duration"
+msgstr "Quick Title Duration"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Crop to Fit"
+msgstr "Crop to Fit"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Click on the blank area to jump to the cursor position"
+msgstr "Click on the blank area to jump to the cursor position"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Snapshot Format:"
+msgstr "Snapshot Format:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Cursor jump method:"
+msgstr "Cursor jump method:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Photo Duration:"
+msgstr "Photo Duration:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Filter Duration"
+msgstr "Filter Duration"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version1"
+msgid "L"
+msgstr "L"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version1"
+msgid "R"
+msgstr "R"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version1"
+msgid "L"
+msgstr "L"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version1"
+msgid "R"
+msgstr "R"
+
+#: 
+msgctxt "FFPositionEffectWidget-version1"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FFPositionEffectWidget-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version1"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No"
+msgstr "No"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "QObject-version1"
+msgid "TV"
+msgstr "TV"
+
+#: 
+msgctxt "QObject-version1"
+msgid "70s"
+msgstr "70s"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ads"
+msgstr "Ads"
+
+#: 
+msgctxt "QObject-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Day"
+msgstr "Day"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "QObject-version1"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "QObject-version1"
+msgid "RAM"
+msgstr "RAM"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Red"
+msgstr "Red"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VCG"
+msgstr "VCG"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Top"
+msgstr "Top"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Yes"
+msgstr "Yes"
+
+#: 
+msgctxt "QObject-version1"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "QObject-version1"
+msgid "dot"
+msgstr "dot"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Insect Eye Vision"
+msgstr "Insect Eye Vision"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blue"
+msgstr "Blue"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur"
+msgstr "Blur"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bold"
+msgstr "Bold"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cool"
+msgstr "Cool"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Crop"
+msgstr "Crop"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Drop"
+msgstr "Drop"
+
+#: 
+msgctxt "QObject-version1"
+msgid "End:"
+msgstr "End:"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Epic"
+msgstr "Epic"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Face"
+msgstr "Face"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade"
+msgstr "Fade"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Exit"
+msgstr "Exit"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Full"
+msgstr "Full"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Glow"
+msgstr "Glow"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hour"
+msgstr "Hour"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Left"
+msgstr "Left"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Like"
+msgstr "Like"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Lomo"
+msgstr "Lomo"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Love"
+msgstr "Love"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "QObject-version1"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Mute"
+msgstr "Mute"
+
+#: 
+msgctxt "QObject-version1"
+msgid "News"
+msgstr "News"
+
+#: 
+msgctxt "QObject-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Push"
+msgstr "Push"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quit"
+msgstr "Quit"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Size"
+msgstr "Size"
+

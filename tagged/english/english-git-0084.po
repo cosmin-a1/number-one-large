@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Clear All Tasks"
+msgstr "Clear All Tasks"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "TransferCenter Stop All"
+msgstr "TransferCenter Stop All"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Project"
+msgstr "Project"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Start All"
+msgstr "Start All"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Are you sure to clear all tasks?"
+msgstr "Are you sure to clear all tasks?"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Cancel All"
+msgstr "Cancel All"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "TransferCenter Clear"
+msgstr "TransferCenter Clear"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Clear All"
+msgstr "Clear All"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Audio Choice"
+msgstr "Audio Choice"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Search Word \"%1\""
+msgstr "Search Word \"%1\""
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Video Topic"
+msgstr "Video Topic"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Audio Topic"
+msgstr "Audio Topic"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Video Choice"
+msgstr "Video Choice"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Image Choice"
+msgstr "Image Choice"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Image Topic"
+msgstr "Image Topic"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Favorite"
+msgstr "Favorite"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Download Record"
+msgstr "Download Record"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Already Downloaded"
+msgstr "Already Downloaded"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgctxt "FFVCGMediaItemManagerPresenter-version1"
+msgid "Topic \"%1\""
+msgstr "Topic \"%1\""
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "View options"
+msgstr "View options"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Filter by file type"
+msgstr "Filter by file type"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Sort by"
+msgstr "Sort by"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Middle Thumbnail View"
+msgstr "Middle Thumbnail View"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "All Templates"
+msgstr "All Templates"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FMediaResMgrToolBar-version1"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Standard"
+msgstr "Standard"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FMediaTypeFilterMenu-version1"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Desktop && Mobile"
+msgstr "Desktop && Mobile"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Giphy"
+msgstr "Giphy"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Smart"
+msgstr "Smart"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "View options"
+msgstr "View options"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Three clients"
+msgstr "Three clients"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Import media to library"
+msgstr "Import media to library"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Record"
+msgstr "Record"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Record a video"
+msgstr "Record a video"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Filter by file type"
+msgstr "Filter by file type"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Default_1"
+msgstr "Default_1"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+msgctxt "FMediaViewModeBar-version1"
+msgid "Desktop && Tablet"
+msgstr "Desktop && Tablet"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version1"
+msgid "Free"
+msgstr "Free"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version1"
+msgid "Paid"
+msgstr "Paid"
+
+#: 
+msgctxt "FPaymentTypeFilterMenu-version1"
+msgid "Commercial"
+msgstr "Commercial"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version1"
+msgid "More"
+msgstr "More"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version1"
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version1"
+msgid "New tag"
+msgstr "New tag"
+
+#: 
+msgctxt "FUserLabelsPaneListWidget-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "ProductPage-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "ProductPage-version1"
+msgid "More Apps You Might Like"
+msgstr "More Apps You Might Like"
+
+#: 
+msgctxt "ProductPage-version1"
+msgid "Creativity"
+msgstr "Creativity"
+
+#: 
+msgctxt "ProductPage-version1"
+msgid "Utility"
+msgstr "Utility"
+
+#: 
+msgctxt "ProductPage-version1"
+msgid "Productivity"
+msgstr "Productivity"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Big"
+msgstr "Big"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Delete All Markers"
+msgstr "Delete All Markers"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Small_FTracksManageContextMenu"
+msgstr "Small_FTracksManageContextMenu"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Adjust Track Height"
+msgstr "Adjust Track Height"
+
+#: 
+msgctxt "FTracksManageContextMenu-version1"
+msgid "Add Video Track"
+msgstr "Add Video Track"
+

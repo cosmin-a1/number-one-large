@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Failed to upload to YouTube. For details, please check the FAQ."
+msgstr "Failed to upload to YouTube. For details, please check the FAQ."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Thanks for your feedback."
+msgstr "Thanks for your feedback."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Convert Failed"
+msgstr "Convert Failed"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid " Contact for help. "
+msgstr " Contact for help. "
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Failed to export %1. Do you want to continue exporting other files?"
+msgstr "Failed to export %1. Do you want to continue exporting other files?"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Uploading"
+msgstr "Uploading"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Uploading speed depends on the quality of your network."
+msgstr "Uploading speed depends on the quality of your network."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid " Please check the network settings or personal account permission settings and try to upload again."
+msgstr " Please check the network settings or personal account permission settings and try to upload again."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Open Folder"
+msgstr "Open Folder"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Do nothing"
+msgstr "Do nothing"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Thumbnail upload failed."
+msgstr "Thumbnail upload failed."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Resume"
+msgstr "Resume"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+msgstr "The maximum number of custom thumbnails per day has been reached, please try uploading again after 24 hours."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Shut down computer"
+msgstr "Shut down computer"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload failed. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Upload Failed"
+msgstr "Upload Failed"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Unknown reason, please try to restart the software or upgrade the software."
+msgstr "Unknown reason, please try to restart the software or upgrade the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Automatically delete video exported to local"
+msgstr "Automatically delete video exported to local"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+msgstr "Upload limited. Please try again or export the video to your local computer and upload from outside the software."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Authorization denied. Please sign in to your %1 account to proceed. "
+msgstr "Authorization denied. Please sign in to your %1 account to proceed. "
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Uploaded Successfully"
+msgstr "Uploaded Successfully"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Converting"
+msgstr "Converting"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "To upload videos,you have to create at least one channel on you Google/YouTube account. Google \"Create a YouTube channel \"to seek official support of YouTube."
+msgstr "To upload videos,you have to create at least one channel on you Google/YouTube account. Google \"Create a YouTube channel \"to seek official support of YouTube."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Your YouTube account authorization has expired. Please log in again and authorize."
+msgstr "Your YouTube account authorization has expired. Please log in again and authorize."
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Your account doesn't have permissions to upload and set custom video thumbnails.%1"
+msgstr "Your account doesn't have permissions to upload and set custom video thumbnails.%1"
+
+#: 
+msgctxt "FUploadProgressDlg-version1"
+msgid "Sound reminder"
+msgstr "Sound reminder"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "ESC"
+msgstr "ESC"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "⌥+Left Click"
+msgstr "⌥+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Alt+Scroll Up/Down"
+msgstr "Alt+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "⌘+Left Click"
+msgstr "⌘+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Alt+Left Click"
+msgstr "Alt+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Scroll Up/Down"
+msgstr "Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "⌘+Scroll Up/Down"
+msgstr "⌘+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "⇧+Scroll Up/Down"
+msgstr "⇧+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "⌥+Scroll Up/Down"
+msgstr "⌥+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Shift+Scroll Up/Down"
+msgstr "Shift+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Alt+Mouse Drag"
+msgstr "Alt+Mouse Drag"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Ctrl+Scroll Up/Down"
+msgstr "Ctrl+Scroll Up/Down"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "Ctrl+Left Click"
+msgstr "Ctrl+Left Click"
+
+#: 
+msgctxt "FShortCutItemWid-version1"
+msgid "⌥+Mouse Drag"
+msgstr "⌥+Mouse Drag"
+
+#: 
+msgctxt "FClipperTextEdit-version1"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "FClipperTextEdit-version1"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FClipperTextEdit-version1"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FClipperTextEdit-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FClipperTextEdit-version1"
+msgid "No content to be removed!"
+msgstr "No content to be removed!"
+
+#: 
+msgctxt "FClipperTextEdit-version1"
+msgid "The search field is empty, please re-enter the content you want to search for."
+msgstr "The search field is empty, please re-enter the content you want to search for."
+
+#: 
+msgctxt "FFTextEdit-version1"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "FFTextEdit-version1"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "FFTextEdit-version1"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "FFTextEdit-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FFTextEdit-version1"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "QCocoaMenuItem-version1"
+msgid "Cut"
+msgstr "Cut"
+
+#: 
+msgctxt "QCocoaMenuItem-version1"
+msgid "Copy"
+msgstr "Copy"
+
+#: 
+msgctxt "QCocoaMenuItem-version1"
+msgid "Paste"
+msgstr "Paste"
+
+#: 
+msgctxt "QCocoaMenuItem-version1"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "FFCropEditView-version1"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FFCropEditView-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyDoubleColorSelectorComponent-version1"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FPropertyDoubleColorSelectorComponent-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version1"
+msgid "End"
+msgstr "End"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version1"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version1"
+msgid "Angle"
+msgstr "Angle"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version1"
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgctxt "FPropertyShapeBasicFillWidget-version1"
+msgid "Opacity"
+msgstr "Opacity"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version1"
+msgid "Eye"
+msgstr "Eye"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version1"
+msgid "Face"
+msgstr "Face"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version1"
+msgid "Nose"
+msgstr "Nose"
+
+#: 
+msgctxt "FPropertyBeautifyEffectWidget-version1"
+msgid "Beauty"
+msgstr "Beauty"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Pan"
+msgstr "Pan"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Redo"
+msgstr "Redo"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Undo"
+msgstr "Undo"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Toggle Transparency Grid"
+msgstr "Toggle Transparency Grid"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Toggle Alpha"
+msgstr "Toggle Alpha"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Toggle Transparency Black"
+msgstr "Toggle Transparency Black"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Eraser"
+msgstr "Eraser"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Toggle Alpha Overlay"
+msgstr "Toggle Alpha Overlay"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Mask Areas to Remove"
+msgstr "Mask Areas to Remove"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Zoom Level - Fit:"
+msgstr "Zoom Level - Fit:"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Mask Areas to Keep"
+msgstr "Mask Areas to Keep"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Invert Mask"
+msgstr "Invert Mask"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Preview Mode"
+msgstr "Preview Mode"
+
+#: 
+msgctxt "FFSmartKeyingHeaderToolBar-version1"
+msgid "Overlay Color"
+msgstr "Overlay Color"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "LUT"
+msgstr "LUT"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Fill"
+msgstr "Fill"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "List"
+msgstr "List"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Tone"
+msgstr "Tone"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Light"
+msgstr "Light"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Auto Enhance"
+msgstr "Auto Enhance"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Smart Cutout"
+msgstr "Smart Cutout"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+

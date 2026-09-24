@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPurchaseDialog-version1"
+msgid "If you haven't yet, "
+msgstr "If you haven't yet, "
+
+#: 
+msgctxt "FPurchaseDialog-version1"
+msgid "Network error, please check network settings or try again."
+msgstr "Network error, please check network settings or try again."
+
+#: 
+msgctxt "FPurchaseDialog-version1"
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgctxt "FPurchaseDialog-version1"
+msgid "If you have made any purchase, please log in to activate the authorization."
+msgstr "If you have made any purchase, please log in to activate the authorization."
+
+#: 
+msgctxt "FPurchaseDialog-version1"
+msgid "click here to buy."
+msgstr "click here to buy."
+
+#: 
+msgctxt "FPurchaseDialog-version1"
+msgid "If you have purchased Filmora X, you can now export without a watermark!"
+msgstr "If you have purchased Filmora X, you can now export without a watermark!"
+
+#: 
+msgctxt "FTextToVideoVoiceRenameDlg-version1"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "FTextToVideoVoiceRenameDlg-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FTextToVideoVoiceRenameDlg-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FVCGMediaFilterDialog-version1"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "FVCGMediaFilterDialog-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FFAudioAdjusterCtrl-version1"
+msgid "dB"
+msgstr "dB"
+
+#: 
+msgctxt "FFMasterAudioAdjustCtrl-version1"
+msgid "dB"
+msgstr "dB"
+
+#: 
+msgctxt "FFMasterAudioAdjustCtrl-version1"
+msgid "Master"
+msgstr "Master"
+
+#: 
+msgctxt "FFTimeView-version1"
+msgid "hr"
+msgstr "hr"
+
+#: 
+msgctxt "FFTimeView-version1"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "FFTimeView-version1"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FCommonInfoPageManager-version1"
+msgid "on"
+msgstr "on"
+
+#: 
+msgctxt "FCommonInfoPageManager-version1"
+msgid "Shot by"
+msgstr "Shot by"
+
+#: 
+msgctxt "FCommonInfoPageManager-version1"
+msgid "unnamed"
+msgstr "unnamed"
+
+#: 
+msgctxt "FCommonInfoPageManager-version1"
+msgid "Photo by"
+msgstr "Photo by"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "or"
+msgstr "or"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Try AI Music!"
+msgstr "Try AI Music!"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Try AI Sticker!"
+msgstr "Try AI Sticker!"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Didn't find the right music? I want to %1 or try %2!"
+msgstr "Didn't find the right music? I want to %1 or try %2!"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Didn't find the right Stickers?"
+msgstr "Didn't find the right Stickers?"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Didn't find the right music?"
+msgstr "Didn't find the right music?"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "AI Sticker"
+msgstr "AI Sticker"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "AI Music"
+msgstr "AI Music"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Make a suggestion"
+msgstr "Make a suggestion"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "I want to"
+msgstr "I want to"
+
+#: 
+msgctxt "FDemandToast-version1"
+msgid "Can't find the resources you want?"
+msgstr "Can't find the resources you want?"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "or"
+msgstr "or"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "There is no result for \"%1\" in %2"
+msgstr "There is no result for \"%1\" in %2"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Try to search in %1"
+msgstr "Try to search in %1"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Try to search in Filmora online resources"
+msgstr "Try to search in Filmora online resources"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Stickers"
+msgstr "Stickers"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Filters"
+msgstr "Filters"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Stock Media"
+msgstr "Stock Media"
+
+#: 
+msgctxt "FFKeywordEstimateHelper-version1"
+msgid "Wondershare Filmstock"
+msgstr "Wondershare Filmstock"
+
+#: 
+msgctxt "FAnimationCustomizeView-version1"
+msgid "°"
+msgstr "°"
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidgetClass-version1"
+msgid "..."
+msgstr "..."
+
+#: 
+msgctxt "FPropertyStabilizationStackedWidgetClass-version1"
+msgid "TextLabel"
+msgstr "TextLabel"
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidgetClass-version1"
+msgid "..."
+msgstr "..."
+
+#: 
+msgctxt "FPropertyVideoBackgroundWidgetClass-version1"
+msgid "FPropertyVideoBackgroundWidgetWidget"
+msgstr "FPropertyVideoBackgroundWidgetWidget"
+
+#: 
+msgctxt "FImportFilesDialog-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FImportFilesDialog-version1"
+msgid "Imported Media"
+msgstr "Imported Media"
+
+#: 
+msgctxt "FImportFilesDialog-version1"
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgctxt "FImportFilesDialog-version1"
+msgid "Add Media"
+msgstr "Add Media"
+
+#: 
+msgctxt "FIntroTemplateVeidoEditListItem-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FIntroTemplateVeidoEditListItem-version1"
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgctxt "FIntroTemplateVeidoEditListItem-version1"
+msgid "1080*1080px recommended"
+msgstr "1080*1080px recommended"
+
+#: 
+msgctxt "FIntroTemplateVeidoEditListItem-version1"
+msgid "1920*1080 Recommended"
+msgstr "1920*1080 Recommended"
+
+#: 
+msgctxt "FPropertyColorBasicLutWidget-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FPropertyColorBasicLutWidget-version1"
+msgid "Lut Preset"
+msgstr "Lut Preset"
+
+#: 
+msgctxt "FPropertyColorBasicLutWidget-version1"
+msgid "skinProtect"
+msgstr "skinProtect"
+
+#: 
+msgctxt "FPropertyColorBasicLutWidget-version1"
+msgid "Turns on for a more natural skin tone"
+msgstr "Turns on for a more natural skin tone"
+
+#: 
+msgctxt "FPropertyColorBasicLutWidget-version1"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+msgctxt "FSubtitleEmptyListWidget-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FSubtitleEmptyListWidget-version1"
+msgid "Subtitles are empty, please click to add subtitles"
+msgstr "Subtitles are empty, please click to add subtitles"
+
+#: 
+msgctxt "FSubtitleListMask-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FSubtitleListMask-version1"
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgctxt "FWccDocView-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "FWccDocView-version1"
+msgid "Backup to the Cloud"
+msgstr "Backup to the Cloud"
+
+#: 
+msgctxt "FWccDocView-version1"
+msgid "Please add a network drive"
+msgstr "Please add a network drive"
+
+#: 
+msgctxt "LineEditWithClearBtn-version1"
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgctxt "LineEditWithClearBtn-version1"
+msgid "Add Shortcut"
+msgstr "Add Shortcut"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Instant Mode"
+msgstr "Instant Mode"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Instant Cutter"
+msgstr "Instant Cutter"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Update to Go"
+msgstr "Update to Go"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Auto Beat Sync"
+msgstr "Auto Beat Sync"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Voice Cloning"
+msgstr "AI Voice Cloning"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Copywriting"
+msgstr "AI Copywriting"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Text Based Editing"
+msgstr "AI Text Based Editing"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Portrait Cutout"
+msgstr "AI Portrait Cutout"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Toolbox"
+msgstr "AI Toolbox"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Text to Video"
+msgstr "AI Text to Video"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "AI Stylizer"
+msgstr "AI Stylizer"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "Silence Detection"
+msgstr "Silence Detection"
+
+#: 
+msgctxt "FAIToolboxWidget-version1"
+msgid "New Features"
+msgstr "New Features"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "There are no files in this folder"
+msgstr "There are no files in this folder"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "No network connection currently, please check the network and %1"
+msgstr "No network connection currently, please check the network and %1"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "File loading, please wait..."
+msgstr "File loading, please wait..."
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "Filter by file type"
+msgstr "Filter by file type"
+
+#: 
+msgctxt "FCloudDiskFileWidget-version1"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "All"
+msgstr "All"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FFTransferCenterToolbar-version1"
+msgid "Image"
+msgstr "Image"
+

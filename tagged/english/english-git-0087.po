@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Active Words"
+msgstr "Active Words"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+msgstr "When there are multiple tracks of media present at the same time, only the video and picture of the top track are applied."
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Color Match"
+msgstr "Color Match"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Adjust"
+msgstr "Adjust"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Border"
+msgstr "Border"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Ripple"
+msgstr "Ripple"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "White Balance"
+msgstr "White Balance"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Shadow"
+msgstr "Shadow"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Chroma Key"
+msgstr "Chroma Key"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Text Layer"
+msgstr "Text Layer"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Video Denoise"
+msgstr "Video Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "AI Portrait"
+msgstr "AI Portrait"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Draw Mask"
+msgstr "Draw Mask"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "AI Image Stylizer"
+msgstr "AI Image Stylizer"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Denoise"
+msgstr "Denoise"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Key Words"
+msgstr "Key Words"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Adjustment"
+msgstr "Adjustment"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Remove Background"
+msgstr "Remove Background"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Lens Correction"
+msgstr "Lens Correction"
+
+#: 
+msgctxt "FPropertyGroup-version1"
+msgid "Vignette"
+msgstr "Vignette"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "HSL"
+msgstr "HSL"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Mask"
+msgstr "Mask"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Animation"
+msgstr "Animation"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Color"
+msgstr "Color"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Layer"
+msgstr "Layer"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Color Wheels"
+msgstr "Color Wheels"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Speed Ramping"
+msgstr "Speed Ramping"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Static Beautify"
+msgstr "Static Beautify"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Templates"
+msgstr "Templates"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Curves"
+msgstr "Curves"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Voice Changer"
+msgstr "Voice Changer"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Titles"
+msgstr "Titles"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "3D Basic"
+msgstr "3D Basic"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Transitions"
+msgstr "Transitions"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Customize"
+msgstr "Customize"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "AI Tools"
+msgstr "AI Tools"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "Template"
+msgstr "Template"
+
+#: 
+msgctxt "FPropertyHeader-version1"
+msgid "3D Animation"
+msgstr "3D Animation"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version1"
+msgid "Hue"
+msgstr "Hue"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version1"
+msgid "Luminance"
+msgstr "Luminance"
+
+#: 
+msgctxt "FPropertyColorHSLWidget-version1"
+msgid "Saturation"
+msgstr "Saturation"
+
+#: 
+msgctxt "FThumbnailSelectItem-version1"
+msgid "NEW"
+msgstr "NEW"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Low"
+msgstr "Low"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Best"
+msgstr "Best"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "High"
+msgstr "High"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+msgstr "When the current device meets the GPU accelerationb conditions and the video encoding is H264 / HEVC,you can select the HDR color space for export."
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Audio"
+msgstr "Audio"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Image"
+msgstr "Image"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "RESET"
+msgstr "RESET"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Low bit rate will reduce video quality."
+msgstr "Low bit rate will reduce video quality."
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Stable Bitrate And Easy Size Calculation"
+msgstr "Stable Bitrate And Easy Size Calculation"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Sample Rate:"
+msgstr "Sample Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Resolution:"
+msgstr "Resolution:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "The most common compression method"
+msgstr "The most common compression method"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Better"
+msgstr "Better"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Encoder:"
+msgstr "Encoder:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Custom"
+msgstr "Custom"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Compression Quality:"
+msgstr "Compression Quality:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Medium"
+msgstr "Medium"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Preset"
+msgstr "Preset"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Stereo"
+msgstr "Stereo"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "VBR (Variable Bitrate)"
+msgstr "VBR (Variable Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Bit Rate:"
+msgstr "Bit Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Frame Rate:"
+msgstr "Frame Rate:"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "CBR (Constant Bitrate)"
+msgstr "CBR (Constant Bitrate)"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Quality"
+msgstr "Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "5.1 Surround Sound"
+msgstr "5.1 Surround Sound"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Low Compression And High Quality"
+msgstr "Low Compression And High Quality"
+
+#: 
+msgctxt "FExportSettingDlg-version1"
+msgid "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+msgstr "Bit rate determines the quality and size of videos.Higher quality will keep more image details.Lower quality could reduce video size."
+

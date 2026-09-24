@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "You can upload this video to TikTok"
+msgstr "You can upload this video to TikTok"
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "1.The size of the uploaded video file must be less than or equal to 4GB.\n"
+"2.The duration of the video file must be at least 3 seconds and shorter than or equal to 10 minutes."
+msgstr "1.The size of the uploaded video file must be less than or equal to 4GB.\n"
+"2.The duration of the video file must be at least 3 seconds and shorter than or equal to 10 minutes."
+
+#: 
+msgctxt "FExportTikTokPanel-version1"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Tags:"
+msgstr "Tags:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "People I follow on Vimeo"
+msgstr "People I follow on Vimeo"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Please click the \"Sign in\" button to access your Vimeo account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your Vimeo account before you upload the video."
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Anyone"
+msgstr "Anyone"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "You can upload this video to Vimeo"
+msgstr "You can upload this video to Vimeo"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Only me"
+msgstr "Only me"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Your upload to Vimeo has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+msgstr "Your upload to Vimeo has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FExportVimeoPanel-version1"
+msgid "Viewable by:"
+msgstr "Viewable by:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Tags:"
+msgstr "Tags:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Your upload to YouTube has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+msgstr "Your upload to YouTube has failed, but the video has saved succssfuly in hard disk.  Please log in your YouTube account again and try to upload again."
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Enable GPU accelerated video encoding"
+msgstr "Enable GPU accelerated video encoding"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "You can upload this video to YouTube"
+msgstr "You can upload this video to YouTube"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "The content cannot contain any of the following characters:< >"
+msgstr "The content cannot contain any of the following characters:< >"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Public"
+msgstr "Public"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Size1:"
+msgstr "Size1:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Title:"
+msgstr "Title:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Created with Wondershare Filmora"
+msgstr "Created with Wondershare Filmora"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Private"
+msgstr "Private"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Duration:"
+msgstr "Duration:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+msgstr "Please click the \"Sign in\" button to access your YouTube account before you upload the video."
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Privacy:"
+msgstr "Privacy:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "OPEN FILE"
+msgstr "OPEN FILE"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Category:"
+msgstr "Category:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "My Video"
+msgstr "My Video"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Quality:"
+msgstr "Quality:"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "FExportYouTubePanel-version1"
+msgid "Export Color Space:"
+msgstr "Export Color Space:"
+
+#: 
+msgctxt "FFAccountBalanceCloseCheckFilter-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFAccountBalanceCloseCheckFilter-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Audio Device"
+msgstr "Audio Device"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Input"
+msgstr "Input"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Mute Project"
+msgstr "Mute Project"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "No Device"
+msgstr "No Device"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Count Down"
+msgstr "Count Down"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Input Audio"
+msgstr "Input Audio"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Stop (%1)"
+msgstr "Stop (%1)"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Record Time"
+msgstr "Record Time"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "The recording is too short. Data cannot be saved."
+msgstr "The recording is too short. Data cannot be saved."
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Please check whether you have permission to write or read on the path, or choose other path to create."
+msgstr "Please check whether you have permission to write or read on the path, or choose other path to create."
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Start (%1)"
+msgstr "Start (%1)"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Save to"
+msgstr "Save to"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Audio device %1 connection lost."
+msgstr "Audio device %1 connection lost."
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Your audio has been added to the timeline and media library."
+msgstr "Your audio has been added to the timeline and media library."
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "There is only %1MB space in the specified output directory, Would you choose another directory?"
+msgstr "There is only %1MB space in the specified output directory, Would you choose another directory?"
+
+#: 
+msgctxt "FFAudioRecordPanel-version1"
+msgid "Refresh Device"
+msgstr "Refresh Device"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "Open"
+msgstr "Open"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "Authorization failed, please click authorization again!"
+msgstr "Authorization failed, please click authorization again!"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "Wondershare Privacy Policy"
+msgstr "Wondershare Privacy Policy"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "I accept"
+msgstr "I accept"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "Open cloud storage and get cloud space for free."
+msgstr "Open cloud storage and get cloud space for free."
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "Upload media files to the cloud for backup and sharing."
+msgstr "Upload media files to the cloud for backup and sharing."
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "End User License Agreement"
+msgstr "End User License Agreement"
+
+#: 
+msgctxt "FFCloudDiskActivateDialog-version1"
+msgid "Please Agree to Our Policy First"
+msgstr "Please Agree to Our Policy First"
+
+#: 
+msgctxt "FFColorMatchWidget-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFColorMatchWidget-version1"
+msgid "Match"
+msgstr "Match"
+
+#: 
+msgctxt "FFColorMatchWidget-version1"
+msgid "Select to a frame here to match to"
+msgstr "Select to a frame here to match to"
+
+#: 
+msgctxt "FFColorMatchWidget-version1"
+msgid "Current"
+msgstr "Current"
+
+#: 
+msgctxt "FFColorMatchWidget-version1"
+msgid "Reference"
+msgstr "Reference"
+
+#: 
+msgctxt "FFColorMatchWidget-version1"
+msgid "Matching..."
+msgstr "Matching..."
+
+#: 
+msgctxt "FFCommonTipDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFGuideLineSetDialog-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFGuideLineSetDialog-version1"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Automatically close the window after seconds"
+msgstr "Automatically close the window after seconds"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Device Auth Failed!"
+msgstr "Device Auth Failed!"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Page Did Not Load"
+msgstr "Page Did Not Load"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Verifing Scheme Plan..."
+msgstr "Verifing Scheme Plan..."
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Automatically close the window after 3 seconds"
+msgstr "Automatically close the window after 3 seconds"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Personal member: 3 devices can be bound every 30 days"
+msgstr "Personal member: 3 devices can be bound every 30 days"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Warning:"
+msgstr "Warning:"
+
+#: 
+msgctxt "FFPromptsWithLoadingRing-version1"
+msgid "Logging in..."
+msgstr "Logging in..."
+

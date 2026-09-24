@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bounce to zoom in 1"
+msgstr "Bounce to zoom in 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bounce to zoom in 2"
+msgstr "Bounce to zoom in 2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Filmora does not have access to your Photos Library."
+msgstr "Filmora does not have access to your Photos Library."
+
+#: 
+msgctxt "QObject-version1"
+msgid "interval_flashing"
+msgstr "interval_flashing"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unable to record due to an issue with the device."
+msgstr "Unable to record due to an issue with the device."
+
+#: 
+msgctxt "QObject-version1"
+msgid "You have got %1-Day free trial, redeem now and enjoy more."
+msgstr "You have got %1-Day free trial, redeem now and enjoy more."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export selected range"
+msgstr "Export selected range"
+
+#: 
+msgctxt "QObject-version1"
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (Widescreen)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "TRY AGAIN"
+msgstr "TRY AGAIN"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Upload failure"
+msgstr "Upload failure"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Key Frame"
+msgstr "Key Frame"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Wavy Disappearance"
+msgstr "Wavy Disappearance"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Custom LUT"
+msgstr "Custom LUT"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Doorway"
+msgstr "Doorway"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No Animation"
+msgstr "No Animation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Jump from Below"
+msgstr "Jump from Below"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Audio Effect-Echo"
+msgstr "Audio Effect-Echo"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Speech Enhancement"
+msgstr "AI Speech Enhancement"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Urdu (Pakistan)"
+msgstr "Urdu (Pakistan)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select clip error, please select again"
+msgstr "Select clip error, please select again"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Wavy style"
+msgstr "Wavy style"
+
+#: 
+msgctxt "QObject-version1"
+msgid "LinearWipe"
+msgstr "LinearWipe"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ease in"
+msgstr "Ease in"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Trim Start To Playhead"
+msgstr "Trim Start To Playhead"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Strength"
+msgstr "Strength"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Beautify"
+msgstr "Beautify"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uParticleSize_end"
+msgstr "uParticleSize_end"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Text to Video"
+msgstr "Text to Video"
+
+#: 
+msgctxt "QObject-version1"
+msgid "B&&W Film"
+msgstr "B&&W Film"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Characters Disappear"
+msgstr "Characters Disappear"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Window Shades"
+msgstr "Window Shades"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You have already activated the free trial, enjoy it, please ignore the message"
+msgstr "You have already activated the free trial, enjoy it, please ignore the message"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select All"
+msgstr "Select All"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Right Dir Insert"
+msgstr "Right Dir Insert"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VFX Text"
+msgstr "VFX Text"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Character Fluctuation Amplification"
+msgstr "Character Fluctuation Amplification"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Keyframe Panel"
+msgstr "Keyframe Panel"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Korean (Korea)"
+msgstr "Korean (Korea)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Stabilization"
+msgstr "Stabilization"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Domain Warping"
+msgstr "Domain Warping"
+
+#: 
+msgctxt "QObject-version1"
+msgid "the file is larger than an hour"
+msgstr "the file is larger than an hour"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Radial Circle Color"
+msgstr "Radial Circle Color"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Click to listen to the song online"
+msgstr "Click to listen to the song online"
+
+#: 
+msgctxt "QObject-version1"
+msgid "FeedBack"
+msgstr "FeedBack"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Network Proxy Settings"
+msgstr "Network Proxy Settings"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Update Forever"
+msgstr "Update Forever"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Delete Preview Render Files"
+msgstr "Delete Preview Render Files"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Transition Color Pop-up"
+msgstr "Transition Color Pop-up"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Create a video"
+msgstr "Create a video"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Render Preview"
+msgstr "Render Preview"
+
+#: 
+msgctxt "QObject-version1"
+msgid "(Default)"
+msgstr "(Default)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vignette Radius"
+msgstr "Vignette Radius"
+
+#: 
+msgctxt "QObject-version1"
+msgid "NLog 709 Cinematic"
+msgstr "NLog 709 Cinematic"
+
+#: 
+msgctxt "QObject-version1"
+msgid "distortion_intensity"
+msgstr "distortion_intensity"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Effects"
+msgstr "Effects"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The template has been saved to the \"Custom\" directory."
+msgstr "The template has been saved to the \"Custom\" directory."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export Settings"
+msgstr "Export Settings"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Validating activation status, please wait for a while..."
+msgstr "Validating activation status, please wait for a while..."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Previous Edit"
+msgstr "Previous Edit"
+
+#: 
+msgctxt "QObject-version1"
+msgid "rough cut"
+msgstr "rough cut"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Frosted Level"
+msgstr "Frosted Level"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Please name file"
+msgstr "Please name file"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select a clip to apply the motion."
+msgstr "Select a clip to apply the motion."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Project End"
+msgstr "Project End"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Product FAQ"
+msgstr "Product FAQ"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Vertical Rotation Appears"
+msgstr "Vertical Rotation Appears"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Get Availabel frequence Error"
+msgstr "Get Availabel frequence Error"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Social Media"
+msgstr "Social Media"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Beauty Skin"
+msgstr "Beauty Skin"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Project Settings"
+msgstr "Project Settings"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Shrink Cheekbone"
+msgstr "Shrink Cheekbone"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Video Wall"
+msgstr "Video Wall"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Check for Update"
+msgstr "Check for Update"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uShowCoreLine"
+msgstr "uShowCoreLine"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Move to upper left"
+msgstr "Move to upper left"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Move to lower left"
+msgstr "Move to lower left"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You are temporarily unable to continue downloading resources from POND5. Download permissions for these resources will be reset tomorrow."
+msgstr "You are temporarily unable to continue downloading resources from POND5. Download permissions for these resources will be reset tomorrow."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Argentina)"
+msgstr "Spanish (Argentina)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Open Canthus"
+msgstr "Open Canthus"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade in Shake"
+msgstr "Fade in Shake"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unrecognized file content."
+msgstr "Unrecognized file content."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Up Roll"
+msgstr "Up Roll"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Trim End To Playhead"
+msgstr "Trim End To Playhead"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Failed. Insufficient Cloud space."
+msgstr "Failed. Insufficient Cloud space."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Elegant"
+msgstr "Elegant"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bullet time"
+msgstr "Bullet time"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Auto Reframe"
+msgstr "Auto Reframe"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Split View-Top/Bottom"
+msgstr "Split View-Top/Bottom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Install Computer Audio Driver"
+msgstr "Install Computer Audio Driver"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Trembling"
+msgstr "Trembling"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Multiple"
+msgstr "Multiple"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Download failed. Network connection problems."
+msgstr "Download failed. Network connection problems."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Reminder"
+msgstr "Reminder"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Lower Left"
+msgstr "Lower Left"
+

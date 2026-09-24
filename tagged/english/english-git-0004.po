@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Batch analysis in progress"
+msgstr "Batch analysis in progress"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Network connection is broken"
+msgstr "Network connection is broken"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You can go to the %1 and try to apply the download resource."
+msgstr "You can go to the %1 and try to apply the download resource."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Radio Explike FX"
+msgstr "Radio Explike FX"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+msgstr "Beats analyzed. \n"
+"Drag and drop the music to the timeline to see beat markers."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Beat Options"
+msgstr "Beat Options"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Start Number"
+msgstr "Start Number"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Open Project"
+msgstr "Open Project"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Watermark Plan Right 1"
+msgstr "Watermark Plan Right 1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: 
+msgctxt "QObject-version1"
+msgid "rotate_end_angle"
+msgstr "rotate_end_angle"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Source Width"
+msgstr "Source Width"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Align up"
+msgstr "Align up"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import and preview your media within the library, then easily drag and drop clips into the timeline for editing."
+msgstr "Import and preview your media within the library, then easily drag and drop clips into the timeline for editing."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Calling 01"
+msgstr "Calling 01"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Export Templates"
+msgstr "Export Templates"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flip Up1"
+msgstr "Flip Up1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flip Up2"
+msgstr "Flip Up2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Watermark Plan Name"
+msgstr "Watermark Plan Name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blinking"
+msgstr "Blinking"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Transcription  failure"
+msgstr "Transcription  failure"
+
+#: 
+msgctxt "QObject-version1"
+msgid "accum_ratio"
+msgstr "accum_ratio"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Unlock 10M+ Creative Assets for free"
+msgstr "Unlock 10M+ Creative Assets for free"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Uniform Speed"
+msgstr "Uniform Speed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Failed to open"
+msgstr "Failed to open"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Don't show this again"
+msgstr "Don't show this again"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Account Permission"
+msgstr "Account Permission"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Record PC Screen"
+msgstr "Record PC Screen"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Submission failed, please try again"
+msgstr "Submission failed, please try again"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VCR Distortion"
+msgstr "VCR Distortion"
+
+#: 
+msgctxt "QObject-version1"
+msgid "The recorded audio will be lost after closing and the audio needs to be recorded again."
+msgstr "The recorded audio will be lost after closing and the audio needs to be recorded again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Compress media"
+msgstr "Compress media"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Apply to All"
+msgstr "Apply to All"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Gradient Color1"
+msgstr "Gradient Color1"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Gradient Color2"
+msgstr "Gradient Color2"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+msgstr "Login Succeeded! \n"
+"Loading your account info,please wait for a while."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Screen Recorder"
+msgstr "Screen Recorder"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Scatter and Fly out"
+msgstr "Scatter and Fly out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Preview rendered files for the current project file will not be deleted."
+msgstr "Preview rendered files for the current project file will not be deleted."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Enterprise Plan Name"
+msgstr "Enterprise Plan Name"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Are you sure to delete all material?"
+msgstr "Are you sure to delete all material?"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Loading"
+msgstr "Loading"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import Media"
+msgstr "Import Media"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uploading"
+msgstr "uploading"
+
+#: 
+msgctxt "QObject-version1"
+msgid "transcode failed"
+msgstr "transcode failed"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Log Out"
+msgstr "Log Out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You've chosen the same aspect ratio as the original video. Please select a different aspect ratio."
+msgstr "You've chosen the same aspect ratio as the original video. Please select a different aspect ratio."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Luma Sharp"
+msgstr "Luma Sharp"
+
+#: 
+msgctxt "QObject-version1"
+msgid "5 ~ 30 min"
+msgstr "5 ~ 30 min"
+
+#: 
+msgctxt "QObject-version1"
+msgid "There is no replaceable clip, you can edit the text."
+msgstr "There is no replaceable clip, you can edit the text."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Center X"
+msgstr "Blur Center X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur Center Y"
+msgstr "Blur Center Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Follow the"
+msgstr "Follow the"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flame Size"
+msgstr "Flame Size"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Flame Type"
+msgstr "Flame Type"
+
+#: 
+msgctxt "QObject-version1"
+msgid "AI Translation"
+msgstr "AI Translation"
+
+#: 
+msgctxt "QObject-version1"
+msgid "3D LUT"
+msgstr "3D LUT"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cinema 21:9"
+msgstr "Cinema 21:9"
+
+#: 
+msgctxt "QObject-version1"
+msgid "uSinRadius"
+msgstr "uSinRadius"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Please free up space or adjust the Media Cache settings."
+msgstr "Please free up space or adjust the Media Cache settings."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Motion Tracking"
+msgstr "Motion Tracking"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Submitted successfully."
+msgstr "Submitted successfully."
+
+#: 
+msgctxt "QObject-version1"
+msgid "There is too much text you entered, please enter it in multiple text boxes."
+msgstr "There is too much text you entered, please enter it in multiple text boxes."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Spanish (Panama)"
+msgstr "Spanish (Panama)"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Add Freeze Frame"
+msgstr "Add Freeze Frame"
+
+#: 
+msgctxt "QObject-version1"
+msgid "BBlurIntension"
+msgstr "BBlurIntension"
+
+#: 
+msgctxt "QObject-version1"
+msgid "GBlurIntension"
+msgstr "GBlurIntension"
+
+#: 
+msgctxt "QObject-version1"
+msgid "RBlurIntension"
+msgstr "RBlurIntension"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Properties Panel"
+msgstr "Properties Panel"
+
+#: 
+msgctxt "QObject-version1"
+msgid "You are welcome to try out the English version of the Avatar Presentation plugin."
+msgstr "You are welcome to try out the English version of the Avatar Presentation plugin."
+
+#: 
+msgctxt "QObject-version1"
+msgid "30 ~ 60 min"
+msgstr "30 ~ 60 min"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ultra-clear Screen Recording"
+msgstr "Ultra-clear Screen Recording"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Click to login"
+msgstr "Click to login"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: 
+msgctxt "QObject-version1"
+msgid "About Wondershare ID"
+msgstr "About Wondershare ID"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Zoom in and out"
+msgstr "Zoom in and out"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Click to Apply"
+msgstr "Click to Apply"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Center Gradually Appears"
+msgstr "Center Gradually Appears"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Making changes in Uniform Speed will override the changes made in Speed Ramping."
+msgstr "Making changes in Uniform Speed will override the changes made in Speed Ramping."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Roll clockwise"
+msgstr "Roll clockwise"
+
+#: 
+msgctxt "QObject-version1"
+msgid ". You can change this app's authority to access your Google Account via"
+msgstr ". You can change this app's authority to access your Google Account via"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Activate Wondershare Filmora X"
+msgstr "Activate Wondershare Filmora X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "GreenScreen"
+msgstr "GreenScreen"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Please make sure the output folder has the read and write permission."
+msgstr "Please make sure the output folder has the read and write permission."
+
+#: 
+msgctxt "QObject-version1"
+msgid "\"&&__&&\" download failed, please try again later!"
+msgstr "\"&&__&&\" download failed, please try again later!"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select all Keyframes"
+msgstr "Select all Keyframes"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Clear All KeyFrames"
+msgstr "Clear All KeyFrames"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Failed. Please try again."
+msgstr "Failed. Please try again."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Stretch to left"
+msgstr "Stretch to left"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Sorry, the item you choose has been taken down by the supplier.You could download other items.Thanks for your comprehension."
+msgstr "Sorry, the item you choose has been taken down by the supplier.You could download other items.Thanks for your comprehension."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Special Offer!"
+msgstr "Special Offer!"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Select All Text in Text Template"
+msgstr "Select All Text in Text Template"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Drag to the timeline to apply"
+msgstr "Drag to the timeline to apply"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Delete Voice"
+msgstr "Delete Voice"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Import with Instant Cutter Tool"
+msgstr "Import with Instant Cutter Tool"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Create Video"
+msgstr "Create Video"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Filmora does not have access to your Camera or Microphone."
+msgstr "Filmora does not have access to your Camera or Microphone."
+
+#: 
+msgctxt "QObject-version1"
+msgid "Trimming the clip now will remove any speed adjustments you made earlier."
+msgstr "Trimming the clip now will remove any speed adjustments you made earlier."
+

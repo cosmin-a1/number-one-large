@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: 
+msgctxt "FAiMusicTagsWidget-version1"
+msgid "Network error. Please check the network and try again!"
+msgstr "Network error. Please check the network and try again!"
+
+#: 
+msgctxt "FFSelectTagWidget-version1"
+msgid "Mood"
+msgstr "Mood"
+
+#: 
+msgctxt "FFSelectTagWidget-version1"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+msgctxt "FFSelectTagWidget-version1"
+msgid "Theme"
+msgstr "Theme"
+
+#: 
+msgctxt "FFSelectTagWidget-version1"
+msgid "Please select the music tag, such as happy, game, popular."
+msgstr "Please select the music tag, such as happy, game, popular."
+
+#: 
+msgctxt "FFMarkerEditPanel-version1"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FFMarkerEditPanel-version1"
+msgid "Time"
+msgstr "Time"
+
+#: 
+msgctxt "FFMarkerEditPanel-version1"
+msgid "Marker Color"
+msgstr "Marker Color"
+
+#: 
+msgctxt "FFMarkerEditPanel-version1"
+msgid "Add your comments here"
+msgstr "Add your comments here"
+
+#: 
+msgctxt "FFMarkerEditPanel-version1"
+msgid "Comment"
+msgstr "Comment"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "View"
+msgstr "View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Thumbnail View"
+msgstr "Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Small Thumbnail View"
+msgstr "Small Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Date Added"
+msgstr "Date Added"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Camera Name"
+msgstr "Camera Name"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Large Thumbnail View"
+msgstr "Large Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Category"
+msgstr "Category"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Media Created"
+msgstr "Media Created"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Group by"
+msgstr "Group by"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Descending"
+msgstr "Descending"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Ascending"
+msgstr "Ascending"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "List View"
+msgstr "List View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Sort by"
+msgstr "Sort by"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Date Used"
+msgstr "Date Used"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Middle Thumbnail View"
+msgstr "Middle Thumbnail View"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Updated Time"
+msgstr "Updated Time"
+
+#: 
+msgctxt "FMediaViewModeMenu-version1"
+msgid "Date Imported"
+msgstr "Date Imported"
+
+#: 
+msgctxt "FTimelineSharedClipPresenterPrivate-version1"
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgctxt "FTimelineSharedClipPresenterPrivate-version1"
+msgid "Compound Clip"
+msgstr "Compound Clip"
+
+#: 
+msgctxt "FFFunctionTipWidget-version1"
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgctxt "FFFunctionTipWidget-version1"
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgctxt "FFFunctionTipWidget-version1"
+msgid "Got it"
+msgstr "Got it"
+
+#: 
+msgctxt "FFFunctionTipWidget-version1"
+msgid "Learn More"
+msgstr "Learn More"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version1"
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version1"
+msgid "Not Now"
+msgstr "Not Now"
+
+#: 
+msgctxt "FFillUserDetaiInfoDialog-version1"
+msgid "Wondershare Filmora"
+msgstr "Wondershare Filmora"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version1"
+msgid "Save thumbnail as template"
+msgstr "Save thumbnail as template"
+
+#: 
+msgctxt "FCoverTemplateIconItemPainter-version1"
+msgid "Save as template"
+msgstr "Save as template"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version1"
+msgid "Copy right to left"
+msgstr "Copy right to left"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version1"
+msgid "Copy left to right"
+msgstr "Copy left to right"
+
+#: 
+msgctxt "FPropertyAudioChannelsListPresenter-version1"
+msgid "Flip left-right"
+msgstr "Flip left-right"
+
+#: 
+msgctxt "FPropertyColorBasicPresetWidget-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version1"
+msgid "Click Start Tracking"
+msgstr "Click Start Tracking"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version1"
+msgid "Add a mosaic"
+msgstr "Add a mosaic"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version1"
+msgid "Import from computer."
+msgstr "Import from computer."
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version1"
+msgid "Hide Target Box"
+msgstr "Hide Target Box"
+
+#: 
+msgctxt "FPropertyMotionTrackingPanel-version1"
+msgid "Show Target Box"
+msgstr "Show Target Box"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Zoom Away"
+msgstr "Zoom Away"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Twisty Ribbons"
+msgstr "Twisty Ribbons"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down and Rotate X"
+msgstr "3D Fly Down and Rotate X"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down and Rotate Y"
+msgstr "3D Fly Down and Rotate Y"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down and Rotate Z"
+msgstr "3D Fly Down and Rotate Z"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down and Rotate Random"
+msgstr "3D Fly Down and Rotate Random"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Back Flip"
+msgstr "Back Flip"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down and Rotate Y Random"
+msgstr "3D Fly Down and Rotate Y Random"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Jetstream"
+msgstr "Jetstream"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Somersault"
+msgstr "Somersault"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down 01"
+msgstr "3D Fly Down 01"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "3D Fly Down 02"
+msgstr "3D Fly Down 02"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Character Shuffle In"
+msgstr "Character Shuffle In"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Sequential Jump"
+msgstr "Sequential Jump"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Zoom Away and Rotate Y"
+msgstr "Zoom Away and Rotate Y"
+
+#: 
+msgctxt "FPropertyText3DAnimationModel-version1"
+msgid "Zoom Away and Rotate Z"
+msgstr "Zoom Away and Rotate Z"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "None"
+msgstr "None"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Shape"
+msgstr "Shape"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Background"
+msgstr "Background"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Items Selected"
+msgstr "Items Selected"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "More Text Options"
+msgstr "More Text Options"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Layers Selected"
+msgstr "Layers Selected"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Outline"
+msgstr "Outline"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Compositing"
+msgstr "Compositing"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Transform"
+msgstr "Transform"
+
+#: 
+msgctxt "FPropertyTitleSettingWidget-version1"
+msgid "Add a outline to this layer"
+msgstr "Add a outline to this layer"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Ok_1"
+msgstr "Ok_1"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Share"
+msgstr "Share"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Instant Mode Projects"
+msgstr "Instant Mode Projects"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Delete from Cloud"
+msgstr "Delete from Cloud"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Rename"
+msgstr "Rename"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Search"
+msgstr "Search"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Project does not exist: "
+msgstr "Project does not exist: "
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Download"
+msgstr "Download"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Switch to list mode"
+msgstr "Switch to list mode"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Cancel_1"
+msgstr "Cancel_1"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Refresh"
+msgstr "Refresh"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Not enough space. Please choose a new location."
+msgstr "Not enough space. Please choose a new location."
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Open File Location"
+msgstr "Open File Location"
+
+#: 
+msgctxt "FProjectLibraryWidget-version1"
+msgid "Files can be quickly backed up to the cloud!"
+msgstr "Files can be quickly backed up to the cloud!"
+
