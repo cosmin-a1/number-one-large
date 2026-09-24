@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "\"round4\""
+msgid "group_updated_by"
+msgstr "group_updated_by"
+
+#: some text
+msgctxt "\"round4\""
+msgid "group_updated_by_item_general"
+msgstr "group_updated_by_item_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "group_updated_by_general"
+msgstr "group_updated_by_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "color"
+msgstr "color"
+
+#: some text
+msgctxt "\"round4\""
+msgid "name"
+msgstr "name"
+
+#: some text
+msgctxt "\"round4\""
+msgid "photo"
+msgstr "photo"
+
+#: some text
+msgctxt "\"round4\""
+msgid "event_added_by"
+msgstr "event_added_by"
+
+#: some text
+msgctxt "\"round4\""
+msgid "event_updated_by"
+msgstr "event_updated_by"
+
+#: some text
+msgctxt "\"round4\""
+msgid "event_added_general"
+msgstr "event_added_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "event_updated_general"
+msgstr "event_updated_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "group_added_general"
+msgstr "group_added_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "event_removed_general"
+msgstr "event_removed_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "event_removed_by"
+msgstr "event_removed_by"
+
+#: some text
+msgctxt "\"round4\""
+msgid "yesterday"
+msgstr "yesterday"
+
+#: some text
+msgctxt "\"round4\""
+msgid "added_participant_general"
+msgstr "added_participant_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "added_participant"
+msgstr "added_participant"
+
+#: some text
+msgctxt "\"round4\""
+msgid "removed_participant_general"
+msgstr "removed_participant_general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "removed_participant"
+msgstr "removed_participant"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_are_now_admin"
+msgstr "you_are_now_admin"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_are_no_admin"
+msgstr "you_are_no_admin"
+
+#: some text
+msgctxt "\"round4\""
+msgid "rate"
+msgstr "rate"
+
+#: some text
+msgctxt "\"round4\""
+msgid "smart_alerts"
+msgstr "smart_alerts"
+
+#: some text
+msgctxt "\"round4\""
+msgid "general"
+msgstr "general"
+
+#: some text
+msgctxt "\"round4\""
+msgid "daily_agenda"
+msgstr "daily_agenda"
+
+#: some text
+msgctxt "\"round4\""
+msgid "tomorrows_agenda"
+msgstr "tomorrows_agenda"
+
+#: some text
+msgctxt "\"round4\""
+msgid "todays_agenda"
+msgstr "todays_agenda"
+
+#: some text
+msgctxt "\"round4\""
+msgid "today_agenda_title"
+msgstr "today_agenda_title"
+
+#: some text
+msgctxt "\"round4\""
+msgid "tomorrow_agenda_title"
+msgstr "tomorrow_agenda_title"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_can_select_only_from2to12"
+msgstr "you_can_select_only_from2to12"
+
+#: some text
+msgctxt "\"round4\""
+msgid "events_plurals"
+msgstr "events_plurals"
+
+#: some text
+msgctxt "\"round4\""
+msgid "learn_about"
+msgstr "learn_about"
+
+#: some text
+msgctxt "\"round4\""
+msgid "user_guide"
+msgstr "user_guide"
+
+#: some text
+msgctxt "\"round4\""
+msgid "nothing_for_today"
+msgstr "nothing_for_today"
+
+#: some text
+msgctxt "\"round4\""
+msgid "nothing_for_tomorrow"
+msgstr "nothing_for_tomorrow"
+
+#: some text
+msgctxt "\"round4\""
+msgid "added_you_to_group"
+msgstr "added_you_to_group"
+
+#: some text
+msgctxt "\"round4\""
+msgid "weather_alerts"
+msgstr "weather_alerts"
+
+#: some text
+msgctxt "\"round4\""
+msgid "weather_alert"
+msgstr "weather_alert"
+
+#: some text
+msgctxt "\"round4\""
+msgid "weather_message"
+msgstr "weather_message"
+
+#: some text
+msgctxt "\"round4\""
+msgid "chance_of_rain"
+msgstr "chance_of_rain"
+
+#: some text
+msgctxt "\"round4\""
+msgid "chance_of_snow"
+msgstr "chance_of_snow"
+
+#: some text
+msgctxt "\"round4\""
+msgid "chance_of_severe_snow"
+msgstr "chance_of_severe_snow"
+
+#: some text
+msgctxt "\"round4\""
+msgid "chance_of_thunderstorms"
+msgstr "chance_of_thunderstorms"
+
+#: some text
+msgctxt "\"round4\""
+msgid "chance_of_fog"
+msgstr "chance_of_fog"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_added_group"
+msgstr "you_added_group"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_updated_group_item"
+msgstr "you_updated_group_item"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_added_participants"
+msgstr "you_added_participants"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_removed_participants"
+msgstr "you_removed_participants"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_removed_event"
+msgstr "you_removed_event"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_added_event"
+msgstr "you_added_event"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_updated_event"
+msgstr "you_updated_event"
+
+#: some text
+msgctxt "\"round4\""
+msgid "help_center_label"
+msgstr "help_center_label"
+
+#: some text
+msgctxt "\"round4\""
+msgid "daily_agenda_notifications"
+msgstr "daily_agenda_notifications"
+
+#: some text
+msgctxt "\"round4\""
+msgid "enable_daily_agenda_notifs"
+msgstr "enable_daily_agenda_notifs"
+
+#: some text
+msgctxt "\"round4\""
+msgid "enable_weather_alerts"
+msgstr "enable_weather_alerts"
+
+#: some text
+msgctxt "\"round4\""
+msgid "contact_the_support_team"
+msgstr "contact_the_support_team"
+
+#: some text
+msgctxt "\"round4\""
+msgid "i_have_a_bug"
+msgstr "i_have_a_bug"
+
+#: some text
+msgctxt "\"round4\""
+msgid "i_have_suggestion"
+msgstr "i_have_suggestion"
+
+#: some text
+msgctxt "\"round4\""
+msgid "bug_report_title"
+msgstr "bug_report_title"
+
+#: some text
+msgctxt "\"round4\""
+msgid "bug_body_begin"
+msgstr "bug_body_begin"
+
+#: some text
+msgctxt "\"round4\""
+msgid "suggestion_report_title"
+msgstr "suggestion_report_title"
+
+#: some text
+msgctxt "\"round4\""
+msgid "suggestion_body_begin"
+msgstr "suggestion_body_begin"
+
+#: some text
+msgctxt "\"round4\""
+msgid "group_actions"
+msgstr "group_actions"
+
+#: some text
+msgctxt "\"round4\""
+msgid "exit_group"
+msgstr "exit_group"
+
+#: some text
+msgctxt "\"round4\""
+msgid "exit_group_msg"
+msgstr "exit_group_msg"
+
+#: some text
+msgctxt "\"round4\""
+msgid "exit"
+msgstr "exit"
+
+#: some text
+msgctxt "\"round4\""
+msgid "you_left_group"
+msgstr "you_left_group"
+
+#: some text
+msgctxt "\"round4\""
+msgid "user_left_group"
+msgstr "user_left_group"
+
+#: some text
+msgctxt "\"round4\""
+msgid "more_available"
+msgstr "more_available"
+
+#: some text
+msgctxt "\"round4\""
+msgid "groups"
+msgstr "groups"
+
+#: some text
+msgctxt "\"round4\""
+msgid "not_supported"
+msgstr "not_supported"
+
+#: some text
+msgctxt "\"round4\""
+msgid "calendar_accounts"
+msgstr "calendar_accounts"
+
+#: some text
+msgctxt "\"round4\""
+msgid "group_calendars"
+msgstr "group_calendars"
+
+#: some text
+msgctxt "\"round4\""
+msgid "cant_set_default_calendar"
+msgstr "cant_set_default_calendar"
+
+#: some text
+msgctxt "\"round4\""
+msgid "cant_set_calendar_message"
+msgstr "cant_set_calendar_message"
+
+#: some text
+msgctxt "\"round4\""
+msgid "no_results_found"
+msgstr "no_results_found"
+
+#: some text
+msgctxt "\"round4\""
+msgid "enter_your_name"
+msgstr "enter_your_name"
+
+#: some text
+msgctxt "\"round4\""
+msgid "enter_your_last_name"
+msgstr "enter_your_last_name"
+
+#: some text
+msgctxt "\"round4\""
+msgid "last_name"
+msgstr "last_name"
+
+#: some text
+msgctxt "\"round4\""
+msgid "first_name"
+msgstr "first_name"
+
+#: some text
+msgctxt "\"round4\""
+msgid "first_name_is_required"
+msgstr "first_name_is_required"
+
+#: some text
+msgctxt "\"round4\""
+msgid "existing_user"
+msgstr "existing_user"
+
+#: some text
+msgctxt "\"round4\""
+msgid "newUser"
+msgstr "newUser"
+
+#: some text
+msgctxt "\"round4\""
+msgid "create_account_with"
+msgstr "create_account_with"
+
+#: some text
+msgctxt "\"round4\""
+msgid "create_account_desc"
+msgstr "create_account_desc"
+
+#: some text
+msgctxt "\"round4\""
+msgid "tos_pp_desc"
+msgstr "tos_pp_desc"
+
+#: some text
+msgctxt "\"round4\""
+msgid "terms_of_service"
+msgstr "terms_of_service"
+
+#: some text
+msgctxt "\"round4\""
+msgid "and"
+msgstr "and"
+
+#: some text
+msgctxt "\"round4\""
+msgid "privacy_policy"
+msgstr "privacy_policy"
+
+#: some text
+msgctxt "\"round4\""
+msgid "use_facebook"
+msgstr "use_facebook"
+
+#: some text
+msgctxt "\"round4\""
+msgid "use_email"
+msgstr "use_email"
+
+#: some text
+msgctxt "\"round4\""
+msgid "enter_as_guest"
+msgstr "enter_as_guest"
+
+#: some text
+msgctxt "\"round4\""
+msgid "prompt_email"
+msgstr "prompt_email"
+
+#: some text
+msgctxt "\"round4\""
+msgid "prompt_password"
+msgstr "prompt_password"
+
+#: some text
+msgctxt "\"round4\""
+msgid "action_sign_in_short"
+msgstr "action_sign_in_short"
+
+#: some text
+msgctxt "\"round4\""
+msgid "error_invalid_email"
+msgstr "error_invalid_email"
+
+#: some text
+msgctxt "\"round4\""
+msgid "error_invalid_password"
+msgstr "error_invalid_password"
+
+#: some text
+msgctxt "\"round4\""
+msgid "error_field_required"
+msgstr "error_field_required"
+
+#: some text
+msgctxt "\"round4\""
+msgid "new_user_create"
+msgstr "new_user_create"
+
+#: some text
+msgctxt "\"round4\""
+msgid "sign_up"
+msgstr "sign_up"
+
+#: some text
+msgctxt "\"round4\""
+msgid "full_name"
+msgstr "full_name"
+
