@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: en\n"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "notif_first_line_regular_past"
+msgstr "notif_first_line_regular_past"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "notif_first_line_regular_now"
+msgstr "notif_first_line_regular_now"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "notif_second_line_regular"
+msgstr "notif_second_line_regular"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "going"
+msgstr "going"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "yes"
+msgstr "yes"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "no"
+msgstr "no"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "maybe"
+msgstr "maybe"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "time"
+msgstr "time"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "starts"
+msgstr "starts"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "ends"
+msgstr "ends"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "does_not_repeat"
+msgstr "does_not_repeat"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "location"
+msgstr "location"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "reminders"
+msgstr "reminders"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "participants"
+msgstr "participants"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "notes"
+msgstr "notes"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "other_parameters"
+msgstr "other_parameters"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "default_color"
+msgstr "default_color"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "busy"
+msgstr "busy"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "beforeNumber"
+msgstr "beforeNumber"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "default_cal"
+msgstr "default_cal"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "long_tap_for"
+msgstr "long_tap_for"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "orange"
+msgstr "orange"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "pink"
+msgstr "pink"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "yellow"
+msgstr "yellow"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "grey"
+msgstr "grey"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "red"
+msgstr "red"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "purple"
+msgstr "purple"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "lavender"
+msgstr "lavender"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "light_green"
+msgstr "light_green"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "dark_blue"
+msgstr "dark_blue"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "dark_green"
+msgstr "dark_green"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "light_blue"
+msgstr "light_blue"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "delete_reminder"
+msgstr "delete_reminder"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "delete_attendee"
+msgstr "delete_attendee"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "done"
+msgstr "done"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "no_title"
+msgstr "no_title"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "no_reminder"
+msgstr "no_reminder"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "select_contact_error"
+msgstr "select_contact_error"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "discard"
+msgstr "discard"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "keep_editing"
+msgstr "keep_editing"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "end_time_cannot"
+msgstr "end_time_cannot"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "visible_calendars"
+msgstr "visible_calendars"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "readOnly"
+msgstr "readOnly"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "all_day_reminder"
+msgstr "all_day_reminder"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "the_day_before"
+msgstr "the_day_before"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "the_days_before"
+msgstr "the_days_before"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "reminder_at"
+msgstr "reminder_at"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "on_the_day"
+msgstr "on_the_day"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "every_day"
+msgstr "every_day"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "every_week"
+msgstr "every_week"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "every_month"
+msgstr "every_month"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "every_year"
+msgstr "every_year"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "repeat_daily"
+msgstr "repeat_daily"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "repeat_weekly"
+msgstr "repeat_weekly"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "repeat_monthly"
+msgstr "repeat_monthly"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "repeat_yearly"
+msgstr "repeat_yearly"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "every"
+msgstr "every"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "this_event"
+msgstr "this_event"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "this_and_following"
+msgstr "this_and_following"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "all_events"
+msgstr "all_events"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "save_recurring_event"
+msgstr "save_recurring_event"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "delete_recurring_event"
+msgstr "delete_recurring_event"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "no_calendars"
+msgstr "no_calendars"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "months"
+msgstr "months"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "years"
+msgstr "years"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "forever"
+msgstr "forever"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "until_a_date"
+msgstr "until_a_date"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "for_a_number"
+msgstr "for_a_number"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "monthly_condition"
+msgstr "monthly_condition"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "monthly_condition_actual_day"
+msgstr "monthly_condition_actual_day"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "first"
+msgstr "first"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "second"
+msgstr "second"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "third"
+msgstr "third"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "fourth"
+msgstr "fourth"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "fifth"
+msgstr "fifth"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "events"
+msgstr "events"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "repeats_every"
+msgstr "repeats_every"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "week_days"
+msgstr "week_days"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "on"
+msgstr "on"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "on_every_month"
+msgstr "on_every_month"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "until"
+msgstr "until"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "until_agenda"
+msgstr "until_agenda"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "for_times"
+msgstr "for_times"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "for_time"
+msgstr "for_time"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "for_a"
+msgstr "for_a"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "until_big"
+msgstr "until_big"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "weekends"
+msgstr "weekends"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "available"
+msgstr "available"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "show_as"
+msgstr "show_as"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "refresh"
+msgstr "refresh"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "agenda"
+msgstr "agenda"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "dismiss"
+msgstr "dismiss"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "agenda_event_no_events"
+msgstr "agenda_event_no_events"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "lets_start"
+msgstr "lets_start"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "logout"
+msgstr "logout"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "confirm_logout"
+msgstr "confirm_logout"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "are_you_sure_logout"
+msgstr "are_you_sure_logout"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "error_occured"
+msgstr "error_occured"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "no_internet"
+msgstr "no_internet"
+
+#: some text
+msgctxt "\"round4\".\"production3\""
+msgid "no_internet_message"
+msgstr "no_internet_message"
+
