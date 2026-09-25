@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: number one large\n"
+"Language: fr-ca\n"
+
+#. some pinned
+#: 
+#, fuzzy
+msgctxt "FUserRegisterPage-version1"
+msgid "dot2 (.)"
+msgstr "."
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "and"
+msgstr "et"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Back to sign in"
+msgstr "Retour à la connexion"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Please enter your email"
+msgstr "Veuillez saisir votre email"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Terms of Use"
+msgstr "Conditions d'utilisation"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Enter your password"
+msgstr "Entrez votre mot de passe"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Create a Wondershare ID"
+msgstr "Créer un identifiant Wondershare"
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "By clicking Create account, I agree that I have read and accepted the "
+msgstr "En cliquant sur Créer un compte, j'accepte d'avoir lu et accepté les "
+
+#: 
+msgctxt "FUserRegisterPage-version1"
+msgid "Create Account"
+msgstr "Créer un compte"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid ":"
+msgstr ":"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Fit"
+msgstr "Ajuster"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Transition Duration:"
+msgstr "Durée de transition:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Set the snapshot as thumbnail"
+msgstr "Définir la capture comme miniature"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Pan & Zoom"
+msgstr "Panoramique et zoom"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Photo Placement:"
+msgstr "Placement de la photo:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Effect Duration:"
+msgstr "Durée de l'effet:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Insert Mode:"
+msgstr "Mode d'insertion:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Split Button:"
+msgstr "Bouton de division:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Default Duration:"
+msgstr "Durée par défaut:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Freeze Duration:"
+msgstr "Durée de gel:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Show the split button on timeline playhead"
+msgstr "Afficher le bouton de division sur la tête de lecture de la timeline"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Timeline Edit:"
+msgstr "Édition de la timeline:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Split a single track"
+msgstr "Diviser une seule piste"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Split all tracks"
+msgstr "Diviser toutes les pistes"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Quick Title Duration"
+msgstr "Durée du titre rapide"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Crop to Fit"
+msgstr "Recadrer pour ajuster"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Click on the blank area to jump to the cursor position"
+msgstr "Cliquer sur la zone vide pour sauter à la position du curseur"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Snapshot Format:"
+msgstr "Format de capture:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Cursor jump method:"
+msgstr "Méthode de saut du curseur:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Photo Duration:"
+msgstr "Durée de la photo:"
+
+#: 
+msgctxt "FSettingEditingPanel-version1"
+msgid "Filter Duration"
+msgstr "Durée du filtre"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version1"
+msgid "L"
+msgstr "G"
+
+#: 
+msgctxt "FFChannelRotarySwitches-version1"
+msgid "R"
+msgstr "D"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version1"
+msgid "L"
+msgstr "G"
+
+#: 
+msgctxt "FFMasterVolumeCtrlWidget-version1"
+msgid "R"
+msgstr "D"
+
+#: 
+msgctxt "FFPositionEffectWidget-version1"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FFPositionEffectWidget-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version1"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "FPropertyXYPositionPropertyWidget-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "X"
+msgstr "X"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Y"
+msgstr "Y"
+
+#: 
+msgctxt "QObject-version1"
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgctxt "QObject-version1"
+msgid "No"
+msgstr "Non"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ok"
+msgstr "Ok"
+
+#: 
+msgctxt "QObject-version1"
+msgid "TV"
+msgstr "TV"
+
+#: 
+msgctxt "QObject-version1"
+msgid "70s"
+msgstr "70s"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Add"
+msgstr "Ajouter"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ads"
+msgstr "Pubs"
+
+#: 
+msgctxt "QObject-version1"
+msgid "All"
+msgstr "Tout"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Day"
+msgstr "Jour"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cut"
+msgstr "Couper"
+
+#: 
+msgctxt "QObject-version1"
+msgid "End"
+msgstr "Fin"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Eye"
+msgstr "Œil"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fit"
+msgstr "Ajuster"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hue"
+msgstr "Teinte"
+
+#: 
+msgctxt "QObject-version1"
+msgid "RAM"
+msgstr "RAM"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Pop"
+msgstr "Pop"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Red"
+msgstr "Rouge"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Ska"
+msgstr "Ska"
+
+#: 
+msgctxt "QObject-version1"
+msgid "VCG"
+msgstr "VCG"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Top"
+msgstr "Haut"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Yes"
+msgstr "Oui"
+
+#: 
+msgctxt "QObject-version1"
+msgid "and"
+msgstr "et"
+
+#: 
+msgctxt "QObject-version1"
+msgid "dot"
+msgstr "point"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Insect Eye Vision"
+msgstr "Vision d'œil d'insecte"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blue"
+msgstr "Bleu"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Blur"
+msgstr "Flou"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Bold"
+msgstr "Gras"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Cool"
+msgstr "Cool"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Copy"
+msgstr "Copier"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Crop"
+msgstr "Recadrer"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Drop"
+msgstr "Déposer"
+
+#: 
+msgctxt "QObject-version1"
+msgid "End:"
+msgstr "Fin:"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Epic"
+msgstr "Épique"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Face"
+msgstr "Visage"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fade"
+msgstr "Fondu"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Fast"
+msgstr "Rapide"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Exit"
+msgstr "Sortir"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Folk"
+msgstr "Folk"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Full"
+msgstr "Complet"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Glow"
+msgstr "Lueur"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Hour"
+msgstr "Heure"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Left"
+msgstr "Gauche"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Like"
+msgstr "Aimer"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Lomo"
+msgstr "Lomo"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Love"
+msgstr "Amour"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Mono"
+msgstr "Mono"
+
+#: 
+msgctxt "QObject-version1"
+msgid "More"
+msgstr "Plus"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Name"
+msgstr "Nom"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Mute"
+msgstr "Muet"
+
+#: 
+msgctxt "QObject-version1"
+msgid "News"
+msgstr "Actualités"
+
+#: 
+msgctxt "QObject-version1"
+msgid "None"
+msgstr "Aucun"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Nose"
+msgstr "Nez"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Open"
+msgstr "Ouvrir"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Push"
+msgstr "Pousser"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Redo"
+msgstr "Refaire"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Quit"
+msgstr "Quitter"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Save"
+msgstr "Enregistrer"
+
+#: 
+msgctxt "QObject-version1"
+msgid "Size"
+msgstr "Taille"
+
